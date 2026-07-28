@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2048425733740277959",
+    "created_at": "2026-04-26T19:42:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T20:42:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048487781060726905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1360161759257104384",
+          "start": 0,
+          "username": "AspiLin0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048487781060726905",
+    "in_reply_to_user_id": "1360161759257104384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048425733740277959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AspiLin0 想结束痛苦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2048425733740277959",
+        "created_at": "2026-04-26T19:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T20:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048487781060726905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048487781060726905",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048425733740277959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 想结束痛苦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2048425733740277959",
+        "created_at": "2026-04-26T15:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T16:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048425733740277959"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048425733740277959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "当我们在说想死的时候究竟在说什么？\n先说结论：当我们在说想死的时候，事实上是在说，我想要被关怀，我想要更好的生活，或者更简单的？一个拥抱。\n下面是论述：\n对我而言想死是一个很怪异的表达。首先想死必然不是指想要“去死”这一事件本身，而是我们意向着死亡能为我们带来的东西。例如，想要食物也不是止步于把食物拿在手中，最终的诉求是热量与某些感受。\n那么死亡能带来什么呢？乍一看，死亡似乎什么也带不来，因为死亡代表着全然的失去，既失去与客观世界的所有联系，又失去了主观世界的所有感受，想要这样的结果似乎是不符逻辑的。更进一步，我们甚至无法意向死亡本身，因为我们对死亡一无所知，就像你无法用任何词汇形容一场无梦的睡眠（甚至包括“无”这个词，因为“无”意味着某种缺席），对于死亡这一长眠，似乎我们也不能有任何言说。\n但这种望文生义的解释充其量不过一种智力游戏，想要获得更具有实践意义的结论，仍要回到“想死”这一事物本身。当我们想死的时候，我们究竟在做什么。悲惨的故事，充足的准备，华丽或丑陋的射幕。然后呢？倘若这是真实的死亡，那我们就不应该有这一追问，“死亡后”是一种无效的表达。不过这是在“想”，于是在这里死亡并不意味着终止，从而使我们之前的论断失效了。\n此时，死亡是能为我们带来某些东西的，依据想象的不同，主要有两类分支。其一是关于死后世界的想象，一些人的想象基于死亡的“缺失”属性，在这里，最主要缺失的就是痛苦、悲伤等负面感受，可以说是“宁静的天堂”。一些人的想象则与宗教相关，例如转世或真正的天堂，二者本质上都是在向往比现世生活更好的存在形式。其二则是关于他者反应的想象，尽管有些时候会有报复成分在，但还是以期望他人的后悔或是拯救为主，在这种情形下，所期望的实际上是关怀与援助。\n于是我们终于得到了一个比较有趣的结论：当我们在说想死的时候，事实上是在说，我想要被关怀，我想要更好的生活，或者更简单的？一个拥抱。不过比这个结论更重要的是，你不需要强迫自己改变说法，你完全可以继续说“我想死了”，而聆听者则应该识别这言语背后的真实意图。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 75,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当我们在说想死的时候究竟在说什么？\n先说结论：当我们在说想死的时候，事实上是在说，我想要被关怀，我想要更好的生活，或者更简单的？一个拥抱。\n下面是论述："
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 | 现已恢复?  抑郁状态 好好活着 二氧化碳好似喵 MtF🏳️‍⚧️",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 980,
+          "like_count": 5477,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 1361
+        },
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2042280046992462210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 729,
+          "like_count": 20168,
+          "listed_count": 3,
+          "media_count": 374,
+          "tweet_count": 4740
+        },
+        "username": "AspiLin0",
+        "verified": true
+      }
+    ]
+  }
+}

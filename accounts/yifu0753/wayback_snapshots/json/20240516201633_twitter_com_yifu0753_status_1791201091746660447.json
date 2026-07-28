@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1791054843425296695",
+    "created_at": "2024-05-16T20:16:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-16T21:16:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1791201091746660447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1642609342800338944",
+          "start": 0,
+          "username": "gotouhitori2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1791201091746660447",
+    "in_reply_to_user_id": "1642609342800338944",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791054843425296695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gotouhitori2 🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1791054843425296695",
+        "created_at": "2024-05-16T20:16:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-16T21:16:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791201091746660447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1642609342800338944",
+              "start": 0,
+              "username": "gotouhitori2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791201091746660447",
+        "in_reply_to_user_id": "1642609342800338944",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791054843425296695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gotouhitori2 🥺🥺🥺"
+      },
+      {
+        "attachments": {},
+        "author_id": "1642609342800338944",
+        "conversation_id": "1791054843425296695",
+        "created_at": "2024-05-16T10:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-16T11:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1791054843425296695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gotouhitori2/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/gotouhitori2/status/1784931623815033022",
+              "start": 6,
+              "url": "https://t.co/vyhY8qXOwp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791054843425296695",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 716,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1784931623815033022",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真快死了😆 https://t.co/vyhY8qXOwp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "讨厌一切人类 友跨顺女 坐标广州  贴贴~ intp-t\n 讨厌一切的不美好",
+        "id": "1668693781791784961",
+        "name": "伊芙 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764816409815896064/b8sUPDni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 72,
+          "like_count": 434,
+          "listed_count": 0,
+          "tweet_count": 102
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-02T19:26:12.000Z",
+        "description": "",
+        "id": "1642609342800338944",
+        "location": "參宿四",
+        "name": ".",
+        "pinned_tweet_id": "1780416675009151282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736674719519453184/744CYmNE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2268,
+          "following_count": 2530,
+          "like_count": 44188,
+          "listed_count": 6,
+          "tweet_count": 9416
+        },
+        "username": "gotouhitori2",
+        "verified": false
+      }
+    ]
+  }
+}

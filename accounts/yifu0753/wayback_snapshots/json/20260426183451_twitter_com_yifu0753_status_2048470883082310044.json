@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2048344785099141225",
+    "created_at": "2026-04-26T18:34:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T19:34:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048470883082310044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1462419807173677059",
+          "start": 0,
+          "username": "Jane_S_Eye"
+        },
+        {
+          "end": 23,
+          "id": "1223938335535554560",
+          "start": 12,
+          "username": "iamai_omni"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048470883082310044",
+    "in_reply_to_user_id": "1462419807173677059",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048442743387804127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jane_S_Eye @iamai_omni 你的描述更像大搜索引擎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2048344785099141225",
+        "created_at": "2026-04-26T18:34:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T19:34:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048470883082310044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1462419807173677059",
+              "start": 0,
+              "username": "Jane_S_Eye"
+            },
+            {
+              "end": 23,
+              "id": "1223938335535554560",
+              "start": 12,
+              "username": "iamai_omni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048470883082310044",
+        "in_reply_to_user_id": "1462419807173677059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048442743387804127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jane_S_Eye @iamai_omni 你的描述更像大搜索引擎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462419807173677059",
+        "conversation_id": "2048344785099141225",
+        "created_at": "2026-04-26T16:43:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T17:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048442743387804127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1223938335535554560",
+              "start": 0,
+              "username": "iamai_omni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048442743387804127",
+        "in_reply_to_user_id": "1223938335535554560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1815,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048344785099141225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iamai_omni 这不可能的，ai不能推理出没有被味过的语料，能搞出来的成果是A、B都被人搞过，AI可以联想起来，但是它不能无中生有。真要是能有生成没有被训练过的完全新知识，就已经是强人工智能了。现在的ai本质上还是概率预测。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 | 现已恢复?  抑郁状态 好好活着 二氧化碳好似喵 MtF🏳️‍⚧️",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 980,
+          "like_count": 5470,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 1358
+        },
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-21T13:58:25.000Z",
+        "description": "she/her but Not a whore.",
+        "id": "1462419807173677059",
+        "name": "Muriel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048460587198513152/NeLXQTKX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11115,
+          "following_count": 3138,
+          "like_count": 12895,
+          "listed_count": 21,
+          "media_count": 465,
+          "tweet_count": 8253
+        },
+        "username": "Jane_S_Eye",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-02T11:56:59.000Z",
+        "description": "Post-AGI | 复杂系统 | 未来主义者",
+        "id": "1223938335535554560",
+        "name": "✧ 𝕀𝔸𝕄𝔸𝕀 ✧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1475384716715261959/5I__0f9K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22703,
+          "following_count": 1958,
+          "like_count": 22864,
+          "listed_count": 353,
+          "media_count": 530,
+          "tweet_count": 7359
+        },
+        "username": "iamai_omni",
+        "verified": true
+      }
+    ]
+  }
+}

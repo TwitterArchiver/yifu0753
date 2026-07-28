@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1899358376112595065",
+    "created_at": "2025-03-11T07:17:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-11T08:17:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899359040729383048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1898210174810419200",
+          "start": 0,
+          "username": "MisonoKarinn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899359040729383048",
+    "in_reply_to_user_id": "1898210174810419200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899358376112595065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MisonoKarinn 有点头晕，恶心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1899358376112595065",
+        "created_at": "2025-03-11T07:17:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T08:17:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899359040729383048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1898210174810419200",
+              "start": 0,
+              "username": "MisonoKarinn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899359040729383048",
+        "in_reply_to_user_id": "1898210174810419200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899358376112595065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MisonoKarinn 有点头晕，恶心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898210174810419200",
+        "conversation_id": "1899358376112595065",
+        "created_at": "2025-03-11T07:14:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T08:11:53.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899357595569446968",
+          "1899358376112595065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "我在思考，我死之后，我的家人会不会伤心，我的朋友会不会伤心，还是说这只是我的自以为是。我在别人眼里根本就没有那么重要，我连我自己都那么的讨厌，我想要结束这一切，但我又担心这里那里的，我果然在哪里都很懦弱啊……",
+              "display_url": "x.com/i/grok/share/F…",
+              "end": 35,
+              "expanded_url": "https://x.com/i/grok/share/FqEQNJNo54YJCsyqf0gmvP2hN",
+              "start": 12,
+              "status": 200,
+              "title": "X",
+              "unwound_url": "https://x.com/i/grok/share/FqEQNJNo54YJCsyqf0gmvP2hN",
+              "url": "https://t.co/e8xM9ENPYQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899358376112595065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我问过Grok3...\nhttps://t.co/e8xM9ENPYQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "精神分裂 精障人士 重度抑郁 钡中毒 亚硝酸钠中毒 进过ICU ；随便发点自言自语，",
+        "id": "1668693781791784961",
+        "location": "重庆",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 417,
+          "like_count": 2245,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 471
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-08T03:13:22.000Z",
+        "description": "15岁 MTF丨生日8月24日丨中度BD/ASD丨业余心理学爱好者丨你的互联网心灵港湾，和我一起创造更美好的新世界！丨BiliBili:https://t.co/8IUaOlYiVl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "b23.tv/CFsdTZZ",
+                "end": 91,
+                "expanded_url": "https://b23.tv/CFsdTZZ",
+                "start": 68,
+                "url": "https://t.co/8IUaOlYiVl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MisonoKarin0",
+                "end": 23,
+                "expanded_url": "https://t.me/MisonoKarin0",
+                "start": 0,
+                "url": "https://t.co/bPENzsUmNQ"
+              }
+            ]
+          }
+        },
+        "id": "1898210174810419200",
+        "location": "Sapporo City Higashi Ward",
+        "name": "御园花铃MisonoKarin🏳️‍⚧️",
+        "pinned_tweet_id": "1899087313470394615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898259273882468352/COteApga_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 117,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 33
+        },
+        "url": "https://t.co/bPENzsUmNQ",
+        "username": "MisonoKarinn",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2023832299616563618",
+    "created_at": "2026-02-18T01:31:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T02:31:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023933398524588530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "705777407794352129",
+          "start": 0,
+          "username": "ServalCandle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023933398524588530",
+    "in_reply_to_user_id": "705777407794352129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023832299616563618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ServalCandle 在哪买我也要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2023832299616563618",
+        "created_at": "2026-02-18T01:31:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T02:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023933398524588530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "705777407794352129",
+              "start": 0,
+              "username": "ServalCandle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023933398524588530",
+        "in_reply_to_user_id": "705777407794352129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023832299616563618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ServalCandle 在哪买我也要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "705777407794352129",
+        "conversation_id": "2023832299616563618",
+        "created_at": "2026-02-17T18:49:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T19:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023832299616563618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hhh84672361/st…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/hhh84672361/status/2023016268287365152",
+              "start": 144,
+              "url": "https://t.co/msH2cFUvkV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023832299616563618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1642,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023016268287365152",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这能有啥方法\n\n中国澳大利亚两地报警呗（（（\n\n药物不是他家公司销售的吗\n\n跨国销售自家产品给人自杀用\n一起报警就好了\n\n这些截图+其它证据\n提交中澳两国警方\n\n然后加拿大转运物流公司那里\n直接通知就可以了\n\n他们不敢运的\n\n换一个转运公司通知一个，都是要在加拿大做生意的没人愿意惹麻烦 https://t.co/msH2cFUvkV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 呼吸堵塞 | 现已恢复?  抑郁状态 好好活着 二氧化碳好似喵 MtF🏳️‍⚧️",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 994,
+          "like_count": 5099,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 1171
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-04T15:30:21.000Z",
+        "description": "頭像是自拍 / 癲貓精靈 笨貓不靈 (｡-_-｡)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.servalcandle.com",
+                "end": 23,
+                "expanded_url": "https://blog.servalcandle.com/",
+                "start": 0,
+                "url": "https://t.co/PBHqsUWVo2"
+              }
+            ]
+          }
+        },
+        "id": "705777407794352129",
+        "location": "🐈🥖Pain chat🥯🙀",
+        "name": "🌸猫宮すみか🎀🎍",
+        "pinned_tweet_id": "1911075406863819109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016599737370365954/FsaeDbNg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33509,
+          "following_count": 350,
+          "like_count": 229706,
+          "listed_count": 107,
+          "media_count": 8745,
+          "tweet_count": 56954
+        },
+        "url": "https://t.co/PBHqsUWVo2",
+        "username": "ServalCandle",
+        "verified": true
+      }
+    ]
+  }
+}

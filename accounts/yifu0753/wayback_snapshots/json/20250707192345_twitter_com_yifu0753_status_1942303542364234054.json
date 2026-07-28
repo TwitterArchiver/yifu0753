@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1942303542364234054",
+    "created_at": "2025-07-07T19:23:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T20:23:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942303542364234054"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Chiyuyu520/sta…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/Chiyuyu520/status/1942114762864709822",
+          "start": 3,
+          "url": "https://t.co/kkWcmdkUQb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942303542364234054",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942114762864709822",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "逆天 https://t.co/kkWcmdkUQb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2268,
+        "media_key": "3_1942114758573903872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvPHFUnXUAANwq8.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1942114755109658624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvPHFHtbIAAwxwO.jpg",
+        "width": 931
+      },
+      {
+        "height": 1340,
+        "media_key": "3_1942114757089124352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvPHFPFXYAAEelt.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1942114758347386880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvPHFTxW8AAoaxA.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1942303542364234054",
+        "created_at": "2025-07-07T19:23:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T20:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942303542364234054"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Chiyuyu520/sta…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Chiyuyu520/status/1942114762864709822",
+              "start": 3,
+              "url": "https://t.co/kkWcmdkUQb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942303542364234054",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942114762864709822",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "逆天 https://t.co/kkWcmdkUQb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942114758573903872",
+            "3_1942114755109658624",
+            "3_1942114757089124352",
+            "3_1942114758347386880"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1942114762864709822",
+        "created_at": "2025-07-07T06:53:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T07:53:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942114762864709822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1791377262668926976",
+              "start": 6,
+              "username": "YueHua0_0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4zQvluuMEh",
+              "end": 178,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1942114762864709822/photo/1",
+              "media_key": "3_1942114758573903872",
+              "start": 155,
+              "url": "https://t.co/4zQvluuMEh"
+            },
+            {
+              "display_url": "pic.x.com/4zQvluuMEh",
+              "end": 178,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1942114762864709822/photo/1",
+              "media_key": "3_1942114755109658624",
+              "start": 155,
+              "url": "https://t.co/4zQvluuMEh"
+            },
+            {
+              "display_url": "pic.x.com/4zQvluuMEh",
+              "end": 178,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1942114762864709822/photo/1",
+              "media_key": "3_1942114757089124352",
+              "start": 155,
+              "url": "https://t.co/4zQvluuMEh"
+            },
+            {
+              "display_url": "pic.x.com/4zQvluuMEh",
+              "end": 178,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1942114762864709822/photo/1",
+              "media_key": "3_1942114758347386880",
+              "start": 155,
+              "url": "https://t.co/4zQvluuMEh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942114762864709822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 16,
+                "id": "1791377262668926976",
+                "start": 6,
+                "username": "YueHua0_0"
+              },
+              {
+                "end": 199,
+                "id": "1908466480485961728",
+                "start": 187,
+                "username": "ratbbit3000"
+              }
+            ]
+          },
+          "text": "昨天给月华 @YueHua0_0 报了个警\n至于我为什么报警 首先当然是您od金刚烷胺咱实在太担心了 透露出了自杀倾向 作为你的前女友咱得关心一下吧\n还有就是 我想在推特上公开您 以“谈恋爱”的形式进行“救助”是怎么一回事呢\n跟我谈恋爱 玩腻了谈完就走 抛下一句 我跟你谈恋爱是我看你心情不好，我来“救助你”\n那么您一句一句老婆喊着，语音里说着永远不分开是在干什么呢\n咱和 @ratbbit3000 5月20那时候多么担心您呐 还抽出所有的时间带着你专门跑一趟上海精神卫生中心去检查 您甚至连谢意都没有表达\n玩腻了扔了咱就走 \n或者不是说玩腻了 而是还在和我谈恋爱的时候直接出轨别人\n然后来一句我和你谈恋爱的目的是为了救助你 直接抛弃离开\n您把我那时候逼得想自杀您有一点愧疚感吗 出轨太好玩了我现在对恋爱都ptsd了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2650,
+          "like_count": 35,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "昨天给月华 @YueHua0_0 报了个警\n至于我为什么报警 首先当然是您od金刚烷胺咱实在太担心了 透露出了自杀倾向 作为你的前女友咱得关心一下吧\n还有就是 我想在推特上公开您 以“谈恋爱”的形式进行“救助”是怎么一回事呢\n跟我谈恋爱 玩腻了谈完就走 抛下一句 我跟你谈恋爱是我看你心情不好，我来“救助你” https://t.co/4zQvluuMEh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "🏳‍⚧ 抑郁焦虑状态",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "pinned_tweet_id": "1936898802361020812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 914,
+          "like_count": 4084,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 768
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷见证蛆抽象人 | 不介意私聊不玩抽象 | 🥰姐姐 @Hoshroin | 平等地爱所有人 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 86,
+                "username": "Hoshroin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1939963852235391150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2283,
+          "following_count": 1123,
+          "like_count": 2679,
+          "listed_count": 2,
+          "media_count": 167,
+          "tweet_count": 771
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2059608674763473413",
+    "created_at": "2026-05-27T12:12:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T13:12:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059608674763473413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1747180238810021888",
+          "start": 3,
+          "username": "wwj23355"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059608674763473413",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059580661623820307",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wwj23355: 躺了5天现在走路感觉轻飘飘要起飞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2059608674763473413",
+        "created_at": "2026-05-27T12:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T13:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059608674763473413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1747180238810021888",
+              "start": 3,
+              "username": "wwj23355"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059608674763473413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059580661623820307",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wwj23355: 躺了5天现在走路感觉轻飘飘要起飞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747180238810021888",
+        "conversation_id": "2059580661623820307",
+        "created_at": "2026-05-27T10:21:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T11:21:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059580661623820307"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wwj23355/statu…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/wwj23355/status/2059536127800004765",
+              "start": 17,
+              "url": "https://t.co/4GKqoN6AcV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059580661623820307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 446,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059536127800004765",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "躺了5天现在走路感觉轻飘飘要起飞 https://t.co/4GKqoN6AcV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪麻痹 ICU 药物中毒 重度抑郁 | 二氧化碳好死喵 | 快死了",
+        "id": "1668693781791784961",
+        "location": "深圳市南山区",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 991,
+          "following_count": 1190,
+          "like_count": 7347,
+          "listed_count": 2,
+          "media_count": 160,
+          "tweet_count": 1905
+        },
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-16T08:53:40.000Z",
+        "description": "Ciallo～～(∠・ω)⌒☆\n｜重抑重焦｜不od (?) 不割手 (?) 不登校｜183 60的mtf() | 无证断糖｜HRT: 26.04.27 - 05.21 |睡眠重度依赖｜满级颓废｜玩车｜BA | CN/EN/KR/JP prob OK |\n｜生产日期：08.09.13｜\n天天发一些负面傻逼言论真的对不起",
+        "id": "1747180238810021888",
+        "name": "WVKI233333🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044056098873978883/TB8Ilmi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 411,
+          "like_count": 2349,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 877
+        },
+        "username": "wwj23355",
+        "verified": false
+      }
+    ]
+  }
+}

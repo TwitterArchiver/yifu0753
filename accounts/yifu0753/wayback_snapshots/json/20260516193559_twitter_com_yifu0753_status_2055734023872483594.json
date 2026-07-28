@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2055732540691067342",
+    "created_at": "2026-05-16T19:35:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T20:35:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055734023872483594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2040718731052015616",
+          "start": 0,
+          "username": "Qing__Yang__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055734023872483594",
+    "in_reply_to_user_id": "2040718731052015616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055733153214710168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qing__Yang__ 喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2055732540691067342",
+        "created_at": "2026-05-16T19:35:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T20:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055734023872483594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2040718731052015616",
+              "start": 0,
+              "username": "Qing__Yang__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055734023872483594",
+        "in_reply_to_user_id": "2040718731052015616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055733153214710168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qing__Yang__ 喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040718731052015616",
+        "conversation_id": "2055732540691067342",
+        "created_at": "2026-05-16T19:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T20:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055733153214710168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1668693781791784961",
+              "start": 0,
+              "username": "yifu0753"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055733153214710168",
+        "in_reply_to_user_id": "1668693781791784961",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055732540691067342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yifu0753 不要死哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪麻痹 ICU 药物中毒 重度抑郁 | 二氧化碳好死喵 | 快死了",
+        "id": "1668693781791784961",
+        "location": "深圳市南山区",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 891,
+          "following_count": 1175,
+          "like_count": 6811,
+          "listed_count": 2,
+          "media_count": 139,
+          "tweet_count": 1739
+        },
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-05T09:10:53.000Z",
+        "description": "cn：清氧⎮MBTI：infp-a-h⎮出生日期2008/04/18⎮生理性别男⎮心理性别女⎮可以当树洞，我很乐意倾听",
+        "id": "2040718731052015616",
+        "name": "清氧🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040979100278624256/iAcpSGRe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 85,
+          "like_count": 365,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 104
+        },
+        "username": "Qing__Yang__",
+        "verified": false
+      }
+    ]
+  }
+}

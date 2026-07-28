@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2030850778135691676",
+    "created_at": "2026-03-09T03:38:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T04:38:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030850778135691676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1974276207496867842",
+          "start": 3,
+          "username": "DXMDusk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030850778135691676",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030651326775099443",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DXMDusk: 估计小米明天可以上头条了，小米全机型目前均可以解锁，破解方法是利用高通新旗舰8E5的漏洞实现，也限于采用该处理器的手机，包括但不限于8EliteGen5的小米17系列 红米 K90 Pro Max，还有天玑系列的 K80、K70、K60 至尊版，其原理…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1179,
+        "media_key": "3_2030651319493808128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC5SncEbUAAXP14.jpg",
+        "width": 1568
+      },
+      {
+        "height": 1321,
+        "media_key": "3_2030651323054702592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC5SnpVaQAApaQo.jpg",
+        "width": 1585
+      },
+      {
+        "height": 1878,
+        "media_key": "3_2030651324187238400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC5SntjbYAAQzmp.jpg",
+        "width": 1585
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2030850778135691676",
+        "created_at": "2026-03-09T03:38:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T04:38:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030850778135691676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1974276207496867842",
+              "start": 3,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030850778135691676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030651326775099443",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DXMDusk: 估计小米明天可以上头条了，小米全机型目前均可以解锁，破解方法是利用高通新旗舰8E5的漏洞实现，也限于采用该处理器的手机，包括但不限于8EliteGen5的小米17系列 红米 K90 Pro Max，还有天玑系列的 K80、K70、K60 至尊版，其原理…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030651319493808128",
+            "3_2030651323054702592",
+            "3_2030651324187238400"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2030651326775099443",
+        "created_at": "2026-03-08T14:26:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T15:26:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030651326775099443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hcX7fHI0Jo",
+              "end": 171,
+              "expanded_url": "https://x.com/DXMDusk/status/2030651326775099443/photo/1",
+              "media_key": "3_2030651319493808128",
+              "start": 148,
+              "url": "https://t.co/hcX7fHI0Jo"
+            },
+            {
+              "display_url": "pic.x.com/hcX7fHI0Jo",
+              "end": 171,
+              "expanded_url": "https://x.com/DXMDusk/status/2030651326775099443/photo/1",
+              "media_key": "3_2030651323054702592",
+              "start": 148,
+              "url": "https://t.co/hcX7fHI0Jo"
+            },
+            {
+              "display_url": "pic.x.com/hcX7fHI0Jo",
+              "end": 171,
+              "expanded_url": "https://x.com/DXMDusk/status/2030651326775099443/photo/1",
+              "media_key": "3_2030651324187238400",
+              "start": 148,
+              "url": "https://t.co/hcX7fHI0Jo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030651326775099443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 13590,
+          "like_count": 165,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "估计小米明天可以上头条了，小米全机型目前均可以解锁，破解方法是利用高通新旗舰8E5的漏洞实现，也限于采用该处理器的手机，包括但不限于8EliteGen5的小米17系列 红米 K90 Pro Max，还有天玑系列的 K80、K70、K60 至尊版，其原理极其简单，甚至可以不解锁获取root权限， https://t.co/hcX7fHI0Jo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 呼吸堵塞 | 现已恢复?  抑郁状态 好好活着 二氧化碳好似喵 MtF🏳️‍⚧️",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 984,
+          "like_count": 5163,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 1211
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1214,
+          "following_count": 595,
+          "like_count": 578,
+          "listed_count": 2,
+          "media_count": 169,
+          "tweet_count": 881
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

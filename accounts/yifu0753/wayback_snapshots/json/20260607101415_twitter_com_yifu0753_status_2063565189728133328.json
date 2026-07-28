@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2062959072073392216",
+    "created_at": "2026-06-07T10:14:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T11:14:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063565189728133328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2405393725",
+          "start": 0,
+          "username": "sokyuuzenn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063565189728133328",
+    "in_reply_to_user_id": "2405393725",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063509340171190771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sokyuuzenn 还好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2062959072073392216",
+        "created_at": "2026-06-07T10:14:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T11:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063565189728133328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2405393725",
+              "start": 0,
+              "username": "sokyuuzenn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063565189728133328",
+        "in_reply_to_user_id": "2405393725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063509340171190771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sokyuuzenn 还好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2405393725",
+        "conversation_id": "2062959072073392216",
+        "created_at": "2026-06-07T06:32:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T07:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063509340171190771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1668693781791784961",
+              "start": 0,
+              "username": "yifu0753"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063509340171190771",
+        "in_reply_to_user_id": "1668693781791784961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063281108201124262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yifu0753 你还好吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪麻痹 ICU 药物中毒 重度抑郁 | 二氧化碳好死喵 | 死闺 @Sayuki_Inoue",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "Sayuki_Inoue"
+              }
+            ]
+          }
+        },
+        "id": "1668693781791784961",
+        "location": "深圳市南山区",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 1238,
+          "like_count": 7645,
+          "listed_count": 2,
+          "media_count": 164,
+          "tweet_count": 1978
+        },
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2014-03-23T00:54:10.000Z",
+        "description": "野芳傷逝，纔覺宛在；麋杳殄夷，軫念殊深\nRLE:2003.09~2004.08\nHRT:2011.06~2011.06",
+        "id": "2405393725",
+        "name": "Ruth 翕然",
+        "pinned_tweet_id": "2062013233737945580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027753570280628224/WgaQfV1A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 60,
+          "like_count": 11510,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 374
+        },
+        "username": "sokyuuzenn",
+        "verified": false
+      }
+    ]
+  }
+}

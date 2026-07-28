@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1912209482106765531",
+    "created_at": "2025-04-15T18:20:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-15T19:20:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912209482106765531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1655093096710021120",
+          "start": 3,
+          "username": "yuzuchanqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912209482106765531",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912198588555489489",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuzuchanqwq: 還記得當初翻車吃糖的時候\n有朋友跟我說跨性別的都和家人鬧翻缺乏醫療資源最終服藥自殺\n那時我還覺得他很刻板印象\n想說澳門也算發達且普遍福利也不算差\n應該不會發生這事情的吧\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n應…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1912209482106765531",
+        "created_at": "2025-04-15T18:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T19:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912209482106765531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1655093096710021120",
+              "start": 3,
+              "username": "yuzuchanqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912209482106765531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912198588555489489",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuzuchanqwq: 還記得當初翻車吃糖的時候\n有朋友跟我說跨性別的都和家人鬧翻缺乏醫療資源最終服藥自殺\n那時我還覺得他很刻板印象\n想說澳門也算發達且普遍福利也不算差\n應該不會發生這事情的吧\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n應…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1655093096710021120",
+        "conversation_id": "1912198588555489489",
+        "created_at": "2025-04-15T17:37:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T18:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912198588555489489"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1912198588555489489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 165,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "還記得當初翻車吃糖的時候\n有朋友跟我說跨性別的都和家人鬧翻缺乏醫療資源最終服藥自殺\n那時我還覺得他很刻板印象\n想說澳門也算發達且普遍福利也不算差\n應該不會發生這事情的吧\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n應該不會發生這種事情的吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "01 MtF🏳‍⚧ 抑郁焦虑状态 ASD | 同类互fo",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 606,
+          "like_count": 3064,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 534
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-07T06:12:10.000Z",
+        "description": "我愛妳。 @mizuchanqwq 我愛妳我愛妳我愛妳我愛妳我愛妳我愛妳我愛妳我愛妳我愛妳我愛妳我愛妳我愛妳我愛妳我愛妳我愛妳我愛妳我愛妳我愛妳我愛妳我愛妳我愛妳我愛妳我愛妳我愛妳",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 5,
+                "username": "mizuchanqwq"
+              }
+            ]
+          }
+        },
+        "id": "1655093096710021120",
+        "location": "貓屬香港",
+        "name": "柚子醬♡ ̫ ×🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1910055307172249904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912170215690981377/ukto3Akz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1314,
+          "following_count": 1152,
+          "like_count": 29082,
+          "listed_count": 4,
+          "media_count": 863,
+          "tweet_count": 9526
+        },
+        "username": "yuzuchanqwq",
+        "verified": true
+      }
+    ]
+  }
+}

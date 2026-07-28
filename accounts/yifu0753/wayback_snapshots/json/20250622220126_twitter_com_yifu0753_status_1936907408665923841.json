@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1936639682185707836",
+    "created_at": "2025-06-22T22:01:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T23:01:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936907408665923841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1499442786453663745",
+          "start": 0,
+          "username": "Ted_yeet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936907408665923841",
+    "in_reply_to_user_id": "1499442786453663745",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936639682185707836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ted_yeet 姐姐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1936639682185707836",
+        "created_at": "2025-06-22T22:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T23:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936907408665923841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1499442786453663745",
+              "start": 0,
+              "username": "Ted_yeet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936907408665923841",
+        "in_reply_to_user_id": "1499442786453663745",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936639682185707836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ted_yeet 姐姐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499442786453663745",
+        "conversation_id": "1936639682185707836",
+        "created_at": "2025-06-22T04:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T05:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936639682185707836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ted_yeet/statu…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/Ted_yeet/status/1936529619311628694",
+              "start": 42,
+              "url": "https://t.co/5V6NiGuo3I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936639682185707836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7742,
+          "like_count": 69,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936529619311628694",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好消息：柜没出\n坏消息：“你居然04的？看起来比这大了好多” 先天自带大姐姐属性（ https://t.co/5V6NiGuo3I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "🏳‍⚧ 抑郁焦虑状态",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 843,
+          "like_count": 3708,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 673
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-03T17:53:30.000Z",
+        "description": "MtF🏳️‍⚧️/🍥/是一台交换机/𝕄𝕒𝕥𝕙 𝕊𝕥𝕦𝕕𝕖𝕟𝕥/爱吃宜家肉丸/毛绒玩具饲养员/偶尔拍点📸/超业余贝斯手/会说LaTeX, Dansk, English, 中文/域ℍ上的非交换同构@Ted_noncommute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 96,
+                "username": "Ted_noncommute"
+              }
+            ]
+          }
+        },
+        "id": "1499442786453663745",
+        "location": "(0,0,0,0)∈ℝ⁴",
+        "name": "Ted",
+        "pinned_tweet_id": "1934647653159297144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932808418529628160/tgJD37P5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1355,
+          "following_count": 1077,
+          "like_count": 15930,
+          "listed_count": 2,
+          "media_count": 193,
+          "tweet_count": 3735
+        },
+        "username": "Ted_yeet",
+        "verified": true
+      }
+    ]
+  }
+}

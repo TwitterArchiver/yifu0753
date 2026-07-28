@@ -1,0 +1,191 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1809633331157639572",
+    "created_at": "2024-07-06T16:59:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-06T17:59:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1809633331157639572"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zzj876/status/…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/zzj876/status/1809376717053784163",
+          "start": 3,
+          "url": "https://t.co/i747ZRItEs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809633331157639572",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1809376717053784163",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "晚安 https://t.co/i747ZRItEs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1809633331157639572",
+        "created_at": "2024-07-06T16:59:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-06T17:59:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1809633331157639572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zzj876/status/…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/zzj876/status/1809376717053784163",
+              "start": 3,
+              "url": "https://t.co/i747ZRItEs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809633331157639572",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809376717053784163",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "晚安 https://t.co/i747ZRItEs"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1808460792150581248"
+          ]
+        },
+        "author_id": "1647247348534489092",
+        "conversation_id": "1809376717053784163",
+        "created_at": "2024-07-06T00:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-06T01:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1809376717053784163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/6gj2ZGPDAL",
+              "end": 55,
+              "expanded_url": "https://twitter.com/zzj876/status/1809376717053784163/photo/1",
+              "media_key": "3_1808460792150581248",
+              "start": 32,
+              "url": "https://t.co/6gj2ZGPDAL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809376717053784163",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 59168,
+          "like_count": 394,
+          "quote_count": 13,
+          "reply_count": 171,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "这个时候我已经离开了哦\n大家再见\n\n不要留念我，好吗\n\n爱你们 https://t.co/6gj2ZGPDAL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "讨厌一切人类  infp-t\n 讨厌一切的不美好",
+        "id": "1668693781791784961",
+        "name": "伊芙 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764816409815896064/b8sUPDni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 128,
+          "like_count": 597,
+          "listed_count": 0,
+          "tweet_count": 214
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T14:36:02.000Z",
+        "description": "这里是姬姬🏳️‍⚧️🍥 /不许叫我姬巴（气鼓鼓）/（07/11/02）/172、127/无证含糖mtf（HRT2023/5/7）深柜党/天残党/是鲨鲨剑士/无主/有老婆/备注：经常喝酒，可能会冒犯别人/自用VPN：https://t.co/HtrlAXfwUl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skycloud.life/#/register?cod…",
+                "end": 130,
+                "expanded_url": "http://skycloud.life/#/register?code=PkXnDKfS",
+                "start": 107,
+                "url": "https://t.co/HtrlAXfwUl"
+              }
+            ]
+          }
+        },
+        "id": "1647247348534489092",
+        "location": "参宿四",
+        "name": "是姬姬呀🍥（色普瑞日雌贩子）",
+        "pinned_tweet_id": "1798397026549547218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661268758730780672/yqx6IrMJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6843,
+          "following_count": 920,
+          "like_count": 14909,
+          "listed_count": 21,
+          "tweet_count": 5267
+        },
+        "username": "zzj876",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1913645253527322893",
+    "created_at": "2025-04-19T17:51:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T18:51:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913651601820291360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1685499489493323776",
+          "start": 0,
+          "username": "GuiMengNya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913651601820291360",
+    "in_reply_to_user_id": "1685499489493323776",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913645253527322893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GuiMengNya 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1913645253527322893",
+        "created_at": "2025-04-19T17:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T18:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913651601820291360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685499489493323776",
+              "start": 0,
+              "username": "GuiMengNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913651601820291360",
+        "in_reply_to_user_id": "1685499489493323776",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913645253527322893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuiMengNya 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1913645253527322893",
+        "created_at": "2025-04-19T17:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T18:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913645253527322893"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1913645253527322893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "她自杀了\n她下海了\n她休学了\n她送上了外卖\n她无家可归\n她考上了大专\n我们都有美好的未来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "01 MtF🏳‍⚧ 抑郁焦虑状态 ASD | 同类互fo",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 725,
+          "like_count": 3347,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 587
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "R.I.P./06.11.15/坐标杭州/家长不管党/性别未知mtm/x/f，重度焦虑重度抑郁疑似双向，喜欢机车，不接线下，#INTJ，音游摆烂，不管怎么说都是不折不扣的纯爱党！好妹妹@cyanide110705，是@xiaoyeluo姐姐的猫猫，5.2元包养的小可爱@GriseoQAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 67,
+                "start": 62,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 106,
+                "start": 92,
+                "username": "cyanide110705"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "xiaoyeluo"
+              },
+              {
+                "end": 144,
+                "start": 134,
+                "username": "GriseoQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦",
+        "pinned_tweet_id": "1908994587584319596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896591167699169280/G6AHL3FY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 961,
+          "following_count": 210,
+          "like_count": 3228,
+          "listed_count": 7,
+          "media_count": 103,
+          "tweet_count": 985
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      }
+    ]
+  }
+}

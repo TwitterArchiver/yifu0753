@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2080720912442327490",
+    "created_at": "2026-07-24T18:24:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T19:24:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080720912442327490"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/V4795925042507…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/V4795925042507/status/2080699337605271607",
+          "start": 2,
+          "url": "https://t.co/ab7m7i4mVE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080720912442327490",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080699337605271607",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😢 https://t.co/ab7m7i4mVE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080699334266650624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAhBT9bAAAWTqu.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2080720912442327490",
+        "created_at": "2026-07-24T18:24:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T19:24:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080720912442327490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/V4795925042507…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/V4795925042507/status/2080699337605271607",
+              "start": 2,
+              "url": "https://t.co/ab7m7i4mVE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080720912442327490",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080699337605271607",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😢 https://t.co/ab7m7i4mVE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080699334266650624"
+          ]
+        },
+        "author_id": "1882379483161800704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2080699337605271607",
+        "created_at": "2026-07-24T16:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T17:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080699337605271607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/piTsAjZK59",
+              "end": 32,
+              "expanded_url": "https://x.com/V4795925042507/status/2080699337605271607/photo/1",
+              "media_key": "3_2080699334266650624",
+              "start": 9,
+              "url": "https://t.co/piTsAjZK59"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080699337605271607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 16,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你妈的，亚盐好咸 https://t.co/piTsAjZK59"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Guangzhou, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.25,
+                  23.11667
+                ],
+                "type": "Point"
+              },
+              "locality": "Guangzhou",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "location": "广州市",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080706334484500480/jz4mL1lO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1417,
+          "following_count": 1355,
+          "like_count": 8809,
+          "listed_count": 2,
+          "media_count": 217,
+          "tweet_count": 2273
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-23T10:47:13.000Z",
+        "description": "是赛博幽灵哦😊\n170/58    06大龄mtf   永远深柜    重抑中焦    阴暗的下水道鼠鼠    偶尔割小手   喜欢od    想和同类贴贴   属于我的  @flowers0952   希望能陪大家走到最后一刻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 87,
+                "username": "flowers0952"
+              }
+            ]
+          }
+        },
+        "id": "1882379483161800704",
+        "location": "白兔bron理工学院",
+        "name": "天马玖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996156369100283905/nlAmujou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 225,
+          "like_count": 4770,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 56
+        },
+        "url": "",
+        "username": "V4795925042507",
+        "verified": false
+      }
+    ]
+  }
+}

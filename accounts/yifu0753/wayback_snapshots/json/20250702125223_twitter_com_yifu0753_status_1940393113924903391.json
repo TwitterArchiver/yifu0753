@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1940393113924903391",
+    "created_at": "2025-07-02T12:52:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T13:52:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1940393113924903391"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Jane_S_Eye/sta…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/Jane_S_Eye/status/1940288556410576912",
+          "start": 4,
+          "url": "https://t.co/wPSmhzPPlA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940393113924903391",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940288556410576912",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😁😁😁 https://t.co/wPSmhzPPlA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1940393113924903391",
+        "created_at": "2025-07-02T12:52:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T13:52:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940393113924903391"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Jane_S_Eye/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/Jane_S_Eye/status/1940288556410576912",
+              "start": 4,
+              "url": "https://t.co/wPSmhzPPlA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940393113924903391",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940288556410576912",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😁😁😁 https://t.co/wPSmhzPPlA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462419807173677059",
+        "conversation_id": "1940288556410576912",
+        "created_at": "2025-07-02T05:56:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T06:56:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940288556410576912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/im_cando/statu…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/im_cando/status/1939934212145979871",
+              "start": 147,
+              "url": "https://t.co/BY6Iz8u9tv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940288556410576912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 11290,
+          "like_count": 109,
+          "quote_count": 5,
+          "reply_count": 6,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939934212145979871",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果你想在国内精神科开证，那就忘掉同性恋这种生活西化的东西，老老实实选A。告诉医生，我从2岁就想当女生，想穿裙子，青春期就喜欢男生，厌恶男性器官，但是没有抑郁，而且特别pass，最好打扮成丝袜高跟下那种刻板印象，说话翘兰花指，开证要做手术，然后找个男人嫁了，当tradwife，最后领养孩子。 https://t.co/BY6Iz8u9tv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "🏳‍⚧ 抑郁焦虑状态",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "pinned_tweet_id": "1936898802361020812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 893,
+          "like_count": 4005,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 726
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-21T13:58:25.000Z",
+        "description": "she/her but Not a whore.",
+        "id": "1462419807173677059",
+        "location": "Blowing in the wind",
+        "name": "Véronique",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938117188331966464/6cnJ4nAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10846,
+          "following_count": 2969,
+          "like_count": 11031,
+          "listed_count": 22,
+          "media_count": 436,
+          "tweet_count": 7259
+        },
+        "username": "Jane_S_Eye",
+        "verified": false
+      }
+    ]
+  }
+}

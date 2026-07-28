@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2021816417260302530",
+    "created_at": "2026-02-12T10:19:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T11:19:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021891948882407489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1430445611640262660",
+          "start": 0,
+          "username": "MMinuzero"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021891948882407489",
+    "in_reply_to_user_id": "1430445611640262660",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021816417260302530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MMinuzero 😭😭😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2021816417260302530",
+        "created_at": "2026-02-12T10:19:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T11:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021891948882407489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1430445611640262660",
+              "start": 0,
+              "username": "MMinuzero"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021891948882407489",
+        "in_reply_to_user_id": "1430445611640262660",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021816417260302530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MMinuzero 😭😭😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1430445611640262660",
+        "conversation_id": "2021816417260302530",
+        "created_at": "2026-02-12T05:19:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T06:19:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021816417260302530"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021816417260302530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 396,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自杀未遂，次数+1。现在好恶心，浑身难受😣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 呼吸堵塞 | 现已恢复?  抑郁状态 好好活着 二氧化碳好似喵 MtF🏳️‍⚧️",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 994,
+          "like_count": 5019,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 1092
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-25T08:23:21.000Z",
+        "description": "我是个debu喵/学数学的/基础数学考研大失败/脑子里全是水。老二刺猿/是老死宅/搞cosplay（但没钱买cos服）/玩Asia区原神。我是男孩子！！天天玩不干正事。不搞涩涩/不涉政治。想要好多对象（疯狂暗示呜呜），也想要小钱钱买好多好多好吃的。我恨数学。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mminuzero.com:100",
+                "end": 23,
+                "expanded_url": "http://mminuzero.com:100",
+                "start": 0,
+                "url": "https://t.co/ImJ4LBfuOD"
+              }
+            ]
+          }
+        },
+        "id": "1430445611640262660",
+        "location": "Los Angeles, CA, USA ",
+        "name": "୧⍤⃝☂️Micro Plusone",
+        "pinned_tweet_id": "1992249813258445042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1723970233504071680/BPSUSauZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3837,
+          "following_count": 1361,
+          "like_count": 26098,
+          "listed_count": 12,
+          "media_count": 1300,
+          "tweet_count": 5343
+        },
+        "url": "https://t.co/ImJ4LBfuOD",
+        "username": "MMinuzero",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1886430791766540420",
+    "created_at": "2025-02-03T15:05:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T16:05:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886430791766540420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1498281208182050817",
+          "start": 3,
+          "username": "YINGIsNotGnu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886430791766540420",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886097466468262396",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YINGIsNotGnu: 格里历2023年5月21日的荧还具备一定的智力，但格里历2025年2月2日的荧已经是一个失能人士，所以荧现在很想死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1886430791766540420",
+        "created_at": "2025-02-03T15:05:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T16:05:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886430791766540420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1498281208182050817",
+              "start": 3,
+              "username": "YINGIsNotGnu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886430791766540420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886097466468262396",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YINGIsNotGnu: 格里历2023年5月21日的荧还具备一定的智力，但格里历2025年2月2日的荧已经是一个失能人士，所以荧现在很想死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498281208182050817",
+        "conversation_id": "1886097466468262396",
+        "created_at": "2025-02-02T17:00:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T18:00:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886097466468262396"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1886097466468262396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 712,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "格里历2023年5月21日的荧还具备一定的智力，但格里历2025年2月2日的荧已经是一个失能人士，所以荧现在很想死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "精神分裂 精障人士 重度抑郁 钡中毒 亚硝酸钠中毒 进过ICU ；随便发点自言自语，",
+        "id": "1668693781791784961",
+        "location": "重庆",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 383,
+          "like_count": 2140,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 441
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-28T12:58:00.000Z",
+        "description": "非二元｜笨蛋｜猫猫｜摄影｜北京｜团结的人民永不被击溃｜@ginyisnotying｜https://t.co/Db95Uh7ZsE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 27,
+                "username": "ginyisnotying"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "yingisnotgnu.bsky.social",
+                "end": 65,
+                "expanded_url": "http://yingisnotgnu.bsky.social",
+                "start": 42,
+                "url": "https://t.co/Db95Uh7ZsE"
+              }
+            ]
+          }
+        },
+        "id": "1498281208182050817",
+        "location": "自由人的自由联合体",
+        "name": "荧 YING",
+        "pinned_tweet_id": "1792995487378760141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871107974430945280/4xtRKmge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3656,
+          "following_count": 1278,
+          "like_count": 36159,
+          "listed_count": 11,
+          "media_count": 1400,
+          "tweet_count": 14291
+        },
+        "username": "YINGIsNotGnu",
+        "verified": false
+      }
+    ]
+  }
+}

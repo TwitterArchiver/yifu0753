@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1937372208101552500",
+    "created_at": "2025-06-24T04:48:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T05:48:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937372208101552500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1462419807173677059",
+          "start": 3,
+          "username": "Jane_S_Eye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937372208101552500",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937076347903603104",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jane_S_Eye: 只有极少数人是花路那种100%二元跨直女，所以很多人也不100%需要手术，当前手术有很多不便和不足，如果你不是100%二元跨，可能收益就远不及你付出的身体健康和社会成本，你会后悔。一方面需要充分探索，另外很多人手术的第一动力是学历或人证不符，也许…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1937372208101552500",
+        "created_at": "2025-06-24T04:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T05:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937372208101552500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1462419807173677059",
+              "start": 3,
+              "username": "Jane_S_Eye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937372208101552500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937076347903603104",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jane_S_Eye: 只有极少数人是花路那种100%二元跨直女，所以很多人也不100%需要手术，当前手术有很多不便和不足，如果你不是100%二元跨，可能收益就远不及你付出的身体健康和社会成本，你会后悔。一方面需要充分探索，另外很多人手术的第一动力是学历或人证不符，也许…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462419807173677059",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1937076347903603104",
+        "created_at": "2025-06-23T09:12:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T10:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937076347903603104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mtfinweb3/stat…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/mtfinweb3/status/1937006614265172033",
+              "start": 145,
+              "url": "https://t.co/yd1Bjr0zzm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937076347903603104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 3486,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937006614265172033",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只有极少数人是花路那种100%二元跨直女，所以很多人也不100%需要手术，当前手术有很多不便和不足，如果你不是100%二元跨，可能收益就远不及你付出的身体健康和社会成本，你会后悔。一方面需要充分探索，另外很多人手术的第一动力是学历或人证不符，也许比起单纯手术，你更需要移民一个开放的国家。 https://t.co/yd1Bjr0zzm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "🏳‍⚧ 抑郁焦虑状态",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "pinned_tweet_id": "1936898802361020812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 872,
+          "like_count": 3834,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 706
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-21T13:58:25.000Z",
+        "description": "she/her but Not a whore.",
+        "id": "1462419807173677059",
+        "location": "Blowing in the wind",
+        "name": "Véronique",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937322316310151168/BfsFqWZp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10751,
+          "following_count": 2925,
+          "like_count": 10807,
+          "listed_count": 0,
+          "media_count": 435,
+          "tweet_count": 7195
+        },
+        "username": "Jane_S_Eye",
+        "verified": false
+      }
+    ]
+  }
+}

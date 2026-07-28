@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1897889792379310080"
+      ],
+      "media_source_tweet_id": [
+        "1897889815481532917"
+      ]
+    },
+    "author_id": "1668693781791784961",
+    "conversation_id": "1898092088253989219",
+    "created_at": "2025-03-07T19:23:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T20:23:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898092088253989219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1658881840349061120",
+          "start": 3,
+          "username": "CJing3_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uqrOZceDTG",
+          "end": 36,
+          "expanded_url": "https://x.com/CJing3_/status/1897889815481532917/photo/1",
+          "media_key": "3_1897889792379310080",
+          "start": 13,
+          "url": "https://t.co/uqrOZceDTG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898092088253989219",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 422
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897889815481532917",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @CJing3_: https://t.co/uqrOZceDTG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1897889792379310080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlaotfGb0AA2B3B.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897889792379310080"
+          ],
+          "media_source_tweet_id": [
+            "1897889815481532917"
+          ]
+        },
+        "author_id": "1668693781791784961",
+        "conversation_id": "1898092088253989219",
+        "created_at": "2025-03-07T19:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T20:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898092088253989219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1658881840349061120",
+              "start": 3,
+              "username": "CJing3_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uqrOZceDTG",
+              "end": 36,
+              "expanded_url": "https://x.com/CJing3_/status/1897889815481532917/photo/1",
+              "media_key": "3_1897889792379310080",
+              "start": 13,
+              "url": "https://t.co/uqrOZceDTG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898092088253989219",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 422
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897889815481532917",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @CJing3_: https://t.co/uqrOZceDTG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897889792379310080"
+          ]
+        },
+        "author_id": "1658881840349061120",
+        "conversation_id": "1897889815481532917",
+        "created_at": "2025-03-07T05:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T06:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897889815481532917"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uqrOZceDTG",
+              "end": 23,
+              "expanded_url": "https://x.com/CJing3_/status/1897889815481532917/photo/1",
+              "media_key": "3_1897889792379310080",
+              "start": 0,
+              "url": "https://t.co/uqrOZceDTG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897889815481532917",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 243,
+          "impression_count": 43567,
+          "like_count": 3570,
+          "quote_count": 14,
+          "reply_count": 1,
+          "retweet_count": 422
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/uqrOZceDTG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "精神分裂 精障人士 重度抑郁 钡中毒 亚硝酸钠中毒 进过ICU ；随便发点自言自语，",
+        "id": "1668693781791784961",
+        "location": "重庆",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 416,
+          "like_count": 2245,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 469
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-17T17:07:32.000Z",
+        "description": "图案定制80/150/250/300",
+        "id": "1658881840349061120",
+        "location": "轉載Reprint🚫",
+        "name": "楚鯨",
+        "pinned_tweet_id": "1894416543616045079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873334418095648768/ujJbwFFj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9109,
+          "following_count": 527,
+          "like_count": 6858,
+          "listed_count": 17,
+          "media_count": 127,
+          "tweet_count": 378
+        },
+        "username": "CJing3_",
+        "verified": false
+      }
+    ]
+  }
+}

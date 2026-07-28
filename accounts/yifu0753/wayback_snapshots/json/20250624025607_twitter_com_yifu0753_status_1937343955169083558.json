@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1937234116405314035",
+    "created_at": "2025-06-24T02:56:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T03:56:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937343955169083558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1863821756932472832",
+          "start": 0,
+          "username": "shuo_zi27516"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937343955169083558",
+    "in_reply_to_user_id": "1863821756932472832",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937234116405314035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuo_zi27516 😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1937234116405314035",
+        "created_at": "2025-06-24T02:56:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T03:56:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937343955169083558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1863821756932472832",
+              "start": 0,
+              "username": "shuo_zi27516"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937343955169083558",
+        "in_reply_to_user_id": "1863821756932472832",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937234116405314035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuo_zi27516 😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863821756932472832",
+        "conversation_id": "1937234116405314035",
+        "created_at": "2025-06-23T19:39:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T20:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937234116405314035"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1937234116405314035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 218,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所以我又买碳酸钡了。。。。。。。\n会很难受的对吧。。。。。。\n对不起。。。。。。我好累\n\n我好累。。。。。\n我好累      \n抽烟已经没得缓解了\n为什么。。。。。。。\n为什么。。。。。。\n我.......\n为什么\n\n为什么！！！！\n我想。。。。死\n为什么\n为什么\n每个人都在疏远我\n为什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "🏳‍⚧ 抑郁焦虑状态",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "pinned_tweet_id": "1936898802361020812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 870,
+          "like_count": 3796,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 702
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-03T05:45:42.000Z",
+        "description": "不知道",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+wcenpkgoAzFkM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+wcenpkgoAzFkMDQ1",
+                "start": 0,
+                "url": "https://t.co/Av9bAZd3dg"
+              }
+            ]
+          }
+        },
+        "id": "1863821756932472832",
+        "location": "遇境",
+        "name": "宫笙 🏳‍⚧️🍥",
+        "pinned_tweet_id": "1917663561666752739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909494365900488705/svO7GLQd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 446,
+          "like_count": 94,
+          "listed_count": 3,
+          "media_count": 112,
+          "tweet_count": 1148
+        },
+        "url": "https://t.co/Av9bAZd3dg",
+        "username": "shuo_zi27516",
+        "verified": false
+      }
+    ]
+  }
+}

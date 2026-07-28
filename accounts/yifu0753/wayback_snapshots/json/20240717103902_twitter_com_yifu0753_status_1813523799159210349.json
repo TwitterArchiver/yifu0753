@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1813464558327242968",
+    "created_at": "2024-07-17T10:39:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-17T11:39:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813523799159210349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1481172876589821952",
+          "start": 0,
+          "username": "pyke2076"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813523799159210349",
+    "in_reply_to_user_id": "1481172876589821952",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813464558327242968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pyke2076 😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1813464558327242968",
+        "created_at": "2024-07-17T10:39:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-17T11:39:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813523799159210349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "pyke2076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813523799159210349",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813464558327242968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pyke2076 😭😭😭"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1813464555563134976"
+          ]
+        },
+        "author_id": "1481172876589821952",
+        "conversation_id": "1813464558327242968",
+        "created_at": "2024-07-17T06:43:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-17T07:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1813464558327242968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Oa1jzFtYiv",
+              "end": 57,
+              "expanded_url": "https://twitter.com/pyke2076/status/1813464558327242968/photo/1",
+              "media_key": "3_1813464555563134976",
+              "start": 34,
+              "url": "https://t.co/Oa1jzFtYiv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813464558327242968",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 958,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对不起，我恐怕没有机会去见朋友家的小可爱们了，这是我此生最大的遗憾 https://t.co/Oa1jzFtYiv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "",
+        "id": "1668693781791784961",
+        "location": "广州",
+        "name": "伊芙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764816409815896064/b8sUPDni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 152,
+          "like_count": 656,
+          "listed_count": 0,
+          "tweet_count": 249
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "当你离去之后，你仍在我的视线里。",
+        "id": "1481172876589821952",
+        "name": "bunny",
+        "pinned_tweet_id": "1806167215785615755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739460199323435008/cSDInbKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2980,
+          "following_count": 647,
+          "like_count": 28396,
+          "listed_count": 4,
+          "tweet_count": 7567
+        },
+        "username": "pyke2076",
+        "verified": false
+      }
+    ]
+  }
+}

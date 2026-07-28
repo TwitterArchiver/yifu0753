@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2050951027021816236",
+    "created_at": "2026-05-03T14:50:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T15:50:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050951027021816236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1652290033926254592",
+          "start": 3,
+          "username": "huanmengyuandi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050951027021816236",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050802215003320734",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huanmengyuandi: 。洗胃了……又活了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2050951027021816236",
+        "created_at": "2026-05-03T14:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T15:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050951027021816236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1652290033926254592",
+              "start": 3,
+              "username": "huanmengyuandi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050951027021816236",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050802215003320734",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @huanmengyuandi: 。洗胃了……又活了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652290033926254592",
+        "conversation_id": "2050802215003320734",
+        "created_at": "2026-05-03T04:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T05:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050802215003320734"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050802215003320734",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 601,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "。洗胃了……又活了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 | 现已恢复?  抑郁状态 好好活着 二氧化碳好似喵 MtF🏳️‍⚧️",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 1109,
+          "like_count": 6149,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 1537
+        },
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-29T12:34:07.000Z",
+        "description": "MtX，友跨暂时已经戒掉了吃糖/OD/割手，重度焦虑抑郁患者，目前正在药物治疗，情绪很稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanmengyuandi1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanmengyuandi1",
+                "start": 0,
+                "url": "https://t.co/FPnVEFrW95"
+              }
+            ]
+          }
+        },
+        "id": "1652290033926254592",
+        "name": "幻梦之渊底",
+        "pinned_tweet_id": "2047633140001497426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048752986562891776/s8CpG48C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 71,
+          "like_count": 320,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 251
+        },
+        "url": "https://t.co/FPnVEFrW95",
+        "username": "huanmengyuandi",
+        "verified": false
+      }
+    ]
+  }
+}

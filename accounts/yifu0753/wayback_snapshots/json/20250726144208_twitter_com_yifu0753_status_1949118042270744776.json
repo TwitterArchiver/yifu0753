@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948560289148141573"
+      ],
+      "media_source_tweet_id": [
+        "1948560292268626109"
+      ]
+    },
+    "author_id": "1668693781791784961",
+    "conversation_id": "1949118042270744776",
+    "created_at": "2025-07-26T14:42:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T15:42:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949118042270744776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1561334508212723713",
+          "start": 3,
+          "username": "VVV8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/f0sP9nsqRc",
+          "end": 42,
+          "expanded_url": "https://x.com/VVV8964/status/1948560292268626109/photo/1",
+          "media_key": "3_1948560289148141573",
+          "start": 19,
+          "url": "https://t.co/f0sP9nsqRc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949118042270744776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948560292268626109",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @VVV8964: 有点像核弹 https://t.co/f0sP9nsqRc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 539,
+        "media_key": "3_1948560289148141573",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwqtQlIbgAUUX_j.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948560289148141573"
+          ],
+          "media_source_tweet_id": [
+            "1948560292268626109"
+          ]
+        },
+        "author_id": "1668693781791784961",
+        "conversation_id": "1949118042270744776",
+        "created_at": "2025-07-26T14:42:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T15:42:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949118042270744776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1561334508212723713",
+              "start": 3,
+              "username": "VVV8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f0sP9nsqRc",
+              "end": 42,
+              "expanded_url": "https://x.com/VVV8964/status/1948560292268626109/photo/1",
+              "media_key": "3_1948560289148141573",
+              "start": 19,
+              "url": "https://t.co/f0sP9nsqRc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949118042270744776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948560292268626109",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @VVV8964: 有点像核弹 https://t.co/f0sP9nsqRc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948560289148141573"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1948560292268626109",
+        "created_at": "2025-07-25T01:45:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T02:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948560292268626109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f0sP9nsqRc",
+              "end": 29,
+              "expanded_url": "https://x.com/VVV8964/status/1948560292268626109/photo/1",
+              "media_key": "3_1948560289148141573",
+              "start": 6,
+              "url": "https://t.co/f0sP9nsqRc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948560292268626109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1031,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "有点像核弹 https://t.co/f0sP9nsqRc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "🏳‍⚧ 抑郁焦虑状态",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "pinned_tweet_id": "1936898802361020812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 930,
+          "like_count": 4231,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 827
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 912,
+          "following_count": 292,
+          "like_count": 1703,
+          "listed_count": 2,
+          "media_count": 104,
+          "tweet_count": 2541
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

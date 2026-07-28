@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2048451283338797192",
+    "created_at": "2026-04-27T05:10:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T06:10:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048630888158929141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1735852940609605632",
+          "start": 0,
+          "username": "xynDreamrain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048630888158929141",
+    "in_reply_to_user_id": "1735852940609605632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048451283338797192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xynDreamrain 逆天"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2048451277210931200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG2PlV3aUAAVyTg.jpg",
+        "width": 968
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048451277219381248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG2PlV5bQAAzr8s.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1285,
+        "media_key": "3_2048451277210927104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG2PlV3aQAAmaic.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2048451283338797192",
+        "created_at": "2026-04-27T05:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T06:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048630888158929141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1735852940609605632",
+              "start": 0,
+              "username": "xynDreamrain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048630888158929141",
+        "in_reply_to_user_id": "1735852940609605632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048451283338797192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xynDreamrain 逆天"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048451277210931200",
+            "3_2048451277219381248",
+            "3_2048451277210927104"
+          ]
+        },
+        "author_id": "1735852940609605632",
+        "conversation_id": "2048451283338797192",
+        "created_at": "2026-04-26T17:16:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T18:16:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048451283338797192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jcObE1zXc7",
+              "end": 33,
+              "expanded_url": "https://x.com/xynDreamrain/status/2048451283338797192/photo/1",
+              "media_key": "3_2048451277210931200",
+              "start": 10,
+              "url": "https://t.co/jcObE1zXc7"
+            },
+            {
+              "display_url": "pic.x.com/jcObE1zXc7",
+              "end": 33,
+              "expanded_url": "https://x.com/xynDreamrain/status/2048451283338797192/photo/1",
+              "media_key": "3_2048451277219381248",
+              "start": 10,
+              "url": "https://t.co/jcObE1zXc7"
+            },
+            {
+              "display_url": "pic.x.com/jcObE1zXc7",
+              "end": 33,
+              "expanded_url": "https://x.com/xynDreamrain/status/2048451283338797192/photo/1",
+              "media_key": "3_2048451277210927104",
+              "start": 10,
+              "url": "https://t.co/jcObE1zXc7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048451283338797192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "沙东的school https://t.co/jcObE1zXc7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 | 现已恢复?  抑郁状态 好好活着 二氧化碳好似喵 MtF🏳️‍⚧️",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 984,
+          "like_count": 5524,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 1396
+        },
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-16T02:43:13.000Z",
+        "description": "07🍥🏳️‍⚧️｜持证含糖，hrt21.1.10｜究极家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜想当个女孩子｜暂不圆角｜无政治立场｜努力rle中｜最好的老婆@whalexxs｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”（现在是兼职糖果商人哦）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 92,
+                "username": "whalexxs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Tg6C3pMB5U1kN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Tg6C3pMB5U1kNGM1",
+                "start": 0,
+                "url": "https://t.co/qx3R9rxrVB"
+              }
+            ]
+          }
+        },
+        "id": "1735852940609605632",
+        "name": "雨檬&梦雨🍥🏳️‍⚧️三代目（兼职糖果商人）",
+        "pinned_tweet_id": "2048035662709076017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048033858797670400/4va6tSgd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 55,
+          "like_count": 1691,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 880
+        },
+        "url": "https://t.co/qx3R9rxrVB",
+        "username": "xynDreamrain",
+        "verified": false
+      }
+    ]
+  }
+}

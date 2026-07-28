@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2047849803951034398",
+    "created_at": "2026-04-26T13:42:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T14:42:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048397419231273042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1687513081310535680",
+          "start": 0,
+          "username": "cheesemori_awa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048397419231273042",
+    "in_reply_to_user_id": "1687513081310535680",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048397192793059646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cheesemori_awa 🥰🥰🥰🥰🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2047849803951034398",
+        "created_at": "2026-04-26T13:42:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:42:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048397419231273042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1687513081310535680",
+              "start": 0,
+              "username": "cheesemori_awa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048397419231273042",
+        "in_reply_to_user_id": "1687513081310535680",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048397192793059646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cheesemori_awa 🥰🥰🥰🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687513081310535680",
+        "conversation_id": "2047849803951034398",
+        "created_at": "2026-04-26T13:42:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:42:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048397192793059646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1668693781791784961",
+              "start": 0,
+              "username": "yifu0753"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048397192793059646",
+        "in_reply_to_user_id": "1668693781791784961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047849803951034398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yifu0753 一样的想法，至少我不会再痛苦了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 | 现已恢复?  抑郁状态 好好活着 二氧化碳好似喵 MtF🏳️‍⚧️",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 980,
+          "like_count": 5457,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 1339
+        },
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-04T17:17:41.000Z",
+        "description": "🇬🇧 UK 留子 | 💭 ISTP\n⌨️ 偶尔掉落游戏汉化补丁\n🍥 HRT since 2026.04.24\n🎵 爱好音乐｜🎼 喜欢扒谱\n努力探索地图中... 🌍",
+        "id": "1687513081310535680",
+        "location": "Scotland, United Kingdom",
+        "name": "cheesemori",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047626416842260480/V5Yx13cQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 55,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 32
+        },
+        "username": "cheesemori_awa",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1837122891642720494",
+    "created_at": "2024-09-20T13:33:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-20T14:33:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837122891642720494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1775563067121696768",
+          "start": 3,
+          "username": "sourrrrrrrr_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837122891642720494",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 121
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836708434567377322",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sourrrrrrrr_: 当男娘这辈子都有了，哪个性别都想草你，异性恋男把你当女的草，男同把你当受草，四爱姐把你当男的草，甚至还有伪女同把你当女的草，更不要说男娘还想互相草，男娘，活着就是个草草草"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1837122891642720494",
+        "created_at": "2024-09-20T13:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T14:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837122891642720494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1775563067121696768",
+              "start": 3,
+              "username": "sourrrrrrrr_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837122891642720494",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 121
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836708434567377322",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sourrrrrrrr_: 当男娘这辈子都有了，哪个性别都想草你，异性恋男把你当女的草，男同把你当受草，四爱姐把你当男的草，甚至还有伪女同把你当女的草，更不要说男娘还想互相草，男娘，活着就是个草草草"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775563067121696768",
+        "conversation_id": "1836708434567377322",
+        "created_at": "2024-09-19T10:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T11:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836708434567377322"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1836708434567377322",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 129,
+          "impression_count": 148059,
+          "like_count": 1801,
+          "quote_count": 44,
+          "reply_count": 93,
+          "retweet_count": 121
+        },
+        "reply_settings": "everyone",
+        "text": "当男娘这辈子都有了，哪个性别都想草你，异性恋男把你当女的草，男同把你当受草，四爱姐把你当男的草，甚至还有伪女同把你当女的草，更不要说男娘还想互相草，男娘，活着就是个草草草"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "精神分裂 精障人士 重度抑郁 氯化钡中毒 亚硝酸盐中毒 进过ICU ；随便发点自言自语",
+        "id": "1668693781791784961",
+        "location": "广州",
+        "name": "伊芙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 234,
+          "like_count": 1104,
+          "listed_count": 0,
+          "tweet_count": 363
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-03T16:36:55.000Z",
+        "description": "｜⚠️#颜控#⚠️| 泛偏4i | dom | 高三｜ 心血來潮随便发点📝(*^^*) ｜ 防走丢小分身： @sour_rrrrrrr 🐈🚪88好友位108没区别我生日而已 🌊❗️给我发匿名‼️：https://t.co/nhQttWmnBT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "sour_rrrrrrr"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/sourrrrrrrr_",
+                "end": 121,
+                "expanded_url": "https://ngl.link/sourrrrrrrr_",
+                "start": 98,
+                "url": "https://t.co/nhQttWmnBT"
+              }
+            ]
+          }
+        },
+        "id": "1775563067121696768",
+        "location": "🚪88/108｜纯绿",
+        "name": "乳᳐酸᳐_sour ੭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775564151210778624/H_JKOhdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4049,
+          "following_count": 237,
+          "like_count": 7152,
+          "listed_count": 8,
+          "tweet_count": 1862
+        },
+        "username": "sourrrrrrrr_",
+        "verified": false
+      }
+    ]
+  }
+}

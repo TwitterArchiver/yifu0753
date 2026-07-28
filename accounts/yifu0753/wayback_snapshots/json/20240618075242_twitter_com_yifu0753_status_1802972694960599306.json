@@ -1,0 +1,177 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1802972694960599306",
+    "created_at": "2024-06-18T07:52:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-18T08:52:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1802972694960599306"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rebecca_hoshin…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/rebecca_hoshino/status/1802899594218750124",
+          "start": 2,
+          "url": "https://t.co/mhUZW9wBtB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802972694960599306",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802899594218750124",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好 https://t.co/mhUZW9wBtB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1802972694960599306",
+        "created_at": "2024-06-18T07:52:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T08:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802972694960599306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rebecca_hoshin…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/rebecca_hoshino/status/1802899594218750124",
+              "start": 2,
+              "url": "https://t.co/mhUZW9wBtB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802972694960599306",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802899594218750124",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好 https://t.co/mhUZW9wBtB"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1802899592075448320"
+          ]
+        },
+        "author_id": "731525153985822720",
+        "conversation_id": "1802899594218750124",
+        "created_at": "2024-06-18T03:02:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T04:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802899594218750124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/sa9X8LGSmB",
+              "end": 23,
+              "expanded_url": "https://twitter.com/rebecca_hoshino/status/1802899594218750124/photo/1",
+              "media_key": "3_1802899592075448320",
+              "start": 0,
+              "url": "https://t.co/sa9X8LGSmB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802899594218750124",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 26491,
+          "like_count": 289,
+          "quote_count": 4,
+          "reply_count": 13,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/sa9X8LGSmB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "讨厌一切人类  infp-t\n 讨厌一切的不美好",
+        "id": "1668693781791784961",
+        "name": "伊芙 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764816409815896064/b8sUPDni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 104,
+          "like_count": 543,
+          "listed_count": 0,
+          "tweet_count": 169
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-14T16:42:42.000Z",
+        "description": "25°C, 78%, 19:31 | 春を告げ踊り出す山菜、夏を見る宇治野原唐草乾くわ、秋の月登ったまん丸さお祝い、冬を過ぎまた月日を数える",
+        "id": "731525153985822720",
+        "location": "Adrastea",
+        "name": "阿米娜・阔伊姆@二代目",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756250182302490624/6xPvlYW6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249930,
+          "following_count": 326,
+          "like_count": 8,
+          "listed_count": 763,
+          "tweet_count": 42695
+        },
+        "username": "rebecca_hoshino",
+        "verified": false
+      }
+    ]
+  }
+}

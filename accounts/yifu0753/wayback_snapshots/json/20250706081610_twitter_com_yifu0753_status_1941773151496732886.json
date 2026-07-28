@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1941530104372527108"
+      ],
+      "media_source_tweet_id": [
+        "1941530110030643638"
+      ]
+    },
+    "author_id": "1668693781791784961",
+    "conversation_id": "1941773151496732886",
+    "created_at": "2025-07-06T08:16:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T09:16:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941773151496732886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1407034837953748995",
+          "start": 3,
+          "username": "Kinaiyurun0128"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HxnF2IKmQR",
+          "end": 50,
+          "expanded_url": "https://x.com/Kinaiyurun0128/status/1941530110030643638/photo/1",
+          "media_key": "3_1941530104372527108",
+          "start": 27,
+          "url": "https://t.co/HxnF2IKmQR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941773151496732886",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941530110030643638",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kinaiyurun0128: 玩玩妳們（？ https://t.co/HxnF2IKmQR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1941530104372527108",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvGzV9_aAAQZE8f.jpg",
+        "width": 638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941530104372527108"
+          ],
+          "media_source_tweet_id": [
+            "1941530110030643638"
+          ]
+        },
+        "author_id": "1668693781791784961",
+        "conversation_id": "1941773151496732886",
+        "created_at": "2025-07-06T08:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T09:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941773151496732886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1407034837953748995",
+              "start": 3,
+              "username": "Kinaiyurun0128"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HxnF2IKmQR",
+              "end": 50,
+              "expanded_url": "https://x.com/Kinaiyurun0128/status/1941530110030643638/photo/1",
+              "media_key": "3_1941530104372527108",
+              "start": 27,
+              "url": "https://t.co/HxnF2IKmQR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941773151496732886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941530110030643638",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kinaiyurun0128: 玩玩妳們（？ https://t.co/HxnF2IKmQR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941530104372527108"
+          ]
+        },
+        "author_id": "1407034837953748995",
+        "conversation_id": "1941530110030643638",
+        "created_at": "2025-07-05T16:10:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T17:10:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941530110030643638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HxnF2IKmQR",
+              "end": 30,
+              "expanded_url": "https://x.com/Kinaiyurun0128/status/1941530110030643638/photo/1",
+              "media_key": "3_1941530104372527108",
+              "start": 7,
+              "url": "https://t.co/HxnF2IKmQR"
+            },
+            {
+              "display_url": "x.com/hgsbtin_nisaki…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/hgsbtin_nisaki/status/1941524330380395018",
+              "start": 31,
+              "url": "https://t.co/181VjtjZ0n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941530110030643638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 431,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941524330380395018",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "玩玩妳們（？ https://t.co/HxnF2IKmQR https://t.co/181VjtjZ0n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "🏳‍⚧ 抑郁焦虑状态",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "pinned_tweet_id": "1936898802361020812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 911,
+          "like_count": 4078,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 757
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-21T17:57:16.000Z",
+        "description": "19歲高中生/善待這個世界 卻被無情折磨/一心同體@_Snow0717",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 25,
+                "username": "_Snow0717"
+              }
+            ]
+          }
+        },
+        "id": "1407034837953748995",
+        "location": "ナイトコード",
+        "name": "岐奈ゆるん",
+        "pinned_tweet_id": "1915142765773717606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826930572754620416/lWG-a777_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1554,
+          "following_count": 541,
+          "like_count": 88264,
+          "listed_count": 4,
+          "media_count": 806,
+          "tweet_count": 19521
+        },
+        "username": "Kinaiyurun0128",
+        "verified": false
+      }
+    ]
+  }
+}

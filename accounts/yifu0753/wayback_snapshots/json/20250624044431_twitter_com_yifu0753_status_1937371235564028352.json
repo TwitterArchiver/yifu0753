@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1937371235564028352",
+    "created_at": "2025-06-24T04:44:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T05:44:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937371235564028352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1597257668313260033",
+          "start": 3,
+          "username": "Minokakay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937371235564028352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937180225181479311",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Minokakay: 泰补估计明天过后，库存就见底了，得预定了，预订的话就是3-5天内发，5天后现货供应。\n\n其实很推荐大家吃诺坤复，2mg*28 85元，2mg*84也才255元，比泰补贵45而已，效果好太多了，原因在于诺坤复是纯的雌二醇，不是戊酸化形式的，吸收利用率…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1937180221649596417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuI_JeFWMAE5Z21.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1937371235564028352",
+        "created_at": "2025-06-24T04:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T05:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937371235564028352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1597257668313260033",
+              "start": 3,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937371235564028352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937180225181479311",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Minokakay: 泰补估计明天过后，库存就见底了，得预定了，预订的话就是3-5天内发，5天后现货供应。\n\n其实很推荐大家吃诺坤复，2mg*28 85元，2mg*84也才255元，比泰补贵45而已，效果好太多了，原因在于诺坤复是纯的雌二醇，不是戊酸化形式的，吸收利用率…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937180221649596417"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "1937180225181479311",
+        "created_at": "2025-06-23T16:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T17:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937180225181479311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jx7uPkR5Gi",
+              "end": 170,
+              "expanded_url": "https://x.com/Minokakay/status/1937180225181479311/photo/1",
+              "media_key": "3_1937180221649596417",
+              "start": 147,
+              "url": "https://t.co/jx7uPkR5Gi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937180225181479311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1778,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "泰补估计明天过后，库存就见底了，得预定了，预订的话就是3-5天内发，5天后现货供应。\n\n其实很推荐大家吃诺坤复，2mg*28 85元，2mg*84也才255元，比泰补贵45而已，效果好太多了，原因在于诺坤复是纯的雌二醇，不是戊酸化形式的，吸收利用率会高很多，这段时间大家可以优先考虑下诺坤复。 https://t.co/jx7uPkR5Gi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "🏳‍⚧ 抑郁焦虑状态",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "pinned_tweet_id": "1936898802361020812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 872,
+          "like_count": 3828,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 705
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买HRT/美白/减肥/促智/安眠/抗抑郁找 @ChosekiNoraneko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 97,
+                "username": "ChosekiNoraneko"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1933516848781537400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7799,
+          "following_count": 888,
+          "like_count": 43803,
+          "listed_count": 29,
+          "media_count": 1230,
+          "tweet_count": 19105
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

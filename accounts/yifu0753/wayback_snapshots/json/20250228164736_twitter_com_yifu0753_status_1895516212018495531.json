@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1895516212018495531",
+    "created_at": "2025-02-28T16:47:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T17:47:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895516212018495531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1617047859458621442",
+          "start": 3,
+          "username": "asahi_jx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895516212018495531",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 78
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895330369534337288",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @asahi_jx: 一个几乎没有在网上发表负面言论而是一直在发梗图记录生活尝试给网友带来正能量的人自杀了，但仅仅因为带有跨性别身份标签，就被扣上跟风吃药自杀的帽子，遭到一些根本不清楚事件全貌的人的口诛笔伐。我无法理解这样的社会。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1895516212018495531",
+        "created_at": "2025-02-28T16:47:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T17:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895516212018495531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1617047859458621442",
+              "start": 3,
+              "username": "asahi_jx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895516212018495531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 78
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895330369534337288",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @asahi_jx: 一个几乎没有在网上发表负面言论而是一直在发梗图记录生活尝试给网友带来正能量的人自杀了，但仅仅因为带有跨性别身份标签，就被扣上跟风吃药自杀的帽子，遭到一些根本不清楚事件全貌的人的口诛笔伐。我无法理解这样的社会。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617047859458621442",
+        "conversation_id": "1895330369534337288",
+        "created_at": "2025-02-28T04:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T05:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895330369534337288"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1895330369534337288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 22975,
+          "like_count": 374,
+          "quote_count": 10,
+          "reply_count": 34,
+          "retweet_count": 78
+        },
+        "reply_settings": "everyone",
+        "text": "一个几乎没有在网上发表负面言论而是一直在发梗图记录生活尝试给网友带来正能量的人自杀了，但仅仅因为带有跨性别身份标签，就被扣上跟风吃药自杀的帽子，遭到一些根本不清楚事件全貌的人的口诛笔伐。我无法理解这样的社会。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "精神分裂 精障人士 重度抑郁 钡中毒 亚硝酸钠中毒 进过ICU ；随便发点自言自语，",
+        "id": "1668693781791784961",
+        "location": "重庆",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 411,
+          "like_count": 2222,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 463
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-22T06:34:11.000Z",
+        "description": "逃避者的树洞｜中文/En/日本語｜不鉴证｜多元化｜入门哲批｜成分は特撮と音ゲーとアニメとマンガとTYPE-MOONと原神、そして少しのボカロとJ-POP｜黑泥&涩涩👉 @enosima_asahi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 84,
+                "username": "enosima_asahi"
+              }
+            ]
+          }
+        },
+        "id": "1617047859458621442",
+        "location": "北京",
+        "name": "あさひヘンヘン",
+        "pinned_tweet_id": "1865584324021768503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1704128736021323776/bkOcIrtf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 860,
+          "like_count": 2571,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 1933
+        },
+        "username": "asahi_jx",
+        "verified": false
+      }
+    ]
+  }
+}

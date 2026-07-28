@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2006332296740389316",
+    "created_at": "2026-01-04T07:54:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T08:54:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007722328059457682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1955694649726861312",
+          "start": 0,
+          "username": "2000ndr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007722328059457682",
+    "in_reply_to_user_id": "1955694649726861312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006711394092429642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2000ndr 嗯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2006332296740389316",
+        "created_at": "2026-01-04T07:54:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T08:54:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007722328059457682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955694649726861312",
+              "start": 0,
+              "username": "2000ndr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007722328059457682",
+        "in_reply_to_user_id": "1955694649726861312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006711394092429642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2000ndr 嗯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955694649726861312",
+        "conversation_id": "2006332296740389316",
+        "created_at": "2026-01-01T12:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T13:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006711394092429642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1668693781791784961",
+              "start": 0,
+              "username": "yifu0753"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006711394092429642",
+        "in_reply_to_user_id": "1668693781791784961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006332296740389316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yifu0753 挺难杀的，一定很累吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 呼吸堵塞 血压下降 | 现已恢复?  轻度抑郁 好好活着 纯二氧化碳好似喵",
+        "id": "1668693781791784961",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 987,
+          "like_count": 4854,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1021
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-13T18:15:24.000Z",
+        "description": "给一丝希望，这或许是我能做的吧？\n世界并不只有完全的黑暗",
+        "id": "1955694649726861312",
+        "name": "冰糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956056039977312261/Je-Adv7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 70,
+          "like_count": 270,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 323
+        },
+        "username": "2000ndr",
+        "verified": false
+      }
+    ]
+  }
+}

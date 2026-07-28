@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tea",
+          "id": "850450940213592064",
+          "name": "Tea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1792595821940113408",
+          "name": "Matcha"
+        }
+      }
+    ],
+    "conversation_id": "1941674536942043501",
+    "created_at": "2025-07-06T01:44:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T02:44:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941674536942043501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1918971399139733504",
+          "start": 3,
+          "username": "zayuqier"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941674536942043501",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941669778122289179",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zayuqier: 来到推半年了，这个地方真是到处都是正能量，这半年有人逛推特逛成了xyn，有人打赢亚硝酸钠复活赛，有人由悲观变得乐观，有人从沉默不语变得活泼开朗，只有我还是那个我，依然是悲观的那个我，我至今都没有对生活有希望，有吃补佳乐，有o普瑞巴林，有许多躯体化的迹…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          }
+        ],
+        "conversation_id": "1941674536942043501",
+        "created_at": "2025-07-06T01:44:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T02:44:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941674536942043501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1918971399139733504",
+              "start": 3,
+              "username": "zayuqier"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941674536942043501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941669778122289179",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zayuqier: 来到推半年了，这个地方真是到处都是正能量，这半年有人逛推特逛成了xyn，有人打赢亚硝酸钠复活赛，有人由悲观变得乐观，有人从沉默不语变得活泼开朗，只有我还是那个我，依然是悲观的那个我，我至今都没有对生活有希望，有吃补佳乐，有o普瑞巴林，有许多躯体化的迹…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918971399139733504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          }
+        ],
+        "conversation_id": "1941669778122289179",
+        "created_at": "2025-07-06T01:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T02:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941669778122289179"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hhjnjkoguyunmo…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/hhjnjkoguyunmo/status/1941088626601042369",
+              "start": 143,
+              "url": "https://t.co/Xai7rstacT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941669778122289179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941088626601042369",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "来到推半年了，这个地方真是到处都是正能量，这半年有人逛推特逛成了xyn，有人打赢亚硝酸钠复活赛，有人由悲观变得乐观，有人从沉默不语变得活泼开朗，只有我还是那个我，依然是悲观的那个我，我至今都没有对生活有希望，有吃补佳乐，有o普瑞巴林，有许多躯体化的迹象，有变得极端\n仇恨比爱更有力量😃 https://t.co/Xai7rstacT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "🏳‍⚧ 抑郁焦虑状态",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "pinned_tweet_id": "1936898802361020812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 910,
+          "like_count": 4072,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 751
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T10:10:28.000Z",
+        "description": "这里是柒儿/坐标河南/生产日期；2005-10*29/无证含糖mtf/社恐/抑郁/容貌焦虑/宅/半清水/很友善的/体重；173，65/在努力减肥了😭/练习化妆中/🚪88/同类互fo喵，要是没回记得戳一戳窝～我脑子笨笨的容易忘掉🥺",
+        "id": "1918971399139733504",
+        "name": "柒儿🍥",
+        "pinned_tweet_id": "1935711041662374316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936672743069564928/u-HsM1nc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1063,
+          "following_count": 425,
+          "like_count": 228,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 306
+        },
+        "username": "zayuqier",
+        "verified": false
+      }
+    ]
+  }
+}

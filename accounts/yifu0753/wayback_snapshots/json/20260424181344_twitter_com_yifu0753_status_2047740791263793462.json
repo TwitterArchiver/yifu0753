@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2047734138309107902",
+    "created_at": "2026-04-24T18:13:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T19:13:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047740791263793462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1940055088392982528",
+          "start": 0,
+          "username": "Kkkokoro366054"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047740791263793462",
+    "in_reply_to_user_id": "1940055088392982528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047740505849827489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kkkokoro366054 谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2047734138309107902",
+        "created_at": "2026-04-24T18:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T19:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047740791263793462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1940055088392982528",
+              "start": 0,
+              "username": "Kkkokoro366054"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047740791263793462",
+        "in_reply_to_user_id": "1940055088392982528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047740505849827489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kkkokoro366054 谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940055088392982528",
+        "conversation_id": "2047734138309107902",
+        "created_at": "2026-04-24T18:12:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T19:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047740505849827489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1668693781791784961",
+              "start": 0,
+              "username": "yifu0753"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047740505849827489",
+        "in_reply_to_user_id": "1668693781791784961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047734138309107902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yifu0753 TT这个季节真的很难熬吧 辛苦了 虽然我觉得我这样的人好像也没有权力劝你留下来 不能切实地帮到你而对你提出建议和尝试改变的想法是特别傲慢的…但是我真的希望你 哪怕是小小的事也好 哪怕是可以多坚持几秒几分钟也好…如果实在太辛苦了 那我祝你路上可以少一些痛苦 去到你想去的地方吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 呼吸堵塞 | 现已恢复?  抑郁状态 好好活着 二氧化碳好似喵 MtF🏳️‍⚧️",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 973,
+          "like_count": 5329,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 1272
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-01T14:29:21.000Z",
+        "description": "转生🍎，可以叫我苹果\n墙内cn见ID号，不要扒我qwq\n06/od/自残/双相/睡眠障碍/生理心理认同女/双性恋\n/互fo/欢迎相同的不同的宝宝来和我玩\n我不吸毒也不贩卖任何东西\n᧔ෆ᧓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%BB%A2%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%BB%A2%E7%94%9F%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB",
+                "start": 0,
+                "url": "https://t.co/D3c9rYfsFk"
+              }
+            ]
+          }
+        },
+        "id": "1940055088392982528",
+        "name": "ᶻz ₍^_ ̫ _^₎",
+        "pinned_tweet_id": "2044479790258987461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044473730177572865/feN5YyYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 26,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 60
+        },
+        "url": "https://t.co/D3c9rYfsFk",
+        "username": "Kkkokoro366054",
+        "verified": false
+      }
+    ]
+  }
+}

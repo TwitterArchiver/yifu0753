@@ -1,0 +1,163 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1813477586330349838",
+    "created_at": "2024-07-17T10:39:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-17T11:39:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813524015954149732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1481172876589821952",
+          "start": 0,
+          "username": "pyke2076"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813524015954149732",
+    "in_reply_to_user_id": "1481172876589821952",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813477586330349838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pyke2076 可以把信息方法公布出来吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1813477586330349838",
+        "created_at": "2024-07-17T10:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-17T11:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813524015954149732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "pyke2076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813524015954149732",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813477586330349838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pyke2076 可以把信息方法公布出来吗"
+      },
+      {
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "1813477586330349838",
+        "created_at": "2024-07-17T07:35:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-17T08:35:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1813477586330349838"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1813477586330349838",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 228,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨晚花了7小时做实验，其中5个小时用来改进方案，最后终于成功了，然后为了知道自己之前错在哪里，又花了两小时🥺，今晚可以批量制作了，赶在生日之前做好，然后给自己做生日礼物！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "",
+        "id": "1668693781791784961",
+        "location": "广州",
+        "name": "伊芙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764816409815896064/b8sUPDni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 152,
+          "like_count": 657,
+          "listed_count": 0,
+          "tweet_count": 250
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "当你离去之后，你仍在我的视线里。",
+        "id": "1481172876589821952",
+        "name": "bunny",
+        "pinned_tweet_id": "1806167215785615755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739460199323435008/cSDInbKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2980,
+          "following_count": 647,
+          "like_count": 28396,
+          "listed_count": 4,
+          "tweet_count": 7567
+        },
+        "username": "pyke2076",
+        "verified": false
+      }
+    ]
+  }
+}

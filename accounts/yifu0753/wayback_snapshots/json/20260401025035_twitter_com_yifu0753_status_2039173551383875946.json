@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038828185283096576",
+        "3_2038828185627017216"
+      ],
+      "media_source_tweet_id": [
+        "2038829145187352720",
+        "2038829145187352720"
+      ]
+    },
+    "author_id": "1668693781791784961",
+    "conversation_id": "2039173551383875946",
+    "created_at": "2026-04-01T02:50:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T03:50:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039173551383875946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "913179974806450176",
+          "start": 3,
+          "username": "zptgddq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/q32maLena0",
+          "end": 60,
+          "expanded_url": "https://x.com/zptgddq/status/2038829145187352720/photo/1",
+          "media_key": "3_2038828185283096576",
+          "start": 37,
+          "url": "https://t.co/q32maLena0"
+        },
+        {
+          "display_url": "pic.x.com/q32maLena0",
+          "end": 60,
+          "expanded_url": "https://x.com/zptgddq/status/2038829145187352720/photo/1",
+          "media_key": "3_2038828185627017216",
+          "start": 37,
+          "url": "https://t.co/q32maLena0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039173551383875946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038829145187352720",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zptgddq: 大数据监控再立新功，网上买药后驾驶证被销掉了。 https://t.co/q32maLena0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 568,
+        "media_key": "3_2038828185283096576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEtfbq3acAA6Ex0.png",
+        "width": 568
+      },
+      {
+        "height": 884,
+        "media_key": "3_2038828185627017216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEtfbsJaQAA8Dj8.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038828185283096576",
+            "3_2038828185627017216"
+          ],
+          "media_source_tweet_id": [
+            "2038829145187352720",
+            "2038829145187352720"
+          ]
+        },
+        "author_id": "1668693781791784961",
+        "conversation_id": "2039173551383875946",
+        "created_at": "2026-04-01T02:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T03:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039173551383875946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "913179974806450176",
+              "start": 3,
+              "username": "zptgddq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q32maLena0",
+              "end": 60,
+              "expanded_url": "https://x.com/zptgddq/status/2038829145187352720/photo/1",
+              "media_key": "3_2038828185283096576",
+              "start": 37,
+              "url": "https://t.co/q32maLena0"
+            },
+            {
+              "display_url": "pic.x.com/q32maLena0",
+              "end": 60,
+              "expanded_url": "https://x.com/zptgddq/status/2038829145187352720/photo/1",
+              "media_key": "3_2038828185627017216",
+              "start": 37,
+              "url": "https://t.co/q32maLena0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039173551383875946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038829145187352720",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zptgddq: 大数据监控再立新功，网上买药后驾驶证被销掉了。 https://t.co/q32maLena0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038828185283096576",
+            "3_2038828185627017216"
+          ]
+        },
+        "author_id": "913179974806450176",
+        "conversation_id": "2038829145187352720",
+        "created_at": "2026-03-31T04:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T05:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038829145187352720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q32maLena0",
+              "end": 47,
+              "expanded_url": "https://x.com/zptgddq/status/2038829145187352720/photo/1",
+              "media_key": "3_2038828185283096576",
+              "start": 24,
+              "url": "https://t.co/q32maLena0"
+            },
+            {
+              "display_url": "pic.x.com/q32maLena0",
+              "end": 47,
+              "expanded_url": "https://x.com/zptgddq/status/2038829145187352720/photo/1",
+              "media_key": "3_2038828185627017216",
+              "start": 24,
+              "url": "https://t.co/q32maLena0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038829145187352720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 61368,
+          "like_count": 261,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "大数据监控再立新功，网上买药后驾驶证被销掉了。 https://t.co/q32maLena0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 呼吸堵塞 | 现已恢复?  抑郁状态 好好活着 二氧化碳好似喵 MtF🏳️‍⚧️",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 971,
+          "like_count": 5250,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 1231
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-27T23:14:06.000Z",
+        "description": "有理不怕抬杠",
+        "id": "913179974806450176",
+        "name": "只配抬杠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1325747330482642944/-c2AugCL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35538,
+          "following_count": 229,
+          "like_count": 0,
+          "listed_count": 191,
+          "media_count": 5428,
+          "tweet_count": 24335
+        },
+        "username": "zptgddq",
+        "verified": false
+      }
+    ]
+  }
+}

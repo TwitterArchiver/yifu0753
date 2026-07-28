@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1975807082877383083",
+    "created_at": "2025-10-08T11:18:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T12:18:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975883373332799644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1675820903253549060",
+          "start": 0,
+          "username": "BBgua520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975883373332799644",
+    "in_reply_to_user_id": "1675820903253549060",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975807082877383083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BBgua520 加糖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1975807082877383083",
+        "created_at": "2025-10-08T11:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T12:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975883373332799644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1675820903253549060",
+              "start": 0,
+              "username": "BBgua520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975883373332799644",
+        "in_reply_to_user_id": "1675820903253549060",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975807082877383083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BBgua520 加糖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675820903253549060",
+        "conversation_id": "1975807082877383083",
+        "created_at": "2025-10-08T06:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T07:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975807082877383083"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975807082877383083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 708,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想问下你们都是怎么处理胡子的，另外停糖后返雄了怎么办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "🏳‍⚧ 抑郁焦虑状态",
+        "id": "1668693781791784961",
+        "name": "伊芙🍥",
+        "pinned_tweet_id": "1936898802361020812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 938,
+          "like_count": 4286,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 927
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-03T10:57:19.000Z",
+        "description": "🚪18.8加q/40有福利（觉得我可爱可以投喂）非常感谢！INFP，喜欢有礼貌的人，口令或者v赞赏码（置顶）🍥\n可爱宝宝可以互关互推",
+        "id": "1675820903253549060",
+        "location": "Ukyo-ku, Kyoto",
+        "name": "小呱bb",
+        "pinned_tweet_id": "1876213464877977920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771864967131942912/uhxPquHe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7562,
+          "following_count": 544,
+          "like_count": 6119,
+          "listed_count": 13,
+          "media_count": 257,
+          "tweet_count": 3262
+        },
+        "username": "BBgua520",
+        "verified": false
+      }
+    ]
+  }
+}

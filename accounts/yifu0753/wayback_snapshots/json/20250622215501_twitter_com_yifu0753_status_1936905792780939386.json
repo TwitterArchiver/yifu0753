@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1936845022831448484",
+    "created_at": "2025-06-22T21:55:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T22:55:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936905792780939386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1760607995300585472",
+          "start": 0,
+          "username": "xiaoeiQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936905792780939386",
+    "in_reply_to_user_id": "1760607995300585472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936845022831448484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoeiQAQ 我要🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1936845022831448484",
+        "created_at": "2025-06-22T21:55:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T22:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936905792780939386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1760607995300585472",
+              "start": 0,
+              "username": "xiaoeiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936905792780939386",
+        "in_reply_to_user_id": "1760607995300585472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936845022831448484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoeiQAQ 我要🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760607995300585472",
+        "conversation_id": "1936845022831448484",
+        "created_at": "2025-06-22T17:53:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T18:53:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936845022831448484"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1936845022831448484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说个好玩的，一开始咲苡说谁敢动梦情，他杀了谁，然后他现在跟洛雨好上了，洛雨：咲苡亚硝酸钠被翻出来了，自杀的人被救回来，不值得庆幸\n他对象自s：我他妈跟你开玩笑呢，这是真要死人了，快想办法，谁会开盒救救他\n梦情：当初谁说我没亚硝酸钠渠道帮我买来着？🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "🏳‍⚧ 抑郁焦虑状态",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 841,
+          "like_count": 3700,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 672
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-22T10:10:39.000Z",
+        "description": "呜呜呜这里是咲苡，15mtf家暴党，药已被扔没药吃了呜呜呜。\n我最好的妹妹在这里→@xiaoyieQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "xiaoyieQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1760607995300585472",
+        "location": "喵喵喵",
+        "name": "咲苡🏳️‍⚧️🏳️‍⚧️",
+        "pinned_tweet_id": "1929755203835998531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936285700799787008/gkKTtytG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 447,
+          "like_count": 1360,
+          "listed_count": 2,
+          "media_count": 170,
+          "tweet_count": 1154
+        },
+        "username": "xiaoeiQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

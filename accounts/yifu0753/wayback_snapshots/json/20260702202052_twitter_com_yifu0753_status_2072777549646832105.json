@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2072604823879336242",
+    "created_at": "2026-07-02T20:20:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T21:20:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072777549646832105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1843201902550634496",
+          "start": 0,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072777549646832105",
+    "in_reply_to_user_id": "1843201902550634496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072604823879336242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LwrDHYyuxR22499 5.98万关6个月"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072604794045239296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNfFDzWkAAOoSf.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072604798394732544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNfFUAWkAA91E0.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2072604823879336242",
+        "created_at": "2026-07-02T20:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T21:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072777549646832105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072777549646832105",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072604823879336242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 5.98万关6个月"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072604794045239296",
+            "3_2072604798394732544"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2072604823879336242",
+        "created_at": "2026-07-02T08:54:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T09:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072604823879336242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "mo.mbd.baidu.com/r/1YUNus11Tvq?…",
+              "end": 105,
+              "expanded_url": "https://mo.mbd.baidu.com/r/1YUNus11Tvq?f=cp&rs=1776529953&ruk=3mig_v20PTowiRpgEYL6ug&u=59bf2171ba95b710",
+              "start": 82,
+              "unwound_url": "https://mbd.baidu.com/newspage/data/landingsuper?rs=1776529953&ruk=3mig_v20PTowiRpgEYL6ug&pageType=1&_refluxos=a0&context=%7B%22nid%22%3A%22news_9394172002784681284%22,%22ssid%22%3A%22b280gff4c01000000%22%7D",
+              "url": "https://t.co/WGpUctcGSM"
+            },
+            {
+              "display_url": "xxcb.cn/m/video?id=csp…",
+              "end": 130,
+              "expanded_url": "https://www.xxcb.cn/m/video?id=csp2380534a7197dd9c83f5264335fbfd54&sign=c17b25431&t=1782981165",
+              "start": 107,
+              "status": 403,
+              "unwound_url": "https://www.xxcb.cn/m/video?id=csp2380534a7197dd9c83f5264335fbfd54&sign=c17b25431&t=1782981165",
+              "url": "https://t.co/Wi8IjU4BLU"
+            },
+            {
+              "display_url": "pic.x.com/IuDR6HpPeU",
+              "end": 154,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2072604823879336242/photo/1",
+              "media_key": "3_2072604794045239296",
+              "start": 131,
+              "url": "https://t.co/IuDR6HpPeU"
+            },
+            {
+              "display_url": "pic.x.com/IuDR6HpPeU",
+              "end": 154,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2072604823879336242/photo/1",
+              "media_key": "3_2072604798394732544",
+              "start": 131,
+              "url": "https://t.co/IuDR6HpPeU"
+            },
+            {
+              "display_url": "x.com/AetherKyalo/st…",
+              "end": 178,
+              "expanded_url": "https://twitter.com/AetherKyalo/status/2071160593495761130",
+              "start": 155,
+              "url": "https://t.co/9FX5rYI9nj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072604823879336242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7701,
+          "like_count": 98,
+          "quote_count": 1,
+          "reply_count": 29,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071160593495761130",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2026/7/2/\n本案已被齐鲁壹点，潇湘晨报\n等媒体登刊报道\n很高兴本次以“张立”这个身份参与此案\n但需要纠正的时候能一眼认出学校\n并非我一人功劳\n下附新闻链接:https://t.co/WGpUctcGSM\n\nhttps://t.co/Wi8IjU4BLU https://t.co/IuDR6HpPeU https://t.co/9FX5rYI9nj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "neow 友顺跨女 原简介被封了",
+        "id": "1668693781791784961",
+        "location": "深圳市南山区",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1232,
+          "following_count": 1291,
+          "like_count": 8200,
+          "listed_count": 2,
+          "media_count": 194,
+          "tweet_count": 2127
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6202,
+          "following_count": 3317,
+          "like_count": 3694,
+          "listed_count": 19,
+          "media_count": 484,
+          "tweet_count": 3323
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

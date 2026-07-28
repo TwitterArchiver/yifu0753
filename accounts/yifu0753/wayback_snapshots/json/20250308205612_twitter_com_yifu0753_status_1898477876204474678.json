@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1898159372154306969",
+    "created_at": "2025-03-08T20:56:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T21:56:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898477876204474678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1697903165570686976",
+          "start": 0,
+          "username": "kikoxts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898477876204474678",
+    "in_reply_to_user_id": "1697903165570686976",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898159372154306969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kikoxts 🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1898159372154306969",
+        "created_at": "2025-03-08T20:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T21:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898477876204474678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1697903165570686976",
+              "start": 0,
+              "username": "kikoxts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898477876204474678",
+        "in_reply_to_user_id": "1697903165570686976",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898159372154306969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kikoxts 🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697903165570686976",
+        "conversation_id": "1898159372154306969",
+        "created_at": "2025-03-07T23:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T00:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898159372154306969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kikoxts/status…",
+              "end": 141,
+              "expanded_url": "https://twitter.com/kikoxts/status/1897678560065908875",
+              "start": 118,
+              "url": "https://t.co/thN58rg5Cz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898159372154306969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6393,
+          "like_count": 59,
+          "quote_count": 1,
+          "reply_count": 25,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897678560065908875",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对不起，让大家担心了，我没有成功死掉，推测原因为亚硝酸钠用量没有达到致死量。对不起，让你们担心了，我不知道我下次紫砂是什么时候，但一定不会是推友担心的现在。最后一句话，对不起，真的真的真的真的真的让大家担心了（Kiko罪该万死˃ʍ˂） https://t.co/thN58rg5Cz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "精神分裂 精障人士 重度抑郁 钡中毒 亚硝酸钠中毒 进过ICU ；随便发点自言自语，",
+        "id": "1668693781791784961",
+        "location": "重庆",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 416,
+          "like_count": 2245,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 470
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T09:24:11.000Z",
+        "description": "INF是固定，J/P随时刷新。休学中。想要变成女孩子。精神封印不稳定。渴望安全感。永远的好朋友@ringochichidim和@HJS_2403_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 47,
+                "username": "ringochichidim"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "HJS_2403_0"
+              }
+            ]
+          }
+        },
+        "id": "1697903165570686976",
+        "location": "随机刷新在你身边1000米以内",
+        "name": "是kiko哦~🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895111547455762433/svnvayy3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 868,
+          "following_count": 242,
+          "like_count": 3051,
+          "listed_count": 1,
+          "media_count": 200,
+          "tweet_count": 1655
+        },
+        "username": "kikoxts",
+        "verified": false
+      }
+    ]
+  }
+}

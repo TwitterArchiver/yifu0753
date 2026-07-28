@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2057133938204901593",
+    "created_at": "2026-05-20T16:18:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T17:18:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057133938204901593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2037909112055300096",
+          "start": 3,
+          "username": "QueerLawWatchCN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057133938204901593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 147
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057038569131155773",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QueerLawWatchCN: 最新情况：发布“最高法院最新涉性少数信访回复”的微信公众号相关文章已被微信平台删除，部分账号被屏蔽封禁。\n\n1. 中和彩虹说：账号已被屏蔽\n2. 出色伙伴：此内容因违规无法查看\n3. 骄傲声浪：此内容因违规无法查看\n4. ActionF…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 628,
+        "media_key": "3_2057037072473423872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIwQUZqWgAAyqzi.jpg",
+        "width": 2128
+      },
+      {
+        "height": 588,
+        "media_key": "3_2057038110609797120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIwRQ1BWcAAD8Su.jpg",
+        "width": 1918
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2057133938204901593",
+        "created_at": "2026-05-20T16:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T17:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057133938204901593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2037909112055300096",
+              "start": 3,
+              "username": "QueerLawWatchCN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057133938204901593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 147
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057038569131155773",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QueerLawWatchCN: 最新情况：发布“最高法院最新涉性少数信访回复”的微信公众号相关文章已被微信平台删除，部分账号被屏蔽封禁。\n\n1. 中和彩虹说：账号已被屏蔽\n2. 出色伙伴：此内容因违规无法查看\n3. 骄傲声浪：此内容因违规无法查看\n4. ActionF…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057037072473423872",
+            "3_2057038110609797120"
+          ]
+        },
+        "author_id": "2037909112055300096",
+        "conversation_id": "2057038569131155773",
+        "created_at": "2026-05-20T09:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T10:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057038569131155773"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I7V8XYTszK",
+              "end": 163,
+              "expanded_url": "https://x.com/QueerLawWatchCN/status/2057038569131155773/photo/1",
+              "media_key": "3_2057037072473423872",
+              "start": 140,
+              "url": "https://t.co/I7V8XYTszK"
+            },
+            {
+              "display_url": "pic.x.com/I7V8XYTszK",
+              "end": 163,
+              "expanded_url": "https://x.com/QueerLawWatchCN/status/2057038569131155773/photo/1",
+              "media_key": "3_2057038110609797120",
+              "start": 140,
+              "url": "https://t.co/I7V8XYTszK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057038569131155773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "mp.weixin.qq.com/s/U1VX7omSTbnM…",
+                "end": 309,
+                "expanded_url": "https://mp.weixin.qq.com/s/U1VX7omSTbnMjpoBTHIt-A",
+                "start": 286,
+                "url": "https://t.co/htUUlNVu31"
+              },
+              {
+                "display_url": "mp.weixin.qq.com/s/M_JM_6xYOlOE…",
+                "end": 333,
+                "expanded_url": "https://mp.weixin.qq.com/s/M_JM_6xYOlOE1gFg-XrT9g",
+                "start": 310,
+                "url": "https://t.co/CrkaON8zoi"
+              }
+            ]
+          },
+          "text": "最新情况：发布“最高法院最新涉性少数信访回复”的微信公众号相关文章已被微信平台删除，部分账号被屏蔽封禁。\n\n1. 中和彩虹说：账号已被屏蔽\n2. 出色伙伴：此内容因违规无法查看\n3. 骄傲声浪：此内容因违规无法查看\n4. ActionForlove为爱行动：此内容因违规无法查看\n\n目前此信访回复发布的相关来源均已被删除。\n\n删除不意味着信访回复本身是假或者是P的，具体可以看我上一条的分析；但恐怕要让一些觉得中国对性少数的态度已经彻底改变，或者用中国的改变来支持自己对本国左右翼观点不满的老外们失望了。\n\n已经被删除的部分文章链接：（无法访问只是作为来源证明已被删除）\nhttps://t.co/htUUlNVu31\nhttps://t.co/CrkaON8zoi"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 116,
+          "impression_count": 56161,
+          "like_count": 663,
+          "quote_count": 39,
+          "reply_count": 19,
+          "retweet_count": 147
+        },
+        "reply_settings": "everyone",
+        "text": "最新情况：发布“最高法院最新涉性少数信访回复”的微信公众号相关文章已被微信平台删除，部分账号被屏蔽封禁。\n\n1. 中和彩虹说：账号已被屏蔽\n2. 出色伙伴：此内容因违规无法查看\n3. 骄傲声浪：此内容因违规无法查看\n4. ActionForlove为爱行动：此内容因违规无法查看 https://t.co/I7V8XYTszK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪麻痹 ICU 药物中毒 重度抑郁 | 二氧化碳好死喵 | 快死了",
+        "id": "1668693781791784961",
+        "location": "深圳市南山区",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 1183,
+          "like_count": 7003,
+          "listed_count": 2,
+          "media_count": 155,
+          "tweet_count": 1799
+        },
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-28T15:08:39.000Z",
+        "description": "阿冬的环球酷儿法律观察\n关注全球LGBTQ运动经验和法律实践🏳️‍🌈🏳️‍⚧️，为中国的LGBTQ运动提供他山之玉。\ntracking queer law & policy globally | personal, not institutional",
+        "id": "2037909112055300096",
+        "name": "阿冬的酷儿法律观察",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047360437906182144/TuWas3GX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 516,
+          "like_count": 329,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 115
+        },
+        "username": "QueerLawWatchCN",
+        "verified": true
+      }
+    ]
+  }
+}

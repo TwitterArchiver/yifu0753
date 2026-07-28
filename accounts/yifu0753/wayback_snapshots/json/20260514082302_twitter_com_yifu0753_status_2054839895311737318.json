@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2054839895311737318",
+    "created_at": "2026-05-14T08:23:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T09:23:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054839895311737318"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HacchiTheMaid/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/HacchiTheMaid/status/2054661894125056193",
+          "start": 7,
+          "url": "https://t.co/V8anU4fh0a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054839895311737318",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054661894125056193",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也想被喜欢 https://t.co/V8anU4fh0a"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2054839895311737318",
+        "created_at": "2026-05-14T08:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T09:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054839895311737318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HacchiTheMaid/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/HacchiTheMaid/status/2054661894125056193",
+              "start": 7,
+              "url": "https://t.co/V8anU4fh0a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054839895311737318",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054661894125056193",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也想被喜欢 https://t.co/V8anU4fh0a"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662058783215087617",
+        "conversation_id": "2054661894125056193",
+        "created_at": "2026-05-13T20:35:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T21:35:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054661894125056193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1736265610911428608",
+              "start": 2,
+              "username": "noname2095_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054661894125056193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1997,
+          "like_count": 42,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢@noname2095_\n感觉自己的观点基本上都和她一致，而且也都是苦出身的底层跨女…处境也很相似\n贫困，低学历，因为各种条件也没办法rle，学不会伪音，生活在保守封闭落后的地方…\n感觉很喜欢她，有点像看到另一个自己？\n因为害怕吵架所以不敢发表自己的观点，但看到她的观点的时候都会特别赞同…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪麻痹 ICU 药物中毒 重度抑郁 | 二氧化碳好死喵 | 快死了",
+        "id": "1668693781791784961",
+        "location": "深圳市南山区",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 1166,
+          "like_count": 6638,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 1681
+        },
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-26T11:31:22.000Z",
+        "description": "终其永怀，又窘阴雨。狗狗@Sorsacerba",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "Sorsacerba"
+              }
+            ]
+          }
+        },
+        "id": "1662058783215087617",
+        "location": "距离2.4km",
+        "name": "Hacchi",
+        "pinned_tweet_id": "1927301590777479428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937052623523168256/NWtxx8z__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10830,
+          "following_count": 2027,
+          "like_count": 52987,
+          "listed_count": 39,
+          "media_count": 1374,
+          "tweet_count": 37110
+        },
+        "username": "HacchiTheMaid",
+        "verified": false
+      }
+    ]
+  }
+}

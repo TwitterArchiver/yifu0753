@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1951310826100629935",
+    "created_at": "2025-08-01T20:49:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T21:49:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951384733725913252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1617523246144053251",
+          "start": 0,
+          "username": "s1nyvu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951384733725913252",
+    "in_reply_to_user_id": "1617523246144053251",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951310826100629935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s1nyvu 😭😭😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1951310826100629935",
+        "created_at": "2025-08-01T20:49:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T21:49:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951384733725913252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1617523246144053251",
+              "start": 0,
+              "username": "s1nyvu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951384733725913252",
+        "in_reply_to_user_id": "1617523246144053251",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951310826100629935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s1nyvu 😭😭😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617523246144053251",
+        "conversation_id": "1951310826100629935",
+        "created_at": "2025-08-01T15:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T16:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951310826100629935"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1951310826100629935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已经48h没合眼了，心脏头晕恶心冷汗接踵而至，可我仍然没有半点困意……\n如果明天中午前没有我发新消息，那就…到此为止吧，安"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "🏳‍⚧ 抑郁焦虑状态",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "pinned_tweet_id": "1936898802361020812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 931,
+          "like_count": 4246,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 851
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-23T14:02:59.000Z",
+        "description": "Anti-talent without E2|07|辍学离家出走无业穷困ing|神鬼非人类性格|现代主义文学研究型爱好者|门🚪0.1￥（是的就是一毛钱）赞赏自愿|有那方面需求请私信，想骂我也请私信|56Wd5oiR5aW95q27",
+        "id": "1617523246144053251",
+        "location": "Always Stalking You",
+        "name": "❄️雪梦歆屿🦖",
+        "pinned_tweet_id": "1949008327729709573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939286425934921728/nchzB8iB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 37,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 214,
+          "tweet_count": 1089
+        },
+        "username": "s1nyvu",
+        "verified": false
+      }
+    ]
+  }
+}

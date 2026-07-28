@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2015872407140237453",
+    "created_at": "2026-01-26T19:40:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T20:40:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015872407140237453"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "如果人生是一场戏，那么戏散场后，演员和布景都会消失。’’They ，放置一周的小链接： t.me/+3hxmxjdf4ApjMDc1",
+          "display_url": "t.me/m/U19ECd9PZDE9",
+          "end": 30,
+          "expanded_url": "https://t.me/m/U19ECd9PZDE9",
+          "images": [
+            {
+              "height": 320,
+              "url": "https://pbs.twimg.com/news_img/2015872408117510149/5FqroMMH?format=jpg&name=orig",
+              "width": 320
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2015872408117510149/5FqroMMH?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 7,
+          "status": 200,
+          "title": "Lyra",
+          "unwound_url": "https://t.me/m/U19ECd9PZDE9",
+          "url": "https://t.co/1mPmhKYEMg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015872407140237453",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "挂个神秘链接 https://t.co/1mPmhKYEMg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2015872407140237453",
+        "created_at": "2026-01-26T19:40:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T20:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015872407140237453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "如果人生是一场戏，那么戏散场后，演员和布景都会消失。’’They ，放置一周的小链接： t.me/+3hxmxjdf4ApjMDc1",
+              "display_url": "t.me/m/U19ECd9PZDE9",
+              "end": 30,
+              "expanded_url": "https://t.me/m/U19ECd9PZDE9",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2015872408117510149/5FqroMMH?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2015872408117510149/5FqroMMH?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 7,
+              "status": 200,
+              "title": "Lyra",
+              "unwound_url": "https://t.me/m/U19ECd9PZDE9",
+              "url": "https://t.co/1mPmhKYEMg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015872407140237453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "挂个神秘链接 https://t.co/1mPmhKYEMg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 呼吸堵塞 血压下降 | 现已恢复?  轻度抑郁 好好活着 二氧化碳好似喵 MtF🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/m/U19ECd9PZDE9",
+                "end": 23,
+                "expanded_url": "https://t.me/m/U19ECd9PZDE9",
+                "start": 0,
+                "url": "https://t.co/96EVIKc67o"
+              }
+            ]
+          }
+        },
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 997,
+          "like_count": 4898,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1048
+        },
+        "url": "https://t.co/96EVIKc67o",
+        "username": "yifu0753",
+        "verified": false
+      }
+    ]
+  }
+}

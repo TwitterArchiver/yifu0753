@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2057080446966771902",
+    "created_at": "2026-05-20T17:31:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T18:31:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057152327614906649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1463116235478999042",
+          "start": 0,
+          "username": "Nihili10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057152327614906649",
+    "in_reply_to_user_id": "1463116235478999042",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057080446966771902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nihili10 🤕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2057080446966771902",
+        "created_at": "2026-05-20T17:31:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T18:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057152327614906649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1463116235478999042",
+              "start": 0,
+              "username": "Nihili10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057152327614906649",
+        "in_reply_to_user_id": "1463116235478999042",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057080446966771902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nihili10 🤕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1463116235478999042",
+        "conversation_id": "2057080446966771902",
+        "created_at": "2026-05-20T12:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T13:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057080446966771902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Nihili（谢邀，人在土澳，刚下飞机,Perth）’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1pJkO…",
+              "end": 25,
+              "expanded_url": "https://x.com/i/spaces/1pJkOyBnWwwJj",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2057080448535474176/ArMefpw2?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2057080448535474176/ArMefpw2?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 2,
+              "status": 200,
+              "title": "Happening now: 喵",
+              "unwound_url": "https://twitter.com/i/spaces/1pJkOyBnWwwJj/peek",
+              "url": "https://t.co/LttUxgG8fL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057080446966771902",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 145,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喵 https://t.co/LttUxgG8fL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪麻痹 ICU 药物中毒 重度抑郁 | 二氧化碳好死喵 | 快死了",
+        "id": "1668693781791784961",
+        "location": "深圳市南山区",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 1183,
+          "like_count": 7023,
+          "listed_count": 2,
+          "media_count": 155,
+          "tweet_count": 1808
+        },
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-23T12:04:37.000Z",
+        "description": "我是猪猪，喜欢吃饭，哼唧哼唧~\n可以喊我“nihili”/You can call me Nihili/爱的黑洞/跨妹/trans pride/我的🐷@xiliver1\n#perth",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 91,
+                "start": 85,
+                "tag": "perth"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "xiliver1"
+              }
+            ]
+          }
+        },
+        "id": "1463116235478999042",
+        "location": "Perth",
+        "name": "Nihili（谢邀，人在土澳，刚下飞机,Perth）",
+        "pinned_tweet_id": "1642900290918809600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993739960495878145/jrGB8W1__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1206,
+          "following_count": 515,
+          "like_count": 47248,
+          "listed_count": 0,
+          "media_count": 766,
+          "tweet_count": 12110
+        },
+        "username": "Nihili10",
+        "verified": false
+      }
+    ]
+  }
+}

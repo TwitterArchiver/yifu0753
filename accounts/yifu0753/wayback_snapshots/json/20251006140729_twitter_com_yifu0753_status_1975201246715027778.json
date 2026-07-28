@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975201243657310208"
+      ]
+    },
+    "author_id": "1668693781791784961",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1975201246715027778",
+    "created_at": "2025-10-06T14:07:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T15:07:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975201246715027778"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vZraOka2oK",
+          "end": 35,
+          "expanded_url": "https://x.com/yifu0753/status/1975201246715027778/photo/1",
+          "media_key": "3_1975201243657310208",
+          "start": 12,
+          "url": "https://t.co/vZraOka2oK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975201246715027778",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "中秋快乐，喂每一个人吃 https://t.co/vZraOka2oK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1975201243657310208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2lTEOgakAACcjG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975201243657310208"
+          ]
+        },
+        "author_id": "1668693781791784961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1975201246715027778",
+        "created_at": "2025-10-06T14:07:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T15:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975201246715027778"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vZraOka2oK",
+              "end": 35,
+              "expanded_url": "https://x.com/yifu0753/status/1975201246715027778/photo/1",
+              "media_key": "3_1975201243657310208",
+              "start": 12,
+              "url": "https://t.co/vZraOka2oK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975201246715027778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中秋快乐，喂每一个人吃 https://t.co/vZraOka2oK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "🏳‍⚧ 抑郁焦虑状态",
+        "id": "1668693781791784961",
+        "name": "伊芙🍥",
+        "pinned_tweet_id": "1936898802361020812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 937,
+          "like_count": 4267,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 920
+        },
+        "username": "yifu0753",
+        "verified": false
+      }
+    ]
+  }
+}

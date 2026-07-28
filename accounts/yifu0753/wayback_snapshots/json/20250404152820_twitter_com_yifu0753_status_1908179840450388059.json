@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1908179840450388059",
+    "created_at": "2025-04-04T15:28:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T16:28:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908179840450388059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1479696561302999042",
+          "start": 3,
+          "username": "quitee123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/yChs",
+          "end": 139,
+          "start": 122,
+          "url": "https://t.co/yChs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908179840450388059",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908119043732857171",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @quitee123: 和朋友聊天，提到了之前认识的一个xyn寄了，再联想到推上最近的紫砂潮。\n\n一边是曼谷PAI那边差不多全是家长陪同、本科阶段就可以做SRS。\n\n另一边是贫困家暴双相抑郁紫砂早早结束痛苦一生。\n\n感受到了世界的参差。 https://t.co/yChs…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 338,
+        "media_key": "3_1908119037508558849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnsAJ6vboAE-IXQ.jpg",
+        "width": 412
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1908179840450388059",
+        "created_at": "2025-04-04T15:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T16:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908179840450388059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1479696561302999042",
+              "start": 3,
+              "username": "quitee123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/yChs",
+              "end": 139,
+              "start": 122,
+              "url": "https://t.co/yChs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908179840450388059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908119043732857171",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @quitee123: 和朋友聊天，提到了之前认识的一个xyn寄了，再联想到推上最近的紫砂潮。\n\n一边是曼谷PAI那边差不多全是家长陪同、本科阶段就可以做SRS。\n\n另一边是贫困家暴双相抑郁紫砂早早结束痛苦一生。\n\n感受到了世界的参差。 https://t.co/yChs…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908119037508558849"
+          ]
+        },
+        "author_id": "1479696561302999042",
+        "conversation_id": "1908119043732857171",
+        "created_at": "2025-04-04T11:26:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T12:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908119043732857171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yChsAhtI4z",
+              "end": 130,
+              "expanded_url": "https://x.com/quitee123/status/1908119043732857171/photo/1",
+              "media_key": "3_1908119037508558849",
+              "start": 107,
+              "url": "https://t.co/yChsAhtI4z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908119043732857171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3576,
+          "like_count": 98,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "和朋友聊天，提到了之前认识的一个xyn寄了，再联想到推上最近的紫砂潮。\n\n一边是曼谷PAI那边差不多全是家长陪同、本科阶段就可以做SRS。\n\n另一边是贫困家暴双相抑郁紫砂早早结束痛苦一生。\n\n感受到了世界的参差。 https://t.co/yChsAhtI4z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "精神分裂 精障人士 重度抑郁 钡中毒 亚硝酸钠中毒 进过ICU ；随便发点自言自语，",
+        "id": "1668693781791784961",
+        "location": "重庆",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 440,
+          "like_count": 2499,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 497
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-08T06:09:08.000Z",
+        "description": "永远17岁的小傻瓜 /XYN forever! /三坑少女/可爱橘喵 互fo喵 小宠物猫 @Shion_Glad @larva7501 @dominnicchina 可爱妹妹@OVO_futa ⭐️@CnHpaHky SRS记录：https://t.co/jVttn2YeBF",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 45,
+                "username": "Shion_Glad"
+              },
+              {
+                "end": 67,
+                "start": 57,
+                "username": "larva7501"
+              },
+              {
+                "end": 82,
+                "start": 68,
+                "username": "dominnicchina"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "OVO_futa"
+              },
+              {
+                "end": 108,
+                "start": 99,
+                "username": "CnHpaHky"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/miaomiao202503…",
+                "end": 138,
+                "expanded_url": "https://t.me/miaomiao202503010",
+                "start": 115,
+                "url": "https://t.co/jVttn2YeBF"
+              }
+            ]
+          }
+        },
+        "id": "1479696561302999042",
+        "location": "你的心里",
+        "name": "🐱🍊静静🍊🐱（卖泰补凝胶版）",
+        "pinned_tweet_id": "1887176415617163394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903862743012380672/H6rYb4Zo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7500,
+          "following_count": 2375,
+          "like_count": 23766,
+          "listed_count": 17,
+          "media_count": 574,
+          "tweet_count": 11111
+        },
+        "username": "quitee123",
+        "verified": false
+      }
+    ]
+  }
+}

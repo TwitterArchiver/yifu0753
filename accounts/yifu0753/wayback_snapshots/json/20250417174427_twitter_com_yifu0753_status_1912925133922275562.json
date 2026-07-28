@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1912490295155151076",
+    "created_at": "2025-04-17T17:44:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T18:44:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912925133922275562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1739091493334499328",
+          "start": 0,
+          "username": "Atoloretta"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912925133922275562",
+    "in_reply_to_user_id": "1739091493334499328",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912490295155151076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Atoloretta 🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1912490295155151076",
+        "created_at": "2025-04-17T17:44:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T18:44:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912925133922275562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1739091493334499328",
+              "start": 0,
+              "username": "Atoloretta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912925133922275562",
+        "in_reply_to_user_id": "1739091493334499328",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912490295155151076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Atoloretta 🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739091493334499328",
+        "conversation_id": "1912490295155151076",
+        "created_at": "2025-04-16T12:56:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T13:56:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912490295155151076"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1912490295155151076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2988,
+          "like_count": 41,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "和爸妈联系，直接把自己弄解离了，好难受啊。我说我的计划进展顺利时他们装冷漠，我说焦虑时就反讽。这会吃安眠药睡觉，希望明天不会继续解离。我22年自切差点死了他们才意识到孩子是活生生的人。怎么，我自信的样子看起来很陌生吗？我现在的生活和学习状态是杀出一条血路换来的，不允许任何人伤害"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "01 MtF🏳‍⚧ 抑郁焦虑状态 ASD | 同类互fo",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 616,
+          "like_count": 3130,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 552
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-25T01:12:02.000Z",
+        "description": "风光摄影师｜张国荣王家卫粉丝｜爬山徒步爱好者 | 少键政非黄推，出言不逊直接开骂 ｜包容但坚决反对药物滥用⛔️ | LGBTQ+ friendly,Feminist.｜",
+        "id": "1739091493334499328",
+        "name": "松江腊雪🍥ᴗ🍥",
+        "pinned_tweet_id": "1879867542644383875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881746386280165376/JvHUpqTq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 222,
+          "like_count": 537,
+          "listed_count": 3,
+          "media_count": 164,
+          "tweet_count": 691
+        },
+        "username": "Atoloretta",
+        "verified": false
+      }
+    ]
+  }
+}

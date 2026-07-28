@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1975869082361868667",
+    "created_at": "2025-10-08T10:21:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T11:21:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975869082361868667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1810873766119100416",
+          "start": 3,
+          "username": "RainEngine2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975869082361868667",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975780590457909436",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RainEngine2024: 和前任认识了三四年了，最近联系上以后发现ta变成女孩子了...一时半会不知道该说什么好..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1975869082361868667",
+        "created_at": "2025-10-08T10:21:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T11:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975869082361868667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1810873766119100416",
+              "start": 3,
+              "username": "RainEngine2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975869082361868667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975780590457909436",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RainEngine2024: 和前任认识了三四年了，最近联系上以后发现ta变成女孩子了...一时半会不知道该说什么好..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810873766119100416",
+        "conversation_id": "1975780590457909436",
+        "created_at": "2025-10-08T04:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T05:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975780590457909436"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975780590457909436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5622,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和前任认识了三四年了，最近联系上以后发现ta变成女孩子了...一时半会不知道该说什么好..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "🏳‍⚧ 抑郁焦虑状态",
+        "id": "1668693781791784961",
+        "name": "伊芙🍥",
+        "pinned_tweet_id": "1936898802361020812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 938,
+          "like_count": 4284,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 925
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "07年小朋友/貌似不是学生/小米合作伙伴/雨擎项目组/爱好拍照记录生活/喜欢折腾数码产品/目前在学习u3d引擎/HRT:2025.09.05/永远相信美好的事情即将发生",
+        "id": "1810873766119100416",
+        "name": "雨晴今天睡了吗",
+        "pinned_tweet_id": "1973728167132344688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971612173811232768/q54JKFhX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1402,
+          "following_count": 461,
+          "like_count": 15403,
+          "listed_count": 2,
+          "media_count": 430,
+          "tweet_count": 2629
+        },
+        "username": "RainEngine2024",
+        "verified": false
+      }
+    ]
+  }
+}

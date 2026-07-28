@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2048618450399170971",
+    "created_at": "2026-04-27T04:21:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T05:21:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048618450399170971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "50683",
+          "start": 3,
+          "username": "dingyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048618450399170971",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048585369315316105",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dingyi: 每天刷 timeline：\n\n外国人都是认真分享自己的作品、产品、生活。\n\n中国人都是：注册美国公司、买海外 sim 卡、薅羊毛、吵架撕逼……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2048618450399170971",
+        "created_at": "2026-04-27T04:21:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T05:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048618450399170971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "50683",
+              "start": 3,
+              "username": "dingyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048618450399170971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048585369315316105",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dingyi: 每天刷 timeline：\n\n外国人都是认真分享自己的作品、产品、生活。\n\n中国人都是：注册美国公司、买海外 sim 卡、薅羊毛、吵架撕逼……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "50683",
+        "conversation_id": "2048585369315316105",
+        "created_at": "2026-04-27T02:09:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T03:09:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048585369315316105"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048585369315316105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 10734,
+          "like_count": 129,
+          "quote_count": 9,
+          "reply_count": 52,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "每天刷 timeline：\n\n外国人都是认真分享自己的作品、产品、生活。\n\n中国人都是：注册美国公司、买海外 sim 卡、薅羊毛、吵架撕逼……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 | 现已恢复?  抑郁状态 好好活着 二氧化碳好似喵 MtF🏳️‍⚧️",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 982,
+          "like_count": 5514,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 1386
+        },
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2006-12-08T15:10:12.000Z",
+        "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "quaily.com/dingyi",
+                "end": 64,
+                "expanded_url": "http://quaily.com/dingyi",
+                "start": 41,
+                "url": "https://t.co/q1JG1yCzdb"
+              },
+              {
+                "display_url": "news.dex.group",
+                "end": 90,
+                "expanded_url": "http://news.dex.group",
+                "start": 67,
+                "url": "https://t.co/uHtq1Z3Kus"
+              },
+              {
+                "display_url": "saaspick.dev",
+                "end": 116,
+                "expanded_url": "http://saaspick.dev",
+                "start": 93,
+                "url": "https://t.co/6rJeVpe1pD"
+              },
+              {
+                "display_url": "topfeed.xyz",
+                "end": 142,
+                "expanded_url": "http://topfeed.xyz",
+                "start": 119,
+                "url": "https://t.co/cP6NQ3keo5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ding.one",
+                "end": 23,
+                "expanded_url": "http://ding.one",
+                "start": 0,
+                "url": "https://t.co/cf71jdxlkm"
+              }
+            ]
+          }
+        },
+        "id": "50683",
+        "location": "Remote",
+        "name": "Ding",
+        "pinned_tweet_id": "2047887336403529844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150942,
+          "following_count": 4984,
+          "like_count": 2530,
+          "listed_count": 737,
+          "media_count": 2695,
+          "tweet_count": 60611
+        },
+        "url": "https://t.co/cf71jdxlkm",
+        "username": "dingyi",
+        "verified": true
+      }
+    ]
+  }
+}

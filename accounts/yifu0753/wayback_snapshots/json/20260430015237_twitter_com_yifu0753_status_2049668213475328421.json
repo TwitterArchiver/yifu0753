@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2049668213475328421",
+    "created_at": "2026-04-30T01:52:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T02:52:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049668213475328421"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/woaishuji/stat…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/woaishuji/status/2049667666722590932",
+          "start": 7,
+          "url": "https://t.co/Hs1BdGTyeo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049668213475328421",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049667666722590932",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也是😢😢😢 https://t.co/Hs1BdGTyeo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2049668213475328421",
+        "created_at": "2026-04-30T01:52:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T02:52:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049668213475328421"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/woaishuji/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/woaishuji/status/2049667666722590932",
+              "start": 7,
+              "url": "https://t.co/Hs1BdGTyeo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049668213475328421",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049667666722590932",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也是😢😢😢 https://t.co/Hs1BdGTyeo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "897749985361444866",
+        "conversation_id": "2049667666722590932",
+        "created_at": "2026-04-30T01:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T02:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049667666722590932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yifu0753/statu…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/yifu0753/status/2049609914117697569",
+              "start": 26,
+              "url": "https://t.co/mnpPU7R93u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049667666722590932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049609914117697569",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你的意思是说\n我的生活近乎依靠解离这个bug维持的 https://t.co/mnpPU7R93u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 | 现已恢复?  抑郁状态 好好活着 二氧化碳好似喵 MtF🏳️‍⚧️",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 1103,
+          "like_count": 6050,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1493
+        },
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2017-08-16T09:20:50.000Z",
+        "description": "",
+        "id": "897749985361444866",
+        "name": "文学少女安德烈",
+        "pinned_tweet_id": "1862810120075583938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417757199130624/fcknZsxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1643,
+          "following_count": 1881,
+          "like_count": 470860,
+          "listed_count": 10,
+          "media_count": 2907,
+          "tweet_count": 16884
+        },
+        "username": "woaishuji",
+        "verified": false
+      }
+    ]
+  }
+}

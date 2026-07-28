@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2060000163582836923",
+    "created_at": "2026-05-28T14:33:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T15:33:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060006562827993392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1979308662117273604",
+          "start": 0,
+          "username": "kuaizichopstick"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060006562827993392",
+    "in_reply_to_user_id": "1979308662117273604",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060000163582836923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuaizichopstick 😰 为什么还能拿到手机"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2060000089725403136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJaXKtFbAAA7939.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2060000163582836923",
+        "created_at": "2026-05-28T14:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T15:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060006562827993392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979308662117273604",
+              "start": 0,
+              "username": "kuaizichopstick"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060006562827993392",
+        "in_reply_to_user_id": "1979308662117273604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060000163582836923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuaizichopstick 😰 为什么还能拿到手机"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060000089725403136"
+          ]
+        },
+        "author_id": "1979308662117273604",
+        "conversation_id": "2060000163582836923",
+        "created_at": "2026-05-28T14:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T15:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060000163582836923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1t85yeeS8M",
+              "end": 33,
+              "expanded_url": "https://x.com/kuaizichopstick/status/2060000163582836923/photo/1",
+              "media_key": "3_2060000089725403136",
+              "start": 10,
+              "url": "https://t.co/1t85yeeS8M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060000163582836923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "让我想想今晚怎么过 https://t.co/1t85yeeS8M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪麻痹 ICU 药物中毒 重度抑郁 | 二氧化碳好死喵 | 快死了",
+        "id": "1668693781791784961",
+        "location": "深圳市南山区",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1005,
+          "following_count": 1199,
+          "like_count": 7431,
+          "listed_count": 2,
+          "media_count": 160,
+          "tweet_count": 1918
+        },
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-17T22:09:11.000Z",
+        "description": "高二在读/物化生\n生产日期08.12.25hrt25.12.05 MtF/X 无证含糖|已炸柜|家暴党\n同类可互fo喵！\n把我当疯子就好……\n日麻狂热爱好者/phigros·arcaea·pjsk·orzmic/二次元 191cm/81kg \n日常作息周一到周四7:00-21:30上学周五到17:00 周末不定时刷新喵",
+        "id": "1979308662117273604",
+        "location": "青岛",
+        "name": "筷子不会用筷子🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979309306349604864/FDPCsZN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 215,
+          "like_count": 186,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 119
+        },
+        "username": "kuaizichopstick",
+        "verified": false
+      }
+    ]
+  }
+}

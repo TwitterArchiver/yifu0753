@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2039179552388444591",
+    "created_at": "2026-04-01T03:14:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T04:14:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039179552388444591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1880464788276539392",
+          "start": 3,
+          "username": "haorikotoha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039179552388444591",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039009565778514394",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @haorikotoha: 被关押的孩子可以自愿放弃使用正确pronoun来换取被救助，但救助者绝不可以以此为条件来判断是否救助。\n如果认不清这个，就别干救助了。无非是矫正机构的二道贩子罢了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2039179552388444591",
+        "created_at": "2026-04-01T03:14:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T04:14:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039179552388444591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1880464788276539392",
+              "start": 3,
+              "username": "haorikotoha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039179552388444591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039009565778514394",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @haorikotoha: 被关押的孩子可以自愿放弃使用正确pronoun来换取被救助，但救助者绝不可以以此为条件来判断是否救助。\n如果认不清这个，就别干救助了。无非是矫正机构的二道贩子罢了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880464788276539392",
+        "conversation_id": "2039009565778514394",
+        "created_at": "2026-03-31T15:58:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T16:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039009565778514394"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039009565778514394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 909,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "被关押的孩子可以自愿放弃使用正确pronoun来换取被救助，但救助者绝不可以以此为条件来判断是否救助。\n如果认不清这个，就别干救助了。无非是矫正机构的二道贩子罢了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 呼吸堵塞 | 现已恢复?  抑郁状态 好好活着 二氧化碳好似喵 MtF🏳️‍⚧️",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 971,
+          "like_count": 5260,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 1248
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-18T03:58:53.000Z",
+        "description": "败犬女配 / TransLes",
+        "id": "1880464788276539392",
+        "location": "反正不在北欧",
+        "name": "琴葉🏳️‍⚧️HYY",
+        "pinned_tweet_id": "1944960722972369260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962137875354644480/L-XnrHgT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 138,
+          "like_count": 933,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 919
+        },
+        "username": "haorikotoha",
+        "verified": false
+      }
+    ]
+  }
+}

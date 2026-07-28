@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2024092203094777974",
+    "created_at": "2026-02-20T10:06:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T11:06:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024787805323636795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1419403960696385546",
+          "start": 0,
+          "username": "WaiFu8964"
+        },
+        {
+          "end": 24,
+          "id": "1683001001043984384",
+          "start": 11,
+          "username": "TudouCn24795"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024787805323636795",
+    "in_reply_to_user_id": "1419403960696385546",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024646949937279066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WaiFu8964 @TudouCn24795 😢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024646938969186304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBj9qfjXIAANsX6.jpg",
+        "width": 970
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2024092203094777974",
+        "created_at": "2026-02-20T10:06:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T11:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024787805323636795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1419403960696385546",
+              "start": 0,
+              "username": "WaiFu8964"
+            },
+            {
+              "end": 24,
+              "id": "1683001001043984384",
+              "start": 11,
+              "username": "TudouCn24795"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024787805323636795",
+        "in_reply_to_user_id": "1419403960696385546",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024646949937279066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WaiFu8964 @TudouCn24795 😢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024646938969186304"
+          ]
+        },
+        "author_id": "1419403960696385546",
+        "conversation_id": "2024092203094777974",
+        "created_at": "2026-02-20T00:47:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T01:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024646949937279066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1683001001043984384",
+              "start": 0,
+              "username": "TudouCn24795"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vpw0T0Klas",
+              "end": 82,
+              "expanded_url": "https://x.com/WaiFu8964/status/2024646949937279066/photo/1",
+              "media_key": "3_2024646938969186304",
+              "start": 59,
+              "url": "https://t.co/vpw0T0Klas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024646949937279066",
+        "in_reply_to_user_id": "1683001001043984384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1354,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024092203094777974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TudouCn24795 从教人开户多少钱仅用来自杀干涉，到摇身一变成黑产中级高手励志取代waifu仅用时一年多😂 https://t.co/vpw0T0Klas"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 呼吸堵塞 | 现已恢复?  抑郁状态 好好活着 二氧化碳好似喵 MtF🏳️‍⚧️",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 994,
+          "like_count": 5105,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 1179
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-25T21:07:49.000Z",
+        "description": "退休时间已定，现已启用付费消息，用来过滤垃圾信息。如果您是别人推荐来的客户请让Ta通知我加联系人即可免费发信息，聊天的话可以在任意群喊我看心情回复。付费信息100%回复. #USDT hodler",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 91,
+                "start": 86,
+                "tag": "USDT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/saomei",
+                "end": 23,
+                "expanded_url": "https://t.me/saomei",
+                "start": 0,
+                "url": "https://t.co/GrZymHku4e"
+              }
+            ]
+          }
+        },
+        "id": "1419403960696385546",
+        "location": "IP归属地:深圳",
+        "name": "Waifu终于要退休了！",
+        "pinned_tweet_id": "2008135237100826920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999617518881701893/dlgBtwTi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7689,
+          "following_count": 2339,
+          "like_count": 5197,
+          "listed_count": 17,
+          "media_count": 839,
+          "tweet_count": 7229
+        },
+        "url": "https://t.co/GrZymHku4e",
+        "username": "WaiFu8964",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-23T06:28:22.000Z",
+        "description": "井芹仁菜/日常推/郑州定居/Pansexuality/Transhumanism/I am a human being👋/This year's spring is warm",
+        "id": "1683001001043984384",
+        "name": "☯️🧬サーモン（販売中)🐟🍻❄Warm Spring",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875437246762930176/eKcanueu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1215,
+          "following_count": 477,
+          "like_count": 3616,
+          "listed_count": 3,
+          "media_count": 160,
+          "tweet_count": 1840
+        },
+        "username": "TudouCn24795",
+        "verified": false
+      }
+    ]
+  }
+}

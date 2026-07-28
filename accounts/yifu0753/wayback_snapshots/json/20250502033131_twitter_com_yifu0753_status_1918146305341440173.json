@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1917918740051857842",
+    "created_at": "2025-05-02T03:31:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T04:31:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918146305341440173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "872113640064786432",
+          "start": 0,
+          "username": "ChariseStever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918146305341440173",
+    "in_reply_to_user_id": "872113640064786432",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917918740051857842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChariseStever 😥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1917918740051857842",
+        "created_at": "2025-05-02T03:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T04:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918146305341440173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "872113640064786432",
+              "start": 0,
+              "username": "ChariseStever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918146305341440173",
+        "in_reply_to_user_id": "872113640064786432",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917918740051857842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChariseStever 😥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "872113640064786432",
+        "conversation_id": "1917918740051857842",
+        "created_at": "2025-05-01T12:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T13:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917918740051857842"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1917918740051857842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 387,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我对\"死亡\"这件事情非常不敏感\n推里经常有谁发公告说过世了或者说准备做一些相关事情。但我不会去看，回复或者关心\n觉得这些事情很平常而且是必然会发生的。从小(大概是三年级左右)就不断有人从我身边离去，其中也包括至亲 对这种事情已经麻木了\n有一天我也会离去 但我不会告诉任何人 也不希望被打扰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "01 MtF🏳‍⚧ 抑郁焦虑状态 ASD | 同类互fo",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 783,
+          "like_count": 3511,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 628
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-06T15:31:09.000Z",
+        "description": "Goblin/Imp 感兴趣的领域: Information Retrieval (信息检索）& Recommender Systems （推荐系统）",
+        "id": "872113640064786432",
+        "location": "Goblin Den",
+        "name": "nil",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1530459917060120576/MxIH3gkd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 83,
+          "like_count": 606,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 876
+        },
+        "username": "ChariseStever",
+        "verified": false
+      }
+    ]
+  }
+}

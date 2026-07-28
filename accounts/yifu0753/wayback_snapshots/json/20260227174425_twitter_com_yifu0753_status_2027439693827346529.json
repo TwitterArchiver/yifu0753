@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2027422535852372128",
+    "created_at": "2026-02-27T17:44:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T18:44:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027439693827346529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1649366440808681474",
+          "start": 0,
+          "username": "is_llll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027439693827346529",
+    "in_reply_to_user_id": "1649366440808681474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027422535852372128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@is_llll 为什么我感觉幻觉很严重"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2027422535852372128",
+        "created_at": "2026-02-27T17:44:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T18:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027439693827346529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1649366440808681474",
+              "start": 0,
+              "username": "is_llll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027439693827346529",
+        "in_reply_to_user_id": "1649366440808681474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027422535852372128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@is_llll 为什么我感觉幻觉很严重"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649366440808681474",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2027422535852372128",
+        "created_at": "2026-02-27T16:36:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T17:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027422535852372128"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027422535852372128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 586,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Gemini 3 Flash的世界知识实在是深不见底，而且幻觉率很低。每次当我以为Gemini 3 Flash在胡说八道而进行fact check都会惊讶地发现他完全正确…\n\n我现在需要reference的地方就用Google AI overview/AI mode，不需要reference的地方就直接对话Gemini 3 Flash…唯一的遗憾是这个模型活人感不如Claude。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 呼吸堵塞 | 现已恢复?  抑郁状态 好好活着 二氧化碳好似喵 MtF🏳️‍⚧️",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 988,
+          "like_count": 5130,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 1195
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-21T10:56:22.000Z",
+        "description": "06｜ '26 🇺🇸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Vv_sA_MlSK03Z…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Vv_sA_MlSK03ZGU1",
+                "start": 0,
+                "url": "https://t.co/o22scQqc7S"
+              }
+            ]
+          }
+        },
+        "id": "1649366440808681474",
+        "location": "Shanghai",
+        "name": "LLLL🏳️‍🌈",
+        "pinned_tweet_id": "1937595042837021031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804666323064266752/D_saJw-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4267,
+          "following_count": 677,
+          "like_count": 42496,
+          "listed_count": 8,
+          "media_count": 527,
+          "tweet_count": 4221
+        },
+        "url": "https://t.co/o22scQqc7S",
+        "username": "is_llll",
+        "verified": false
+      }
+    ]
+  }
+}

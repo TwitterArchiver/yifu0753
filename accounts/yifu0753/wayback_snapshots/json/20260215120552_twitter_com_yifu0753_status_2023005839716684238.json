@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2022661302678884461",
+    "created_at": "2026-02-15T12:05:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T13:05:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023005839716684238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "SPRlumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023005839716684238",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022661302678884461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SPRlumi 😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2022661302678884461",
+        "created_at": "2026-02-15T12:05:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T13:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023005839716684238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "SPRlumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023005839716684238",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022661302678884461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SPRlumi 😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2022661302678884461",
+        "created_at": "2026-02-14T13:16:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T14:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022661302678884461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/igeekbb/status…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/igeekbb/status/2022549065658184038",
+              "start": 46,
+              "url": "https://t.co/zeumUiNFuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022661302678884461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5494,
+          "like_count": 73,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022549065658184038",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么说呢\n之前某人吃盐我报警的时候\n晶哥的态度给我一种“人又不是你毒死的为什么要救”的感觉 https://t.co/zeumUiNFuo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 呼吸堵塞 | 现已恢复?  抑郁状态 好好活着 二氧化碳好似喵 MtF🏳️‍⚧️",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 994,
+          "like_count": 5088,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 1150
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "跟猫卷一起玩你得会哄小孩",
+        "id": "1552918719440924672",
+        "name": "✨猫卷🍥🍫🍵🍣🍡🏳️‍🌈🏳️‍⚧️",
+        "pinned_tweet_id": "2020482158163378261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019893963415851008/GaYGREEZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3302,
+          "following_count": 865,
+          "like_count": 2233,
+          "listed_count": 7,
+          "media_count": 23,
+          "tweet_count": 228
+        },
+        "username": "SPRlumi",
+        "verified": false
+      }
+    ]
+  }
+}

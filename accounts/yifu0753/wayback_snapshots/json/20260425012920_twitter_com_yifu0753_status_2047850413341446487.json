@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2047850413341446487",
+    "created_at": "2026-04-25T01:29:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T02:29:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047850413341446487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1811265295849598976",
+          "start": 3,
+          "username": "KiraMyao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/kV",
+          "end": 139,
+          "start": 124,
+          "url": "https://t.co/kV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047850413341446487",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047628280959049839",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KiraMyao: “何不食肉糜？”🧐\n如果范围是简中推那么：\n2026年，在这片土地上多少普通MTF依然被遗忘在《药娘的天空》那个令人窒息的千禧年旧梦里。\n“不术不改证，是她们想体验不一样的人生。” 说出这句话的时候，你天真得残忍……… https://t.co/kV…"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "unfe",
+        "height": 831,
+        "media_key": "3_2047628274474606592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqjERwa4AARHxe.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2047850413341446487",
+        "created_at": "2026-04-25T01:29:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T02:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047850413341446487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1811265295849598976",
+              "start": 3,
+              "username": "KiraMyao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/kV",
+              "end": 139,
+              "start": 124,
+              "url": "https://t.co/kV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047850413341446487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047628280959049839",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KiraMyao: “何不食肉糜？”🧐\n如果范围是简中推那么：\n2026年，在这片土地上多少普通MTF依然被遗忘在《药娘的天空》那个令人窒息的千禧年旧梦里。\n“不术不改证，是她们想体验不一样的人生。” 说出这句话的时候，你天真得残忍……… https://t.co/kV…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047628274474606592"
+          ]
+        },
+        "author_id": "1811265295849598976",
+        "conversation_id": "2047628280959049839",
+        "created_at": "2026-04-24T10:46:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T11:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047628280959049839"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kVbQqyvAIe",
+              "end": 132,
+              "expanded_url": "https://x.com/KiraMyao/status/2047628280959049839/photo/1",
+              "media_key": "3_2047628274474606592",
+              "start": 109,
+              "url": "https://t.co/kVbQqyvAIe"
+            },
+            {
+              "display_url": "x.com/ServalCandle/s…",
+              "end": 156,
+              "expanded_url": "https://twitter.com/ServalCandle/status/2047406686361813245",
+              "start": 133,
+              "url": "https://t.co/s6fwZokVhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047628280959049839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "“何不食肉糜？”🧐\n如果范围是简中推那么：\n2026年，在这片土地上多少普通MTF依然被遗忘在《药娘的天空》那个令人窒息的千禧年旧梦里。\n“不术不改证，是她们想体验不一样的人生。” 说出这句话的时候，你天真得残忍……\n大多数mtf年龄小+父母不支持，没有能力攒足手术钱，很多先前去世的姐姐妹妹TA们离开前，还在愧疚：“手术费好难，对不起，我实在攒不够了……”\n不是她们不想，而是她们曾经尝试过：\n向父母出柜寻求帮助陷入持续的语言暴力，寻找医生被一次次敷衍和不理解，在她还是个孩子时就被赶出家门失去继续受教育的权利，在最底层做着廉价的劳动力，必须家属签字同意的规定在她们眼里几乎不可实现……\n是的，我们所有人都知道，太平洋彼岸有着更包容的法律，有着落地就能免术改证的自由。而这里的她们，只是连买自制凝胶都要数着余额的、飞不过沧海的…蝴蝶\n\n“2008年到2024年，几乎每天都有一人以上遇害，被家庭拒绝、被校园霸凌，她们早早被社会抛弃，贫困、失业、流落街头，是分配给她们的默认剧本。”\n——2025年联合国跨性别群体报告"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 5493,
+          "like_count": 130,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047406686361813245",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“何不食肉糜？”🧐\n如果范围是简中推那么：\n2026年，在这片土地上多少普通MTF依然被遗忘在《药娘的天空》那个令人窒息的千禧年旧梦里。\n“不术不改证，是她们想体验不一样的人生。” 说出这句话的时候，你天真得残忍…… https://t.co/kVbQqyvAIe https://t.co/s6fwZokVhu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 呼吸堵塞 | 现已恢复?  抑郁状态 好好活着 二氧化碳好似喵 MtF🏳️‍⚧️",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 974,
+          "like_count": 5347,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 1284
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T05:04:57.000Z",
+        "description": "KiraMyao🌎きらみゃお🌏星绮喵                                      \n  \nTech💾 meme👻 Equal❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "equal.kiramayo.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://equal.kiramayo.dpdns.org",
+                "start": 0,
+                "url": "https://t.co/HY2O2A4Kqa"
+              }
+            ]
+          }
+        },
+        "id": "1811265295849598976",
+        "location": "Japan",
+        "name": "KiraMyao🐱",
+        "pinned_tweet_id": "2043007235786445150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011461446195130369/v137vh6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 352,
+          "like_count": 9327,
+          "listed_count": 1,
+          "media_count": 351,
+          "tweet_count": 1277
+        },
+        "url": "https://t.co/HY2O2A4Kqa",
+        "username": "KiraMyao",
+        "verified": true
+      }
+    ]
+  }
+}

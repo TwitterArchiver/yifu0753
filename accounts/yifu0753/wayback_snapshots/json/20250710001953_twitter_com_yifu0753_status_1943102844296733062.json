@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1943102844296733062",
+    "created_at": "2025-07-10T00:19:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T01:19:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943102844296733062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "17235228",
+          "start": 3,
+          "username": "INP1458"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943102844296733062",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942908639519334620",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @INP1458: 阿红大爷那个事，，，首先明确不要把个体行为上升到群体，所以即使他是trans你们这群傻逼也不应该连着trans一起骂，其次，他并没有明确指出自己是跨性别，卖视频的定位也是伪娘、女装大爷，并且他没有性别焦虑，没有rle，没有hrt，没有srs，以正常男性…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1943102844296733062",
+        "created_at": "2025-07-10T00:19:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T01:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943102844296733062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "17235228",
+              "start": 3,
+              "username": "INP1458"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943102844296733062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942908639519334620",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @INP1458: 阿红大爷那个事，，，首先明确不要把个体行为上升到群体，所以即使他是trans你们这群傻逼也不应该连着trans一起骂，其次，他并没有明确指出自己是跨性别，卖视频的定位也是伪娘、女装大爷，并且他没有性别焦虑，没有rle，没有hrt，没有srs，以正常男性…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "17235228",
+        "conversation_id": "1942908639519334620",
+        "created_at": "2025-07-09T11:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T12:20:32.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942906714891706741",
+          "1942908639519334620"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1942908639519334620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "阿红大爷那个事，，，首先明确不要把个体行为上升到群体，所以即使他是trans你们这群傻逼也不应该连着trans一起骂，其次，他并没有明确指出自己是跨性别，卖视频的定位也是伪娘、女装大爷，并且他没有性别焦虑，没有rle，没有hrt，没有srs，以正常男性身份生活，甚至有意把女装大爷作为卖点，为什么要说他是mtf？有人借此给lgbt扣帽子，男同都不想认，到底是哪些mtf在上赶着认亲？我都怀疑是反跨在故意给mtf招黑"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2156,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "阿红大爷那个事，，，首先明确不要把个体行为上升到群体，所以即使他是trans你们这群傻逼也不应该连着trans一起骂，其次，他并没有明确指出自己是跨性别，卖视频的定位也是伪娘、女装大爷，并且他没有性别焦虑，没有rle，没有hrt，没有srs，以正常男性身份生活，甚至有意把女装大爷作为卖点，为什么要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "🏳‍⚧ 抑郁焦虑状态",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "pinned_tweet_id": "1936898802361020812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 923,
+          "like_count": 4116,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 779
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2008-11-07T17:53:43.000Z",
+        "description": "09高一物化生 | 🎂11.04 | 🏳️‍⚧️MtF | 🏳️‍🌈Les | 🍥HRT 2024.08.09 | 158/39kg",
+        "id": "17235228",
+        "location": "看看你后面",
+        "name": "INP🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906832804794839040/voz7SQY8_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 147,
+          "like_count": 1079,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 814
+        },
+        "username": "INP1458",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2049661035804868702",
+    "created_at": "2026-04-30T01:24:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T02:24:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049661035804868702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1980140172726673408",
+          "start": 3,
+          "username": "Rennord9407"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049661035804868702",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049472586674061420",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rennord9407: 推特上比我惨的好多 怎么比我鸡巴大的 比我有钱的还这么多💔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2049661035804868702",
+        "created_at": "2026-04-30T01:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T02:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049661035804868702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1980140172726673408",
+              "start": 3,
+              "username": "Rennord9407"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049661035804868702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049472586674061420",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rennord9407: 推特上比我惨的好多 怎么比我鸡巴大的 比我有钱的还这么多💔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980140172726673408",
+        "conversation_id": "2049472586674061420",
+        "created_at": "2026-04-29T12:55:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T13:55:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049472586674061420"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049472586674061420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 736,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推特上比我惨的好多 怎么比我鸡巴大的 比我有钱的还这么多💔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 | 现已恢复?  抑郁状态 好好活着 二氧化碳好似喵 MtF🏳️‍⚧️",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 1096,
+          "like_count": 6006,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1479
+        },
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-20T05:13:10.000Z",
+        "description": "He/She/They ？sexual🏳️‍🌈 友跨 全力支持争取性少数群体权益|社会民主主义🌹左翼 国际主义|键政暂时闭关|\n看到我说话跟磕了药一样请见谅\n🇩🇪学习中|可以与任何立场的友善的人互fo",
+        "id": "1980140172726673408",
+        "location": "中華自由聯邦武漢市",
+        "name": "東洋蓮花酥🌹🏳️‍🌈🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036505669101297665/WDp2YEIf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 845,
+          "following_count": 610,
+          "like_count": 41160,
+          "listed_count": 4,
+          "media_count": 112,
+          "tweet_count": 7270
+        },
+        "username": "Rennord9407",
+        "verified": true
+      }
+    ]
+  }
+}

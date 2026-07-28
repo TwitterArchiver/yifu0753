@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1837928179350360520",
+    "created_at": "2024-09-22T18:53:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-22T19:53:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837928179350360520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1467175651954200577",
+          "start": 3,
+          "username": "kjkluk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837928179350360520",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837793968203194689",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kjkluk: 🐴斯克是不是把我限流了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1837928179350360520",
+        "created_at": "2024-09-22T18:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T19:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837928179350360520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1467175651954200577",
+              "start": 3,
+              "username": "kjkluk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837928179350360520",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837793968203194689",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kjkluk: 🐴斯克是不是把我限流了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467175651954200577",
+        "conversation_id": "1837793968203194689",
+        "created_at": "2024-09-22T10:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T11:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837793968203194689"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1837793968203194689",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 657,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "🐴斯克是不是把我限流了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "精神分裂 精障人士 重度抑郁 氯化钡中毒 亚硝酸盐中毒 进过ICU ；随便发点自言自语",
+        "id": "1668693781791784961",
+        "location": "广州",
+        "name": "伊芙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 234,
+          "like_count": 1138,
+          "listed_count": 0,
+          "tweet_count": 369
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-04T16:55:23.000Z",
+        "description": "風暴貓貓正在返航",
+        "id": "1467175651954200577",
+        "location": "Japan",
+        "name": "川井 橘音🏳️‍⚧️",
+        "pinned_tweet_id": "1778705963245330728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835473451345440768/Knfh7kzt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1365,
+          "following_count": 1605,
+          "like_count": 121856,
+          "listed_count": 6,
+          "tweet_count": 5345
+        },
+        "username": "kjkluk",
+        "verified": false
+      }
+    ]
+  }
+}

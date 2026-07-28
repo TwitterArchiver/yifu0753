@@ -1,0 +1,177 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1794677426225905873",
+    "created_at": "2024-05-27T13:42:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-27T14:42:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1795088141059023229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1677991830208626689",
+          "start": 0,
+          "username": "bfwhbfu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1795088141059023229",
+    "in_reply_to_user_id": "1677991830208626689",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794677426225905873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bfwhbfu 我怕个鸡毛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1794677426225905873",
+        "created_at": "2024-05-27T13:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-27T14:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1795088141059023229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1677991830208626689",
+              "start": 0,
+              "username": "bfwhbfu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795088141059023229",
+        "in_reply_to_user_id": "1677991830208626689",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794677426225905873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bfwhbfu 我怕个鸡毛"
+      },
+      {
+        "attachments": {},
+        "author_id": "1677991830208626689",
+        "conversation_id": "1794677426225905873",
+        "created_at": "2024-05-26T10:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-26T11:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794677426225905873"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1794677426225905873",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 30162,
+          "like_count": 243,
+          "quote_count": 19,
+          "reply_count": 280,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "为什么你们害怕死亡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "讨厌一切人类 友跨顺女 坐标广州  贴贴~ intp-t\n 讨厌一切的不美好",
+        "id": "1668693781791784961",
+        "name": "伊芙 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764816409815896064/b8sUPDni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 90,
+          "like_count": 464,
+          "listed_count": 0,
+          "tweet_count": 124
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T10:43:34.000Z",
+        "description": "爱干净 不怕脏🍻｜\n推特id是别封我好吧服  首字母加个u，好记吧hh｜初三高三各测过一次都是intp，测着玩丨\n时不时脑子容易乱，因为想很多，所以犯焦虑，拧巴领域高手｜虽然觉得还有很多没有说清楚，不过打住了｜不键z只吃🍉｜稍微懂点数码，就这样 ｜非常讨厌地图炮🚫 八字真言  当个旁观者｜我是夏头蓝，虹夏的夏",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bocchi.rocks",
+                "end": 23,
+                "expanded_url": "https://bocchi.rocks/",
+                "start": 0,
+                "url": "https://t.co/CrpGvSqYqi"
+              }
+            ]
+          }
+        },
+        "id": "1677991830208626689",
+        "location": "天国",
+        "name": "俯",
+        "pinned_tweet_id": "1769165463265927474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777173222611681280/EeIke30n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 2541,
+          "like_count": 32021,
+          "listed_count": 2,
+          "tweet_count": 6856
+        },
+        "url": "https://t.co/CrpGvSqYqi",
+        "username": "bfwhbfu",
+        "verified": false
+      }
+    ]
+  }
+}

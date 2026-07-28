@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2003067504382669305",
+    "created_at": "2025-12-22T11:38:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T12:38:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003067504382669305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1922702397887131649",
+          "start": 3,
+          "username": "tutu65537"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003067504382669305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002767342175195378",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tutu65537: 观察：推特上精神病三年没死的小孩最后大多会得到救赎，主要方式是：\n1.原生家庭妥协并给了很多物质资源\n2.谈恋爱了\n3.毕业了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2003067504382669305",
+        "created_at": "2025-12-22T11:38:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T12:38:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003067504382669305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1922702397887131649",
+              "start": 3,
+              "username": "tutu65537"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003067504382669305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002767342175195378",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tutu65537: 观察：推特上精神病三年没死的小孩最后大多会得到救赎，主要方式是：\n1.原生家庭妥协并给了很多物质资源\n2.谈恋爱了\n3.毕业了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922702397887131649",
+        "conversation_id": "2002767342175195378",
+        "created_at": "2025-12-21T15:45:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T16:45:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002767342175195378"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002767342175195378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 65665,
+          "like_count": 571,
+          "quote_count": 19,
+          "reply_count": 32,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "观察：推特上精神病三年没死的小孩最后大多会得到救赎，主要方式是：\n1.原生家庭妥协并给了很多物质资源\n2.谈恋爱了\n3.毕业了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "「she her 她」 伊芙~ | 安息！ 在我坟前献上一束花",
+        "id": "1668693781791784961",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 984,
+          "like_count": 4752,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 993
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-14T17:16:09.000Z",
+        "description": "但留下的感觉是不会忘记的",
+        "id": "1922702397887131649",
+        "name": "迷路的马桶刷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001301251351580672/JOJJN9mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 330,
+          "like_count": 5928,
+          "listed_count": 1,
+          "media_count": 376,
+          "tweet_count": 5405
+        },
+        "username": "tutu65537",
+        "verified": false
+      }
+    ]
+  }
+}

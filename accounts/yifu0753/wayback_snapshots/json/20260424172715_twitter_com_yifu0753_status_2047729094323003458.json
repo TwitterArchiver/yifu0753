@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047498313843531776"
+      ],
+      "media_source_tweet_id": [
+        "2047498324845224228"
+      ]
+    },
+    "author_id": "1668693781791784961",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2047729094323003458",
+    "created_at": "2026-04-24T17:27:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T18:27:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047729094323003458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1852895432269234176",
+          "start": 3,
+          "username": "432Ifantrygroup"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3sorAJQT2K",
+          "end": 70,
+          "expanded_url": "https://x.com/432Ifantrygroup/status/2047498324845224228/photo/1",
+          "media_key": "3_2047498313843531776",
+          "start": 47,
+          "url": "https://t.co/3sorAJQT2K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047729094323003458",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047498324845224228",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @432Ifantrygroup: 这玩意难喝死了，为什么你们都用这个送服那些药啊？？ https://t.co/3sorAJQT2K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047498313843531776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGos3kra4AAXcX1.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047498313843531776"
+          ],
+          "media_source_tweet_id": [
+            "2047498324845224228"
+          ]
+        },
+        "author_id": "1668693781791784961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2047729094323003458",
+        "created_at": "2026-04-24T17:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T18:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047729094323003458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1852895432269234176",
+              "start": 3,
+              "username": "432Ifantrygroup"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3sorAJQT2K",
+              "end": 70,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2047498324845224228/photo/1",
+              "media_key": "3_2047498313843531776",
+              "start": 47,
+              "url": "https://t.co/3sorAJQT2K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047729094323003458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047498324845224228",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @432Ifantrygroup: 这玩意难喝死了，为什么你们都用这个送服那些药啊？？ https://t.co/3sorAJQT2K"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047498313843531776"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2047498324845224228",
+        "created_at": "2026-04-24T02:10:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T03:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047498324845224228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3sorAJQT2K",
+              "end": 49,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2047498324845224228/photo/1",
+              "media_key": "3_2047498313843531776",
+              "start": 26,
+              "url": "https://t.co/3sorAJQT2K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047498324845224228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 36824,
+          "like_count": 154,
+          "quote_count": 1,
+          "reply_count": 90,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "这玩意难喝死了，为什么你们都用这个送服那些药啊？？ https://t.co/3sorAJQT2K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 呼吸堵塞 | 现已恢复?  抑郁状态 好好活着 二氧化碳好似喵 MtF🏳️‍⚧️",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 973,
+          "like_count": 5303,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 1264
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2047687487079014759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 3226,
+          "like_count": 27607,
+          "listed_count": 3,
+          "media_count": 297,
+          "tweet_count": 7270
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

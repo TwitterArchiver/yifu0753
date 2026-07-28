@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1905995819389522428",
+    "created_at": "2025-03-30T20:52:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T21:52:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906449447472742528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1788485889225834496",
+          "start": 0,
+          "username": "CnHpaHky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906449447472742528",
+    "in_reply_to_user_id": "1788485889225834496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905995819389522428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CnHpaHky 妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1905995819389522428",
+        "created_at": "2025-03-30T20:52:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T21:52:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906449447472742528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "CnHpaHky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906449447472742528",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905995819389522428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CnHpaHky 妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1905995817812705280"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "1905995819389522428",
+        "created_at": "2025-03-29T14:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T15:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905995819389522428"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1905995819389522428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5025,
+          "like_count": 56,
+          "quote_count": 7,
+          "reply_count": 46,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到有人喊自己的妈妈叫妈咪…\n好难理解。\n你们怎么称呼自己妈妈的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "精神分裂 精障人士 重度抑郁 钡中毒 亚硝酸钠中毒 进过ICU ；随便发点自言自语，",
+        "id": "1668693781791784961",
+        "location": "重庆",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 432,
+          "like_count": 2413,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 490
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我叫阳阳，ASD在学着如何成为人类，欢迎私信。⭐️ @Littlecat111007 @quitee123 @ming_li19274",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "Littlecat111007"
+              },
+              {
+                "end": 53,
+                "start": 43,
+                "username": "quitee123"
+              },
+              {
+                "end": 67,
+                "start": 54,
+                "username": "ming_li19274"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "location": "北京安定医院",
+        "name": "fallen stars",
+        "pinned_tweet_id": "1906206553843421307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898402237363507200/Wx3H_9yY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2558,
+          "following_count": 1774,
+          "like_count": 12307,
+          "listed_count": 4,
+          "media_count": 163,
+          "tweet_count": 5413
+        },
+        "username": "CnHpaHky",
+        "verified": false
+      }
+    ]
+  }
+}

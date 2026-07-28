@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2039173483767513513",
+    "created_at": "2026-04-01T02:50:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T03:50:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039173483767513513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1847211562576351232",
+          "start": 3,
+          "username": "hank_aibtc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039173483767513513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 354
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038919948370616330",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hank_aibtc: 兄弟们，这波Claude Code\n源码泄露太乐了，直接等于Anthropic给开源了。\n\n事情是这样的：\n他们发npm包的时候，压根没在.npmignore里\n把source map文件过滤掉。结果一堆开发者装完包，\n\n就在node_modul…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36400,
+        "height": 966,
+        "media_key": "13_2038919782591029248",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2038919782591029248/img/aFk45CQd6UbaLKaB.jpg",
+        "public_metrics": {
+          "view_count": 137416
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038919782591029248/vid/avc1/2030x966/WRaWZUAbaCm0jaRk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2038919782591029248/pl/Pu8xn3--7un0W171.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038919782591029248/vid/avc1/566x270/_LlDUz2joA8iIfMA.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038919782591029248/vid/avc1/756x360/iIOaT2LAE0JMhgbt.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038919782591029248/vid/avc1/1512x720/S9TZTCnDVBok-ddR.mp4"
+          }
+        ],
+        "width": 2030
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2039173483767513513",
+        "created_at": "2026-04-01T02:50:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T03:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039173483767513513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1847211562576351232",
+              "start": 3,
+              "username": "hank_aibtc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039173483767513513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 354
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038919948370616330",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hank_aibtc: 兄弟们，这波Claude Code\n源码泄露太乐了，直接等于Anthropic给开源了。\n\n事情是这样的：\n他们发npm包的时候，压根没在.npmignore里\n把source map文件过滤掉。结果一堆开发者装完包，\n\n就在node_modul…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2038919782591029248"
+          ]
+        },
+        "author_id": "1847211562576351232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          }
+        ],
+        "conversation_id": "2038919948370616330",
+        "created_at": "2026-03-31T10:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T11:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038919948370616330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vHICZeW3mC",
+              "end": 193,
+              "expanded_url": "https://x.com/hank_aibtc/status/2038919948370616330/video/1",
+              "media_key": "13_2038919782591029248",
+              "start": 170,
+              "url": "https://t.co/vHICZeW3mC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038919948370616330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/instructkr/cla…",
+                "end": 426,
+                "expanded_url": "https://github.com/instructkr/claude-code",
+                "start": 403,
+                "url": "https://t.co/dZ9SLnbXIC"
+              }
+            ]
+          },
+          "text": "兄弟们，这波Claude Code\n源码泄露太乐了，直接等于Anthropic给开源了。\n\n事情是这样的：\n他们发npm包的时候，压根没在.npmignore里\n把source map文件过滤掉。结果一堆开发者装完包，\n\n就在node_modules\n里翻出那个超大.map文件，里面藏着\n完整的TypeScript源码映射。随便一还原，\n1900多个文件原封不动摆在那儿，终端CLI架构、40多个工具、50来个命令，全都一览无余。\n\nGitHub上已经有人打包上传了，\nBun运行时、Anthropic SDK怎么接、\n权限控制怎么搞、自然语言转代码的流程……全都能扒。之前老版本就出过一次这事儿，这次又重蹈覆辙，属实草台班子现场。\n\n对我们这些搞AI工具的来说，\n这简直是天上掉馅饼。想自己\n搭个类似agentic coding CLI的，\n直接抄作业就行，省了多少试错时间。\n\n想看的直接冲这个仓库：https://t.co/dZ9SLnbXIC\n学完别白嫖，记得给原作者点个star，\n或者自己改改发个更好玩的版本。\nAI圈子就爱这种意外的开源精神"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2405,
+          "impression_count": 319215,
+          "like_count": 2021,
+          "quote_count": 21,
+          "reply_count": 68,
+          "retweet_count": 354
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟们，这波Claude Code\n源码泄露太乐了，直接等于Anthropic给开源了。\n\n事情是这样的：\n他们发npm包的时候，压根没在.npmignore里\n把source map文件过滤掉。结果一堆开发者装完包，\n\n就在node_modules\n里翻出那个超大.map文件，里面藏着\n完整的TypeScript源码映射。随便一还原， https://t.co/vHICZeW3mC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 呼吸堵塞 | 现已恢复?  抑郁状态 好好活着 二氧化碳好似喵 MtF🏳️‍⚧️",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 971,
+          "like_count": 5249,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 1230
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-18T09:42:27.000Z",
+        "description": "独立开发者 | AI Agent × AIGC 🧠 × Blockchain ⛓ | 关注并分享实用 AI 图像视频和设计 | 探索互联网的宝藏工具与资源",
+        "id": "1847211562576351232",
+        "name": "HankAI",
+        "pinned_tweet_id": "2009450403155628196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036115645583278080/eZqjlHT4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1525,
+          "following_count": 999,
+          "like_count": 745,
+          "listed_count": 5,
+          "media_count": 131,
+          "tweet_count": 1077
+        },
+        "username": "hank_aibtc",
+        "verified": true
+      }
+    ]
+  }
+}

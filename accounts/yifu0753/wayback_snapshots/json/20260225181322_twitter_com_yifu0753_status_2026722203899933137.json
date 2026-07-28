@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2026712244256690567",
+    "created_at": "2026-02-25T18:13:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T19:13:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026722203899933137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1927540242736680960",
+          "start": 0,
+          "username": "bdxiaoxiong"
+        },
+        {
+          "end": 27,
+          "id": "1742074707787300864",
+          "start": 13,
+          "username": "HhhHhh1668446"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026722203899933137",
+    "in_reply_to_user_id": "1927540242736680960",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026712244256690567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bdxiaoxiong @HhhHhh1668446 😭😭😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2026712244256690567",
+        "created_at": "2026-02-25T18:13:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T19:13:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026722203899933137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1927540242736680960",
+              "start": 0,
+              "username": "bdxiaoxiong"
+            },
+            {
+              "end": 27,
+              "id": "1742074707787300864",
+              "start": 13,
+              "username": "HhhHhh1668446"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026722203899933137",
+        "in_reply_to_user_id": "1927540242736680960",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026712244256690567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bdxiaoxiong @HhhHhh1668446 😭😭😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927540242736680960",
+        "conversation_id": "2026712244256690567",
+        "created_at": "2026-02-25T17:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T18:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026712244256690567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "1742074707787300864",
+              "start": 14,
+              "username": "HhhHhh1668446"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026712244256690567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "讣告:\n          @HhhHhh1668446已于2026年2月23日晚服药后抢救无效死亡\n愿你能在下辈子能成为被家人疼爱的可爱女孩子\n                                       ——2026.2.26\n                                                   以此悼念"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 呼吸堵塞 | 现已恢复?  抑郁状态 好好活着 二氧化碳好似喵 MtF🏳️‍⚧️",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 989,
+          "like_count": 5111,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 1188
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-28T01:40:03.000Z",
+        "description": "这里是小熊（本体是猫猫，不是熊啦，只是名字叫小熊），坐标无锡\n｜无证含糖｜06年mtf｜家暴党｜玉玉｜脆皮猫猫Ⅰ「にゃんは自分らしく、ふわふわでいいのです！」\n欢迎同类贴贴♡",
+        "id": "1927540242736680960",
+        "location": "无锡",
+        "name": "月虹ねこ🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024836701106130944/EBTywHtS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 69,
+          "like_count": 2146,
+          "listed_count": 5,
+          "media_count": 51,
+          "tweet_count": 268
+        },
+        "username": "bdxiaoxiong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-02T06:45:59.000Z",
+        "description": "mtf，无证含糖，是个被性别困扰的女孩子，渴望被怜爱～",
+        "id": "1742074707787300864",
+        "name": "渴望被怜爱的屑豹豹♥~🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971925454165889030/xnoIB1x0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 122,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 55
+        },
+        "username": "HhhHhh1668446",
+        "verified": false
+      }
+    ]
+  }
+}

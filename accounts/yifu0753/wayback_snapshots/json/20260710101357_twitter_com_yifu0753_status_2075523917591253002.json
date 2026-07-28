@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2075291692455117056",
+    "created_at": "2026-07-10T10:13:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T11:13:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075523917591253002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1977200375766958082",
+          "start": 0,
+          "username": "yvanyvandecw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075523917591253002",
+    "in_reply_to_user_id": "1977200375766958082",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075291692455117056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yvanyvandecw 想死"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1317,
+        "media_key": "3_2075291684733333504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMzqyrnaMAA2i0G.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2075291692455117056",
+        "created_at": "2026-07-10T10:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T11:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075523917591253002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1977200375766958082",
+              "start": 0,
+              "username": "yvanyvandecw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075523917591253002",
+        "in_reply_to_user_id": "1977200375766958082",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075291692455117056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvanyvandecw 想死"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075291684733333504"
+          ]
+        },
+        "author_id": "1977200375766958082",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075291692455117056",
+        "created_at": "2026-07-09T18:51:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T19:51:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075291692455117056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cYOOL7KFiV",
+              "end": 36,
+              "expanded_url": "https://x.com/yvanyvandecw/status/2075291692455117056/photo/1",
+              "media_key": "3_2075291684733333504",
+              "start": 13,
+              "url": "https://t.co/cYOOL7KFiV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075291692455117056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1393,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有机会说好咸好苦吗…… https://t.co/cYOOL7KFiV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "location": "深圳市南山区",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1263,
+          "following_count": 1314,
+          "like_count": 8394,
+          "listed_count": 2,
+          "media_count": 199,
+          "tweet_count": 2157
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-12T02:31:33.000Z",
+        "description": "一枚xyn 155cm/44.5kg  💊🤤😵&🔪🩸😭  \n灌注沐媛喵…灌注沐媛谢谢喵🥺\n初二 同类互fo喵😋\n15歲年齡党+天残党+小透明/无人在意\n🍥2026.5.13\n大部分时候脑子正常🧐\n发现被在乎的小细节会开心一整天🥺\n超级社恐😩\n产地：桂C 生产日期：2011.06.15 保质期不详",
+        "id": "1977200375766958082",
+        "location": "六分街",
+        "name": "沐媛yyyyy🍥🏳️‍⚧️🔪",
+        "pinned_tweet_id": "2069598313683538390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063239427951149056/_Ed68_s-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 434,
+          "like_count": 1338,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 457
+        },
+        "url": "",
+        "username": "yvanyvandecw",
+        "verified": true
+      }
+    ]
+  }
+}

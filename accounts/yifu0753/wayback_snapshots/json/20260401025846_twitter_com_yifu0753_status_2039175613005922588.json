@@ -1,0 +1,501 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "2039175613005922588",
+    "created_at": "2026-04-01T02:58:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T03:58:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039175613005922588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1249322582869852161",
+          "start": 3,
+          "username": "ianneo_ai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039175613005922588",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038891647296270408",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ianneo_ai: 所有人都在怕 AI 抢饭碗\n\n但 GitHub 上有个的项目，方向反过来——它不是用 AI 替代在职的人，是用 AI 复活已经走了的人\n\n项目叫同事.skill\n\n你把离职同事的飞书消息、钉钉文档、邮件、截图全丢进去\n\n加上你对他的主观描述：他写代…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1030,
+        "media_key": "3_2038891118440693760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEuYq3JbQAAXU38.jpg",
+        "width": 1738
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2039175613005922588",
+        "created_at": "2026-04-01T02:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T03:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039175613005922588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1249322582869852161",
+              "start": 3,
+              "username": "ianneo_ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039175613005922588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038891647296270408",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ianneo_ai: 所有人都在怕 AI 抢饭碗\n\n但 GitHub 上有个的项目，方向反过来——它不是用 AI 替代在职的人，是用 AI 复活已经走了的人\n\n项目叫同事.skill\n\n你把离职同事的飞书消息、钉钉文档、邮件、截图全丢进去\n\n加上你对他的主观描述：他写代…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038891118440693760"
+          ]
+        },
+        "author_id": "1249322582869852161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2038891647296270408",
+        "created_at": "2026-03-31T08:10:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T09:10:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038891647296270408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M75UYeSEdP",
+              "end": 184,
+              "expanded_url": "https://x.com/ianneo_ai/status/2038891647296270408/photo/1",
+              "media_key": "3_2038891118440693760",
+              "start": 161,
+              "url": "https://t.co/M75UYeSEdP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038891647296270408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "所有人都在怕 AI 抢饭碗\n\n但 GitHub 上有个的项目，方向反过来——它不是用 AI 替代在职的人，是用 AI 复活已经走了的人\n\n项目叫同事.skill\n\n你把离职同事的飞书消息、钉钉文档、邮件、截图全丢进去\n\n加上你对他的主观描述：他写代码喜欢用 XX 规范、他回消息语气比较冲、他遇到跨部门需求第一反应是甩锅\n\n跑完出来一个 Skill。能像他一样干活\n\n荒诞吧。但你想想为什么有 人需要这东西\n\n因为不会交接\n\n三年的项目经验，走的时候写三页文档。那三页里全是参考 XX 文档和详情请咨询 XX——XX 也走了\n\n真正值钱的东西不在文档里。在聊天记录里，在他骂人的方式里，在他说这个需求别接的直觉里\n\n所以这个 AI 是来填那个每次有人离职就塌一次的坑"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 4059,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "所有人都在怕 AI 抢饭碗\n\n但 GitHub 上有个的项目，方向反过来——它不是用 AI 替代在职的人，是用 AI 复活已经走了的人\n\n项目叫同事.skill\n\n你把离职同事的飞书消息、钉钉文档、邮件、截图全丢进去\n\n加上你对他的主观描述：他写代码喜欢用 XX 规范、他回消息语气比较冲、他遇到跨部门需求第一反应是甩锅 https://t.co/M75UYeSEdP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 呼吸堵塞 | 现已恢复?  抑郁状态 好好活着 二氧化碳好似喵 MtF🏳️‍⚧️",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 971,
+          "like_count": 5255,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 1244
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-12T13:04:58.000Z",
+        "description": "前 Dribbble 中国区 #1 👉 https://t.co/suGhf2hhC6\n懂审美的产品设计师，正在用 AI 团队打造一人公司\n主要研究 AI 工作流，在这里持续更新 👉 https://t.co/vj6iG8RdA6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "dribbble.com/neocurve",
+                "end": 43,
+                "expanded_url": "https://dribbble.com/neocurve",
+                "start": 20,
+                "url": "https://t.co/suGhf2hhC6"
+              },
+              {
+                "display_url": "ianneo.xyz",
+                "end": 115,
+                "expanded_url": "https://ianneo.xyz",
+                "start": 92,
+                "url": "https://t.co/vj6iG8RdA6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ianneo.xyz",
+                "end": 23,
+                "expanded_url": "https://ianneo.xyz",
+                "start": 0,
+                "url": "https://t.co/vj6iG8RdA6"
+              }
+            ]
+          }
+        },
+        "id": "1249322582869852161",
+        "location": "remote",
+        "name": "Ian (伊恩)",
+        "pinned_tweet_id": "2039140409738436934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891533502811865088/TGLd-ENY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11112,
+          "following_count": 569,
+          "like_count": 3452,
+          "listed_count": 122,
+          "media_count": 291,
+          "tweet_count": 1927
+        },
+        "url": "https://t.co/vj6iG8RdA6",
+        "username": "ianneo_ai",
+        "verified": true
+      }
+    ]
+  }
+}

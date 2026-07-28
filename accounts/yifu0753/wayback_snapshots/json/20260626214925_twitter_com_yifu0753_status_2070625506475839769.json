@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070625495302209536"
+      ]
+    },
+    "author_id": "1668693781791784961",
+    "conversation_id": "2070625506475839769",
+    "created_at": "2026-06-26T21:49:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T22:49:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070625506475839769"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kOOQbuIhPz",
+          "end": 23,
+          "expanded_url": "https://x.com/yifu0753/status/2070625506475839769/photo/1",
+          "media_key": "3_2070625495302209536",
+          "start": 0,
+          "url": "https://t.co/kOOQbuIhPz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070625506475839769",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/kOOQbuIhPz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 870,
+        "media_key": "3_2070625495302209536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLxW6tZbAAA4K6a.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070625495302209536"
+          ]
+        },
+        "author_id": "1668693781791784961",
+        "conversation_id": "2070625506475839769",
+        "created_at": "2026-06-26T21:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T22:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070625506475839769"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kOOQbuIhPz",
+              "end": 23,
+              "expanded_url": "https://x.com/yifu0753/status/2070625506475839769/photo/1",
+              "media_key": "3_2070625495302209536",
+              "start": 0,
+              "url": "https://t.co/kOOQbuIhPz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070625506475839769",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kOOQbuIhPz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "友顺跨女 大龄n的| hrt 24/11/14 | 亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪麻痹 ICU 药物中毒 重度抑郁 | 二氧化碳好死喵 | 死闺 @Sayuki_Inoue",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Sayuki_Inoue"
+              }
+            ]
+          }
+        },
+        "id": "1668693781791784961",
+        "location": "深圳市南山区",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1101,
+          "following_count": 1258,
+          "like_count": 7939,
+          "listed_count": 2,
+          "media_count": 183,
+          "tweet_count": 2058
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true
+      }
+    ]
+  }
+}

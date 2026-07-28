@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1910859573876924427",
+    "created_at": "2025-04-12T12:51:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-12T13:51:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911039449879941464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1741091789879308288",
+          "start": 0,
+          "username": "zixinmiao2"
+        },
+        {
+          "end": 27,
+          "id": "1870022570353012736",
+          "start": 12,
+          "username": "kukudejiaxibei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911039449879941464",
+    "in_reply_to_user_id": "1741091789879308288",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910864077049782725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zixinmiao2 @kukudejiaxibei 😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1910859573876924427",
+        "created_at": "2025-04-12T12:51:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T13:51:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911039449879941464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741091789879308288",
+              "start": 0,
+              "username": "zixinmiao2"
+            },
+            {
+              "end": 27,
+              "id": "1870022570353012736",
+              "start": 12,
+              "username": "kukudejiaxibei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911039449879941464",
+        "in_reply_to_user_id": "1741091789879308288",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910864077049782725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zixinmiao2 @kukudejiaxibei 😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741091789879308288",
+        "conversation_id": "1910859573876924427",
+        "created_at": "2025-04-12T01:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T02:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910864077049782725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1870022570353012736",
+              "start": 0,
+              "username": "kukudejiaxibei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910864077049782725",
+        "in_reply_to_user_id": "1870022570353012736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910863453885239525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kukudejiaxibei 你要好好的活着\n我死了就好了\n我会很开心的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "01 友跨 含糖🏳‍⚧ 抑郁焦虑状态，ASD 欢迎大家关注 | 精神分裂 精障人士 钡中毒 亚硝酸钠中毒 进过ICU",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 502,
+          "like_count": 2913,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 519
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T13:40:15.000Z",
+        "description": "一只06年的大一医学牲/无证含糖🍬/已炸柜/家暴党/天残党/hrt 24.12.4，日语N2备考ing,欢迎大家找我集邮喵。 特别涩的老婆@kukudejiaxibei\n ///主人:@blhpc/\n永远的姐姐めんま🕯️🕯️@TianqiChen666",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "kukudejiaxibei"
+              },
+              {
+                "end": 98,
+                "start": 92,
+                "username": "blhpc"
+              },
+              {
+                "end": 126,
+                "start": 112,
+                "username": "TianqiChen666"
+              }
+            ]
+          }
+        },
+        "id": "1741091789879308288",
+        "name": "一只梓欣喵🍥",
+        "pinned_tweet_id": "1909422656186970239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908871372396449792/QwIZkidc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1491,
+          "following_count": 1398,
+          "like_count": 7831,
+          "listed_count": 3,
+          "media_count": 171,
+          "tweet_count": 1576
+        },
+        "username": "zixinmiao2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T08:25:12.000Z",
+        "description": "06年/INFJ+处女座/HRT-24.10.21/擅长文学艺术类/SteamID1151422332/红警系列/CR&COC/粥批/原神/GTA/生化危机/COD/CS&HL/梦想是变成酷女孩/烹饪烘焙/人格现实解体/一生之妻@zixinmiao2/主人@lyb1007/想一起做爱@jiang_chua28655",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 114,
+                "username": "zixinmiao2"
+              },
+              {
+                "end": 136,
+                "start": 128,
+                "username": "lyb1007"
+              },
+              {
+                "end": 158,
+                "start": 142,
+                "username": "jiang_chua28655"
+              }
+            ]
+          }
+        },
+        "id": "1870022570353012736",
+        "location": "山西省晋中市太谷区",
+        "name": "贾西贝🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1909221888443949341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908870631724347392/W5Y4-vM-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 931,
+          "following_count": 1641,
+          "like_count": 16649,
+          "listed_count": 2,
+          "media_count": 376,
+          "tweet_count": 3986
+        },
+        "username": "kukudejiaxibei",
+        "verified": false
+      }
+    ]
+  }
+}

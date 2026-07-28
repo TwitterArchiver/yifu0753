@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1833670866170962039",
+    "created_at": "2024-09-12T09:03:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-12T10:03:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834155895577870656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1655482952711831553",
+          "start": 0,
+          "username": "junzila44565820"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834155895577870656",
+    "in_reply_to_user_id": "1655482952711831553",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833670866170962039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@junzila44565820 我会想，终于死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1833670866170962039",
+        "created_at": "2024-09-12T09:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T10:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834155895577870656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1655482952711831553",
+              "start": 0,
+              "username": "junzila44565820"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834155895577870656",
+        "in_reply_to_user_id": "1655482952711831553",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833670866170962039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@junzila44565820 我会想，终于死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1833670805118693377"
+          ]
+        },
+        "author_id": "1655482952711831553",
+        "conversation_id": "1833670866170962039",
+        "created_at": "2024-09-11T00:56:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T01:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833670866170962039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xrqjkkz4uq",
+              "end": 40,
+              "expanded_url": "https://twitter.com/junzila44565820/status/1833670866170962039/video/1",
+              "media_key": "7_1833670805118693377",
+              "start": 17,
+              "url": "https://t.co/XRQjKkz4uQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833670866170962039",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 502,
+          "impression_count": 760726,
+          "like_count": 2039,
+          "quote_count": 15,
+          "reply_count": 91,
+          "retweet_count": 268
+        },
+        "reply_settings": "everyone",
+        "text": "当你直视死亡时，你最想做什么事？ https://t.co/XRQjKkz4uQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "精神分裂 精障人士 重度抑郁 氯化钡中毒 亚硝酸盐中毒 进过ICU ；随便发点自言自语",
+        "id": "1668693781791784961",
+        "location": "广州",
+        "name": "伊芙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 220,
+          "like_count": 1033,
+          "listed_count": 0,
+          "tweet_count": 355
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-08T08:01:21.000Z",
+        "description": "每一次发奋努力的背后，必有加倍的赏赐",
+        "id": "1655482952711831553",
+        "location": "中国",
+        "name": "纤云水谣",
+        "pinned_tweet_id": "1833670866170962039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1658445094914064385/BHvj7wKz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13378,
+          "following_count": 9680,
+          "like_count": 10669,
+          "listed_count": 21,
+          "tweet_count": 6756
+        },
+        "username": "junzila44565820",
+        "verified": false
+      }
+    ]
+  }
+}

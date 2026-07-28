@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1980605543741026323",
+    "created_at": "2025-10-21T13:11:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T14:11:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980623077693382711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1369516386939117568",
+          "start": 0,
+          "username": "Untitled_Fairy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980623077693382711",
+    "in_reply_to_user_id": "1369516386939117568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980622505460285784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Untitled_Fairy 不太正常。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1980605543741026323",
+        "created_at": "2025-10-21T13:11:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T14:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980623077693382711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1369516386939117568",
+              "start": 0,
+              "username": "Untitled_Fairy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980623077693382711",
+        "in_reply_to_user_id": "1369516386939117568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980622505460285784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Untitled_Fairy 不太正常。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1369516386939117568",
+        "conversation_id": "1980605543741026323",
+        "created_at": "2025-10-21T13:09:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T14:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980622505460285784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1668693781791784961",
+              "start": 0,
+              "username": "yifu0753"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980622505460285784",
+        "in_reply_to_user_id": "1668693781791784961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980605543741026323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yifu0753 雌太少了吧，还不到一百，日雌谷值这么低是正常的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "",
+        "id": "1668693781791784961",
+        "name": "伊芙🍥",
+        "pinned_tweet_id": "1936898802361020812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 945,
+          "like_count": 4380,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 938
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-10T05:12:22.000Z",
+        "description": "zh-Wikipedian｜社畜｜closeted MtX/TransFem｜lolicon｜incel (本义)｜AS-ADHD｜Anti Animal Welfare\n\n尝试理解人类感情的AI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "w.wiki/7Bxz",
+                "end": 23,
+                "expanded_url": "https://w.wiki/7Bxz",
+                "start": 0,
+                "url": "https://t.co/nLXq2THync"
+              }
+            ]
+          }
+        },
+        "id": "1369516386939117568",
+        "location": "NEC(n)",
+        "name": "無名冰精@Hourai Labs",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970518799482007552/CxFNzwPI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 54,
+          "like_count": 1755,
+          "listed_count": 2,
+          "media_count": 1023,
+          "tweet_count": 3328
+        },
+        "url": "https://t.co/nLXq2THync",
+        "username": "Untitled_Fairy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039178490285809664"
+      ]
+    },
+    "author_id": "1668693781791784961",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2039178492764643803",
+    "created_at": "2026-04-01T03:10:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T04:10:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039178492764643803"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/j6V3Ix47VL",
+          "end": 33,
+          "expanded_url": "https://x.com/yifu0753/status/2039178492764643803/photo/1",
+          "media_key": "3_2039178490285809664",
+          "start": 10,
+          "url": "https://t.co/j6V3Ix47VL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039178492764643803",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喹硫平200就吐了 https://t.co/j6V3Ix47VL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2039178490285809664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEyeCGsaYAAuE_b.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039178490285809664"
+          ]
+        },
+        "author_id": "1668693781791784961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2039178492764643803",
+        "created_at": "2026-04-01T03:10:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T04:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039178492764643803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j6V3Ix47VL",
+              "end": 33,
+              "expanded_url": "https://x.com/yifu0753/status/2039178492764643803/photo/1",
+              "media_key": "3_2039178490285809664",
+              "start": 10,
+              "url": "https://t.co/j6V3Ix47VL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039178492764643803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喹硫平200就吐了 https://t.co/j6V3Ix47VL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 呼吸堵塞 | 现已恢复?  抑郁状态 好好活着 二氧化碳好似喵 MtF🏳️‍⚧️",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 971,
+          "like_count": 5257,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 1247
+        },
+        "username": "yifu0753",
+        "verified": false
+      }
+    ]
+  }
+}

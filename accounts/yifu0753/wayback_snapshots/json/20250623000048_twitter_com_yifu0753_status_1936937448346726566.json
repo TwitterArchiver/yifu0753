@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1936715298750759127",
+    "created_at": "2025-06-23T00:00:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T01:00:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936937448346726566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1694012668359634944",
+          "start": 0,
+          "username": "yeyvv520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936937448346726566",
+    "in_reply_to_user_id": "1694012668359634944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936715298750759127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yeyvv520 精神分裂or双相"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1936715298750759127",
+        "created_at": "2025-06-23T00:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T01:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936937448346726566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1694012668359634944",
+              "start": 0,
+              "username": "yeyvv520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936937448346726566",
+        "in_reply_to_user_id": "1694012668359634944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936715298750759127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yeyvv520 精神分裂or双相"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1694012668359634944",
+        "conversation_id": "1936715298750759127",
+        "created_at": "2025-06-22T09:18:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T10:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936715298750759127"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1936715298750759127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "利培酮，阿普唑仑，马来酸氟伏沙明🤔我折腾一天问我家长什么病，他们用“没事，就是有点焦虑”给我打发走了，我至今没看到我的诊断的单子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "🏳‍⚧ 抑郁焦虑状态",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 860,
+          "like_count": 3747,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 689
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T15:44:46.000Z",
+        "description": "不线下  会互关同类\n药药🍥🏳️‍⚧️  hrt🍬2025.3.15  深柜  \n精神不稳定 割手 不od \n会偶尔发负能量，慎关注\n努力攒钱ing\n2008.3.9北京\n减肥ing",
+        "id": "1694012668359634944",
+        "name": "叶雨薇",
+        "pinned_tweet_id": "1932347145019130124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884288106343587840/Q7SI6jgn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 916,
+          "like_count": 575,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 564
+        },
+        "username": "yeyvv520",
+        "verified": false
+      }
+    ]
+  }
+}

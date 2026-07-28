@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070629148369035264"
+      ]
+    },
+    "author_id": "1668693781791784961",
+    "conversation_id": "2070629157202276747",
+    "created_at": "2026-06-26T22:03:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T23:03:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070629157202276747"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/12qia7aEdP",
+          "end": 35,
+          "expanded_url": "https://x.com/yifu0753/status/2070629157202276747/photo/1",
+          "media_key": "3_2070629148369035264",
+          "start": 12,
+          "url": "https://t.co/12qia7aEdP"
+        },
+        {
+          "display_url": "x.com/vellichor2233/…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/vellichor2233/status/2066285557588828283",
+          "start": 36,
+          "url": "https://t.co/tl4FjxPaNQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070629157202276747",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066285557588828283",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "模仿一张我也想交朋友😋 https://t.co/12qia7aEdP https://t.co/tl4FjxPaNQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 546,
+        "media_key": "3_2070629148369035264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLxaPWIbIAA2IHx.jpg",
+        "width": 1080
+      },
+      {
+        "height": 842,
+        "media_key": "3_2066285554082455553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKzrw4ebIAE3bc-.jpg",
+        "width": 1130
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070629148369035264"
+          ]
+        },
+        "author_id": "1668693781791784961",
+        "conversation_id": "2070629157202276747",
+        "created_at": "2026-06-26T22:03:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T23:03:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070629157202276747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/12qia7aEdP",
+              "end": 35,
+              "expanded_url": "https://x.com/yifu0753/status/2070629157202276747/photo/1",
+              "media_key": "3_2070629148369035264",
+              "start": 12,
+              "url": "https://t.co/12qia7aEdP"
+            },
+            {
+              "display_url": "x.com/vellichor2233/…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/vellichor2233/status/2066285557588828283",
+              "start": 36,
+              "url": "https://t.co/tl4FjxPaNQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070629157202276747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066285557588828283",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "模仿一张我也想交朋友😋 https://t.co/12qia7aEdP https://t.co/tl4FjxPaNQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066285554082455553"
+          ]
+        },
+        "author_id": "2025067456499515394",
+        "conversation_id": "2066285557588828283",
+        "created_at": "2026-06-14T22:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T23:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066285557588828283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4cuJxi631D",
+              "end": 30,
+              "expanded_url": "https://x.com/vellichor2233/status/2066285557588828283/photo/1",
+              "media_key": "3_2066285554082455553",
+              "start": 7,
+              "url": "https://t.co/4cuJxi631D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066285557588828283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2472,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "花花的自介帖 https://t.co/4cuJxi631D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "友顺跨女 大龄n的| hrt 24/11/14 | 亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪麻痹 ICU 药物中毒 重度抑郁 | 二氧化碳好死喵 | 死闺 @Sayuki_Inoue",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Sayuki_Inoue"
+              }
+            ]
+          }
+        },
+        "id": "1668693781791784961",
+        "location": "深圳市南山区",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1101,
+          "following_count": 1261,
+          "like_count": 7945,
+          "listed_count": 2,
+          "media_count": 184,
+          "tweet_count": 2059
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-21T04:38:07.000Z",
+        "description": "性别男|femboy|🏳️‍🌈|喜欢极端金属|不网恋不月",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/dQw4w9WgXcQ",
+                "end": 23,
+                "expanded_url": "https://youtu.be/dQw4w9WgXcQ",
+                "start": 0,
+                "url": "https://t.co/LxrnvMHpm1"
+              }
+            ]
+          }
+        },
+        "id": "2025067456499515394",
+        "location": "Laniakea/MilkyWay/Sun/Earth",
+        "name": "🌸花花🌸",
+        "pinned_tweet_id": "2066285557588828283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066009208055881728/PB5aCoFt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 615,
+          "like_count": 3081,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 615
+        },
+        "url": "https://t.co/LxrnvMHpm1",
+        "username": "vellichor2233",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2048570455251100052",
+    "created_at": "2026-04-27T03:35:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T04:35:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048606854331441181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1968444481553969152",
+          "start": 0,
+          "username": "kknoluvismine3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048606854331441181",
+    "in_reply_to_user_id": "1968444481553969152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048600687504941482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kknoluvismine3 支那猪🤭 给你糖完了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2048570455251100052",
+        "created_at": "2026-04-27T03:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T04:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048606854331441181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1968444481553969152",
+              "start": 0,
+              "username": "kknoluvismine3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048606854331441181",
+        "in_reply_to_user_id": "1968444481553969152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048600687504941482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kknoluvismine3 支那猪🤭 给你糖完了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1968444481553969152",
+        "conversation_id": "2048570455251100052",
+        "created_at": "2026-04-27T03:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T04:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048600687504941482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1668693781791784961",
+              "start": 0,
+              "username": "yifu0753"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048600687504941482",
+        "in_reply_to_user_id": "1668693781791784961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048570455251100052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yifu0753 炒作狗🤭 给你糖完了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 | 现已恢复?  抑郁状态 好好活着 二氧化碳好似喵 MtF🏳️‍⚧️",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 982,
+          "like_count": 5508,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 1378
+        },
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-17T22:38:35.000Z",
+        "description": "孔五花就是毛腊肉转世，必须支持孔选仲图纸，中国人就是👇➖，全都是三通一达的货色",
+        "id": "1968444481553969152",
+        "location": "苏副主席永远健康",
+        "name": "孔主席万寿无疆",
+        "pinned_tweet_id": "2038058553202876485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021832020029276160/VbI1NMUl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 147,
+          "like_count": 3654,
+          "listed_count": 4,
+          "media_count": 531,
+          "tweet_count": 3547
+        },
+        "username": "kknoluvismine3",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1800598209250898266",
+    "created_at": "2024-06-11T18:38:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-11T19:38:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800598586054553691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1281443250717392896",
+          "start": 0,
+          "username": "kithiumR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800598586054553691",
+    "in_reply_to_user_id": "1281443250717392896",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800598209250898266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kithiumR 可爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1800598209250898266",
+        "created_at": "2024-06-11T18:38:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T19:38:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800598586054553691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1281443250717392896",
+              "start": 0,
+              "username": "kithiumR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800598586054553691",
+        "in_reply_to_user_id": "1281443250717392896",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800598209250898266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kithiumR 可爱"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1800598198228307968",
+            "3_1800598203768983552",
+            "3_1800598205127888896",
+            "3_1800598205283102720"
+          ]
+        },
+        "author_id": "1281443250717392896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1800598209250898266",
+        "created_at": "2024-06-11T18:37:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T19:37:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800598209250898266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/u8uasSqsza",
+              "end": 138,
+              "expanded_url": "https://twitter.com/kithiumR/status/1800598209250898266/photo/1",
+              "media_key": "3_1800598198228307968",
+              "start": 115,
+              "url": "https://t.co/u8uasSqsza"
+            },
+            {
+              "display_url": "pic.twitter.com/u8uasSqsza",
+              "end": 138,
+              "expanded_url": "https://twitter.com/kithiumR/status/1800598209250898266/photo/1",
+              "media_key": "3_1800598203768983552",
+              "start": 115,
+              "url": "https://t.co/u8uasSqsza"
+            },
+            {
+              "display_url": "pic.twitter.com/u8uasSqsza",
+              "end": 138,
+              "expanded_url": "https://twitter.com/kithiumR/status/1800598209250898266/photo/1",
+              "media_key": "3_1800598205127888896",
+              "start": 115,
+              "url": "https://t.co/u8uasSqsza"
+            },
+            {
+              "display_url": "pic.twitter.com/u8uasSqsza",
+              "end": 138,
+              "expanded_url": "https://twitter.com/kithiumR/status/1800598209250898266/photo/1",
+              "media_key": "3_1800598205283102720",
+              "start": 115,
+              "url": "https://t.co/u8uasSqsza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800598209250898266",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "定期发推避免账号回收\n近况还是普通，普通的还活着\n奖金买了cosplay 服，长假发好难打理，但不知道哪里来的自信还想要买化妆品自己试试学化妆…\n要到考试周了，复习进度为0%\n最近天气真热啊…\n照片发出来就做好了掉fo的准备了（ https://t.co/u8uasSqsza"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "讨厌一切人类 友跨顺女 坐标广州  贴贴~ intp-t\n 讨厌一切的不美好",
+        "id": "1668693781791784961",
+        "name": "伊芙 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764816409815896064/b8sUPDni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 101,
+          "like_count": 511,
+          "listed_count": 0,
+          "tweet_count": 142
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-10T04:21:12.000Z",
+        "description": "中文/English | UTC+8 | Twitter用户 | \nTelegram Portal：https://t.co/6YfyzQ3oVu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/kithiumr",
+                "end": 73,
+                "expanded_url": "https://t.me/kithiumr",
+                "start": 50,
+                "url": "https://t.co/6YfyzQ3oVu"
+              }
+            ]
+          }
+        },
+        "id": "1281443250717392896",
+        "location": "127.0.0.1",
+        "name": "kit🏳️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1550549085366910977/eBBl9L4z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 272,
+          "like_count": 13213,
+          "listed_count": 1,
+          "tweet_count": 634
+        },
+        "username": "kithiumR",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1905946119386890288",
+    "created_at": "2025-06-23T02:58:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T03:58:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936982044594335764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1762120281626415104",
+          "start": 0,
+          "username": "JIZHI0_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936982044594335764",
+    "in_reply_to_user_id": "1762120281626415104",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905946119386890288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JIZHI0_0 😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1905946119386890288",
+        "created_at": "2025-06-23T02:58:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T03:58:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936982044594335764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1762120281626415104",
+              "start": 0,
+              "username": "JIZHI0_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936982044594335764",
+        "in_reply_to_user_id": "1762120281626415104",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905946119386890288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JIZHI0_0 😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762120281626415104",
+        "conversation_id": "1905946119386890288",
+        "created_at": "2025-03-29T11:32:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T12:32:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905946119386890288"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1905946119386890288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 383940,
+          "like_count": 192,
+          "quote_count": 11,
+          "reply_count": 93,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "好难受欸，不知道是因为od还是亚硝酸钠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "🏳‍⚧ 抑郁焦虑状态",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "pinned_tweet_id": "1936898802361020812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 862,
+          "like_count": 3753,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 693
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-26T14:19:56.000Z",
+        "description": "好耶～放飞自我啦～                                                                  👇这是赞赏码（小声）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/X_jvzhi/status…",
+                "end": 23,
+                "expanded_url": "https://x.com/X_jvzhi/status/1890065972251512970?t=N3_qrUwfgd6J7V_jONEpYQ&s=19",
+                "start": 0,
+                "url": "https://t.co/FQJcpBQKS4"
+              }
+            ]
+          }
+        },
+        "id": "1762120281626415104",
+        "name": "橘枳",
+        "pinned_tweet_id": "1886692793537433697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890064208911581184/pgvPpGCG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1334,
+          "following_count": 129,
+          "like_count": 25301,
+          "listed_count": 14,
+          "media_count": 223,
+          "tweet_count": 9225
+        },
+        "url": "https://t.co/FQJcpBQKS4",
+        "username": "JIZHI0_0",
+        "verified": false
+      }
+    ]
+  }
+}

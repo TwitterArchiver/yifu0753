@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "2047377369330258356",
+    "created_at": "2026-04-23T18:09:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T19:09:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047377369330258356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1938963008",
+          "start": 3,
+          "username": "HotmailfromSH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047377369330258356",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 287
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047147577649586617",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HotmailfromSH: 「一个目前正在流行的“前额叶激活术”：Color Walk」\n\n最近，心理学圈里有个很有意思的小方法在流行——Color Walk（颜色散步）。\n它简单到几乎没有门槛，但效果却出乎意料。出门前，先在心里选一个颜色。\n然后带着这个“任务”，去…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_2047147575460130816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGjt36YacAAJN9n.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2047377369330258356",
+        "created_at": "2026-04-23T18:09:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T19:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047377369330258356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1938963008",
+              "start": 3,
+              "username": "HotmailfromSH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047377369330258356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 287
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047147577649586617",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HotmailfromSH: 「一个目前正在流行的“前额叶激活术”：Color Walk」\n\n最近，心理学圈里有个很有意思的小方法在流行——Color Walk（颜色散步）。\n它简单到几乎没有门槛，但效果却出乎意料。出门前，先在心里选一个颜色。\n然后带着这个“任务”，去…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047147575460130816"
+          ]
+        },
+        "author_id": "1938963008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2047147577649586617",
+        "created_at": "2026-04-23T02:56:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T03:56:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047147577649586617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RQWJ0Bcnz8",
+              "end": 171,
+              "expanded_url": "https://x.com/HotmailfromSH/status/2047147577649586617/photo/1",
+              "media_key": "3_2047147575460130816",
+              "start": 148,
+              "url": "https://t.co/RQWJ0Bcnz8"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "fbd6d2f5a4e4a15e"
+        },
+        "id": "2047147577649586617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "「一个目前正在流行的“前额叶激活术”：Color Walk」\n\n最近，心理学圈里有个很有意思的小方法在流行——Color Walk（颜色散步）。\n它简单到几乎没有门槛，但效果却出乎意料。出门前，先在心里选一个颜色。\n然后带着这个“任务”，去街上走一走——\n刻意去寻找所有与你选定颜色有关的事物。\n\n可能是一块路牌、一件衣服、一棵树、一辆车，甚至是一束光。\n\n你会发现，大脑开始慢慢发生变化。\n\n为什么这能缓解焦虑？\n因为这个过程，其实在悄悄调动一个关键区域——前额叶皮层。\n\n大脑前额叶负责：\n1、注意力控制；\n2、冲动抑制；\n3、情绪调节；\n4、自我觉察；\n\n而焦虑、内耗时，大脑往往处于“失控模式”，注意力被反复的担忧劫持，无法停下来。\n\n而Color Walk做了一件很重要的事：把注意力“重新夺回来”，你不再被动地被思绪牵着走，而是主动决定……\n\n我现在要看什么，这就是一种温和但有效的“认知重启”。\n\n不同颜色，对情绪的影响也不同：\n🌿 绿色 / 蓝色：镇静、放松（适合焦虑、烦躁时）\n🌞 黄色 / 橙色：激活、提振（适合低落、没动力时）\n但其实，颜色本身并不重要，真正起作用的是这件事：\n👉 你开始慢下来，并重新感知这个世界。\n\n更重要的一点是：\n在信息过载、短视频不断切换的时代，\n我们的注意力被切得越来越碎。\n大脑长期处在“过载但低效”的状态。\n而Color Walk，本质上是在给大脑一个机会：\n🔺️停止无意义消耗\n🔺️回到当下\n🔺️重新建立专注\n\n哪怕只有10分钟，也足够让大脑“喘口气”。\n\n不是颜色治愈你，\n而是你重新学会了——\n把注意力放回到自己身上。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1046,
+          "impression_count": 79075,
+          "like_count": 1429,
+          "quote_count": 19,
+          "reply_count": 23,
+          "retweet_count": 287
+        },
+        "reply_settings": "everyone",
+        "text": "「一个目前正在流行的“前额叶激活术”：Color Walk」\n\n最近，心理学圈里有个很有意思的小方法在流行——Color Walk（颜色散步）。\n它简单到几乎没有门槛，但效果却出乎意料。出门前，先在心里选一个颜色。\n然后带着这个“任务”，去街上走一走——\n刻意去寻找所有与你选定颜色有关的事物。 https://t.co/RQWJ0Bcnz8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 呼吸堵塞 | 现已恢复?  抑郁状态 好好活着 二氧化碳好似喵 MtF🏳️‍⚧️",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 968,
+          "like_count": 5276,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 1254
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-05T22:00:24.000Z",
+        "description": "医学科普",
+        "id": "1938963008",
+        "location": "Thailand",
+        "name": "Dr.Wang",
+        "pinned_tweet_id": "2017921212920545531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826341547211980807/ijybUGyB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162335,
+          "following_count": 946,
+          "like_count": 182326,
+          "listed_count": 871,
+          "media_count": 6216,
+          "tweet_count": 62912
+        },
+        "username": "HotmailfromSH",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2054506069804912956",
+    "created_at": "2026-05-13T13:28:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T14:28:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054554295614452124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1477943682808664068",
+          "start": 0,
+          "username": "dreamdissolved"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054554295614452124",
+    "in_reply_to_user_id": "1477943682808664068",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054506069804912956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dreamdissolved 手术"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2054506069804912956",
+        "created_at": "2026-05-13T13:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T14:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054554295614452124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1477943682808664068",
+              "start": 0,
+              "username": "dreamdissolved"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054554295614452124",
+        "in_reply_to_user_id": "1477943682808664068",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054506069804912956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dreamdissolved 手术"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1477943682808664068",
+        "conversation_id": "2054506069804912956",
+        "created_at": "2026-05-13T10:16:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T11:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054506069804912956"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054506069804912956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 614,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "姐姐问我如果手术改证和和姐姐一辈子在一起只能二选一怎么选"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪麻痹 ICU 药物中毒 重度抑郁 | 二氧化碳好死喵",
+        "id": "1668693781791784961",
+        "location": "深圳市南山区",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 843,
+          "following_count": 1163,
+          "like_count": 6562,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 1660
+        },
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-03T10:03:36.000Z",
+        "description": "🦉男的|@HumanoidNO19|想像力豊かな人間になりたい|雑多",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "HumanoidNO19"
+              }
+            ]
+          }
+        },
+        "id": "1477943682808664068",
+        "name": "Kagam⚨♂⚧",
+        "pinned_tweet_id": "2054506069804912956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018227224684675072/VrVKpuEI_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1116,
+          "following_count": 3344,
+          "like_count": 50297,
+          "listed_count": 6,
+          "media_count": 680,
+          "tweet_count": 8571
+        },
+        "username": "dreamdissolved",
+        "verified": false
+      }
+    ]
+  }
+}

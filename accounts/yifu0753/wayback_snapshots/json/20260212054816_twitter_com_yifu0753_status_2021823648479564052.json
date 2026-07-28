@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2021823648479564052",
+    "created_at": "2026-02-12T05:48:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T06:48:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021823648479564052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1938866971669606400",
+          "start": 3,
+          "username": "alcoholism19953"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021823648479564052",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021095547961213172",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @alcoholism19953: 一个有意思的，\n喹硫平的副作用仅次于美金刚，但大多数时候可逆，非要说的话体重也能自行减，只要别吃它太多得代谢综合征\n\n但喹硫平反制兴奋剂、致幻剂使用而引起的精神病，这是实打实的。\n\n切记，其难以反制谵妄，谵妄尚无特效药物，只能对症治疗…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1028,
+        "media_key": "3_2021095545411153920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAxfsLlbMAAX3Qd.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2021823648479564052",
+        "created_at": "2026-02-12T05:48:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T06:48:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021823648479564052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1938866971669606400",
+              "start": 3,
+              "username": "alcoholism19953"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021823648479564052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021095547961213172",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @alcoholism19953: 一个有意思的，\n喹硫平的副作用仅次于美金刚，但大多数时候可逆，非要说的话体重也能自行减，只要别吃它太多得代谢综合征\n\n但喹硫平反制兴奋剂、致幻剂使用而引起的精神病，这是实打实的。\n\n切记，其难以反制谵妄，谵妄尚无特效药物，只能对症治疗…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021095545411153920"
+          ]
+        },
+        "author_id": "1938866971669606400",
+        "conversation_id": "2021095547961213172",
+        "created_at": "2026-02-10T05:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T06:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021095547961213172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6ZcjABnGec",
+              "end": 141,
+              "expanded_url": "https://x.com/alcoholism19953/status/2021095547961213172/photo/1",
+              "media_key": "3_2021095545411153920",
+              "start": 118,
+              "url": "https://t.co/6ZcjABnGec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021095547961213172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2186,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个有意思的，\n喹硫平的副作用仅次于美金刚，但大多数时候可逆，非要说的话体重也能自行减，只要别吃它太多得代谢综合征\n\n但喹硫平反制兴奋剂、致幻剂使用而引起的精神病，这是实打实的。\n\n切记，其难以反制谵妄，谵妄尚无特效药物，只能对症治疗 https://t.co/6ZcjABnGec"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 呼吸堵塞 | 现已恢复?  抑郁状态 好好活着 二氧化碳好似喵 MtF🏳️‍⚧️",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 994,
+          "like_count": 4998,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 1083
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-28T07:48:19.000Z",
+        "description": "于45%vol泥中｜MtX｜aged 18｜@Citrus_amara｜匿名提问于https://t.co/xVimEizOSe｜线下🚪50",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 22,
+                "username": "Citrus_amara"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosong2_331",
+                "end": 64,
+                "expanded_url": "http://ngl.link/xiaosong2_331",
+                "start": 41,
+                "url": "https://t.co/xVimEizOSe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xiaosong2_33",
+                "end": 23,
+                "expanded_url": "http://t.me/xiaosong2_33",
+                "start": 0,
+                "url": "https://t.co/5G61b8WWz2"
+              }
+            ]
+          }
+        },
+        "id": "1938866971669606400",
+        "location": "珠海",
+        "name": "xiaosong 🏳‍⚧",
+        "pinned_tweet_id": "2021589139636809772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021087303582826496/K-7is1Bs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 110,
+          "like_count": 1572,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 422
+        },
+        "url": "https://t.co/5G61b8WWz2",
+        "username": "alcoholism19953",
+        "verified": false
+      }
+    ]
+  }
+}

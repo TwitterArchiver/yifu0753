@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2065617484582199339",
+    "created_at": "2026-06-13T03:47:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T04:47:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065642284960583877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1959893383633358848",
+          "start": 0,
+          "username": "Cbscfe"
+        },
+        {
+          "end": 18,
+          "id": "2023460446075056133",
+          "start": 8,
+          "username": "N_ull_0x0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065642284960583877",
+    "in_reply_to_user_id": "1959893383633358848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065618823139701035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cbscfe @N_ull_0x0 推油都进精神病院，推圈是一个大精神病圈吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 885,
+        "media_key": "3_2065618812544909312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKqNXasagAAsHLR.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2065617484582199339",
+        "created_at": "2026-06-13T03:47:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T04:47:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065642284960583877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1959893383633358848",
+              "start": 0,
+              "username": "Cbscfe"
+            },
+            {
+              "end": 18,
+              "id": "2023460446075056133",
+              "start": 8,
+              "username": "N_ull_0x0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065642284960583877",
+        "in_reply_to_user_id": "1959893383633358848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065618823139701035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cbscfe @N_ull_0x0 推油都进精神病院，推圈是一个大精神病圈吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065618812544909312"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "2065617484582199339",
+        "created_at": "2026-06-13T02:14:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T03:14:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065618823139701035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2023460446075056133",
+              "start": 0,
+              "username": "N_ull_0x0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aHnfGgxXwb",
+              "end": 34,
+              "expanded_url": "https://x.com/Cbscfe/status/2065618823139701035/photo/1",
+              "media_key": "3_2065618812544909312",
+              "start": 11,
+              "url": "https://t.co/aHnfGgxXwb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065618823139701035",
+        "in_reply_to_user_id": "1959893383633358848",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065617484582199339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N_ull_0x0 https://t.co/aHnfGgxXwb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "友顺跨女 大龄n的| hrt 24/11/14 | 亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪麻痹 ICU 药物中毒 重度抑郁 | 二氧化碳好死喵 | 死闺 @Sayuki_Inoue",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Sayuki_Inoue"
+              }
+            ]
+          }
+        },
+        "id": "1668693781791784961",
+        "location": "深圳市南山区",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1045,
+          "following_count": 1239,
+          "like_count": 7757,
+          "listed_count": 2,
+          "media_count": 170,
+          "tweet_count": 2000
+        },
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 676,
+          "like_count": 24460,
+          "listed_count": 2,
+          "media_count": 223,
+          "tweet_count": 6062
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-16T18:12:36.000Z",
+        "description": "电子宠物です",
+        "id": "2023460446075056133",
+        "location": "宛平南路600号 但是（闵行分院）L10",
+        "name": "Null0x0",
+        "pinned_tweet_id": "2063565065220231204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032095085438132224/nAXS6d_7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 56,
+          "like_count": 2484,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 107
+        },
+        "username": "N_ull_0x0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1946522433567236121",
+    "created_at": "2025-07-20T09:04:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T10:04:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946858762524151924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1565981667746914304",
+          "start": 0,
+          "username": "Chinese_114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946858762524151924",
+    "in_reply_to_user_id": "1565981667746914304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946522433567236121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chinese_114514 别"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1946522433567236121",
+        "created_at": "2025-07-20T09:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T10:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946858762524151924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1565981667746914304",
+              "start": 0,
+              "username": "Chinese_114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946858762524151924",
+        "in_reply_to_user_id": "1565981667746914304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946522433567236121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chinese_114514 别"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "1946522433567236121",
+        "created_at": "2025-07-19T10:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T11:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946522433567236121"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1946522433567236121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6517,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想看看有没有自切教程\n反正我另外一个卧室里面存了好几包没开封的11号刀片\n酒精碘伏棉签更不用说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "🏳‍⚧ 抑郁焦虑状态",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "pinned_tweet_id": "1936898802361020812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 927,
+          "like_count": 4193,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 805
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "面对真相，其实谁都一样，那些你愿意信的，是被你筛选过的 ——-《网络锚定效应》",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "🏳️‍⚧️寄老师不是姬老师🍥",
+        "pinned_tweet_id": "1945543638341357716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945442779284340736/Pa29ayQ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 465,
+          "like_count": 31637,
+          "listed_count": 0,
+          "media_count": 336,
+          "tweet_count": 3433
+        },
+        "username": "Chinese_114514",
+        "verified": false
+      }
+    ]
+  }
+}

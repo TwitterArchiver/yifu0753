@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2010918513628856724",
+    "created_at": "2026-01-13T03:35:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T04:35:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010918513628856724"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lovelyshuimao/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/lovelyshuimao/status/2010684647005630497",
+          "start": 5,
+          "url": "https://t.co/R3YKDWEdn1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010918513628856724",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010684647005630497",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不跨了😭 https://t.co/R3YKDWEdn1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2010918513628856724",
+        "created_at": "2026-01-13T03:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T04:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010918513628856724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lovelyshuimao/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/lovelyshuimao/status/2010684647005630497",
+              "start": 5,
+              "url": "https://t.co/R3YKDWEdn1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010918513628856724",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010684647005630497",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不跨了😭 https://t.co/R3YKDWEdn1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2010684647005630497",
+        "created_at": "2026-01-12T12:05:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T13:05:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010684647005630497"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010684647005630497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我发现跨性别和全人类大部分事情都是反过来的\n比如有人热爱做某事情\n那他可以先学习、研究、实践然后做的更好\n比如有人觉得自己性取向不同/或普通谈恋爱\n也可以等到经济独立后再去谈恋爱\n哪怕是去做伤害自己身体的事情\n也是通过身体换钱\n但是跨这件事没有时间去先学习、实践\n也没法等到经济独立后再开始\n并且即便伤害了身体反而是费钱\n\n因为和大部分事情最不相同的就是，这是一个前期耗费时间越少收益越高的事情（大部分事情是做一年就叠加一年的收益）\n并且还必须在几乎没有经济独立能力的，只有几年的窗口期内完成\n\n这就好比说，一个在在救护车上的黄金救援时间内\n医生非但不救人还对他说：\n现在治疗你的这种病情还效果不好，你要不要等20年看看新技术？\n我可以这么说：\n跨性别就是一种先天重度“残疾”\n并且还是随时间增长不断恶化的，比肩全身心器官衰竭\n就好比出生就背了一个巨大的高利贷债务，并且是每年都增加复利的\n结果世界却对你说：你看，现在才欠这么点，先别管这些债务了，等你有能力再还吧”\n殊不知根本跑不赢这个债务的叠加"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 7440,
+          "like_count": 88,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我发现跨性别和全人类大部分事情都是反过来的\n比如有人热爱做某事情\n那他可以先学习、研究、实践然后做的更好\n比如有人觉得自己性取向不同/或普通谈恋爱\n也可以等到经济独立后再去谈恋爱\n哪怕是去做伤害自己身体的事情\n也是通过身体换钱\n但是跨这件事没有时间去先学习、实践"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 呼吸堵塞 血压下降 | 现已恢复?  轻度抑郁 好好活着 纯二氧化碳好似喵",
+        "id": "1668693781791784961",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 998,
+          "like_count": 4882,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 1041
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓｜ENFP-t ｜永遠14歲｜提問↓ ｜對象@saonanaa｜心理兩畸｜侵删",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2009971664344494303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009519740319092737/8QXu2gXD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3314,
+          "following_count": 1015,
+          "like_count": 255,
+          "listed_count": 10,
+          "media_count": 2691,
+          "tweet_count": 12481
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1940784773443867038",
+    "created_at": "2025-07-03T14:48:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T15:48:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940784773443867038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "4752010152",
+          "start": 3,
+          "username": "garrulous_abyss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940784773443867038",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940330755978342453",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @garrulous_abyss: 跨性别和同性恋不一样的点在于。\n\n对于同性恋，“先深柜等经济独立再出柜”，这条路完全行得通，甚至可以说，在保守国家里，这是最优解。\n\n而对于跨性别，就很大不同。因为是否能早一点开始激素治疗，效果可能会天壤之别。“先经济独立再说”，很可能…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1940784773443867038",
+        "created_at": "2025-07-03T14:48:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T15:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940784773443867038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "4752010152",
+              "start": 3,
+              "username": "garrulous_abyss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940784773443867038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940330755978342453",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @garrulous_abyss: 跨性别和同性恋不一样的点在于。\n\n对于同性恋，“先深柜等经济独立再出柜”，这条路完全行得通，甚至可以说，在保守国家里，这是最优解。\n\n而对于跨性别，就很大不同。因为是否能早一点开始激素治疗，效果可能会天壤之别。“先经济独立再说”，很可能…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4752010152",
+        "conversation_id": "1940330755978342453",
+        "created_at": "2025-07-02T08:44:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T09:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940330755978342453"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1940330755978342453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 10385,
+          "like_count": 299,
+          "quote_count": 4,
+          "reply_count": 7,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "跨性别和同性恋不一样的点在于。\n\n对于同性恋，“先深柜等经济独立再出柜”，这条路完全行得通，甚至可以说，在保守国家里，这是最优解。\n\n而对于跨性别，就很大不同。因为是否能早一点开始激素治疗，效果可能会天壤之别。“先经济独立再说”，很可能错过青春期发育期，极大加重性别焦虑、自杀风险(1/2)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "🏳‍⚧ 抑郁焦虑状态",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "pinned_tweet_id": "1936898802361020812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 905,
+          "like_count": 4040,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 740
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-13T07:43:45.000Z",
+        "description": "LGBTQIA一生推//女朋友是@Yaoyao38324// 程序员//伪全栈工程师//伪科研人员//伪web3研究人员//真·法语学习博主//ADHD确诊//见到Incel、terf、小粉红、魔怔人立刻拉黑\n\n欢迎预约占卜测事 https://t.co/KZBQuE9x4R",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "Yaoyao38324"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/garrulous_abyss",
+                "end": 138,
+                "expanded_url": "https://buymeacoffee.com/garrulous_abyss",
+                "start": 115,
+                "url": "https://t.co/KZBQuE9x4R"
+              }
+            ]
+          }
+        },
+        "id": "4752010152",
+        "location": "Paris, France",
+        "name": "garrulous abyss🌈",
+        "pinned_tweet_id": "1573706756357750786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765120357042622464/Mkgehayb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28984,
+          "following_count": 3573,
+          "like_count": 151567,
+          "listed_count": 103,
+          "media_count": 3425,
+          "tweet_count": 56045
+        },
+        "username": "garrulous_abyss",
+        "verified": false
+      }
+    ]
+  }
+}

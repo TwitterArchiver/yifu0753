@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2020824558954287175",
+    "created_at": "2026-02-09T11:38:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T12:38:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020824558954287175"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hry_xsu/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/hry_xsu/status/1989687453889020000",
+          "start": 5,
+          "url": "https://t.co/9fsHDPVr1l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020824558954287175",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989687453889020000",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "互关减一 https://t.co/9fsHDPVr1l"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2020824558954287175",
+        "created_at": "2026-02-09T11:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T12:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020824558954287175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hry_xsu/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/hry_xsu/status/1989687453889020000",
+              "start": 5,
+              "url": "https://t.co/9fsHDPVr1l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020824558954287175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989687453889020000",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "互关减一 https://t.co/9fsHDPVr1l"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1304953938320306176",
+        "conversation_id": "1989687453889020000",
+        "created_at": "2025-11-15T13:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T14:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989687453889020000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1764820595387305984",
+              "start": 11,
+              "username": "miaoning000"
+            },
+            {
+              "end": 36,
+              "id": "1823534438229401601",
+              "start": 25,
+              "username": "wanchunshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989687453889020000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 228,
+          "impression_count": 785112,
+          "like_count": 974,
+          "quote_count": 31,
+          "reply_count": 260,
+          "retweet_count": 84
+        },
+        "reply_settings": "everyone",
+        "text": "这是一份迟到的讣告：\n@miaoning000 和@wanchunshi，两位，\n已在2025年11月13日凌晨两点左右永远的去了天国，\n被发现时已失去生命体征。\n万分沉痛，深切缅怀。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 呼吸堵塞 | 现已恢复?  抑郁状态 好好活着 二氧化碳好似喵 MtF🏳️‍⚧️",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 994,
+          "like_count": 4973,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1073
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-13T01:24:17.000Z",
+        "description": "That's ra or Harry (not xsu!\nen&zh | 💻笔电爱好者 | 无糖 | 女装 | 精神地雷系 | 🏳️‍🌈LGBTQ+friendly",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lunar.galaxy.gov",
+                "end": 23,
+                "expanded_url": "https://www.lunar.galaxy.gov",
+                "start": 0,
+                "url": "https://t.co/ZmiJZUPn5Q"
+              }
+            ]
+          }
+        },
+        "id": "1304953938320306176",
+        "location": "Lunar,Galaxy,Universe",
+        "name": "xsu_Harryyy",
+        "pinned_tweet_id": "1932047209467421162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016521299070464000/DgHXMLJt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1701,
+          "following_count": 318,
+          "like_count": 48802,
+          "listed_count": 6,
+          "media_count": 205,
+          "tweet_count": 3033
+        },
+        "url": "https://t.co/ZmiJZUPn5Q",
+        "username": "hry_xsu",
+        "verified": false
+      }
+    ]
+  }
+}

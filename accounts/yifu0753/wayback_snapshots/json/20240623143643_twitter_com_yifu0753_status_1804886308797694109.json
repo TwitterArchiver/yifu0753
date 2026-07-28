@@ -1,0 +1,126 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1804886117290049662",
+    "created_at": "2024-06-23T14:36:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-23T15:36:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804886308797694109"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1804886308797694109",
+    "in_reply_to_user_id": "1668693781791784961",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804886117290049662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "和对情感的细腻表达。您的文字中流露出对生活的深度思考和对美好事物的渴望，这与伍尔夫在《达洛维夫人》中对主人公复杂心理的描写和《到灯塔去》中对家庭与个人情感的探索有着相似之处。同时，您的推文也与西尔维娅·普拉斯的作品有着76.47%的相似度，特别是在表达个人情感和探讨内心世界的方式上。而"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1804886117290049662",
+        "created_at": "2024-06-23T14:36:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T15:36:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804886308797694109"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1804886308797694109",
+        "in_reply_to_user_id": "1668693781791784961",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804886117290049662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "和对情感的细腻表达。您的文字中流露出对生活的深度思考和对美好事物的渴望，这与伍尔夫在《达洛维夫人》中对主人公复杂心理的描写和《到灯塔去》中对家庭与个人情感的探索有着相似之处。同时，您的推文也与西尔维娅·普拉斯的作品有着76.47%的相似度，特别是在表达个人情感和探讨内心世界的方式上。而"
+      },
+      {
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1804886117290049662",
+        "created_at": "2024-06-23T14:35:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T15:35:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804886117290049662"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1804886117290049662",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "笑死\n\n你的推文像······\n---\n# 弗吉尼亚·伍尔夫\n\n# 82.35%\n\n代表作：《达洛维夫人》、《到灯塔去》\n---\n### 也很像：\n- 西尔维娅·普拉斯：76.47%\n- 大江健三郎：69.12%\n---\n### 理由\n根据您的推文，您的写作风格与弗吉尼亚·伍尔夫相似度达到82.35%，这表现在您对内心世界的深刻描绘和对情感的细腻表达"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "讨厌一切人类  infp-t\n 讨厌一切的不美好",
+        "id": "1668693781791784961",
+        "name": "伊芙 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764816409815896064/b8sUPDni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 120,
+          "like_count": 570,
+          "listed_count": 0,
+          "tweet_count": 189
+        },
+        "username": "yifu0753",
+        "verified": false
+      }
+    ]
+  }
+}

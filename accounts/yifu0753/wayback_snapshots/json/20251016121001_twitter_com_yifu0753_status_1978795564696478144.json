@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1978786098022322584",
+    "created_at": "2025-10-16T12:10:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T13:10:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978795564696478144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "522147771",
+          "start": 0,
+          "username": "N_N_DPT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978795564696478144",
+    "in_reply_to_user_id": "522147771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978786098022322584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N_N_DPT mtf怎么办"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1978786098022322584",
+        "created_at": "2025-10-16T12:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T13:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978795564696478144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "522147771",
+              "start": 0,
+              "username": "N_N_DPT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978795564696478144",
+        "in_reply_to_user_id": "522147771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978786098022322584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N_N_DPT mtf怎么办"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "522147771",
+        "conversation_id": "1978786098022322584",
+        "created_at": "2025-10-16T11:32:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T12:32:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978786098022322584"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "N,N-二丙基色胺🔯’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1mrGm…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1mrGmBzMaBgJy",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1978786099431612416/61XT1w7C?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1978786099431612416/61XT1w7C?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 如果生活不如意那就磕药做兄弟为战而生，至死方休化学极乐，人类崛起",
+              "unwound_url": "https://twitter.com/i/spaces/1mrGmBzMaBgJy/peek",
+              "url": "https://t.co/oOQgebU3de"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978786098022322584",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/oOQgebU3de"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "🏳‍⚧ 抑郁焦虑状态",
+        "id": "1668693781791784961",
+        "name": "伊芙🍥",
+        "pinned_tweet_id": "1936898802361020812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 943,
+          "like_count": 4361,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 931
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-12T10:46:19.000Z",
+        "description": "药物科普:https://t.co/pYOLeaidWM\n博客：https://t.co/KtrQvROgFR\ngalgame资源站：https://t.co/WlcdxebtRf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 28,
+                "expanded_url": "https://www.overdose.day",
+                "start": 5,
+                "url": "https://t.co/pYOLeaidWM"
+              },
+              {
+                "display_url": "blog.pr80.bid",
+                "end": 55,
+                "expanded_url": "https://blog.pr80.bid",
+                "start": 32,
+                "url": "https://t.co/KtrQvROgFR"
+              },
+              {
+                "display_url": "pr80.bid",
+                "end": 90,
+                "expanded_url": "https://www.pr80.bid/",
+                "start": 67,
+                "url": "https://t.co/WlcdxebtRf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day/",
+                "start": 0,
+                "url": "https://t.co/c6WOvYAeM8"
+              }
+            ]
+          }
+        },
+        "id": "522147771",
+        "location": "天国",
+        "name": "N,N-二丙基色胺🔯",
+        "pinned_tweet_id": "1966707693030408507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951933777049165825/lU5YAFYF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1996,
+          "following_count": 2422,
+          "like_count": 825,
+          "listed_count": 5,
+          "media_count": 180,
+          "tweet_count": 1333
+        },
+        "url": "https://t.co/c6WOvYAeM8",
+        "username": "N_N_DPT",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2057644179665436906",
+    "created_at": "2026-05-22T02:06:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T03:06:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057644179665436906"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/VmikufansV/sta…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/VmikufansV/status/2057329678294405257",
+          "start": 28,
+          "url": "https://t.co/bDDv6Us4LT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057644179665436906",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057329678294405257",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一个有创伤的人，尝试自杀，尝试放弃。尝试自残，尝试…… https://t.co/bDDv6Us4LT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2057644179665436906",
+        "created_at": "2026-05-22T02:06:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T03:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057644179665436906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/VmikufansV/sta…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/VmikufansV/status/2057329678294405257",
+              "start": 28,
+              "url": "https://t.co/bDDv6Us4LT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057644179665436906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057329678294405257",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一个有创伤的人，尝试自杀，尝试放弃。尝试自残，尝试…… https://t.co/bDDv6Us4LT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867596733884379136",
+        "conversation_id": "2057329678294405257",
+        "created_at": "2026-05-21T05:16:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T06:16:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057329678294405257"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057329678294405257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 633,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个有创伤的人，没有自杀、没有放弃，尝试着自残、尝试着互联网抱团取暖、尝试着看病吃药，这叫生命力、非常旺盛的生命力"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪麻痹 ICU 药物中毒 重度抑郁 | 二氧化碳好死喵 | 快死了",
+        "id": "1668693781791784961",
+        "location": "深圳市南山区",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 948,
+          "following_count": 1185,
+          "like_count": 7106,
+          "listed_count": 2,
+          "media_count": 155,
+          "tweet_count": 1829
+        },
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-13T15:46:06.000Z",
+        "description": "荆棘之路通往何处丨\n爱来自@N/A丨\n🍥09/02/2023",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/vmikufansv",
+                "end": 23,
+                "expanded_url": "https://t.me/vmikufansv",
+                "start": 0,
+                "url": "https://t.co/Y4FXp5SvZP"
+              }
+            ]
+          }
+        },
+        "id": "1867596733884379136",
+        "location": "若叶2丁目2-12",
+        "name": "共价键ovo",
+        "pinned_tweet_id": "1867600061368254576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867597015129178112/AjHYA7j9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1352,
+          "following_count": 233,
+          "like_count": 680,
+          "listed_count": 5,
+          "media_count": 925,
+          "tweet_count": 4589
+        },
+        "url": "https://t.co/Y4FXp5SvZP",
+        "username": "VmikufansV",
+        "verified": false
+      }
+    ]
+  }
+}

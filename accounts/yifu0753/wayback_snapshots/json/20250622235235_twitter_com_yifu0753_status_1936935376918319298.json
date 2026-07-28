@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1936935376918319298",
+    "created_at": "2025-06-22T23:52:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T00:52:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936935376918319298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1557839863151337473",
+          "start": 3,
+          "username": "scutigera_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936935376918319298",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936677227162431804",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @scutigera_8964: 互关也好路人也好我觉得你们千万不要因为精神病或者od割手键政把学业弄废了，没学历还没学上真的会很后悔的，出社会还会更痛苦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1936935376918319298",
+        "created_at": "2025-06-22T23:52:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T00:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936935376918319298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1557839863151337473",
+              "start": 3,
+              "username": "scutigera_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936935376918319298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936677227162431804",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @scutigera_8964: 互关也好路人也好我觉得你们千万不要因为精神病或者od割手键政把学业弄废了，没学历还没学上真的会很后悔的，出社会还会更痛苦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "1936677227162431804",
+        "created_at": "2025-06-22T06:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T07:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936677227162431804"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1936677227162431804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 9947,
+          "like_count": 187,
+          "quote_count": 4,
+          "reply_count": 25,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "互关也好路人也好我觉得你们千万不要因为精神病或者od割手键政把学业弄废了，没学历还没学上真的会很后悔的，出社会还会更痛苦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "🏳‍⚧ 抑郁焦虑状态",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 860,
+          "like_count": 3739,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 687
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "お幸せに。無言フォローすいません😞我精神病od自残中央空调不要对我有太大期待",
+        "id": "1557839863151337473",
+        "name": "くま",
+        "pinned_tweet_id": "1930926127478186026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929099614915047424/aurGnrYP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3415,
+          "following_count": 3011,
+          "like_count": 31682,
+          "listed_count": 4,
+          "media_count": 316,
+          "tweet_count": 7276
+        },
+        "username": "scutigera_8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1817273755456135519",
+    "created_at": "2024-07-28T11:56:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-28T12:56:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1817529438596223314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1487651724810723332",
+          "start": 0,
+          "username": "pamu_desuyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817529438596223314",
+    "in_reply_to_user_id": "1487651724810723332",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817273755456135519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pamu_desuyo 加油"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1817273755456135519].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1817273755456135519",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1817273755456135519"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1817273755456135519",
+        "created_at": "2024-07-28T11:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-28T12:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817529438596223314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1487651724810723332",
+              "start": 0,
+              "username": "pamu_desuyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817529438596223314",
+        "in_reply_to_user_id": "1487651724810723332",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817273755456135519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pamu_desuyo 加油"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "",
+        "id": "1668693781791784961",
+        "location": "广州",
+        "name": "伊芙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764816409815896064/b8sUPDni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 163,
+          "like_count": 755,
+          "listed_count": 0,
+          "tweet_count": 273
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-30T04:59:55.000Z",
+        "description": "友跨🍥/极度社恐(很不擅长聊天抱歉🥺)/逃避社交/无性恋/准大一(应该也没机会读了吧)/很少键政/互fo私信哦/应该也没什么好写了的吧",
+        "id": "1487651724810723332",
+        "location": "🌏    🚀    🌕",
+        "name": "pamu（回🌕的辉夜姬版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813495486697082881/h_tsmK8i_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1287,
+          "following_count": 691,
+          "like_count": 17403,
+          "listed_count": 3,
+          "tweet_count": 1293
+        },
+        "username": "pamu_desuyo",
+        "verified": false
+      }
+    ]
+  }
+}

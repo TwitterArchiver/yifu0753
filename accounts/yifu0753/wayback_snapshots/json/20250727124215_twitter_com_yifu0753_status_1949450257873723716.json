@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1949450257873723716",
+    "created_at": "2025-07-27T12:42:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T13:42:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949450257873723716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1639816523190763521",
+          "start": 3,
+          "username": "ggdxfulan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949450257873723716",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949362255109177712",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ggdxfulan: 药娘群里的友跨顺男\n\n第1天\n呜呜呜我喜欢你\n\n第30天\n这是我的女装照\n\n第90天\n呜呜呜二小姐，要不我还是吃糖吧\n\n我：？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1949450257873723716",
+        "created_at": "2025-07-27T12:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T13:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949450257873723716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1639816523190763521",
+              "start": 3,
+              "username": "ggdxfulan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949450257873723716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949362255109177712",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ggdxfulan: 药娘群里的友跨顺男\n\n第1天\n呜呜呜我喜欢你\n\n第30天\n这是我的女装照\n\n第90天\n呜呜呜二小姐，要不我还是吃糖吧\n\n我：？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639816523190763521",
+        "conversation_id": "1949362255109177712",
+        "created_at": "2025-07-27T06:52:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T07:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949362255109177712"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949362255109177712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3644,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "药娘群里的友跨顺男\n\n第1天\n呜呜呜我喜欢你\n\n第30天\n这是我的女装照\n\n第90天\n呜呜呜二小姐，要不我还是吃糖吧\n\n我：？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "🏳‍⚧ 抑郁焦虑状态",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "pinned_tweet_id": "1936898802361020812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 929,
+          "like_count": 4237,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 836
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T02:28:25.000Z",
+        "description": "纯1、药娘攻、抖s、反差、MtX(半个男同)，喜欢欺负人",
+        "id": "1639816523190763521",
+        "location": "距离你50m",
+        "name": "乖乖哒二小姐🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929849322272968704/hQan_chB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7464,
+          "following_count": 416,
+          "like_count": 23405,
+          "listed_count": 17,
+          "media_count": 2712,
+          "tweet_count": 8863
+        },
+        "username": "ggdxfulan",
+        "verified": false
+      }
+    ]
+  }
+}

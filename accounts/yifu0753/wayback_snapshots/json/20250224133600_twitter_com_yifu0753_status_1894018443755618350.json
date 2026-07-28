@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1894018443755618350",
+    "created_at": "2025-02-24T13:36:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T14:36:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894018443755618350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1717937535585021952",
+          "start": 3,
+          "username": "muxii442714"
+        },
+        {
+          "end": 30,
+          "id": "1683001001043984384",
+          "start": 17,
+          "username": "TudouCn24795"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894018443755618350",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893961133356454033",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @muxii442714: @TudouCn24795 如果国内网络没有审查，大概比推上这些还要严重得多吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1894018443755618350",
+        "created_at": "2025-02-24T13:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T14:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894018443755618350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1717937535585021952",
+              "start": 3,
+              "username": "muxii442714"
+            },
+            {
+              "end": 30,
+              "id": "1683001001043984384",
+              "start": 17,
+              "username": "TudouCn24795"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894018443755618350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893961133356454033",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @muxii442714: @TudouCn24795 如果国内网络没有审查，大概比推上这些还要严重得多吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717937535585021952",
+        "conversation_id": "1893424005006405742",
+        "created_at": "2025-02-24T09:48:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T10:48:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893961133356454033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1683001001043984384",
+              "start": 0,
+              "username": "TudouCn24795"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893961133356454033",
+        "in_reply_to_user_id": "1683001001043984384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893424005006405742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TudouCn24795 如果国内网络没有审查，大概比推上这些还要严重得多吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "精神分裂 精障人士 重度抑郁 钡中毒 亚硝酸钠中毒 进过ICU ；随便发点自言自语，",
+        "id": "1668693781791784961",
+        "location": "重庆",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 398,
+          "like_count": 2192,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 457
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-27T16:13:38.000Z",
+        "description": "06無證含糖MtF//炸柜后重新深櫃秘密hrt中\n/雙相/焦慮症/ADHD/狀態欠佳淡推/\n學習樂理、繪畫以及減重中\n\n*希望每个善良的人都能被世界温柔以待*",
+        "id": "1717937535585021952",
+        "name": "栀子的幻想世界🍥",
+        "pinned_tweet_id": "1885802223084642763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863132667513868288/e49vOj7N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1183,
+          "following_count": 1099,
+          "like_count": 19118,
+          "listed_count": 3,
+          "media_count": 194,
+          "tweet_count": 1886
+        },
+        "username": "muxii442714",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T06:28:22.000Z",
+        "description": "晓山瑞希 井芹仁菜/日常推/Pansexuality/Transhumanism/I am a human being👋/人类的未来与我无关",
+        "id": "1683001001043984384",
+        "location": "🈚",
+        "name": "雨晴🍻❄",
+        "pinned_tweet_id": "1886283397791641876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875437246762930176/eKcanueu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 894,
+          "following_count": 313,
+          "like_count": 3261,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 1076
+        },
+        "username": "TudouCn24795",
+        "verified": false
+      }
+    ]
+  }
+}

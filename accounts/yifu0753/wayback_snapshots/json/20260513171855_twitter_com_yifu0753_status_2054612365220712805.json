@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2054598747456462975",
+    "created_at": "2026-05-13T17:18:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T18:18:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054612365220712805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1192067927777742848",
+          "start": 0,
+          "username": "canyie2977"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054612365220712805",
+    "in_reply_to_user_id": "1192067927777742848",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054598747456462975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@canyie2977 😭😭😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2054598747456462975",
+        "created_at": "2026-05-13T17:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T18:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054612365220712805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1192067927777742848",
+              "start": 0,
+              "username": "canyie2977"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054612365220712805",
+        "in_reply_to_user_id": "1192067927777742848",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054598747456462975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@canyie2977 😭😭😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1192067927777742848",
+        "conversation_id": "2054598747456462975",
+        "created_at": "2026-05-13T16:24:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T17:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054598747456462975"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054598747456462975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "网上说放冰块，弹皮筋的方法可以模拟感觉帮助戒掉自残\n我把酒精喷到手臂上，跟我心里需要的感觉完全不同\n我的灵魂已经被切开一道永久的印记了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪麻痹 ICU 药物中毒 重度抑郁 | 二氧化碳好死喵 | 快死了",
+        "id": "1668693781791784961",
+        "location": "深圳市南山区",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 1167,
+          "like_count": 6617,
+          "listed_count": 2,
+          "media_count": 125,
+          "tweet_count": 1678
+        },
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2019-11-06T13:15:23.000Z",
+        "description": "脑袋里只装了棉花糖的凄惨残页 Android 开发&安全研究 20岁大二学生前中职 所有使用或曾经使用过 blockchain 的人会被屏蔽 https://t.co/JXDB06hG9M https://t.co/8r7kqyERQV https://t.co/Js3e2AU7S4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/canyie",
+                "end": 94,
+                "expanded_url": "https://github.com/canyie",
+                "start": 71,
+                "url": "https://t.co/JXDB06hG9M"
+              },
+              {
+                "display_url": "blog.canyie.top",
+                "end": 118,
+                "expanded_url": "https://blog.canyie.top/",
+                "start": 95,
+                "url": "https://t.co/8r7kqyERQV"
+              },
+              {
+                "display_url": "t.me/CanyieChannel",
+                "end": 142,
+                "expanded_url": "https://t.me/CanyieChannel",
+                "start": 119,
+                "url": "https://t.co/Js3e2AU7S4"
+              }
+            ]
+          }
+        },
+        "id": "1192067927777742848",
+        "location": "IP 归属地：你心里",
+        "name": "canyie 残页",
+        "pinned_tweet_id": "1888131203493998674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1408999027031478276/6QR0yGKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 999,
+          "following_count": 200,
+          "like_count": 3015,
+          "listed_count": 2,
+          "media_count": 35,
+          "tweet_count": 349
+        },
+        "username": "canyie2977",
+        "verified": false
+      }
+    ]
+  }
+}

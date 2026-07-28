@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2056780372361597290",
+    "created_at": "2026-05-20T17:28:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T18:28:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057151450543993200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1748763011140169729",
+          "start": 0,
+          "username": "lovelyshuimao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057151450543993200",
+    "in_reply_to_user_id": "1748763011140169729",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056780372361597290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lovelyshuimao 不要啊😢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2056780342032474112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIsm0uPaIAAQENQ.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2056780342040911872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIsm0uRa4AAqIHI.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2056780342061867009",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIsm0uWaoAEtG7X.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2056780342049292288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIsm0uTawAAbEL8.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2056780372361597290",
+        "created_at": "2026-05-20T17:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T18:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057151450543993200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057151450543993200",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056780372361597290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 不要啊😢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056780342032474112",
+            "3_2056780342040911872",
+            "3_2056780342061867009",
+            "3_2056780342049292288"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "2056780372361597290",
+        "created_at": "2026-05-19T16:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T17:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056780372361597290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZFOHor57d3",
+              "end": 108,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2056780372361597290/photo/1",
+              "media_key": "3_2056780342032474112",
+              "start": 85,
+              "url": "https://t.co/ZFOHor57d3"
+            },
+            {
+              "display_url": "pic.x.com/ZFOHor57d3",
+              "end": 108,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2056780372361597290/photo/1",
+              "media_key": "3_2056780342040911872",
+              "start": 85,
+              "url": "https://t.co/ZFOHor57d3"
+            },
+            {
+              "display_url": "pic.x.com/ZFOHor57d3",
+              "end": 108,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2056780372361597290/photo/1",
+              "media_key": "3_2056780342061867009",
+              "start": 85,
+              "url": "https://t.co/ZFOHor57d3"
+            },
+            {
+              "display_url": "pic.x.com/ZFOHor57d3",
+              "end": 108,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2056780372361597290/photo/1",
+              "media_key": "3_2056780342049292288",
+              "start": 85,
+              "url": "https://t.co/ZFOHor57d3"
+            },
+            {
+              "display_url": "x.com/lovelyshuimao/…",
+              "end": 132,
+              "expanded_url": "https://twitter.com/lovelyshuimao/status/2056776348887343196",
+              "start": 109,
+              "url": "https://t.co/cHkf0lw7lD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056780372361597290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 12728,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 57,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056776348887343196",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我活不下去又恐惧死亡\n我问上天要不要去死\n于是掷筊3次\n第一次：圣杯\n第二次：圣杯\n第三次：笑杯\n我又问把姓名性别籍贯都告诉神明\n掷了一次：圣杯\n那我去死好了神都准许了 https://t.co/ZFOHor57d3 https://t.co/cHkf0lw7lD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪麻痹 ICU 药物中毒 重度抑郁 | 二氧化碳好死喵 | 快死了",
+        "id": "1668693781791784961",
+        "location": "深圳市南山区",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 1183,
+          "like_count": 7019,
+          "listed_count": 2,
+          "media_count": 155,
+          "tweet_count": 1805
+        },
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "｜水猫星铃Lumia\n｜INTJ 「14」\n｜❤️@saonanaa\n｜提問——————————↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2056780372361597290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4901,
+          "following_count": 1021,
+          "like_count": 274,
+          "listed_count": 15,
+          "media_count": 3214,
+          "tweet_count": 14339
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": false
+      }
+    ]
+  }
+}

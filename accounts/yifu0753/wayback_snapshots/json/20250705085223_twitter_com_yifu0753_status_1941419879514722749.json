@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1941419879514722749",
+    "created_at": "2025-07-05T08:52:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T09:52:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941419879514722749"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 105,
+          "start": 102,
+          "tag": "药娘"
+        },
+        {
+          "end": 110,
+          "start": 106,
+          "tag": "mtf"
+        },
+        {
+          "end": 115,
+          "start": 111,
+          "tag": "雌激素"
+        },
+        {
+          "end": 119,
+          "start": 116,
+          "tag": "变性"
+        },
+        {
+          "end": 123,
+          "start": 120,
+          "tag": "药商"
+        },
+        {
+          "end": 128,
+          "start": 124,
+          "tag": "色谱龙"
+        },
+        {
+          "end": 133,
+          "start": 129,
+          "tag": "补佳乐"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1711373198242320384",
+          "start": 3,
+          "username": "HRT_pharmacist"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941419879514722749",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941415725593448734",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HRT_pharmacist: 之前做的土味小视频没人看，这两天还有问的。俺家400一盒日雌秒发货源稳定欢迎选购！\n稍微办个活动，转发（或者引用）+评论+点赞+关注我的抽个看的顺眼的送一盒日雌。\n#药娘 #mtf #雌激素 #变性 #药商 #色谱龙 #补佳乐 #andr…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30826,
+        "height": 1080,
+        "media_key": "13_1941415558324326400",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1941415558324326400/img/42dlUsODPUBSpmzs.jpg",
+        "public_metrics": {
+          "view_count": 55
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1941415558324326400/vid/avc1/480x270/2rymu3JZAnMBC4FQ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1941415558324326400/vid/avc1/640x360/fMQB5KqZ0mu5pSuZ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1941415558324326400/vid/avc1/1280x720/VrnOos6E6qfTRKqU.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1941415558324326400/pl/XbekBgXCmn5NWOlL.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1941419879514722749",
+        "created_at": "2025-07-05T08:52:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T09:52:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941419879514722749"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 105,
+              "start": 102,
+              "tag": "药娘"
+            },
+            {
+              "end": 110,
+              "start": 106,
+              "tag": "mtf"
+            },
+            {
+              "end": 115,
+              "start": 111,
+              "tag": "雌激素"
+            },
+            {
+              "end": 119,
+              "start": 116,
+              "tag": "变性"
+            },
+            {
+              "end": 123,
+              "start": 120,
+              "tag": "药商"
+            },
+            {
+              "end": 128,
+              "start": 124,
+              "tag": "色谱龙"
+            },
+            {
+              "end": 133,
+              "start": 129,
+              "tag": "补佳乐"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1711373198242320384",
+              "start": 3,
+              "username": "HRT_pharmacist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941419879514722749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941415725593448734",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HRT_pharmacist: 之前做的土味小视频没人看，这两天还有问的。俺家400一盒日雌秒发货源稳定欢迎选购！\n稍微办个活动，转发（或者引用）+评论+点赞+关注我的抽个看的顺眼的送一盒日雌。\n#药娘 #mtf #雌激素 #变性 #药商 #色谱龙 #补佳乐 #andr…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1941415558324326400"
+          ]
+        },
+        "author_id": "1711373198242320384",
+        "conversation_id": "1941415725593448734",
+        "created_at": "2025-07-05T08:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T09:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941415725593448734"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "药娘"
+            },
+            {
+              "end": 90,
+              "start": 86,
+              "tag": "mtf"
+            },
+            {
+              "end": 95,
+              "start": 91,
+              "tag": "雌激素"
+            },
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "变性"
+            },
+            {
+              "end": 103,
+              "start": 100,
+              "tag": "药商"
+            },
+            {
+              "end": 108,
+              "start": 104,
+              "tag": "色谱龙"
+            },
+            {
+              "end": 113,
+              "start": 109,
+              "tag": "补佳乐"
+            },
+            {
+              "end": 123,
+              "start": 114,
+              "tag": "androcur"
+            },
+            {
+              "end": 134,
+              "start": 124,
+              "tag": "progynova"
+            },
+            {
+              "end": 144,
+              "start": 135,
+              "tag": "siterone"
+            },
+            {
+              "end": 154,
+              "start": 145,
+              "tag": "progynon"
+            },
+            {
+              "end": 158,
+              "start": 155,
+              "tag": "日雌"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3jmA80jA59",
+              "end": 182,
+              "expanded_url": "https://x.com/HRT_pharmacist/status/1941415725593448734/video/1",
+              "media_key": "13_1941415558324326400",
+              "start": 159,
+              "url": "https://t.co/3jmA80jA59"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941415725593448734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "之前做的土味小视频没人看，这两天还有问的。俺家400一盒日雌秒发货源稳定欢迎选购！\n稍微办个活动，转发（或者引用）+评论+点赞+关注我的抽个看的顺眼的送一盒日雌。\n#药娘 #mtf #雌激素 #变性 #药商 #色谱龙 #补佳乐 #androcur #progynova #siterone #progynon #日雌 https://t.co/3jmA80jA59"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "🏳‍⚧ 抑郁焦虑状态",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "pinned_tweet_id": "1936898802361020812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 909,
+          "like_count": 4055,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 748
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-09T13:29:39.000Z",
+        "description": "🍬🏪",
+        "id": "1711373198242320384",
+        "name": "某神秘的kanna(HRT药商)",
+        "pinned_tweet_id": "1838565305435750896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776597423412166656/dEFvCy2X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3740,
+          "following_count": 193,
+          "like_count": 221,
+          "listed_count": 13,
+          "media_count": 111,
+          "tweet_count": 500
+        },
+        "username": "HRT_pharmacist",
+        "verified": false
+      }
+    ]
+  }
+}

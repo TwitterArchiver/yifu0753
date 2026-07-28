@@ -1,0 +1,217 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1800968386509422975",
+    "created_at": "2024-06-13T01:04:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-13T02:04:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801057954864771283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1511574513967722505",
+          "start": 0,
+          "username": "Ganyu_g2nnyS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801057954864771283",
+    "in_reply_to_user_id": "1511574513967722505",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800968386509422975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ganyu_g2nnyS xm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1800968386509422975",
+        "created_at": "2024-06-13T01:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-13T02:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801057954864771283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1511574513967722505",
+              "start": 0,
+              "username": "Ganyu_g2nnyS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801057954864771283",
+        "in_reply_to_user_id": "1511574513967722505",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800968386509422975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ganyu_g2nnyS xm"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1800968383716020224"
+          ]
+        },
+        "author_id": "1511574513967722505",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1800968386509422975",
+        "created_at": "2024-06-12T19:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-12T20:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800968386509422975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/STykzjyC3F",
+              "end": 23,
+              "expanded_url": "https://twitter.com/Ganyu_g2nnyS/status/1800968386509422975/photo/1",
+              "media_key": "3_1800968383716020224",
+              "start": 0,
+              "url": "https://t.co/STykzjyC3F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800968386509422975",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/STykzjyC3F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "讨厌一切人类 坐标广州  贴贴~ intp-t\n 讨厌一切的不美好",
+        "id": "1668693781791784961",
+        "name": "伊芙 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764816409815896064/b8sUPDni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 103,
+          "like_count": 527,
+          "listed_count": 0,
+          "tweet_count": 154
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-06T05:20:31.000Z",
+        "description": "轨道之上，我们与你同心同行 | 业余开发/轻度游戏玩家/铁道爱好者\nTelegram Channel: https://t.co/0rAOVq6svd\nGitHub: g2nnyS\nLanguage:EN/CN \n正经推",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Wang_Xiaomei",
+                "end": 75,
+                "expanded_url": "https://t.me/Wang_Xiaomei",
+                "start": 52,
+                "url": "https://t.co/0rAOVq6svd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ganyu.rocks",
+                "end": 23,
+                "expanded_url": "http://ganyu.rocks",
+                "start": 0,
+                "url": "https://t.co/aXUuApyKHX"
+              }
+            ]
+          }
+        },
+        "id": "1511574513967722505",
+        "location": "璃月 雲來海區 璃月港",
+        "name": "王小美",
+        "pinned_tweet_id": "1754949923811033583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753657719914131457/thYOVjhg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 67,
+          "like_count": 15,
+          "listed_count": 0,
+          "tweet_count": 97
+        },
+        "url": "https://t.co/aXUuApyKHX",
+        "username": "Ganyu_g2nnyS",
+        "verified": false
+      }
+    ]
+  }
+}

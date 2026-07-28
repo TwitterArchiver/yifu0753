@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2039172888440566181",
+    "created_at": "2026-04-01T02:47:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T03:47:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039172888440566181"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2039172888440566181",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我搞不懂了，我是一名大一在读学生，忍受这种情况已经快将近半年了，具体情况每次上课时候都会有一个人在讲台上走来走去的，还大声说话，时不时还会去乱动电脑，或者黑板上乱涂乱画，更过分的是这个人还会时不时让我们起来问一些听不懂的问题，我只想说教室是学习的地方，希望学校严查并处理，谢谢。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2039172888440566181",
+        "created_at": "2026-04-01T02:47:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T03:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039172888440566181"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039172888440566181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我搞不懂了，我是一名大一在读学生，忍受这种情况已经快将近半年了，具体情况每次上课时候都会有一个人在讲台上走来走去的，还大声说话，时不时还会去乱动电脑，或者黑板上乱涂乱画，更过分的是这个人还会时不时让我们起来问一些听不懂的问题，我只想说教室是学习的地方，希望学校严查并处理，谢谢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 呼吸堵塞 | 现已恢复?  抑郁状态 好好活着 二氧化碳好似喵 MtF🏳️‍⚧️",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 971,
+          "like_count": 5244,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 1228
+        },
+        "username": "yifu0753",
+        "verified": false
+      }
+    ]
+  }
+}

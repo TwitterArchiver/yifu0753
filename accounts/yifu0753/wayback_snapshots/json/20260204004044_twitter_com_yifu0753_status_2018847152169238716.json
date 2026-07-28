@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018847075346370560"
+      ]
+    },
+    "author_id": "1668693781791784961",
+    "conversation_id": "2018847152169238716",
+    "created_at": "2026-02-04T00:40:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T01:40:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018847152169238716"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uqnQimZtQc",
+          "end": 31,
+          "expanded_url": "https://x.com/yifu0753/status/2018847152169238716/photo/1",
+          "media_key": "3_2018847075346370560",
+          "start": 8,
+          "url": "https://t.co/uqnQimZtQc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018847152169238716",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "X AI 好贵 https://t.co/uqnQimZtQc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 988,
+        "media_key": "3_2018847075346370560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HARit_3bUAABqG4.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018847075346370560"
+          ]
+        },
+        "author_id": "1668693781791784961",
+        "conversation_id": "2018847152169238716",
+        "created_at": "2026-02-04T00:40:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T01:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018847152169238716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uqnQimZtQc",
+              "end": 31,
+              "expanded_url": "https://x.com/yifu0753/status/2018847152169238716/photo/1",
+              "media_key": "3_2018847075346370560",
+              "start": 8,
+              "url": "https://t.co/uqnQimZtQc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018847152169238716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "X AI 好贵 https://t.co/uqnQimZtQc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 呼吸堵塞 血压下降 | 现已恢复?  轻度抑郁 好好活着 二氧化碳好似喵 MtF🏳️‍⚧️",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 995,
+          "like_count": 4895,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 1055
+        },
+        "username": "yifu0753",
+        "verified": false
+      }
+    ]
+  }
+}

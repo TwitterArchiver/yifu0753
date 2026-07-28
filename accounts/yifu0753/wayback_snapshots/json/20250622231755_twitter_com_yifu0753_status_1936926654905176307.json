@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1936336163838505036",
+    "created_at": "2025-06-22T23:17:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T00:17:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936926654905176307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1675474418938662913",
+          "start": 0,
+          "username": "_eternalviolet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936926654905176307",
+    "in_reply_to_user_id": "1675474418938662913",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936336163838505036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_eternalviolet xm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1936336163838505036",
+        "created_at": "2025-06-22T23:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T00:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936926654905176307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1675474418938662913",
+              "start": 0,
+              "username": "_eternalviolet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936926654905176307",
+        "in_reply_to_user_id": "1675474418938662913",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936336163838505036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_eternalviolet xm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675474418938662913",
+        "conversation_id": "1936336163838505036",
+        "created_at": "2025-06-21T08:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T09:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936336163838505036"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1936336163838505036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 71763,
+          "like_count": 343,
+          "quote_count": 9,
+          "reply_count": 91,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "???推特已经出现14岁药娘了？？😱😱😱😱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "🏳‍⚧ 抑郁焦虑状态",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 856,
+          "like_count": 3723,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 676
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-02T12:00:26.000Z",
+        "description": "初三数竞生\n背景由 @6huazhu 提供，请大家关注六花！\n电子宠物 @sharkpowerNH",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 10,
+                "username": "6huazhu"
+              },
+              {
+                "end": 49,
+                "start": 36,
+                "username": "sharkpowerNH"
+              }
+            ]
+          }
+        },
+        "id": "1675474418938662913",
+        "location": "复平面",
+        "name": "辐角（*＾-＾*）淡推中",
+        "pinned_tweet_id": "1890445737948778996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795459346945503233/tY0zqljC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 479,
+          "like_count": 3058,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1415
+        },
+        "username": "_eternalviolet",
+        "verified": false
+      }
+    ]
+  }
+}

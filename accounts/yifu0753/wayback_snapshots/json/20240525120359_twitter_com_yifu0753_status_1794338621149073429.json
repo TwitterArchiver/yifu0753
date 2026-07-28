@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1794245433117880715",
+    "created_at": "2024-05-25T12:03:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-25T13:03:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794338621149073429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1259385301899677696",
+          "start": 0,
+          "username": "1af4_1000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794338621149073429",
+    "in_reply_to_user_id": "1259385301899677696",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794245433117880715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1af4_1000 可惜不是来广州"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1794245433117880715",
+        "created_at": "2024-05-25T12:03:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T13:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794338621149073429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1259385301899677696",
+              "start": 0,
+              "username": "1af4_1000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794338621149073429",
+        "in_reply_to_user_id": "1259385301899677696",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794245433117880715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1af4_1000 可惜不是来广州"
+      },
+      {
+        "attachments": {},
+        "author_id": "1259385301899677696",
+        "conversation_id": "1794245433117880715",
+        "created_at": "2024-05-25T05:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T06:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794245433117880715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/1af4_1000/stat…",
+              "end": 157,
+              "expanded_url": "https://twitter.com/1af4_1000/status/1793875153484710230",
+              "start": 134,
+              "url": "https://t.co/K5dZc4UCxZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794245433117880715",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2541,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793875153484710230",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "计划在花桥站附近找合租，里上海和苏州市区都不算太远，比较方便\n推主本人是有hrt处方的mtf，但是很男，有合租意向的可以交换照片\n6月就要开始入住，可以免费额外提供电脑，但是配置不高 \n推主只需要一个很小的床和一个放电脑的桌子就够了\n家电需要洗衣机和空调，有冰箱更好 https://t.co/K5dZc4UCxZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "讨厌一切人类 友跨顺女 坐标广州  贴贴~ intp-t\n 讨厌一切的不美好",
+        "id": "1668693781791784961",
+        "name": "伊芙 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764816409815896064/b8sUPDni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 90,
+          "like_count": 465,
+          "listed_count": 0,
+          "tweet_count": 123
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-10T07:30:59.000Z",
+        "description": "含糖郭楠。23q3小证/23q4HRT处方/24.03.31第一针日雌。喜欢看管人。计科毕业，考研准备中，cet6/cjt4/vue/golang/nodejs/full stack/openwrt/docker/CI/CD/电路设计/Adobe全家桶/人肉贴片机/hardware modding 需要回fo请私信",
+        "id": "1259385301899677696",
+        "location": "家里，或者路上",
+        "name": "星川ヤナ@花桥站合租募集中",
+        "pinned_tweet_id": "1794245433117880715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755237742869688320/j0e3_cCD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2038,
+          "following_count": 2091,
+          "like_count": 221147,
+          "listed_count": 31,
+          "tweet_count": 20132
+        },
+        "username": "1af4_1000",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2075525880018047202",
+    "created_at": "2026-07-10T10:29:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T11:29:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075527754477670833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1781619920981446656",
+          "start": 0,
+          "username": "God_is_Scorpio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075527754477670833",
+    "in_reply_to_user_id": "1781619920981446656",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075527204721836414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@God_is_Scorpio 😭😭😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2075525880018047202",
+        "created_at": "2026-07-10T10:29:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T11:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075527754477670833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1781619920981446656",
+              "start": 0,
+              "username": "God_is_Scorpio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075527754477670833",
+        "in_reply_to_user_id": "1781619920981446656",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075527204721836414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@God_is_Scorpio 😭😭😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781619920981446656",
+        "conversation_id": "2075525880018047202",
+        "created_at": "2026-07-10T10:27:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T11:27:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075527204721836414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1668693781791784961",
+              "start": 0,
+              "username": "yifu0753"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075527204721836414",
+        "in_reply_to_user_id": "1668693781791784961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075526857223721429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yifu0753 为什么要死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "location": "深圳市南山区",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1264,
+          "following_count": 1317,
+          "like_count": 8415,
+          "listed_count": 2,
+          "media_count": 199,
+          "tweet_count": 2179
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-20T09:44:38.000Z",
+        "description": "MTF/HRT-2024.11.3/重抑中焦/大一复学/家长不管党/萝卜系大药娘/mc&崩铁&wows/亡妻雾离https://t.co/lj60pPWbY8\nTelegram:https://t.co/Uewiw3JXZj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/Fo_get_me_not",
+                "end": 79,
+                "expanded_url": "http://x.com/Fo_get_me_not",
+                "start": 56,
+                "url": "https://t.co/lj60pPWbY8"
+              },
+              {
+                "display_url": "t.me/LuckyCosine7042",
+                "end": 112,
+                "expanded_url": "http://t.me/LuckyCosine7042",
+                "start": 89,
+                "url": "https://t.co/Uewiw3JXZj"
+              }
+            ]
+          }
+        },
+        "id": "1781619920981446656",
+        "location": "南京",
+        "name": "LuckyCosine7042🍥",
+        "pinned_tweet_id": "2061849511409148265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858692102726754304/bOZ-xkwd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 90,
+          "like_count": 916,
+          "listed_count": 3,
+          "media_count": 31,
+          "tweet_count": 129
+        },
+        "url": "",
+        "username": "God_is_Scorpio",
+        "verified": true
+      }
+    ]
+  }
+}

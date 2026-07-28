@@ -1,0 +1,193 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1816681483962388749",
+    "created_at": "2024-07-26T14:22:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-26T15:22:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816841503081365886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1563463171699970049",
+          "start": 0,
+          "username": "LianShihai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816841503081365886",
+    "in_reply_to_user_id": "1563463171699970049",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816681483962388749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LianShihai 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1816681483962388749",
+        "created_at": "2024-07-26T14:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T15:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816841503081365886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1563463171699970049",
+              "start": 0,
+              "username": "LianShihai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816841503081365886",
+        "in_reply_to_user_id": "1563463171699970049",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816681483962388749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LianShihai 抱抱"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1816681475359879168"
+          ]
+        },
+        "author_id": "1563463171699970049",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1816681483962388749",
+        "created_at": "2024-07-26T03:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T04:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816681483962388749"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Wpz4DSgXgG",
+              "end": 31,
+              "expanded_url": "https://twitter.com/LianShihai/status/1816681483962388749/photo/1",
+              "media_key": "3_1816681475359879168",
+              "start": 8,
+              "url": "https://t.co/Wpz4DSgXgG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816681483962388749",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 290,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新鲜血液 鲜美 https://t.co/Wpz4DSgXgG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "",
+        "id": "1668693781791784961",
+        "location": "广州",
+        "name": "伊芙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764816409815896064/b8sUPDni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 162,
+          "like_count": 712,
+          "listed_count": 0,
+          "tweet_count": 270
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-27T09:47:57.000Z",
+        "description": "亲爱的希里雅，人生是窄门，而非旷野",
+        "id": "1563463171699970049",
+        "location": "空心岛",
+        "name": "梨安4h🍑",
+        "pinned_tweet_id": "1816294770224112045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815384770526035968/5zdT-Jdd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 229,
+          "like_count": 9054,
+          "listed_count": 2,
+          "tweet_count": 3087
+        },
+        "username": "LianShihai",
+        "verified": false
+      }
+    ]
+  }
+}

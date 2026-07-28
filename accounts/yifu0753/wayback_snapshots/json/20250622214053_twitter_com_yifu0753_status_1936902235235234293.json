@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1936742053955998137",
+    "created_at": "2025-06-22T21:40:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T22:40:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936902235235234293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1624451741382221824",
+          "start": 0,
+          "username": "nya_QianZi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936902235235234293",
+    "in_reply_to_user_id": "1624451741382221824",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936742053955998137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nya_QianZi hi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1936742053955998137",
+        "created_at": "2025-06-22T21:40:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T22:40:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936902235235234293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1624451741382221824",
+              "start": 0,
+              "username": "nya_QianZi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936902235235234293",
+        "in_reply_to_user_id": "1624451741382221824",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936742053955998137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nya_QianZi hi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1624451741382221824",
+        "conversation_id": "1936742053955998137",
+        "created_at": "2025-06-22T11:04:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T12:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936742053955998137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kagurazakaazur…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/kagurazakaazure/status/1936639096694464936",
+              "start": 10,
+              "url": "https://t.co/h6VpfZnzIU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936742053955998137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 155,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936639096694464936",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我讣告也可以发hi https://t.co/h6VpfZnzIU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "🏳‍⚧ 抑郁焦虑状态",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 838,
+          "like_count": 3692,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 667
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-11T16:54:29.000Z",
+        "description": "舞萌吃/INFP-T/会回fo没回可能是忘了戳戳我/167cm60kg减肥中/大概聊天会回不然搞不好又被送扭了/2023.2.6/2023.10.16/2024.5.6",
+        "id": "1624451741382221824",
+        "location": "雨城区",
+        "name": "见雨neko🍥",
+        "pinned_tweet_id": "1930889237660082226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1704492155966754816/2wAtZ-xa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1008,
+          "following_count": 689,
+          "like_count": 2102,
+          "listed_count": 2,
+          "media_count": 175,
+          "tweet_count": 1482
+        },
+        "username": "nya_QianZi",
+        "verified": false
+      }
+    ]
+  }
+}

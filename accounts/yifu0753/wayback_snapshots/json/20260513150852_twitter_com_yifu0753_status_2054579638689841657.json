@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2054239557336584518",
+    "created_at": "2026-05-13T15:08:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T16:08:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054579638689841657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2016108531028787202",
+          "start": 0,
+          "username": "hello1145110043"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054579638689841657",
+    "in_reply_to_user_id": "2016108531028787202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054239557336584518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hello1145110043 为什么我还活着😭😭😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2054239557336584518",
+        "created_at": "2026-05-13T15:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T16:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054579638689841657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2016108531028787202",
+              "start": 0,
+              "username": "hello1145110043"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054579638689841657",
+        "in_reply_to_user_id": "2016108531028787202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054239557336584518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hello1145110043 为什么我还活着😭😭😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2054239554820001792"
+          ]
+        },
+        "author_id": "2016108531028787202",
+        "conversation_id": "2054239557336584518",
+        "created_at": "2026-05-12T16:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T17:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054239557336584518"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054239557336584518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1442,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "当躺在床上感觉自己的意识越来越模糊，身体软下去用不上一点力气，自己清楚的知道自己在昏迷后就会死时，你会幸福吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪麻痹 ICU 药物中毒 重度抑郁 | 二氧化碳好死喵",
+        "id": "1668693781791784961",
+        "location": "深圳市南山区",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 846,
+          "following_count": 1167,
+          "like_count": 6576,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 1667
+        },
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-27T11:18:35.000Z",
+        "description": "好累！好累！好累！好累！好累！",
+        "id": "2016108531028787202",
+        "location": "地球",
+        "name": "fo我免费送赛博炸鸡（bushi ）🍥",
+        "pinned_tweet_id": "2043653629761274144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043382351338627072/dvyKaqRZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 146,
+          "like_count": 2937,
+          "listed_count": 3,
+          "media_count": 98,
+          "tweet_count": 1091
+        },
+        "username": "hello1145110043",
+        "verified": false
+      }
+    ]
+  }
+}

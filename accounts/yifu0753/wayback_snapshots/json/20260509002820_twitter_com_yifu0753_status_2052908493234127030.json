@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2052908493234127030",
+    "created_at": "2026-05-09T00:28:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T01:28:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052908493234127030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1549011946871336960",
+          "start": 3,
+          "username": "Alantur57426778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052908493234127030",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 122
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052768833841340643",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Alantur57426778: 5月7日，一位00后教师在抖音上发布了条课程纪实，就男生爱玩的“xx是gay”梗主持了场全体思辨，并向学生传授了性取向的知识，呼吁平等与尊重。一日之间，这条视频获得了10万+的点赞与热烈回应，绝大部分观众深表欣慰跟认同。\n然至今日，该名…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2313,
+        "media_key": "3_2052768584036929537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzmJrGaUAEvOhG.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2314,
+        "media_key": "3_2052768619617255424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzmLvpbAAAKv4k.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2324,
+        "media_key": "3_2052768717910810624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzmRd0boAAnIgx.jpg",
+        "width": 1080
+      },
+      {
+        "height": 3568,
+        "media_key": "3_2052768791545982976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzmVwIbMAAOLz1.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2052908493234127030",
+        "created_at": "2026-05-09T00:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T01:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052908493234127030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1549011946871336960",
+              "start": 3,
+              "username": "Alantur57426778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052908493234127030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 122
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052768833841340643",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Alantur57426778: 5月7日，一位00后教师在抖音上发布了条课程纪实，就男生爱玩的“xx是gay”梗主持了场全体思辨，并向学生传授了性取向的知识，呼吁平等与尊重。一日之间，这条视频获得了10万+的点赞与热烈回应，绝大部分观众深表欣慰跟认同。\n然至今日，该名…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052768584036929537",
+            "3_2052768619617255424",
+            "3_2052768717910810624",
+            "3_2052768791545982976"
+          ]
+        },
+        "author_id": "1549011946871336960",
+        "conversation_id": "2052768833841340643",
+        "created_at": "2026-05-08T15:13:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T16:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052768833841340643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jaylEggZ6D",
+              "end": 169,
+              "expanded_url": "https://x.com/Alantur57426778/status/2052768833841340643/photo/1",
+              "media_key": "3_2052768584036929537",
+              "start": 146,
+              "url": "https://t.co/jaylEggZ6D"
+            },
+            {
+              "display_url": "pic.x.com/jaylEggZ6D",
+              "end": 169,
+              "expanded_url": "https://x.com/Alantur57426778/status/2052768833841340643/photo/1",
+              "media_key": "3_2052768619617255424",
+              "start": 146,
+              "url": "https://t.co/jaylEggZ6D"
+            },
+            {
+              "display_url": "pic.x.com/jaylEggZ6D",
+              "end": 169,
+              "expanded_url": "https://x.com/Alantur57426778/status/2052768833841340643/photo/1",
+              "media_key": "3_2052768717910810624",
+              "start": 146,
+              "url": "https://t.co/jaylEggZ6D"
+            },
+            {
+              "display_url": "pic.x.com/jaylEggZ6D",
+              "end": 169,
+              "expanded_url": "https://x.com/Alantur57426778/status/2052768833841340643/photo/1",
+              "media_key": "3_2052768791545982976",
+              "start": 146,
+              "url": "https://t.co/jaylEggZ6D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052768833841340643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 162,
+          "impression_count": 177493,
+          "like_count": 1940,
+          "quote_count": 25,
+          "reply_count": 134,
+          "retweet_count": 122
+        },
+        "reply_settings": "everyone",
+        "text": "5月7日，一位00后教师在抖音上发布了条课程纪实，就男生爱玩的“xx是gay”梗主持了场全体思辨，并向学生传授了性取向的知识，呼吁平等与尊重。一日之间，这条视频获得了10万+的点赞与热烈回应，绝大部分观众深表欣慰跟认同。\n然至今日，该名老师被学校约谈，这支作品也因故下架。\n此恨绵绵无绝期。 https://t.co/jaylEggZ6D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 | 现已恢复?  轻度抑郁 好好活着 二氧化碳好似喵",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 1151,
+          "like_count": 6416,
+          "listed_count": 2,
+          "media_count": 99,
+          "tweet_count": 1588
+        },
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-18T12:43:31.000Z",
+        "description": "沢尔请给全体酷儿道歉！",
+        "id": "1549011946871336960",
+        "location": "Hi,there!",
+        "name": "咸福宫日记",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672247087621197824/st59jOX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2560,
+          "following_count": 178,
+          "like_count": 12401,
+          "listed_count": 6,
+          "media_count": 600,
+          "tweet_count": 1757
+        },
+        "username": "Alantur57426778",
+        "verified": false
+      }
+    ]
+  }
+}

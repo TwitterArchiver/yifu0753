@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2001016412597596220",
+    "created_at": "2025-12-16T19:47:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T20:47:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001016412597596220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1300828282061877249",
+          "start": 3,
+          "username": "HANLIANYI331"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/0mv",
+          "end": 139,
+          "start": 123,
+          "url": "https://t.co/0mv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001016412597596220",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000998939680801094",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HANLIANYI331: 所谓“戒网瘾学校”，“矫正机构” ，“惩戒学校”都是一种非常美化的说法，这些名词会让完全不了解这些反人类组织的大众产生误判，以为“这只是一些教培组织”。\n\n但是事实上：这些反人类组织存在各种各种的恶劣罪行：… https://t.co/0mv…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2001016412597596220].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2001016412597596220",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2001016412597596220"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14766,
+        "height": 332,
+        "media_key": "7_2000997281550700544",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2000997281550700544/pu/img/VOinekCDGku2fygT.jpg",
+        "public_metrics": {
+          "view_count": 137
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2000997281550700544/pu/vid/avc1/272x332/aCGyuHr5tQ4S9J5c.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2000997281550700544/pu/pl/qBAHM22TbqlZ2RU4.m3u8"
+          }
+        ],
+        "width": 272
+      },
+      {
+        "height": 944,
+        "media_key": "3_2000997282020564992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8T4bR9boAAQli-.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2000997281550700544",
+            "3_2000997282020564992"
+          ]
+        },
+        "author_id": "1300828282061877249",
+        "conversation_id": "2000998939680801094",
+        "created_at": "2025-12-16T18:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T19:29:32.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000996733363609954",
+          "2000997292694978919",
+          "2000997899166212123",
+          "2000998939680801094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0mv1JeDeSZ",
+              "end": 127,
+              "expanded_url": "https://x.com/HANLIANYI331/status/2000998939680801094/video/1",
+              "media_key": "7_2000997281550700544",
+              "start": 104,
+              "url": "https://t.co/0mv1JeDeSZ"
+            },
+            {
+              "display_url": "pic.x.com/0mv1JeDeSZ",
+              "end": 127,
+              "expanded_url": "https://x.com/HANLIANYI331/status/2000998939680801094/video/1",
+              "media_key": "3_2000997282020564992",
+              "start": 104,
+              "url": "https://t.co/0mv1JeDeSZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000998939680801094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "所谓“戒网瘾学校”，“矫正机构” ，“惩戒学校”都是一种非常美化的说法，这些名词会让完全不了解这些反人类组织的大众产生误判，以为“这只是一些教培组织”。\n\n但是事实上：这些反人类组织存在各种各种的恶劣罪行：\n\n非法绑架，非法监禁，暴力殴打，禁食禁水，身体虐待，强奸猥亵，间接杀人，冒充警察……各种罪行罄竹难书\n\n有大量的未成年人和成年人因为被这些反人类组织暴力殴打而落下永久残疾，有大量未成年人和成年人因为被强奸而染上性病，有大量未成年人和成年人落下一身的身体疾病和无数的精神病，又有无数人因为这些反人类组织最终自杀死亡。\n\n里面被暴力监禁虐待的人员上至45岁，下至8岁。\n\n这些组织应当统一称呼为：\n\n反人类暴力监禁虐待恐怖组织"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 295,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "所谓“戒网瘾学校”，“矫正机构” ，“惩戒学校”都是一种非常美化的说法，这些名词会让完全不了解这些反人类组织的大众产生误判，以为“这只是一些教培组织”。\n\n但是事实上：这些反人类组织存在各种各种的恶劣罪行： https://t.co/0mv1JeDeSZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "「she her 她」 伊芙~ | 安息！ 在我坟前献上一束花",
+        "id": "1668693781791784961",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 1000,
+          "like_count": 4695,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 975
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔站名称 美少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 101,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 78,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsNLVR"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40399,
+          "following_count": 3670,
+          "like_count": 1321,
+          "listed_count": 68,
+          "media_count": 373,
+          "tweet_count": 2669
+        },
+        "url": "https://t.co/LbtcvsNLVR",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1913027363413303540",
+    "created_at": "2025-04-18T00:30:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T01:30:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1913027363413303540"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_Snow0717/stat…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/_Snow0717/status/1913021012851261809",
+          "start": 41,
+          "url": "https://t.co/4QlQDlWsdJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913027363413303540",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913021012851261809",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我能不能死掉😖😖😖我这个讨厌的男性身体呜呜呜呜呜😭😭😭我明明是女孩子的灵魂……🥺 https://t.co/4QlQDlWsdJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1913027363413303540",
+        "created_at": "2025-04-18T00:30:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T01:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913027363413303540"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_Snow0717/stat…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/_Snow0717/status/1913021012851261809",
+              "start": 41,
+              "url": "https://t.co/4QlQDlWsdJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913027363413303540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913021012851261809",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我能不能死掉😖😖😖我这个讨厌的男性身体呜呜呜呜呜😭😭😭我明明是女孩子的灵魂……🥺 https://t.co/4QlQDlWsdJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801382796436639745",
+        "conversation_id": "1913021012851261809",
+        "created_at": "2025-04-18T00:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T01:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913021012851261809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mengqing8964/s…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/mengqing8964/status/1912880960405905456",
+              "start": 41,
+              "url": "https://t.co/FJ5POLeq5O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913021012851261809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912880960405905456",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我能不能死掉😖😖😖我这个讨厌的男性身体呜呜呜呜呜😭😭😭我明明是女孩子的灵魂……🥺 https://t.co/FJ5POLeq5O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "01 MtF🏳‍⚧ 抑郁焦虑状态 ASD | 同类互fo",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 655,
+          "like_count": 3177,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 568
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-13T22:35:19.000Z",
+        "description": "║生日 2008.07.17 / 坐标台湾 / 高一休学\n║INFP / 猫猫\n║MtF / 家长党 / 无证含糖 2025.02.11\n║重度抑郁 / 双相二型 / ADHD / BPD / 疑似ASD\n║家里蹲 / 音游人 / 渴望温暖\n║最爱的人@Kinaiyurun0128 / 里推@_SnowUra0717",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 126,
+                "username": "Kinaiyurun0128"
+              },
+              {
+                "end": 159,
+                "start": 146,
+                "username": "_SnowUra0717"
+              }
+            ]
+          }
+        },
+        "id": "1801382796436639745",
+        "location": "互联网",
+        "name": "洛雪🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896118220400271360/kFN6DTx9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1274,
+          "following_count": 1407,
+          "like_count": 4046,
+          "listed_count": 2,
+          "media_count": 149,
+          "tweet_count": 1412
+        },
+        "username": "_Snow0717",
+        "verified": false
+      }
+    ]
+  }
+}

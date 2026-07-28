@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2054327517910323371",
+    "created_at": "2026-05-13T13:32:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T14:32:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054555469264670830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2012958305308565505",
+          "start": 0,
+          "username": "raindreamya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054555469264670830",
+    "in_reply_to_user_id": "2012958305308565505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054327517910323371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@raindreamya 自己写好讣告发给我😭😭😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2054327517910323371",
+        "created_at": "2026-05-13T13:32:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T14:32:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054555469264670830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2012958305308565505",
+              "start": 0,
+              "username": "raindreamya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054555469264670830",
+        "in_reply_to_user_id": "2012958305308565505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054327517910323371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@raindreamya 自己写好讣告发给我😭😭😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012958305308565505",
+        "conversation_id": "2054327517910323371",
+        "created_at": "2026-05-12T22:27:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T23:27:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054327517910323371"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054327517910323371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 992,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "希望我死掉后有人给我写讣告（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪麻痹 ICU 药物中毒 重度抑郁 | 二氧化碳好死喵",
+        "id": "1668693781791784961",
+        "location": "深圳市南山区",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 843,
+          "following_count": 1164,
+          "like_count": 6563,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 1662
+        },
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-18T18:41:01.000Z",
+        "description": "🏳️‍⚧️🍥暂时是只刚出炉的mtf喵~🍥🏳️‍⚧️\n🏳️‍⚧️生产日期10.3.5 | 无证含糖 | 🍬HRT 26.2.13 | 💥 26.3.2 炸柜 |「常驻江浙沪」 |182cm 62kg | 这里可以通过tg联系窝喵👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/rainsnowdream",
+                "end": 23,
+                "expanded_url": "http://t.me/rainsnowdream",
+                "start": 0,
+                "url": "https://t.co/gbPraZolk2"
+              }
+            ]
+          }
+        },
+        "id": "2012958305308565505",
+        "name": "雨梦🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043635114064986112/vB72dk36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 140,
+          "like_count": 1061,
+          "listed_count": 3,
+          "media_count": 102,
+          "tweet_count": 506
+        },
+        "url": "https://t.co/gbPraZolk2",
+        "username": "raindreamya",
+        "verified": true
+      }
+    ]
+  }
+}

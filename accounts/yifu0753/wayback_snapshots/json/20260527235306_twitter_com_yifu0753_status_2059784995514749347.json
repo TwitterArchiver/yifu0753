@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2059768396435358003",
+    "created_at": "2026-05-27T23:53:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T00:53:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059784995514749347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1904873292366036992",
+          "start": 0,
+          "username": "Chiyuyu520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059784995514749347",
+    "in_reply_to_user_id": "1904873292366036992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059768396435358003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chiyuyu520 不应该是这样的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2059768390181670912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJXEcBBbUAA73XO.jpg",
+        "width": 2048
+      },
+      {
+        "height": 238,
+        "media_key": "3_2059768390357860352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJXEcBrbwAALxoL.jpg",
+        "width": 490
+      },
+      {
+        "height": 177,
+        "media_key": "3_2059768390345170945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJXEcBoaIAExS3k.jpg",
+        "width": 472
+      },
+      {
+        "height": 586,
+        "media_key": "3_2059768390190018560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJXEcBDasAApN68.jpg",
+        "width": 510
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2059768396435358003",
+        "created_at": "2026-05-27T23:53:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T00:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059784995514749347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059784995514749347",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059768396435358003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 不应该是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059768390181670912",
+            "3_2059768390357860352",
+            "3_2059768390345170945",
+            "3_2059768390190018560"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "981172938517889026",
+              "name": "Fallout"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Fallout 76",
+              "id": "1004436293428736001",
+              "name": "Fallout 76"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "981172938517889026",
+              "name": "Fallout"
+            }
+          }
+        ],
+        "conversation_id": "2059768396435358003",
+        "created_at": "2026-05-27T22:47:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T23:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059768396435358003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7xL2ftsl8g",
+              "end": 134,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2059768396435358003/photo/1",
+              "media_key": "3_2059768390181670912",
+              "start": 111,
+              "url": "https://t.co/7xL2ftsl8g"
+            },
+            {
+              "display_url": "pic.x.com/7xL2ftsl8g",
+              "end": 134,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2059768396435358003/photo/1",
+              "media_key": "3_2059768390357860352",
+              "start": 111,
+              "url": "https://t.co/7xL2ftsl8g"
+            },
+            {
+              "display_url": "pic.x.com/7xL2ftsl8g",
+              "end": 134,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2059768396435358003/photo/1",
+              "media_key": "3_2059768390345170945",
+              "start": 111,
+              "url": "https://t.co/7xL2ftsl8g"
+            },
+            {
+              "display_url": "pic.x.com/7xL2ftsl8g",
+              "end": 134,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2059768396435358003/photo/1",
+              "media_key": "3_2059768390190018560",
+              "start": 111,
+              "url": "https://t.co/7xL2ftsl8g"
+            },
+            {
+              "display_url": "x.com/volgarmynla/st…",
+              "end": 158,
+              "expanded_url": "https://twitter.com/volgarmynla/status/2057432228746219794",
+              "start": 135,
+              "url": "https://t.co/DaboGPrdGQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059768396435358003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057432228746219794",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最近看 The Pitt 里面就有这种情节\n不过离开，分别，死亡是每一个人都需要学会的，也应该学会的内容\n\nPlease forgive me.\nI forgive you.\nThank you.\nI love you. https://t.co/7xL2ftsl8g https://t.co/DaboGPrdGQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪麻痹 ICU 药物中毒 重度抑郁 | 二氧化碳好死喵 | 快死了",
+        "id": "1668693781791784961",
+        "location": "深圳市南山区",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 1193,
+          "like_count": 7389,
+          "listed_count": 2,
+          "media_count": 160,
+          "tweet_count": 1914
+        },
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜|完全和平主义者\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容\n我们的世界，终会像孩童时，怀着真挚的向往写下的作文一样美好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4032,
+          "following_count": 1286,
+          "like_count": 6794,
+          "listed_count": 7,
+          "media_count": 403,
+          "tweet_count": 1493
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1882267852843225546",
+    "created_at": "2025-01-23T03:27:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-23T04:27:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882268879160037588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1269442820580016129",
+          "start": 0,
+          "username": "Hikari_Ciallo"
+        },
+        {
+          "end": 24,
+          "id": "1281443250717392896",
+          "start": 15,
+          "username": "kithiumR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882268879160037588",
+    "in_reply_to_user_id": "1269442820580016129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882267852843225546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hikari_Ciallo @kithiumR 面面嗎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1882267852843225546",
+        "created_at": "2025-01-23T03:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T04:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882268879160037588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1269442820580016129",
+              "start": 0,
+              "username": "Hikari_Ciallo"
+            },
+            {
+              "end": 24,
+              "id": "1281443250717392896",
+              "start": 15,
+              "username": "kithiumR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882268879160037588",
+        "in_reply_to_user_id": "1269442820580016129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882267852843225546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hikari_Ciallo @kithiumR 面面嗎"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882267792097136641",
+            "3_1882267792101285888",
+            "7_1882267792424255489",
+            "3_1882267792092860416"
+          ]
+        },
+        "author_id": "1269442820580016129",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1882267852843225546",
+        "created_at": "2025-01-23T03:23:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T04:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882267852843225546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1281443250717392896",
+              "start": 8,
+              "username": "kithiumR"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iSD68t7S3a",
+              "end": 41,
+              "expanded_url": "https://x.com/Hikari_Ciallo/status/1882267852843225546/video/1",
+              "media_key": "3_1882267792097136641",
+              "start": 18,
+              "url": "https://t.co/iSD68t7S3a"
+            },
+            {
+              "display_url": "pic.x.com/iSD68t7S3a",
+              "end": 41,
+              "expanded_url": "https://x.com/Hikari_Ciallo/status/1882267852843225546/video/1",
+              "media_key": "3_1882267792101285888",
+              "start": 18,
+              "url": "https://t.co/iSD68t7S3a"
+            },
+            {
+              "display_url": "pic.x.com/iSD68t7S3a",
+              "end": 41,
+              "expanded_url": "https://x.com/Hikari_Ciallo/status/1882267852843225546/video/1",
+              "media_key": "7_1882267792424255489",
+              "start": 18,
+              "url": "https://t.co/iSD68t7S3a"
+            },
+            {
+              "display_url": "pic.x.com/iSD68t7S3a",
+              "end": 41,
+              "expanded_url": "https://x.com/Hikari_Ciallo/status/1882267852843225546/video/1",
+              "media_key": "3_1882267792092860416",
+              "start": 18,
+              "url": "https://t.co/iSD68t7S3a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882267852843225546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "近况 with @kithiumR https://t.co/iSD68t7S3a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "精神分裂 精障人士 重度抑郁 钡中毒 亚硝酸钠中毒 进过ICU ；随便发点自言自语，",
+        "id": "1668693781791784961",
+        "location": "重庆",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 379,
+          "like_count": 2088,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 433
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-07T01:35:53.000Z",
+        "description": "这里是Hikari-QAQ 喜欢玩音游、碧蓝档案-国际服、听歌、看番、推gal｜互联网重度依赖｜社恐，不太会说话，但希望和大家交朋友，如果说错什么非常抱歉qwq｜会回fo对得上电波的人｜黄推/无推文/bio/长期锁推/粉丝极少且关注多的会b｜想要变可爱｜友跨｜欢迎贴贴｜请和我交流｜自家笨蛋 @kithiumR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 146,
+                "username": "kithiumR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hikariqaq.montaigne.io/hikari",
+                "end": 23,
+                "expanded_url": "https://hikariqaq.montaigne.io/hikari",
+                "start": 0,
+                "url": "https://t.co/YZa16a7Nl4"
+              }
+            ]
+          }
+        },
+        "id": "1269442820580016129",
+        "location": "天津小药娘网络科技工作室",
+        "name": " Hikari.deb 🏳️‍⚧️ #筐体情報 GOOD",
+        "pinned_tweet_id": "1775437822209691813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1636665337042341889/sZKJv1ty_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2481,
+          "following_count": 631,
+          "like_count": 219322,
+          "listed_count": 10,
+          "media_count": 2008,
+          "tweet_count": 45330
+        },
+        "url": "https://t.co/YZa16a7Nl4",
+        "username": "Hikari_Ciallo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-10T04:21:12.000Z",
+        "description": "中文/English | UTC+8 | Twitter用户 | \nTelegram Portal：https://t.co/6YfyzQ2R5W | @Hikari_Ciallo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Hikari_Ciallo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/kithiumr",
+                "end": 73,
+                "expanded_url": "https://t.me/kithiumr",
+                "start": 50,
+                "url": "https://t.co/6YfyzQ2R5W"
+              }
+            ]
+          }
+        },
+        "id": "1281443250717392896",
+        "location": "127.0.0.1",
+        "name": "kit🏳️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1550549085366910977/eBBl9L4z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 286,
+          "like_count": 13970,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 663
+        },
+        "username": "kithiumR",
+        "verified": false
+      }
+    ]
+  }
+}

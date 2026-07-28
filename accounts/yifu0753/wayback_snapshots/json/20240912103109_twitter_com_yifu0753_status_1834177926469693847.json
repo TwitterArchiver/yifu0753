@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1834177926469693847",
+    "created_at": "2024-09-12T10:31:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-12T11:31:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834177926469693847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1320758503879790592",
+          "start": 3,
+          "username": "ruanruansu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834177926469693847",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834124072286126526",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ruanruansu: 上号一看天塌了.怎么都去srs了(╥_╥)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1834177926469693847",
+        "created_at": "2024-09-12T10:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T11:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834177926469693847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1320758503879790592",
+              "start": 3,
+              "username": "ruanruansu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834177926469693847",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834124072286126526",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ruanruansu: 上号一看天塌了.怎么都去srs了(╥_╥)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320758503879790592",
+        "conversation_id": "1834124072286126526",
+        "created_at": "2024-09-12T06:57:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T07:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834124072286126526"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1834124072286126526",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 473,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上号一看天塌了.怎么都去srs了(╥_╥)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "精神分裂 精障人士 重度抑郁 氯化钡中毒 亚硝酸盐中毒 进过ICU ；随便发点自言自语",
+        "id": "1668693781791784961",
+        "location": "广州",
+        "name": "伊芙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 221,
+          "like_count": 1035,
+          "listed_count": 0,
+          "tweet_count": 356
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-26T16:05:57.000Z",
+        "description": "20岁含糖木桶饭    我的唯一@ColacolaAcid",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 16,
+                "username": "ColacolaAcid"
+              }
+            ]
+          }
+        },
+        "id": "1320758503879790592",
+        "location": "在白白心里❤️",
+        "name": "软软可乐777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672694945948536832/AyIGAvDy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4230,
+          "following_count": 217,
+          "like_count": 1556,
+          "listed_count": 18,
+          "tweet_count": 781
+        },
+        "username": "ruanruansu",
+        "verified": false
+      }
+    ]
+  }
+}

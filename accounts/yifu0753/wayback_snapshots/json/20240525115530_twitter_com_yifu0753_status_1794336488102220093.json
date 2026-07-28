@@ -1,0 +1,163 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1794336488102220093",
+    "created_at": "2024-05-25T11:55:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-25T12:55:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1794336488102220093"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/foudingjinglin…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/foudingjingling/status/1793527432135475654",
+          "start": 4,
+          "url": "https://t.co/7LH4pORDMX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794336488102220093",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793527432135475654",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "草草草 https://t.co/7LH4pORDMX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1794336488102220093",
+        "created_at": "2024-05-25T11:55:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T12:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794336488102220093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/foudingjinglin…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/foudingjingling/status/1793527432135475654",
+              "start": 4,
+              "url": "https://t.co/7LH4pORDMX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794336488102220093",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793527432135475654",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "草草草 https://t.co/7LH4pORDMX"
+      },
+      {
+        "attachments": {},
+        "author_id": "1676161442980982784",
+        "conversation_id": "1793527432135475654",
+        "created_at": "2024-05-23T06:20:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T07:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793527432135475654"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1793527432135475654",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 7433,
+          "like_count": 223,
+          "quote_count": 10,
+          "reply_count": 27,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "我们这种缺爱b最好骗了。一大早醒来看见你发的一大堆消息就以为自己被爱了。一起听了几个小时的歌就以为可以共享心跳了。照片被发在朋友圈了就以为自己被珍惜了。别人一可怜我或者为我做一点可能很微不足道的事我觉得我就要被爱了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "讨厌一切人类 友跨顺女 坐标广州  贴贴~ intp-t\n 讨厌一切的不美好",
+        "id": "1668693781791784961",
+        "name": "伊芙 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764816409815896064/b8sUPDni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 89,
+          "like_count": 462,
+          "listed_count": 0,
+          "tweet_count": 120
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-04T09:30:17.000Z",
+        "description": "中/Eng/Male/18/🏳️‍🌈pansexual/CS/freshman in a mediocre uni/philosophy /Need a hug/want more friends/know more in private/love all of you/I need ❤️❤️",
+        "id": "1676161442980982784",
+        "location": "Peking/Beijing(location of uni",
+        "name": "Ice Cream",
+        "pinned_tweet_id": "1789329387034210469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792984023805075457/Pr0QvriD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2229,
+          "following_count": 1364,
+          "like_count": 20073,
+          "listed_count": 3,
+          "tweet_count": 9727
+        },
+        "username": "foudingjingling",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1923332011571265565",
+    "created_at": "2025-06-22T23:33:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T00:33:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936930561265913950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1453575590729162758",
+          "start": 0,
+          "username": "obe_ZX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936930561265913950",
+    "in_reply_to_user_id": "1453575590729162758",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923332011571265565",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@obe_ZX xm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1923332011571265565",
+        "created_at": "2025-06-22T23:33:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T00:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936930561265913950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1453575590729162758",
+              "start": 0,
+              "username": "obe_ZX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936930561265913950",
+        "in_reply_to_user_id": "1453575590729162758",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923332011571265565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@obe_ZX xm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1453575590729162758",
+        "conversation_id": "1923332011571265565",
+        "created_at": "2025-05-16T10:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T11:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923332011571265565"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1923332011571265565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 14310,
+          "like_count": 95,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "hhhh我的存在好像有点让我妈应激了（×\n我弟（四岁）：我是王后！\n我妈：你是什么？\n我弟：我是王后！\n我妈（光速接话）（严肃）：王后是男的女的？\n我弟（小声）：女的…\n我妈：那你应该是什么？\n我弟（思索）（小声）：王国…\n我妈：是国王！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "🏳‍⚧ 抑郁焦虑状态",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 858,
+          "like_count": 3732,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 681
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-28T04:13:37.000Z",
+        "description": "07年夏季MtF? | DIY HRTing | 175/52kg | 半家长党（妈妈）+半家长不管党（生父） | 空 | 最喜欢的姐姐@ye_han67658",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 68,
+                "username": "ye_han67658"
+              }
+            ]
+          }
+        },
+        "id": "1453575590729162758",
+        "location": "小骨灰盒",
+        "name": "木槿团子🍡🏳️‍⚧️",
+        "pinned_tweet_id": "1745015031736188939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916434099037966336/Hj14mfO6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 500,
+          "like_count": 10196,
+          "listed_count": 2,
+          "media_count": 161,
+          "tweet_count": 1113
+        },
+        "username": "obe_ZX",
+        "verified": false
+      }
+    ]
+  }
+}

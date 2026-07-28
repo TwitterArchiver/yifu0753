@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1881378070231458029",
+    "created_at": "2025-01-20T17:38:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-20T18:38:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881395967976784097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1464881472964382732",
+          "start": 0,
+          "username": "mengguyi"
+        },
+        {
+          "end": 22,
+          "id": "1675529366334480386",
+          "start": 10,
+          "username": "hu_fufu8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881395967976784097",
+    "in_reply_to_user_id": "1464881472964382732",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881389847572812050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mengguyi @hu_fufu8964 谁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1881378070231458029",
+        "created_at": "2025-01-20T17:38:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T18:38:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881395967976784097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1464881472964382732",
+              "start": 0,
+              "username": "mengguyi"
+            },
+            {
+              "end": 22,
+              "id": "1675529366334480386",
+              "start": 10,
+              "username": "hu_fufu8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881395967976784097",
+        "in_reply_to_user_id": "1464881472964382732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881389847572812050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengguyi @hu_fufu8964 谁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1464881472964382732",
+        "conversation_id": "1881378070231458029",
+        "created_at": "2025-01-20T17:14:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T18:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881389847572812050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1675529366334480386",
+              "start": 0,
+              "username": "hu_fufu8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881389847572812050",
+        "in_reply_to_user_id": "1675529366334480386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881383569836392573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hu_fufu8964 有人自杀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "精神分裂 精障人士 重度抑郁 钡中毒 亚硝酸钠中毒 进过ICU ；随便发点自言自语，",
+        "id": "1668693781791784961",
+        "location": "重庆",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 380,
+          "like_count": 2065,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 430
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-28T08:59:07.000Z",
+        "description": "GNU/Linux用户｜超业余级的Golang开发者｜19 y.o.｜个人TG: https://t.co/sId7D2qEtH | GitHub: https://t.co/H0qW1rtPXv | 可也以叫我安然或者孟安然 | MTF🏳️‍⚧️ | Nya! 若账号被限制请 @mengguyi2 | 出售原味",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 140,
+                "username": "mengguyi2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/mengguyi",
+                "end": 64,
+                "expanded_url": "https://t.me/mengguyi",
+                "start": 41,
+                "url": "https://t.co/sId7D2qEtH"
+              },
+              {
+                "display_url": "github.com/mengguyi",
+                "end": 98,
+                "expanded_url": "https://github.com/mengguyi",
+                "start": 75,
+                "url": "https://t.co/H0qW1rtPXv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mengguyi.com",
+                "end": 23,
+                "expanded_url": "https://mengguyi.com",
+                "start": 0,
+                "url": "https://t.co/TS2nZD0GVY"
+              }
+            ]
+          }
+        },
+        "id": "1464881472964382732",
+        "location": "Macau",
+        "name": "孟古一🍥",
+        "pinned_tweet_id": "1871549421793706402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775795384096600065/vu5kAWL9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1625,
+          "following_count": 1027,
+          "like_count": 33692,
+          "listed_count": 5,
+          "media_count": 753,
+          "tweet_count": 3299
+        },
+        "url": "https://t.co/TS2nZD0GVY",
+        "username": "mengguyi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-02T15:38:39.000Z",
+        "description": "全推最笨的fufuhu堂堂归来！本号有轻微涩涩，清水请看@Subanxia960Hu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 28,
+                "username": "Subanxia960Hu"
+              }
+            ]
+          }
+        },
+        "id": "1675529366334480386",
+        "name": "fufuhu",
+        "pinned_tweet_id": "1840383797885599903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722996114973233152/Q9PR-gp2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 685,
+          "like_count": 28918,
+          "listed_count": 2,
+          "media_count": 732,
+          "tweet_count": 4525
+        },
+        "username": "hu_fufu8964",
+        "verified": false
+      }
+    ]
+  }
+}

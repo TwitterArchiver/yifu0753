@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2039175570634993999",
+    "created_at": "2026-04-01T02:58:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T03:58:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039175570634993999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/T7CXKaRA",
+          "end": 139,
+          "start": 118,
+          "url": "https://t.co/T7CXKaRA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039175570634993999",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039125589379158019",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 3月30日，河北。一名快递员说，他上门揽件发现顾客的东西是锂电池，但公司有规定锂电池是违禁品不能寄，被查到罚款或开除。\n\n于是他只能把订单退了，结果没一会顾客把订单驳回了，公司还罚了他30元。… https://t.co/T7CXKaRA…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 304733,
+        "height": 1920,
+        "media_key": "13_2039104212831698944",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2039104212831698944/img/SxfJ7wMuEKyqcyEg.jpg",
+        "public_metrics": {
+          "view_count": 63775
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2039104212831698944/pl/UH5shz4O_SXofTpt.m3u8?v=2cf"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039104212831698944/vid/avc1/320x568/eeLJeD5RobsjhDMT.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039104212831698944/vid/avc1/480x852/eUQ9wXPcsrzbhjny.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039104212831698944/vid/avc1/720x1280/_uNJOi8AI41cmA6P.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039104212831698944/vid/avc1/1080x1920/vchEPt9M54oJuu4T.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2039175570634993999",
+        "created_at": "2026-04-01T02:58:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T03:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039175570634993999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/T7CXKaRA",
+              "end": 139,
+              "start": 118,
+              "url": "https://t.co/T7CXKaRA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039175570634993999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039125589379158019",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 3月30日，河北。一名快递员说，他上门揽件发现顾客的东西是锂电池，但公司有规定锂电池是违禁品不能寄，被查到罚款或开除。\n\n于是他只能把订单退了，结果没一会顾客把订单驳回了，公司还罚了他30元。… https://t.co/T7CXKaRA…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2039104212831698944"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2039125589379158019",
+        "created_at": "2026-03-31T23:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T00:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039125589379158019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T7CXKaRA4q",
+              "end": 120,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2039125589379158019/video/1",
+              "media_key": "13_2039104212831698944",
+              "start": 97,
+              "url": "https://t.co/T7CXKaRA4q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039125589379158019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "3月30日，河北。一名快递员说，他上门揽件发现顾客的东西是锂电池，但公司有规定锂电池是违禁品不能寄，被查到罚款或开除。\n\n于是他只能把订单退了，结果没一会顾客把订单驳回了，公司还罚了他30元。\n\n 第二天，顾客再次下单，并表示东西是五金配件，但他发现东西包装和昨天的一样，并且还很重明显就是锂电池，他无奈表示，：“我就是个送快递的，公司规定不能收，我们也没办法”\n\n顾客：那我就找客服投诉，反正我就不取消订单。\n\n他无奈上报公司群里，但没人回复，他又将订单发给站长，站长表示：只能让顾客取消，你私自取消订单也可以，但别让顾客投诉。意思就是你用这个方法也行，但出了事你自己抗。\n\n他表示：每一条规则单独拎出来都对，可是当这些规则撞在一起的时候，所有的矛盾都压在快递员身上，公司在罚你、平台在逼你，客户在怪你。你一边顶着罚款开除的风险，一边顶着投诉和扣钱的后果，顾客公司两头都跟你说要按规矩办事。可是这规矩最后全是你一个人扛。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 151625,
+          "like_count": 558,
+          "quote_count": 8,
+          "reply_count": 69,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "3月30日，河北。一名快递员说，他上门揽件发现顾客的东西是锂电池，但公司有规定锂电池是违禁品不能寄，被查到罚款或开除。\n\n于是他只能把订单退了，结果没一会顾客把订单驳回了，公司还罚了他30元。 https://t.co/T7CXKaRA4q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 呼吸堵塞 | 现已恢复?  抑郁状态 好好活着 二氧化碳好似喵 MtF🏳️‍⚧️",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 971,
+          "like_count": 5255,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 1243
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2034624681609933025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2197644,
+          "following_count": 1027,
+          "like_count": 9360,
+          "listed_count": 8633,
+          "media_count": 44489,
+          "tweet_count": 51554
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

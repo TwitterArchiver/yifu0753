@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1942956409492037834",
+    "created_at": "2025-07-10T00:21:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T01:21:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943103305414009031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "961552358906802176",
+          "start": 0,
+          "username": "dfdtc7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943103305414009031",
+    "in_reply_to_user_id": "961552358906802176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942956409492037834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dfdtc7 悲，同時祝你玩的愉快"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_1942956407550316544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvbEjvYbEAATlOP.png",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1942956409492037834",
+        "created_at": "2025-07-10T00:21:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T01:21:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943103305414009031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "961552358906802176",
+              "start": 0,
+              "username": "dfdtc7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943103305414009031",
+        "in_reply_to_user_id": "961552358906802176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942956409492037834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dfdtc7 悲，同時祝你玩的愉快"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942956407550316544"
+          ]
+        },
+        "author_id": "961552358906802176",
+        "conversation_id": "1942956409492037834",
+        "created_at": "2025-07-09T14:38:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T15:38:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942956409492037834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uZvKZgmpLv",
+              "end": 30,
+              "expanded_url": "https://x.com/dfdtc7/status/1942956409492037834/photo/1",
+              "media_key": "3_1942956407550316544",
+              "start": 7,
+              "url": "https://t.co/uZvKZgmpLv"
+            },
+            {
+              "display_url": "x.com/dfdtc7/status/…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/dfdtc7/status/1942932122664370681",
+              "start": 31,
+              "url": "https://t.co/ti5rI6IhUb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942956409492037834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1764,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942932122664370681",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真tm买了 https://t.co/uZvKZgmpLv https://t.co/ti5rI6IhUb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "🏳‍⚧ 抑郁焦虑状态",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "pinned_tweet_id": "1936898802361020812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 923,
+          "like_count": 4116,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 780
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-08T10:48:41.000Z",
+        "description": "大头菜有最爱的人，但她已经不在了...",
+        "id": "961552358906802176",
+        "name": "dfdtc",
+        "pinned_tweet_id": "1936363253627809941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887309919705325568/vm8zJROc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3886,
+          "following_count": 1834,
+          "like_count": 57199,
+          "listed_count": 9,
+          "media_count": 2545,
+          "tweet_count": 19055
+        },
+        "username": "dfdtc7",
+        "verified": false
+      }
+    ]
+  }
+}

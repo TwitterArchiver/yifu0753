@@ -1,0 +1,193 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1805928682185519397",
+    "created_at": "2024-06-26T11:38:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-26T12:38:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1805928682185519397"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/EurekaHoshizuk…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/EurekaHoshizuki/status/1805920902745375050",
+          "start": 12,
+          "url": "https://t.co/ZAT2VtuGQ1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805928682185519397",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805920902745375050",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "原来今天是626，o了 https://t.co/ZAT2VtuGQ1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1805928682185519397",
+        "created_at": "2024-06-26T11:38:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T12:38:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805928682185519397"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/EurekaHoshizuk…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/EurekaHoshizuki/status/1805920902745375050",
+              "start": 12,
+              "url": "https://t.co/ZAT2VtuGQ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805928682185519397",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805920902745375050",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "原来今天是626，o了 https://t.co/ZAT2VtuGQ1"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1805920883338285057"
+          ]
+        },
+        "author_id": "1715189994523115520",
+        "conversation_id": "1805920902745375050",
+        "created_at": "2024-06-26T11:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T12:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805920902745375050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/dm6ejHvkPj",
+              "end": 30,
+              "expanded_url": "https://twitter.com/EurekaHoshizuki/status/1805920902745375050/photo/1",
+              "media_key": "3_1805920883338285057",
+              "start": 7,
+              "url": "https://t.co/dm6ejHvkPj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805920902745375050",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别o了，真的 https://t.co/dm6ejHvkPj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "讨厌一切人类  infp-t\n 讨厌一切的不美好",
+        "id": "1668693781791784961",
+        "name": "伊芙 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764816409815896064/b8sUPDni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 123,
+          "like_count": 583,
+          "listed_count": 0,
+          "tweet_count": 196
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-20T02:19:17.000Z",
+        "description": "小名星月/🏳‍⚧️04年12月MtF/🍥hrt：2023.11.27/已出柜，有条件的家长不管党/在这个残酷的世界里，温柔且强大/是爱人然然@shibrxyn的星月/好闺蜜琳琳@ChenMUzzz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "shibrxyn"
+              },
+              {
+                "end": 98,
+                "start": 88,
+                "username": "ChenMUzzz"
+              }
+            ]
+          }
+        },
+        "id": "1715189994523115520",
+        "name": "Eureka Hoshizuki🍥",
+        "pinned_tweet_id": "1780243804618100807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722935436224626688/btsNxg36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 579,
+          "like_count": 7936,
+          "listed_count": 4,
+          "tweet_count": 1234
+        },
+        "username": "EurekaHoshizuki",
+        "verified": false
+      }
+    ]
+  }
+}

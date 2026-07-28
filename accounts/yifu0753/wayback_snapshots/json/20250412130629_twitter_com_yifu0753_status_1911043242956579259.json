@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1911028564067291320",
+    "created_at": "2025-04-12T13:06:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-12T14:06:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911043242956579259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1846255536687534086",
+          "start": 0,
+          "username": "snmqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911043242956579259",
+    "in_reply_to_user_id": "1846255536687534086",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911028564067291320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@snmqwq 😭😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1911028561273606144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoVWWfZW0AAlTs2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1911028564067291320",
+        "created_at": "2025-04-12T13:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T14:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911043242956579259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1846255536687534086",
+              "start": 0,
+              "username": "snmqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911043242956579259",
+        "in_reply_to_user_id": "1846255536687534086",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911028564067291320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@snmqwq 😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911028561273606144"
+          ]
+        },
+        "author_id": "1846255536687534086",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1911028564067291320",
+        "created_at": "2025-04-12T12:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T13:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911028564067291320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AQoXSqxkz6",
+              "end": 69,
+              "expanded_url": "https://x.com/snmqwq/status/1911028564067291320/photo/1",
+              "media_key": "3_1911028561273606144",
+              "start": 46,
+              "url": "https://t.co/AQoXSqxkz6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911028564067291320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 81,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "会是谁的结局呢？\n（暂时没有吃的想法了，会做一些保护措施放远一点以防止受刺激了冲动性自杀） https://t.co/AQoXSqxkz6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "01 友跨 含糖🏳‍⚧ 抑郁焦虑状态，ASD 欢迎大家关注 | 精神分裂 精障人士 钡中毒 亚硝酸钠中毒 进过ICU",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 504,
+          "like_count": 2927,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 521
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-15T18:24:36.000Z",
+        "description": "08跨/重读高一/无证含糖/hrt-2025.2.1/抖s+m？/AFO/嵌入式/pcb layout/ALL in boom/轻度玉玉+中度焦虑/喜欢找同类贴贴/坐标重庆/求互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "snmqwq.online",
+                "end": 23,
+                "expanded_url": "https://snmqwq.online",
+                "start": 0,
+                "url": "https://t.co/mNl6h2IMDj"
+              }
+            ]
+          }
+        },
+        "id": "1846255536687534086",
+        "location": "重庆",
+        "name": "尚凝梦qwq",
+        "pinned_tweet_id": "1907198619318689805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901910621677084672/2_69LYBg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 337,
+          "like_count": 500,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 1054
+        },
+        "url": "https://t.co/mNl6h2IMDj",
+        "username": "snmqwq",
+        "verified": false
+      }
+    ]
+  }
+}

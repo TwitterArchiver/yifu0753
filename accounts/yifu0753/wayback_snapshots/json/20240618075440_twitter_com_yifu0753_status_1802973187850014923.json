@@ -1,0 +1,223 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1802686214266642458",
+    "created_at": "2024-06-18T07:54:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-18T08:54:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802973187850014923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "843592250",
+          "start": 0,
+          "username": "Bubble_on_sky"
+        },
+        {
+          "end": 31,
+          "id": "1163276261168308224",
+          "start": 15,
+          "username": "17791532qweNASA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802973187850014923",
+    "in_reply_to_user_id": "843592250",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802966849719525657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bubble_on_sky @17791532qweNASA 草，羡慕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1802686214266642458",
+        "created_at": "2024-06-18T07:54:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T08:54:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802973187850014923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "843592250",
+              "start": 0,
+              "username": "Bubble_on_sky"
+            },
+            {
+              "end": 31,
+              "id": "1163276261168308224",
+              "start": 15,
+              "username": "17791532qweNASA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802973187850014923",
+        "in_reply_to_user_id": "843592250",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802966849719525657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bubble_on_sky @17791532qweNASA 草，羡慕"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1802966838642663424"
+          ]
+        },
+        "author_id": "843592250",
+        "conversation_id": "1802686214266642458",
+        "created_at": "2024-06-18T07:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T08:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802966849719525657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1163276261168308224",
+              "start": 0,
+              "username": "17791532qweNASA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/oOMgwB627V",
+              "end": 48,
+              "expanded_url": "https://twitter.com/Bubble_on_sky/status/1802966849719525657/photo/1",
+              "media_key": "3_1802966838642663424",
+              "start": 25,
+              "url": "https://t.co/oOMgwB627V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802966849719525657",
+        "in_reply_to_user_id": "1163276261168308224",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 267,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802686214266642458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17791532qweNASA 直接上圖，我家 https://t.co/oOMgwB627V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "讨厌一切人类  infp-t\n 讨厌一切的不美好",
+        "id": "1668693781791784961",
+        "name": "伊芙 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764816409815896064/b8sUPDni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 104,
+          "like_count": 544,
+          "listed_count": 0,
+          "tweet_count": 170
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2012-09-24T13:28:07.000Z",
+        "description": "一個香港年輕人用來偷畫師二次元色圖，同埋睇政治post的account （背景圖係去東龍島露營",
+        "id": "843592250",
+        "location": "Hong Kong",
+        "name": "LTYo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1350625432022835201/hs7oHxrg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 4977,
+          "like_count": 78587,
+          "listed_count": 6,
+          "tweet_count": 4273
+        },
+        "username": "Bubble_on_sky",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-19T02:27:38.000Z",
+        "description": "精勤求學 敦篤勵志 果毅力行 忠恕任事 為世界之光/卡诺定理：所有工作于两恒温热源之间的热机，以可逆热机的效率为最高，并且所有可逆热机的效率都相等，它只与两恒温热源温度有关，与工作物质无关",
+        "id": "1163276261168308224",
+        "location": "科学之奥府，艺术之林园-北宇治高校物理学部量子力学教研组",
+        "name": "Kousaka Reina的卡诺定理",
+        "pinned_tweet_id": "1582789106714611712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1598539268779282432/kUWUBz4K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1846,
+          "following_count": 963,
+          "like_count": 14741,
+          "listed_count": 17,
+          "tweet_count": 9601
+        },
+        "username": "17791532qweNASA",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1944622287162089621",
+    "created_at": "2025-07-14T09:59:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T10:59:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944698198880305285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "46529201",
+          "start": 0,
+          "username": "y4006948"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944698198880305285",
+    "in_reply_to_user_id": "46529201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944697253031244264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y4006948 初診如果沒有外院量表大概率會"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1944622287162089621",
+        "created_at": "2025-07-14T09:59:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T10:59:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944698198880305285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "46529201",
+              "start": 0,
+              "username": "y4006948"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944698198880305285",
+        "in_reply_to_user_id": "46529201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944697253031244264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y4006948 初診如果沒有外院量表大概率會"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "46529201",
+        "conversation_id": "1944622287162089621",
+        "created_at": "2025-07-14T09:55:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T10:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944697253031244264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1668693781791784961",
+              "start": 0,
+              "username": "yifu0753"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944697253031244264",
+        "in_reply_to_user_id": "1668693781791784961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944622287162089621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yifu0753 恭喜哦，广脑现在还可以开嘛，咱8月也想去，会不会要求做量表？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "🏳‍⚧ 抑郁焦虑状态",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "pinned_tweet_id": "1936898802361020812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 928,
+          "like_count": 4153,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 786
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-12T00:07:57.000Z",
+        "description": "09年xyn（2009.10.2）🏳️‍⚧️｜无证含糖🍥｜167cm 52kg｜HRT2025.1.12｜天赋（不足）党+深柜党+中国国民党🇹🇼｜性取向随意🏳️‍🌈｜日常推｜精神状态还算正常｜常驻广东｜深圳初三毕业牲｜同类互fo🍥｜门槛42🚪（仅线上聊天免过门）｜提问箱👇，联系方式看置顶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/y4006948",
+                "end": 23,
+                "expanded_url": "https://ngl.link/y4006948",
+                "start": 0,
+                "url": "https://t.co/lDbig9x5YQ"
+              }
+            ]
+          }
+        },
+        "id": "46529201",
+        "location": "中华民国大陆沦陷区",
+        "name": "(ᇂ_ᇂ|||)🍥",
+        "pinned_tweet_id": "1922306604575424852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921923825224024064/pOQ8Mvt3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 329,
+          "like_count": 14982,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 549
+        },
+        "url": "https://t.co/lDbig9x5YQ",
+        "username": "y4006948",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1822550950994997572",
+    "created_at": "2024-08-12T11:09:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T12:09:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822953563339006207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1654342779940503552",
+          "start": 0,
+          "username": "XJusway33595"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822953563339006207",
+    "in_reply_to_user_id": "1654342779940503552",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822573043924734199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XJusway33595 😭😭😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1822550950994997572",
+        "created_at": "2024-08-12T11:09:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T12:09:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822953563339006207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1654342779940503552",
+              "start": 0,
+              "username": "XJusway33595"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822953563339006207",
+        "in_reply_to_user_id": "1654342779940503552",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822573043924734199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XJusway33595 😭😭😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654342779940503552",
+        "conversation_id": "1822550950994997572",
+        "created_at": "2024-08-11T09:57:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T10:57:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822573043924734199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1668693781791784961",
+              "start": 0,
+              "username": "yifu0753"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822573043924734199",
+        "in_reply_to_user_id": "1668693781791784961",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822550950994997572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yifu0753 观世音菩萨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "",
+        "id": "1668693781791784961",
+        "location": "广州",
+        "name": "伊芙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764816409815896064/b8sUPDni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 163,
+          "like_count": 790,
+          "listed_count": 0,
+          "tweet_count": 288
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-05T04:37:26.000Z",
+        "description": "10年老精神障碍，2023年遇师父于成都，佛门修行后镇压。现还有一点癫，但心中已填满勇气。现在北京学习人工智能。欢迎交流痊愈经验。想跟我师父修行，我会推荐。",
+        "id": "1654342779940503552",
+        "location": "招兼职替我念咒：一遍楞严咒给10块，一遍大悲咒2块",
+        "name": "定灭",
+        "pinned_tweet_id": "1759897907560579503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822235684608040960/NCW3vDtK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 109,
+          "like_count": 773,
+          "listed_count": 3,
+          "tweet_count": 2687
+        },
+        "username": "XJusway33595",
+        "verified": false
+      }
+    ]
+  }
+}

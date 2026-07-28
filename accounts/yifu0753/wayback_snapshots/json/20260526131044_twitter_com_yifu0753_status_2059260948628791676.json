@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2059232729431257319",
+    "created_at": "2026-05-26T13:10:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T14:10:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059260948628791676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1860552199585300482",
+          "start": 0,
+          "username": "Seven_Eraya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059260948628791676",
+    "in_reply_to_user_id": "1860552199585300482",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059232729431257319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Seven_Eraya 抱抱......🤗🤗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2059228813306073088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJPZsghbkAAQ42E.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2059232729431257319",
+        "created_at": "2026-05-26T13:10:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T14:10:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059260948628791676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1860552199585300482",
+              "start": 0,
+              "username": "Seven_Eraya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059260948628791676",
+        "in_reply_to_user_id": "1860552199585300482",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059232729431257319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Seven_Eraya 抱抱......🤗🤗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059228813306073088"
+          ]
+        },
+        "author_id": "1860552199585300482",
+        "conversation_id": "2059232729431257319",
+        "created_at": "2026-05-26T11:18:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T12:18:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059232729431257319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KKfqyoV9QU",
+              "end": 64,
+              "expanded_url": "https://x.com/Seven_Eraya/status/2059232729431257319/photo/1",
+              "media_key": "3_2059228813306073088",
+              "start": 41,
+              "url": "https://t.co/KKfqyoV9QU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059232729431257319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 355,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的字好丑qnq\n可恶的教学校长不在\n所以明天还要跑一趟qnq\n好累累 要抱抱喵 https://t.co/KKfqyoV9QU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪麻痹 ICU 药物中毒 重度抑郁 | 二氧化碳好死喵 | 快死了",
+        "id": "1668693781791784961",
+        "location": "深圳市南山区",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 989,
+          "following_count": 1192,
+          "like_count": 7295,
+          "listed_count": 2,
+          "media_count": 160,
+          "tweet_count": 1892
+        },
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-24T05:15:08.000Z",
+        "description": "疑似有证含糖🍥|边缘性人格特质|非典型强迫症|重度抑郁|重度焦虑|性别烦躁|超强易敏体质|疑似有证26.5.25|已拥盐26.4.8|Hrt Start26.3.7|生产日期12.1.7|已炸柜26.5.9|正在研究 C++11",
+        "id": "1860552199585300482",
+        "name": "Eraya🍥_",
+        "pinned_tweet_id": "2058753609052102757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000119531575095296/-lELMvd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 207,
+          "like_count": 529,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 374
+        },
+        "username": "Seven_Eraya",
+        "verified": false
+      }
+    ]
+  }
+}

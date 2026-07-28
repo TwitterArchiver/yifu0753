@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2062070600940790158",
+    "created_at": "2026-06-03T07:15:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T08:15:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062070600940790158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1863233896403628033",
+          "start": 3,
+          "username": "dontweepalone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062070600940790158",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061919031095918983",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dontweepalone: 【定时】\n发出来了大概就是成功了。\n在这个时间点紫砂没有特别的原因，只是因为我买到药了，因为我终于触到了死亡的边缘。遗书在一个月前已经写好。而这场自杀，我等待了六年。\n作出死亡的决定就如同决定去睡觉一样容易。\n一切都结束了，晚安。不会再有噩…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2062070600940790158",
+        "created_at": "2026-06-03T07:15:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T08:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062070600940790158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1863233896403628033",
+              "start": 3,
+              "username": "dontweepalone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062070600940790158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061919031095918983",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dontweepalone: 【定时】\n发出来了大概就是成功了。\n在这个时间点紫砂没有特别的原因，只是因为我买到药了，因为我终于触到了死亡的边缘。遗书在一个月前已经写好。而这场自杀，我等待了六年。\n作出死亡的决定就如同决定去睡觉一样容易。\n一切都结束了，晚安。不会再有噩…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863233896403628033",
+        "conversation_id": "2061919031095918983",
+        "created_at": "2026-06-02T21:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T22:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061919031095918983"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061919031095918983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 24016,
+          "like_count": 317,
+          "quote_count": 2,
+          "reply_count": 197,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "【定时】\n发出来了大概就是成功了。\n在这个时间点紫砂没有特别的原因，只是因为我买到药了，因为我终于触到了死亡的边缘。遗书在一个月前已经写好。而这场自杀，我等待了六年。\n作出死亡的决定就如同决定去睡觉一样容易。\n一切都结束了，晚安。不会再有噩梦了。\n祝我好似。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪麻痹 ICU 药物中毒 重度抑郁 | 二氧化碳好死喵 | 快死了 MtF🏳️‍⚧️ 闺蜜 @Sayuki_Inoue\n 爱人♥ @CicadaSeventeen",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 80,
+                "username": "Sayuki_Inoue"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "CicadaSeventeen"
+              }
+            ]
+          }
+        },
+        "id": "1668693781791784961",
+        "location": "深圳市南山区",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 1228,
+          "like_count": 7557,
+          "listed_count": 2,
+          "media_count": 165,
+          "tweet_count": 1970
+        },
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "@mnweeper二世\nINFP｜4w5｜06｜agender(they)｜lgbtqa+全友好｜acearo｜精神障碍｜shtwt｜欢迎互fo^_^\nWelcome to my funeral.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "mnweeper"
+              }
+            ]
+          }
+        },
+        "id": "1863233896403628033",
+        "name": "Mnweeper_",
+        "pinned_tweet_id": "2056418972074143974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056418645686063104/2L0qxg8O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 75,
+          "like_count": 658,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 103
+        },
+        "username": "dontweepalone",
+        "verified": false
+      }
+    ]
+  }
+}

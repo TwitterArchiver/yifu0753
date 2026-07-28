@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1829319014415503574",
+    "created_at": "2024-08-30T03:32:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-30T04:32:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1829361587066740800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1226850561057624064",
+          "start": 0,
+          "username": "hatadanna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829361587066740800",
+    "in_reply_to_user_id": "1226850561057624064",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829319014415503574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hatadanna 棒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1829319014415503574",
+        "created_at": "2024-08-30T03:32:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-30T04:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829361587066740800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1226850561057624064",
+              "start": 0,
+              "username": "hatadanna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829361587066740800",
+        "in_reply_to_user_id": "1226850561057624064",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829319014415503574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hatadanna 棒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1829319009105555456"
+          ]
+        },
+        "author_id": "1226850561057624064",
+        "conversation_id": "1829319014415503574",
+        "created_at": "2024-08-30T00:43:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-30T01:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1829319014415503574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5zpgu5dxax",
+              "end": 23,
+              "expanded_url": "https://twitter.com/hatadanna/status/1829319014415503574/photo/1",
+              "media_key": "3_1829319009105555456",
+              "start": 0,
+              "url": "https://t.co/5ZpGu5DXax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829319014415503574",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3110,
+          "like_count": 112,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5ZpGu5DXax"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "精神分裂 精障人士 重度抑郁 氯化钡中毒 亚硝酸盐中毒 进过ICU",
+        "id": "1668693781791784961",
+        "location": "广州",
+        "name": "伊芙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 213,
+          "like_count": 962,
+          "listed_count": 0,
+          "tweet_count": 326
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-10T12:49:13.000Z",
+        "description": "梗图bot | 日常分享 | 爱大家 | Et Omnia Vanitas.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bento.me/hatadanna",
+                "end": 23,
+                "expanded_url": "http://bento.me/hatadanna",
+                "start": 0,
+                "url": "https://t.co/y4ubULnlbw"
+              }
+            ]
+          }
+        },
+        "id": "1226850561057624064",
+        "location": "梦里",
+        "name": "旗田安奈🍵",
+        "pinned_tweet_id": "1698299948578816158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1691374845140082688/f2RPoY8q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16163,
+          "following_count": 3258,
+          "like_count": 10410,
+          "listed_count": 78,
+          "tweet_count": 6332
+        },
+        "url": "https://t.co/y4ubULnlbw",
+        "username": "hatadanna",
+        "verified": false
+      }
+    ]
+  }
+}

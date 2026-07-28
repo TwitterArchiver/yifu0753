@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1893036747577229334",
+    "created_at": "2025-02-22T05:02:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T06:02:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893164532740301179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1429405137198452736",
+          "start": 0,
+          "username": "Ruri_Mitsuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893164532740301179",
+    "in_reply_to_user_id": "1429405137198452736",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893036747577229334",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ruri_Mitsuki 🥺🥺🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1893036743408132097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkVq422aoAEZBbZ.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1893036747577229334",
+        "created_at": "2025-02-22T05:02:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T06:02:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893164532740301179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429405137198452736",
+              "start": 0,
+              "username": "Ruri_Mitsuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893164532740301179",
+        "in_reply_to_user_id": "1429405137198452736",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893036747577229334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruri_Mitsuki 🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893036743408132097"
+          ]
+        },
+        "author_id": "1429405137198452736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1893036747577229334",
+        "created_at": "2025-02-21T20:35:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T21:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893036747577229334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iBMNkTnGAJ",
+              "end": 46,
+              "expanded_url": "https://x.com/Ruri_Mitsuki/status/1893036747577229334/photo/1",
+              "media_key": "3_1893036743408132097",
+              "start": 23,
+              "url": "https://t.co/iBMNkTnGAJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893036747577229334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1567,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果我走了，应该也不会有人发现我这个杂草吧？ https://t.co/iBMNkTnGAJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "精神分裂 精障人士 重度抑郁 钡中毒 亚硝酸钠中毒 进过ICU ；随便发点自言自语，",
+        "id": "1668693781791784961",
+        "location": "重庆",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 394,
+          "like_count": 2158,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 453
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-22T11:28:44.000Z",
+        "description": "Catisland猫岛团队官方账号。09年MtF，HRT:2024/2/10，重度双向BD/ADHD，今天也在努力活着。号主已换屏蔽Block过我的请解除，谢谢你们",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Catisland_Inc",
+                "end": 23,
+                "expanded_url": "https://t.me/Catisland_Inc",
+                "start": 0,
+                "url": "https://t.co/HVN4UcawjA"
+              }
+            ]
+          }
+        },
+        "id": "1429405137198452736",
+        "location": "Catisland.lnc🏳️‍⚧️",
+        "name": "鈴木桜雪SakuraSuzuki🏳️‍⚧️",
+        "pinned_tweet_id": "1892925668498997419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890206759958245377/zqpXQM1k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7493,
+          "following_count": 863,
+          "like_count": 123567,
+          "listed_count": 38,
+          "media_count": 3242,
+          "tweet_count": 19123
+        },
+        "url": "https://t.co/HVN4UcawjA",
+        "username": "Ruri_Mitsuki",
+        "verified": false
+      }
+    ]
+  }
+}

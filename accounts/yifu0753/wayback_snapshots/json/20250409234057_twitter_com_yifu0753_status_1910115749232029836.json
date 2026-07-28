@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1910115749232029836",
+    "created_at": "2025-04-09T23:40:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-10T00:40:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910115749232029836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1909402154701668356",
+          "start": 3,
+          "username": "psy__doll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910115749232029836",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910005203216302156",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @psy__doll: 中推是一个巨大的精神病院。\n\n易性症，抑郁症、焦虑症、精神分裂症，ADHD、双相情感障碍、社交焦虑障碍、强迫症、PTSD，边缘性人格障碍、反社会型人格障碍、回避型人格障碍，一个他妈不剩。\n\n到处充斥着右美沙芬的苦味、茶氨酸的香味、普瑞巴林的胶囊壳味…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1910115749232029836",
+        "created_at": "2025-04-09T23:40:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T00:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910115749232029836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1909402154701668356",
+              "start": 3,
+              "username": "psy__doll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910115749232029836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910005203216302156",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @psy__doll: 中推是一个巨大的精神病院。\n\n易性症，抑郁症、焦虑症、精神分裂症，ADHD、双相情感障碍、社交焦虑障碍、强迫症、PTSD，边缘性人格障碍、反社会型人格障碍、回避型人格障碍，一个他妈不剩。\n\n到处充斥着右美沙芬的苦味、茶氨酸的香味、普瑞巴林的胶囊壳味…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909402154701668356",
+        "conversation_id": "1910005203216302156",
+        "created_at": "2025-04-09T16:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T17:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910005203216302156"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1910005203216302156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 237,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "中推是一个巨大的精神病院。\n\n易性症，抑郁症、焦虑症、精神分裂症，ADHD、双相情感障碍、社交焦虑障碍、强迫症、PTSD，边缘性人格障碍、反社会型人格障碍、回避型人格障碍，一个他妈不剩。\n\n到处充斥着右美沙芬的苦味、茶氨酸的香味、普瑞巴林的胶囊壳味、笑气的甜味和酒精的刺鼻味道。\n\n真他妈疯了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "精神分裂 精障人士 重度抑郁 钡中毒 亚硝酸钠中毒 进过ICU ；随便发点自言自语，",
+        "id": "1668693781791784961",
+        "location": "重庆",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 463,
+          "like_count": 2701,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 509
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T00:25:31.000Z",
+        "description": "🔴⚠️Where sanity fades, the visions begin.⚠️🔴 #Drugtwt *DXM/PSY* 如果你喜欢我的推文，请关注我，谢谢。🚪82",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 45,
+                "tag": "Drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1909402154701668356",
+        "name": "💊PsyDoll64🎆🌸",
+        "pinned_tweet_id": "1909405274743751069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909402418665881600/z1pt-rjk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 61,
+          "like_count": 372,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 198
+        },
+        "username": "psy__doll",
+        "verified": true
+      }
+    ]
+  }
+}

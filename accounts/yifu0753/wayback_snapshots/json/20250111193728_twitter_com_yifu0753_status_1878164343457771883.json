@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1877450119756526053",
+    "created_at": "2025-01-11T19:37:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-11T20:37:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878164343457771883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1511574513967722505",
+          "start": 0,
+          "username": "_Genshin_Ganyu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878164343457771883",
+    "in_reply_to_user_id": "1511574513967722505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877450119756526053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Genshin_Ganyu_ 翻车"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1877450119756526053",
+        "created_at": "2025-01-11T19:37:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T20:37:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878164343457771883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1511574513967722505",
+              "start": 0,
+              "username": "_Genshin_Ganyu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878164343457771883",
+        "in_reply_to_user_id": "1511574513967722505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877450119756526053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Genshin_Ganyu_ 翻车"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511574513967722505",
+        "conversation_id": "1877450119756526053",
+        "created_at": "2025-01-09T20:19:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T21:19:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877450119756526053"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1877450119756526053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我妈：该剪头发了\n我：懒得搭理你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "精神分裂 精障人士 重度抑郁 钡中毒 亚硝酸钠中毒 进过ICU ；随便发点自言自语，",
+        "id": "1668693781791784961",
+        "location": "重庆",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 380,
+          "like_count": 2026,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 424
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-06T05:20:31.000Z",
+        "description": "本体正在持续滚动更新| Channel: https://t.co/NMyte0rLtP\n呼号: BD7PVQ | 广州 | 欢迎面基、通联、换卡",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Wang_Xiaomei",
+                "end": 44,
+                "expanded_url": "http://t.me/Wang_Xiaomei",
+                "start": 21,
+                "url": "https://t.co/NMyte0rLtP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ganyu.rocks",
+                "end": 23,
+                "expanded_url": "http://ganyu.rocks",
+                "start": 0,
+                "url": "https://t.co/aXUuApyKHX"
+              }
+            ]
+          }
+        },
+        "id": "1511574513967722505",
+        "location": "我於萬物之中",
+        "name": "王小美",
+        "pinned_tweet_id": "1871587085926420868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855989363446030336/CCBokdrt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 226,
+          "like_count": 116,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 540
+        },
+        "url": "https://t.co/aXUuApyKHX",
+        "username": "_Genshin_Ganyu_",
+        "verified": false
+      }
+    ]
+  }
+}

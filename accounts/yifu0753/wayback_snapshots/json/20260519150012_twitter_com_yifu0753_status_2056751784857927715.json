@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2056751784857927715",
+    "created_at": "2026-05-19T15:00:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T16:00:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056751784857927715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2041159531657416704",
+          "start": 3,
+          "username": "amber_digit2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056751784857927715",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056739858505138313",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_digit2: 中国最高人民法院近日发布文件，首次将「性取向、性别认同、性别表达」明确纳入歧视的法律保护范围。\n\n「法院对性少数群体的合法权益予以平等保护，包括不得侮辱与诽谤他人性倾向、性别认同与性别表达，不得就业中基于性倾向、性别认同与性别表达的歧视，保护…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2056739854206087168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIsCABVXsAA_NUi.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1608,
+        "media_key": "3_2056739854201798656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIsCABUWQAAgrCw.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2056751784857927715",
+        "created_at": "2026-05-19T15:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T16:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056751784857927715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2041159531657416704",
+              "start": 3,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056751784857927715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056739858505138313",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_digit2: 中国最高人民法院近日发布文件，首次将「性取向、性别认同、性别表达」明确纳入歧视的法律保护范围。\n\n「法院对性少数群体的合法权益予以平等保护，包括不得侮辱与诽谤他人性倾向、性别认同与性别表达，不得就业中基于性倾向、性别认同与性别表达的歧视，保护…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056739854206087168",
+            "3_2056739854201798656"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2056739858505138313",
+        "created_at": "2026-05-19T14:12:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T15:12:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056739858505138313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TjLK0AuIQU",
+              "end": 165,
+              "expanded_url": "https://x.com/amber_digit2/status/2056739858505138313/photo/1",
+              "media_key": "3_2056739854206087168",
+              "start": 142,
+              "url": "https://t.co/TjLK0AuIQU"
+            },
+            {
+              "display_url": "pic.x.com/TjLK0AuIQU",
+              "end": 165,
+              "expanded_url": "https://x.com/amber_digit2/status/2056739858505138313/photo/1",
+              "media_key": "3_2056739854201798656",
+              "start": 142,
+              "url": "https://t.co/TjLK0AuIQU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056739858505138313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 4280,
+          "like_count": 190,
+          "quote_count": 11,
+          "reply_count": 11,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "中国最高人民法院近日发布文件，首次将「性取向、性别认同、性别表达」明确纳入歧视的法律保护范围。\n\n「法院对性少数群体的合法权益予以平等保护，包括不得侮辱与诽谤他人性倾向、性别认同与性别表达，不得就业中基于性倾向、性别认同与性别表达的歧视，保护不同性倾向、性别认同与性别表达的学生。」 https://t.co/TjLK0AuIQU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪麻痹 ICU 药物中毒 重度抑郁 | 二氧化碳好死喵 | 快死了",
+        "id": "1668693781791784961",
+        "location": "深圳市南山区",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 934,
+          "following_count": 1180,
+          "like_count": 6939,
+          "listed_count": 2,
+          "media_count": 150,
+          "tweet_count": 1782
+        },
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056075872252133376/Dq5171H2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1903,
+          "following_count": 341,
+          "like_count": 385,
+          "listed_count": 4,
+          "media_count": 33,
+          "tweet_count": 557
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2010383870013976855",
+    "created_at": "2026-01-12T04:34:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T05:34:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010571128386019520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1980651637673951232",
+          "start": 0,
+          "username": "NeuroSaki987"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010571128386019520",
+    "in_reply_to_user_id": "1980651637673951232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 11,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010383870013976855",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NeuroSaki987 跟家长断绝亲子关系😡😡😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2010383870013976855",
+        "created_at": "2026-01-12T04:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T05:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010571128386019520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1980651637673951232",
+              "start": 0,
+              "username": "NeuroSaki987"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010571128386019520",
+        "in_reply_to_user_id": "1980651637673951232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010383870013976855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NeuroSaki987 跟家长断绝亲子关系😡😡😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980651637673951232",
+        "conversation_id": "2010383870013976855",
+        "created_at": "2026-01-11T16:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T17:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010383870013976855"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010383870013976855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 681,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "炸柜算炸成家暴党了，爸妈坚决反对我当跨，甚至吃药都不给，还搜我房间，快要断糖了QAQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 呼吸堵塞 血压下降 | 现已恢复?  轻度抑郁 好好活着 纯二氧化碳好似喵",
+        "id": "1668693781791784961",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 998,
+          "like_count": 4877,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 1038
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T15:06:35.000Z",
+        "description": "一枚香香软软的🍥｜birth 2008 ｜HRT since 2025 ｜ 已经炸柜了，家暴党💔 ｜TG: @NeuroSaki987 ｜整天不知道干什么，想似｜ 想找人聊天，单纯骂我也可以啊 ｜https://t.co/RptcluWCYR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "NeuroSaki987"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/neurosaki987",
+                "end": 121,
+                "expanded_url": "https://ngl.link/neurosaki987",
+                "start": 98,
+                "url": "https://t.co/RptcluWCYR"
+              }
+            ]
+          }
+        },
+        "id": "1980651637673951232",
+        "location": "江苏省南京市",
+        "name": "Neuro Saki 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009413788530036737/yqokTjpk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 102,
+          "like_count": 356,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 175
+        },
+        "username": "NeuroSaki987",
+        "verified": false
+      }
+    ]
+  }
+}

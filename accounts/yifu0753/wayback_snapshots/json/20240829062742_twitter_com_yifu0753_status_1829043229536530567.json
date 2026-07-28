@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1829008095936442692",
+    "created_at": "2024-08-29T06:27:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-29T07:27:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1829043229536530567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1352281301613568000",
+          "start": 0,
+          "username": "Starlight4You_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829043229536530567",
+    "in_reply_to_user_id": "1352281301613568000",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829008095936442692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Starlight4You_ 强多了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1829008095936442692",
+        "created_at": "2024-08-29T06:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-29T07:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829043229536530567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1352281301613568000",
+              "start": 0,
+              "username": "Starlight4You_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829043229536530567",
+        "in_reply_to_user_id": "1352281301613568000",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829008095936442692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Starlight4You_ 强多了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1352281301613568000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783337567798169600",
+              "name": "Products - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873034",
+              "name": "AMD"
+            }
+          }
+        ],
+        "conversation_id": "1829008095936442692",
+        "created_at": "2024-08-29T04:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-29T05:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1829008095936442692"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1829008095936442692",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4543,
+          "like_count": 77,
+          "quote_count": 3,
+          "reply_count": 35,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在是AMD处理器比Intel强了？🤯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "精神分裂 精障人士 重度抑郁 氯化钡中毒 亚硝酸盐中毒 进过ICU",
+        "id": "1668693781791784961",
+        "location": "广州",
+        "name": "伊芙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 211,
+          "like_count": 957,
+          "listed_count": 0,
+          "tweet_count": 325
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-21T15:46:11.000Z",
+        "description": "年年岁岁花相似，岁岁年年人不同。｜📝｜🍎｜❤️｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "starlight4you.cyou",
+                "end": 23,
+                "expanded_url": "http://starlight4you.cyou",
+                "start": 0,
+                "url": "https://t.co/Kgn3CzMEXm"
+              }
+            ]
+          }
+        },
+        "id": "1352281301613568000",
+        "location": "星星",
+        "name": "Starlight✨",
+        "pinned_tweet_id": "1794310235865444389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776753869571399680/nqm8DMRZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4593,
+          "following_count": 251,
+          "like_count": 32197,
+          "listed_count": 17,
+          "tweet_count": 14316
+        },
+        "url": "https://t.co/Kgn3CzMEXm",
+        "username": "Starlight4You_",
+        "verified": false
+      }
+    ]
+  }
+}

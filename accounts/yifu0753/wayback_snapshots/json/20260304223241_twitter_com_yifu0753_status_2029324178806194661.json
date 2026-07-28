@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2029081067186209226",
+    "created_at": "2026-03-04T22:32:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T23:32:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029324178806194661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1751235517860196352",
+          "start": 0,
+          "username": "CynunVIIV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029324178806194661",
+    "in_reply_to_user_id": "1751235517860196352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029081067186209226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CynunVIIV 展开一个死者交谈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2029081067186209226",
+        "created_at": "2026-03-04T22:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T23:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029324178806194661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1751235517860196352",
+              "start": 0,
+              "username": "CynunVIIV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029324178806194661",
+        "in_reply_to_user_id": "1751235517860196352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029081067186209226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CynunVIIV 展开一个死者交谈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751235517860196352",
+        "conversation_id": "2029081067186209226",
+        "created_at": "2026-03-04T06:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T07:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029081067186209226"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "#星尘2020诞生日#▶「Cyber Buddha」▷ 演唱：星尘▷ 策划：逝羽（静夜社）▷ 作曲/编曲：星辉▷ 作词：大九_LN▷ 调教：星葵（静夜社）▷ 曲绘：六点（静夜社）▷ PV：owen-z（静夜社）▷ 监督：婉霞（静夜社），落叶荷（静夜社）, 视频播放量 60007、弹幕量 406、点赞数 6551、投硬币枚数 3164、收藏人数 3623、转发人数 315, 视频作者 星辉p, 作者简介 作曲/编曲。表情包by阿轨轨轨w；编曲约稿联系QQ 442514337，相关视频：⚡𝓞𝓲𝓲𝓪𝓲𝓸𝓸𝓸𝓸𝓸𝓲𝓪𝓲⚡，\"杀仙人奉的花\" / 鬼ごっこ(捉迷藏)【中文版/默辰翻唱】，\"诸天神佛为何不秒回消息\" / Buddha【中文版/默辰翻唱】，【冷钢琴编曲】深秋溺亡【诗岸】，\"要多恨你 连风声都沉默着\" / wiege【中文版/从铮岸晓翻唱】，【海伊原创】水天一色『亚特兰蒂斯Atlantis』专辑收录曲，\"若只用让步构成恋爱\" / Limbo【中文版/岸晓翻唱】，【诗岸原创】无我心咒【秘宝旅人】，【日系流行编曲】象牙塔少女【洛天依】，【星尘原创】玻璃水母【星辉、雨狸】【平行四界6收录曲】",
+              "display_url": "bilibili.com/video/BV1aZ4y1…",
+              "end": 74,
+              "expanded_url": "https://www.bilibili.com/video/BV1aZ4y1M731/",
+              "images": [
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2029081073045680128/1d7l7kej?format=png&name=orig",
+                  "width": 100
+                },
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2029081073045680128/1d7l7kej?format=png&name=150x150",
+                  "width": 100
+                }
+              ],
+              "start": 51,
+              "status": 200,
+              "title": "【星尘2020诞生日】Cyber Buddha 启动的灵魂会为我闪耀吗_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV1aZ4y1M731/",
+              "url": "https://t.co/s7o1rlYhFC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029081067186209226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 612,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每次看到有人在提取死者生前说过的话，把它们塞进LLM来“复活”他们的时候，很自然的想起来这首曲子。\n\nhttps://t.co/s7o1rlYhFC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 呼吸堵塞 | 现已恢复?  抑郁状态 好好活着 二氧化碳好似喵 MtF🏳️‍⚧️",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 988,
+          "like_count": 5157,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 1205
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T13:27:55.000Z",
+        "description": "抱抱鱼 | 计算机用户| 虚弱的无定形类人智能体 | HFAutism,部分精神和心理疾病可能会影响其发言内容；遭遇异常状态请小心处理。",
+        "id": "1751235517860196352",
+        "location": "鱼网",
+        "name": "Cynun VIIV",
+        "pinned_tweet_id": "2015018532111806922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016711729737281536/ZBLrzn6D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1251,
+          "following_count": 1262,
+          "like_count": 30741,
+          "listed_count": 7,
+          "media_count": 258,
+          "tweet_count": 5655
+        },
+        "username": "CynunVIIV",
+        "verified": false
+      }
+    ]
+  }
+}

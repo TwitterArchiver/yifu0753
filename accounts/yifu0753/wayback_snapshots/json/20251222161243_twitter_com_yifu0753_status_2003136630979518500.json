@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2003136630979518500",
+    "created_at": "2025-12-22T16:12:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T17:12:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003136630979518500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1441984967437807622",
+          "start": 3,
+          "username": "JakkuSakura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003136630979518500",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003046559647519112",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JakkuSakura: 你们怎么一个个都术后了🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2003136630979518500",
+        "created_at": "2025-12-22T16:12:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T17:12:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003136630979518500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1441984967437807622",
+              "start": 3,
+              "username": "JakkuSakura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003136630979518500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003046559647519112",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JakkuSakura: 你们怎么一个个都术后了🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1441984967437807622",
+        "conversation_id": "2003046559647519112",
+        "created_at": "2025-12-22T10:14:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T11:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003046559647519112"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003046559647519112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 207,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们怎么一个个都术后了🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "「she her 她」 伊芙~ | 安息！ 在我坟前献上一束花",
+        "id": "1668693781791784961",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 985,
+          "like_count": 4763,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 996
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-26T04:36:35.000Z",
+        "description": "彼岸樱酱 编程/量化/摄影/cosplay 后现代/后结构主义 AI权益",
+        "id": "1441984967437807622",
+        "location": "Hong Kong",
+        "name": "Jakku 彼岸樱 🇭🇰🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1699632941998190592/8Z_APE5s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2923,
+          "following_count": 1325,
+          "like_count": 64991,
+          "listed_count": 9,
+          "media_count": 1282,
+          "tweet_count": 12060
+        },
+        "username": "JakkuSakura",
+        "verified": false
+      }
+    ]
+  }
+}

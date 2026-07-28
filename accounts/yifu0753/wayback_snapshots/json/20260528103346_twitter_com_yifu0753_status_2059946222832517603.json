@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2059946222832517603",
+    "created_at": "2026-05-28T10:33:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T11:33:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059946222832517603"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/PriseTwinkle/s…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/PriseTwinkle/status/2059861782228083165",
+          "start": 16,
+          "url": "https://t.co/phr5abaFWR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059946222832517603",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059861782228083165",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感觉药娘还是青春期当才有意思🥰 https://t.co/phr5abaFWR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2059946222832517603",
+        "created_at": "2026-05-28T10:33:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059946222832517603"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PriseTwinkle/s…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/PriseTwinkle/status/2059861782228083165",
+              "start": 16,
+              "url": "https://t.co/phr5abaFWR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059946222832517603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059861782228083165",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉药娘还是青春期当才有意思🥰 https://t.co/phr5abaFWR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928705633135767600",
+        "conversation_id": "2059861782228083165",
+        "created_at": "2026-05-28T04:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T05:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059861782228083165"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059861782228083165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "今天又被顺男同学嘲笑了🥲\n起因是课间我同学拿个握力器（60kg的）然后在我桌前说“小药娘看看你力气有多大” 然后我握了一下没捏下去（中间有大部分空隙）然后就嘲笑我😡气的我直接跑开了。然后他们走散后我又试了一下，用全力，还是有较大得空隙我手都在发抖。我一月体测引体向上时做了0个。😨😨😨看起来吃糖后力气又小了🥰"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 14337,
+          "like_count": 111,
+          "quote_count": 3,
+          "reply_count": 26,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天又被顺男同学嘲笑了🥲\n起因是课间我同学拿个握力器（60kg的）然后在我桌前说“小药娘看看你力气有多大”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪麻痹 ICU 药物中毒 重度抑郁 | 二氧化碳好死喵 | 快死了",
+        "id": "1668693781791784961",
+        "location": "深圳市南山区",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1003,
+          "following_count": 1196,
+          "like_count": 7414,
+          "listed_count": 2,
+          "media_count": 160,
+          "tweet_count": 1915
+        },
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小的? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备\n|分享Hrt日常 | 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n@TeamRain_2024 | http://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 119,
+                "username": "TeamRain_2024"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 158,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 136,
+                "url": "http://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://t.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/vVpfNV6DFI"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北潜江",
+        "name": "芸光酱𝕻𝖗𝖎𝖘𝖊𝕿𝖜𝖎𝖓𝖐𝖑𝖊 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041475934608380289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059287173812412416/vAimrkvi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1227,
+          "following_count": 7,
+          "like_count": 2021,
+          "listed_count": 5,
+          "media_count": 103,
+          "tweet_count": 749
+        },
+        "url": "https://t.co/vVpfNV6DFI",
+        "username": "PriseTwinkle",
+        "verified": true
+      }
+    ]
+  }
+}

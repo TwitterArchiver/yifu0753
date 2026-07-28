@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2020672850898944174",
+    "created_at": "2026-02-09T01:35:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T02:35:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020672850898944174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1775457158563274752",
+          "start": 3,
+          "username": "AshlynHe1129"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020672850898944174",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020332239121478018",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AshlynHe1129: 前两天在家楼下滑滑板，被一位老太太叫住了。\n\n她站在一旁看了我一会儿，笑着说，小姑娘，你滑板滑得挺好啊，有没有想过拍抖音、自媒体？\n\n我还没来得及回答，她又补了一句，要不我们加个微信吧。\n\n那一瞬间，我心里其实是紧了一下的。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2020672850898944174",
+        "created_at": "2026-02-09T01:35:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T02:35:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020672850898944174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1775457158563274752",
+              "start": 3,
+              "username": "AshlynHe1129"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020672850898944174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020332239121478018",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AshlynHe1129: 前两天在家楼下滑滑板，被一位老太太叫住了。\n\n她站在一旁看了我一会儿，笑着说，小姑娘，你滑板滑得挺好啊，有没有想过拍抖音、自媒体？\n\n我还没来得及回答，她又补了一句，要不我们加个微信吧。\n\n那一瞬间，我心里其实是紧了一下的。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775457158563274752",
+        "conversation_id": "2020332239121478018",
+        "created_at": "2026-02-08T03:01:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T04:01:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020332239121478018"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020332239121478018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "前两天在家楼下滑滑板，被一位老太太叫住了。\n\n她站在一旁看了我一会儿，笑着说，小姑娘，你滑板滑得挺好啊，有没有想过拍抖音、自媒体？\n\n我还没来得及回答，她又补了一句，要不我们加个微信吧。\n\n那一瞬间，我心里其实是紧了一下的。\n很熟悉的那种感觉，脑子里自动开始预演各种可能。是不是要推销什么？还是要把我介绍给谁？人会在这种时候，下意识地把防御打开。\n\n但我还是加了。\n\n点进她的微信和抖音之后，我愣住了。\n她自己在做自媒体，粉丝两万多，视频剪得挺顺，节奏也很好。有几条一看就知道是用 AI 做的。\n\n我忍不住问她，这些是找人帮忙的吗？\n\n她说，没有啊，都是我自己学的。\n学了几天，慢慢就会了。\n\n那一刻心里真的被轻轻敲了一下。\n\n倒也不是因为她技术多厉害，而是那种状态太少见了。\n一个到了这个年纪的人，还愿意去学新东西，愿意被看到，也愿意主动加一个陌生人的微信。\n\n我后来翻了翻她的视频，内容很简单，就是生活、记录、一些随手的想法。没有刻意迎合，也不急着涨粉，看起来就是觉得好玩。\n\n我突然意识到，有些人并不会因为年纪、环境，慢慢把自己往后收。\n他们只是继续往前走，哪怕步子不大。\n\n反而是很多年轻人，早早就开始给自己设边界。\n这个不适合我，那个太麻烦了，算了吧。\n\n那天回家之后，我一直在想这件事。\n在一个工具越来越容易上手、做自媒体门槛越来越低的时代，真正稀缺的，好像从来都不是条件。\n\n更像是一种愿不愿意继续伸手的选择。\n\n一个老太太在学 AI、拍视频、和陌生人聊天。\n而很多人，却已经悄悄决定不再参与了。\n\n想到这里，有点惭愧，也有点被提醒到。\n原来有些生命力，是走着走着，自己选择留下来的。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 76517,
+          "like_count": 316,
+          "quote_count": 1,
+          "reply_count": 22,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "前两天在家楼下滑滑板，被一位老太太叫住了。\n\n她站在一旁看了我一会儿，笑着说，小姑娘，你滑板滑得挺好啊，有没有想过拍抖音、自媒体？\n\n我还没来得及回答，她又补了一句，要不我们加个微信吧。\n\n那一瞬间，我心里其实是紧了一下的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 呼吸堵塞 | 现已恢复?  抑郁状态 好好活着 二氧化碳好似喵 MtF🏳️‍⚧️",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 997,
+          "like_count": 4970,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1072
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-03T09:36:03.000Z",
+        "description": "AI穿戴配饰创业 · Gen AI · 产品出海 Kickstarter 0-1 · 滑板 · 人间观察者 · 随缘碎碎念 ｜ Founder of ZenStellar(@HeAisling)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 86,
+                "username": "HeAisling"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zenstellarshop.com",
+                "end": 23,
+                "expanded_url": "https://zenstellarshop.com/",
+                "start": 0,
+                "url": "https://t.co/i5P2xKpoo8"
+              }
+            ]
+          }
+        },
+        "id": "1775457158563274752",
+        "location": "厦门",
+        "name": "Ashlyn He",
+        "pinned_tweet_id": "1990400329960042995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987110492188360704/DpoD40x-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3482,
+          "following_count": 249,
+          "like_count": 2605,
+          "listed_count": 19,
+          "media_count": 41,
+          "tweet_count": 685
+        },
+        "url": "https://t.co/i5P2xKpoo8",
+        "username": "AshlynHe1129",
+        "verified": true
+      }
+    ]
+  }
+}

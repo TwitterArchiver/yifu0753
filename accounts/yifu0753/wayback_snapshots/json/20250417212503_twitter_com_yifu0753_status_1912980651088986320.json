@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1912817797820006735",
+    "created_at": "2025-04-17T21:25:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T22:25:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912980651088986320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1870022570353012736",
+          "start": 0,
+          "username": "kukudejiaxibei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912980651088986320",
+    "in_reply_to_user_id": "1870022570353012736",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912817797820006735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kukudejiaxibei 🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1912817797820006735",
+        "created_at": "2025-04-17T21:25:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T22:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912980651088986320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1870022570353012736",
+              "start": 0,
+              "username": "kukudejiaxibei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912980651088986320",
+        "in_reply_to_user_id": "1870022570353012736",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912817797820006735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kukudejiaxibei 🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870022570353012736",
+        "conversation_id": "1912817797820006735",
+        "created_at": "2025-04-17T10:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T11:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912817797820006735"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1912817797820006735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 552,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "皮肤已经麻木\n大脑乱作一团\n这一切到底为什么？\n真的是这样的吗？\n或许都是我的错吧？\n如果没有3月16日\n就不会导致你这样吧？\n我知道我很废物\n所以才说这辈子完全不可能手术\n我已经\n坐以待毙\n孤立无援\n饥寒交迫\n涕流满面\n不仅无法给予别人什么\n甚至要别人关心\n那我又是谁？\n真的还活着？\n解离杀了我\np1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "01 MtF🏳‍⚧ 抑郁焦虑状态 ASD | 同类互fo",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 623,
+          "like_count": 3150,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 559
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T08:25:12.000Z",
+        "description": "06年/INFJ+处女座/HRT-24.10.21/擅长文学艺术类/SteamID1151422332/红警系列/CR&COC/粥批/原神/GTA/生化危机/COD/CS&HL/梦想是变成酷女孩/烹饪烘焙/人格现实解体/最爱的老婆@zixinmiao2/主人@lyb1007/涩猫猫@jiang_chua28655",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "zixinmiao2"
+              },
+              {
+                "end": 137,
+                "start": 129,
+                "username": "lyb1007"
+              },
+              {
+                "end": 157,
+                "start": 141,
+                "username": "jiang_chua28655"
+              }
+            ]
+          }
+        },
+        "id": "1870022570353012736",
+        "location": "山西省晋中市太谷区",
+        "name": "贾西贝🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1909221888443949341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912741244113154049/5xKyqBS4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 976,
+          "following_count": 1707,
+          "like_count": 17541,
+          "listed_count": 2,
+          "media_count": 389,
+          "tweet_count": 4210
+        },
+        "username": "kukudejiaxibei",
+        "verified": false
+      }
+    ]
+  }
+}

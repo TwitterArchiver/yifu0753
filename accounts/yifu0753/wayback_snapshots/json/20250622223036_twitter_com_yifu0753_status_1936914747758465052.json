@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1936695617813971235",
+    "created_at": "2025-06-22T22:30:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T23:30:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936914747758465052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1126481384082558977",
+          "start": 0,
+          "username": "natsu_kusa1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936914747758465052",
+    "in_reply_to_user_id": "1126481384082558977",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936695617813971235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@natsu_kusa1 😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1936695617813971235",
+        "created_at": "2025-06-22T22:30:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T23:30:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936914747758465052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1126481384082558977",
+              "start": 0,
+              "username": "natsu_kusa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936914747758465052",
+        "in_reply_to_user_id": "1126481384082558977",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936695617813971235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@natsu_kusa1 😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1126481384082558977",
+        "conversation_id": "1936695617813971235",
+        "created_at": "2025-06-22T07:59:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T08:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936695617813971235"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1936695617813971235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 253,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是不是只要停止吃药就成精神病了，所以我要吃一辈子药吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "🏳‍⚧ 抑郁焦虑状态",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 850,
+          "like_count": 3720,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 675
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-09T13:37:45.000Z",
+        "description": "喜欢你 @tadaima33",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "tadaima33"
+              }
+            ]
+          }
+        },
+        "id": "1126481384082558977",
+        "location": "阴暗的角落",
+        "name": "夏草🍀",
+        "pinned_tweet_id": "1925416213523693595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839138075827646466/jis4_vpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1702,
+          "following_count": 437,
+          "like_count": 3800,
+          "listed_count": 4,
+          "media_count": 186,
+          "tweet_count": 933
+        },
+        "username": "natsu_kusa1",
+        "verified": true
+      }
+    ]
+  }
+}

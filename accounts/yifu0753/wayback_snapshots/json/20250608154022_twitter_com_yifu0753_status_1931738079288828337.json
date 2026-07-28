@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1931729801011986643",
+    "created_at": "2025-06-08T15:40:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T16:40:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931738079288828337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1351574309882396675",
+          "start": 0,
+          "username": "baiseshanguang5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931738079288828337",
+    "in_reply_to_user_id": "1351574309882396675",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931729801011986643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baiseshanguang5 🤩"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1515,
+        "media_key": "3_1931729793529303040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs7iAzFaUAAwsQt.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1931729801011986643",
+        "created_at": "2025-06-08T15:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T16:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931738079288828337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1351574309882396675",
+              "start": 0,
+              "username": "baiseshanguang5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931738079288828337",
+        "in_reply_to_user_id": "1351574309882396675",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931729801011986643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baiseshanguang5 🤩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931729793529303040"
+          ]
+        },
+        "author_id": "1351574309882396675",
+        "conversation_id": "1931729801011986643",
+        "created_at": "2025-06-08T15:07:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T16:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931729801011986643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5v3JprtHlb",
+              "end": 28,
+              "expanded_url": "https://x.com/baiseshanguang5/status/1931729801011986643/photo/1",
+              "media_key": "3_1931729793529303040",
+              "start": 5,
+              "url": "https://t.co/5v3JprtHlb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931729801011986643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 538,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁的最爱 https://t.co/5v3JprtHlb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "🏳‍⚧ 抑郁焦虑状态",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 828,
+          "like_count": 3632,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 642
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-19T16:56:53.000Z",
+        "description": "好友位🚪45+v 日常聊天 朋友圈",
+        "id": "1351574309882396675",
+        "name": "白色闪光",
+        "pinned_tweet_id": "1873805272797634705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904090800654528512/Py24EiPo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38178,
+          "following_count": 9,
+          "like_count": 204,
+          "listed_count": 68,
+          "media_count": 128,
+          "tweet_count": 204
+        },
+        "username": "baiseshanguang5",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2061003439107383348",
+    "created_at": "2026-05-31T08:34:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T09:34:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061003439107383348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1897782396994699267",
+          "start": 3,
+          "username": "mahcherrys"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061003439107383348",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16517
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060743184708186146",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mahcherrys: Coisas que as pessoas não escolhem:\n\n• Orientação sexual\n\n• Identidade de gênero\n\n• Deficiências\n\n• Transtornos mentais\n\n•…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2061003439107383348",
+        "created_at": "2026-05-31T08:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T09:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061003439107383348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1897782396994699267",
+              "start": 3,
+              "username": "mahcherrys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061003439107383348",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16517
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060743184708186146",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mahcherrys: Coisas que as pessoas não escolhem:\n\n• Orientação sexual\n\n• Identidade de gênero\n\n• Deficiências\n\n• Transtornos mentais\n\n•…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897782396994699267",
+        "conversation_id": "2060743184708186146",
+        "created_at": "2026-05-30T15:20:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T16:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060743184708186146"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060743184708186146",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2183,
+          "impression_count": 349186,
+          "like_count": 60266,
+          "quote_count": 67,
+          "reply_count": 223,
+          "retweet_count": 16517
+        },
+        "reply_settings": "everyone",
+        "text": "Coisas que as pessoas não escolhem:\n\n• Orientação sexual\n\n• Identidade de gênero\n\n• Deficiências\n\n• Transtornos mentais\n\n• Doenças\n\n• Cor, etnia, raça\n\nCoisas que as pessoas escolhem:\n\n• Ser um babaca com as pessoas por coisas que elas não escolhem"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪麻痹 ICU 药物中毒 重度抑郁 | 二氧化碳好死喵 | 快死了 MtF🏳️‍⚧️ 闺蜜 @Sayuki_Inoue\n 爱人♥ @CicadaSeventeen",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 80,
+                "username": "Sayuki_Inoue"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "CicadaSeventeen"
+              }
+            ]
+          }
+        },
+        "id": "1668693781791784961",
+        "location": "深圳市南山区",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 1230,
+          "like_count": 7491,
+          "listed_count": 2,
+          "media_count": 164,
+          "tweet_count": 1942
+        },
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-06T22:52:59.000Z",
+        "description": "𝑺𝒕𝒖𝒅𝒚𝒕𝒘𝒕 / 𝑫𝒊𝒓𝒆𝒊𝒕𝒐 ────────────────────  𝔸𝕣𝕞𝕪 𝕤𝕚𝕟𝕔𝕖 𝟚𝟘𝟙𝟝               FCK NZS          🍒 ⇢ 🜼⋆˚ ⁭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/mahcherrys?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/mahcherrys?igsh=MWI3Mzlta2E3ejBmMg==",
+                "start": 0,
+                "url": "https://t.co/aGGKoIBmfQ"
+              }
+            ]
+          }
+        },
+        "id": "1897782396994699267",
+        "location": " .⋆ᵐᵃᵗ ᵖᵒʳᵗ",
+        "name": "Mah🍒 Ⓐ⋆˚ ⁷",
+        "pinned_tweet_id": "2036550036050313487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042436526252949504/CfgN_ySC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10329,
+          "following_count": 7896,
+          "like_count": 6987,
+          "listed_count": 44,
+          "media_count": 2006,
+          "tweet_count": 24899
+        },
+        "url": "https://t.co/aGGKoIBmfQ",
+        "username": "mahcherrys",
+        "verified": true
+      }
+    ]
+  }
+}

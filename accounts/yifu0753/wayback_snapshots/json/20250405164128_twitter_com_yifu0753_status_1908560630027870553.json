@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1908500927335862769",
+    "created_at": "2025-04-05T16:41:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T17:41:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908560630027870553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1863821756932472832",
+          "start": 0,
+          "username": "shuo_zi27516"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908560630027870553",
+    "in_reply_to_user_id": "1863821756932472832",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908500927335862769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuo_zi27516 🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1908500927335862769",
+        "created_at": "2025-04-05T16:41:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T17:41:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908560630027870553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1863821756932472832",
+              "start": 0,
+              "username": "shuo_zi27516"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908560630027870553",
+        "in_reply_to_user_id": "1863821756932472832",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908500927335862769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuo_zi27516 🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863821756932472832",
+        "conversation_id": "1908500927335862769",
+        "created_at": "2025-04-05T12:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T13:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908500927335862769"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1908500927335862769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 12020,
+          "like_count": 116,
+          "quote_count": 5,
+          "reply_count": 47,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "对 \n当你看到这个信息的时候我多半已经走了 没错！\n因为很多压力 所以我最后选择了自杀？\n最终撒手人寰了？\n可能我还会回来 但是希望渺茫\n勿念\n因为根本没人在意我的唔\n是的 大家都有熟人 而我就是一个透明人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "精神分裂 精障人士 重度抑郁 钡中毒 亚硝酸钠中毒 进过ICU ；随便发点自言自语，",
+        "id": "1668693781791784961",
+        "location": "重庆",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 444,
+          "like_count": 2518,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 499
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-03T05:45:42.000Z",
+        "description": "我人生就像一个坏掉发霉的面包\n没人在意我\n不要理我\n我走了\n我也不做干预了\n很累很累",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+wcenpkgoAzFkM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+wcenpkgoAzFkMDQ1",
+                "start": 0,
+                "url": "https://t.co/Av9bAZd3dg"
+              }
+            ]
+          }
+        },
+        "id": "1863821756932472832",
+        "location": "没有痛苦的维度",
+        "name": "宫笙 🏳‍⚧️🍥",
+        "pinned_tweet_id": "1908500927335862769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908500271560617984/uelMq25V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 313,
+          "like_count": 58,
+          "listed_count": 3,
+          "media_count": 55,
+          "tweet_count": 707
+        },
+        "url": "https://t.co/Av9bAZd3dg",
+        "username": "shuo_zi27516",
+        "verified": false
+      }
+    ]
+  }
+}

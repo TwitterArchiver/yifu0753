@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1975551796329554264",
+    "created_at": "2025-10-07T13:20:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T14:20:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975551796329554264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 39,
+          "id": "1720665183188922368",
+          "start": 34,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975551796329554264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "参考在和我互相关注的人中的推文，只用昵称告诉我，不要用@，不包括我\n@grok\n\n请为每张塔罗牌主牌对应找到特质最适合它的人—— 愚者: 魔术师: 女祭司: 女皇: 皇帝: 教皇: 恋人: 战车: 力量: 隐者: 命运之轮: 正义: 倒吊人: 死神: 节制: 恶魔: 塔: 星星: 月亮: 太阳: 审判: 世界:"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1975551796329554264",
+        "created_at": "2025-10-07T13:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T14:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975551796329554264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 39,
+              "id": "1720665183188922368",
+              "start": 34,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975551796329554264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "参考在和我互相关注的人中的推文，只用昵称告诉我，不要用@，不包括我\n@grok\n\n请为每张塔罗牌主牌对应找到特质最适合它的人—— 愚者: 魔术师: 女祭司: 女皇: 皇帝: 教皇: 恋人: 战车: 力量: 隐者: 命运之轮: 正义: 倒吊人: 死神: 节制: 恶魔: 塔: 星星: 月亮: 太阳: 审判: 世界:"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "🏳‍⚧ 抑郁焦虑状态",
+        "id": "1668693781791784961",
+        "name": "伊芙🍥",
+        "pinned_tweet_id": "1936898802361020812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 938,
+          "like_count": 4280,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 924
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6403238,
+          "following_count": 3,
+          "like_count": 79,
+          "listed_count": 5042,
+          "media_count": 2687599,
+          "tweet_count": 54669947
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

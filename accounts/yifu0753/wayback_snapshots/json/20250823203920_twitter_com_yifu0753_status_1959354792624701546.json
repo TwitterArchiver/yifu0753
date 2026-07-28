@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1958565821564788855",
+    "created_at": "2025-08-23T20:39:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T21:39:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959354792624701546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1426930433413967882",
+          "start": 0,
+          "username": "cwDZwGaPucmiMvo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959354792624701546",
+    "in_reply_to_user_id": "1426930433413967882",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958827269083869466",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cwDZwGaPucmiMvo 😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1958565821564788855",
+        "created_at": "2025-08-23T20:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T21:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959354792624701546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1426930433413967882",
+              "start": 0,
+              "username": "cwDZwGaPucmiMvo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959354792624701546",
+        "in_reply_to_user_id": "1426930433413967882",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958827269083869466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cwDZwGaPucmiMvo 😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1426930433413967882",
+        "conversation_id": "1958565821564788855",
+        "created_at": "2025-08-22T09:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T10:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958827269083869466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1668693781791784961",
+              "start": 0,
+              "username": "yifu0753"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958827269083869466",
+        "in_reply_to_user_id": "1668693781791784961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958565821564788855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yifu0753 别老想自杀这种笨笨的思想，现实生活中有人欺负你请你来这里，这里有很多人都爱你，关心你，很愿意与你帮助你共渡难关。💝抱抱你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "🏳‍⚧ 抑郁焦虑状态",
+        "id": "1668693781791784961",
+        "name": "伊芙🍥",
+        "pinned_tweet_id": "1936898802361020812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 925,
+          "like_count": 4223,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 865
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-15T15:35:16.000Z",
+        "description": "人家说我是闷骚大M，我只是喜欢唯美和漂亮的东西，美女，美食，美景，美腿，美牛牛等等，爱交友，不歧视，有礼貌，计划把X变成朋友圈一样，和谐家园",
+        "id": "1426930433413967882",
+        "name": "李biubiu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948873118841282560/xQmasTy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 918,
+          "like_count": 897,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 805
+        },
+        "username": "cwDZwGaPucmiMvo",
+        "verified": false
+      }
+    ]
+  }
+}

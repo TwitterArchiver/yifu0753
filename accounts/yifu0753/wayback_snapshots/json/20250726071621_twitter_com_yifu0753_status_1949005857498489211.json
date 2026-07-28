@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Information Privacy",
+          "id": "1088443224425807872",
+          "name": "Information Privacy Worldwide"
+        }
+      }
+    ],
+    "conversation_id": "1949005857498489211",
+    "created_at": "2025-07-26T07:16:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T08:16:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949005857498489211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2840236608",
+          "start": 3,
+          "username": "StarNekOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949005857498489211",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948754921098281260",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @StarNekOvO: 这是从接触号称“中国最大黑客松”的AdvX 铺天盖地的推文以来，看到的第一件正经的 Hacker 行为🤣\n\n前几天都是在跑题\n- 强制问卷/性别强制二元/补贴开盒争议/活动区域边界/工牌佩戴等禁赛议题\n- 主办方卖数据、盗用身份及性骚扰丑闻议题…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Information Privacy",
+              "id": "1088443224425807872",
+              "name": "Information Privacy Worldwide"
+            }
+          }
+        ],
+        "conversation_id": "1949005857498489211",
+        "created_at": "2025-07-26T07:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T08:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949005857498489211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2840236608",
+              "start": 3,
+              "username": "StarNekOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949005857498489211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948754921098281260",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @StarNekOvO: 这是从接触号称“中国最大黑客松”的AdvX 铺天盖地的推文以来，看到的第一件正经的 Hacker 行为🤣\n\n前几天都是在跑题\n- 强制问卷/性别强制二元/补贴开盒争议/活动区域边界/工牌佩戴等禁赛议题\n- 主办方卖数据、盗用身份及性骚扰丑闻议题…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Information Privacy",
+              "id": "1088443224425807872",
+              "name": "Information Privacy Worldwide"
+            }
+          }
+        ],
+        "conversation_id": "1948754921098281260",
+        "created_at": "2025-07-25T14:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T15:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948754921098281260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mengxi969/stat…",
+              "end": 181,
+              "expanded_url": "https://twitter.com/mengxi969/status/1948626517535457635",
+              "start": 158,
+              "url": "https://t.co/fLrodiwX76"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948754921098281260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 7921,
+          "like_count": 114,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948626517535457635",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是从接触号称“中国最大黑客松”的AdvX 铺天盖地的推文以来，看到的第一件正经的 Hacker 行为🤣\n\n前几天都是在跑题\n- 强制问卷/性别强制二元/补贴开盒争议/活动区域边界/工牌佩戴等禁赛议题\n- 主办方卖数据、盗用身份及性骚扰丑闻议题\n- 💩及悬赏5000议题\n- 参赛者面基、漫展式打卡以及领取各种無料 https://t.co/fLrodiwX76"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "🏳‍⚧ 抑郁焦虑状态",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "pinned_tweet_id": "1936898802361020812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 930,
+          "like_count": 4223,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 826
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "description": "⭐️🌕 Queer(存疑)，安全(心理学方向)/算法/架构，可以在新加坡/杭州/吉隆坡偶遇 (WSSS🔁ZSHC) ，暑假 0721 术略略略，然后可能去🇵🇹🇳🇱🇫🇮，INFJ 阴暗双相重抑躁焦阿斯bpdADHD五毒俱全，吃🧱才能行动，而且是地雷呀 https://t.co/nVL53sBJjI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/StarNekOvO",
+                "end": 148,
+                "expanded_url": "https://t.me/StarNekOvO",
+                "start": 125,
+                "url": "https://t.co/nVL53sBJjI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "幻想郷但有時候在羅德島",
+        "name": "Star Neko🪼",
+        "pinned_tweet_id": "1942150775481999754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940439657252036608/lXR_GMMa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3743,
+          "following_count": 1556,
+          "like_count": 21839,
+          "listed_count": 12,
+          "media_count": 943,
+          "tweet_count": 7825
+        },
+        "username": "StarNekOvO",
+        "verified": false
+      }
+    ]
+  }
+}

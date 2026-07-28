@@ -1,0 +1,162 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1803825308732436598",
+    "created_at": "2024-06-20T19:30:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-20T20:30:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803873027421241744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1596473224711151618",
+          "start": 0,
+          "username": "a823149315"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803873027421241744",
+    "in_reply_to_user_id": "1596473224711151618",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803825308732436598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a823149315 加油"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1803825308732436598",
+        "created_at": "2024-06-20T19:30:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-20T20:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803873027421241744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596473224711151618",
+              "start": 0,
+              "username": "a823149315"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803873027421241744",
+        "in_reply_to_user_id": "1596473224711151618",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803825308732436598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a823149315 加油"
+      },
+      {
+        "attachments": {},
+        "author_id": "1596473224711151618",
+        "conversation_id": "1803825308732436598",
+        "created_at": "2024-06-20T16:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-20T17:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1803825308732436598"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1803825308732436598",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1910,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "和寒聊了一下，她觉得我因为某人和某人的事情对救助有ptsd了，建议我淡出一段时间，想明白了再回来\n我的状态也确实不适合做了\n卸任涟漪干预小组组长了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "讨厌一切人类  infp-t\n 讨厌一切的不美好",
+        "id": "1668693781791784961",
+        "name": "伊芙 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764816409815896064/b8sUPDni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 115,
+          "like_count": 551,
+          "listed_count": 0,
+          "tweet_count": 183
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T11:57:39.000Z",
+        "description": "曾用笔名苦樱/术后mtf/12年经验的百合推理作者/小说置顶可看/持证助理社工师/社工本科毕业/前机构司法社工项目主管",
+        "id": "1596473224711151618",
+        "name": "王安黛",
+        "pinned_tweet_id": "1596477323611541504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799997671241080832/PZwakleZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10978,
+          "following_count": 155,
+          "like_count": 1301,
+          "listed_count": 30,
+          "tweet_count": 3757
+        },
+        "username": "a823149315",
+        "verified": false
+      }
+    ]
+  }
+}

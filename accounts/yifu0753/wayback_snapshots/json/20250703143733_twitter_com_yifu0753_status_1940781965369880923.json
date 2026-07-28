@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1940781965369880923",
+    "created_at": "2025-07-03T14:37:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T15:37:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940781965369880923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1479696561302999042",
+          "start": 3,
+          "username": "quitee123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940781965369880923",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940704723700691109",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @quitee123: 北京集体户口改证指南\n\n首先要明确的是，在北京集体户口进行性别变更的优势是，可以绕过家里，并且可以得到110开头的身份证号，比如咱就得到了110108开头的。\n\n然后是缺点，首先是要求的材料巨多，并且时间很慢、审核很严，和派出所沟通只能通过学校户籍…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1326,
+        "media_key": "3_1940704697645780992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu7Eo-Ub0AAfxUt.jpg",
+        "width": 1290
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1940704697645780993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu7Eo-Ub0AEyH0Z.jpg",
+        "width": 1920
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1940704697620594688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu7Eo-ObgAAS4LR.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1940704697645752320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu7Eo-UbYAAcBlP.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1940781965369880923",
+        "created_at": "2025-07-03T14:37:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T15:37:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940781965369880923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1479696561302999042",
+              "start": 3,
+              "username": "quitee123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940781965369880923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940704723700691109",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @quitee123: 北京集体户口改证指南\n\n首先要明确的是，在北京集体户口进行性别变更的优势是，可以绕过家里，并且可以得到110开头的身份证号，比如咱就得到了110108开头的。\n\n然后是缺点，首先是要求的材料巨多，并且时间很慢、审核很严，和派出所沟通只能通过学校户籍…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940704697645780992",
+            "3_1940704697645780993",
+            "3_1940704697620594688",
+            "3_1940704697645752320"
+          ]
+        },
+        "author_id": "1479696561302999042",
+        "conversation_id": "1940704723700691109",
+        "created_at": "2025-07-03T09:30:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T10:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940704723700691109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6yFZtNdRc9",
+              "end": 157,
+              "expanded_url": "https://x.com/quitee123/status/1940704723700691109/photo/1",
+              "media_key": "3_1940704697645780992",
+              "start": 134,
+              "url": "https://t.co/6yFZtNdRc9"
+            },
+            {
+              "display_url": "pic.x.com/6yFZtNdRc9",
+              "end": 157,
+              "expanded_url": "https://x.com/quitee123/status/1940704723700691109/photo/1",
+              "media_key": "3_1940704697645780993",
+              "start": 134,
+              "url": "https://t.co/6yFZtNdRc9"
+            },
+            {
+              "display_url": "pic.x.com/6yFZtNdRc9",
+              "end": 157,
+              "expanded_url": "https://x.com/quitee123/status/1940704723700691109/photo/1",
+              "media_key": "3_1940704697620594688",
+              "start": 134,
+              "url": "https://t.co/6yFZtNdRc9"
+            },
+            {
+              "display_url": "pic.x.com/6yFZtNdRc9",
+              "end": 157,
+              "expanded_url": "https://x.com/quitee123/status/1940704723700691109/photo/1",
+              "media_key": "3_1940704697645752320",
+              "start": 134,
+              "url": "https://t.co/6yFZtNdRc9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940704723700691109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 3871,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "北京集体户口改证指南\n\n首先要明确的是，在北京集体户口进行性别变更的优势是，可以绕过家里，并且可以得到110开头的身份证号，比如咱就得到了110108开头的。\n\n然后是缺点，首先是要求的材料巨多，并且时间很慢、审核很严，和派出所沟通只能通过学校户籍办老师。（1/3） https://t.co/6yFZtNdRc9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "🏳‍⚧ 抑郁焦虑状态",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "pinned_tweet_id": "1936898802361020812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 903,
+          "like_count": 4027,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 736
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-08T06:09:08.000Z",
+        "description": "永远17岁的小傻瓜 /XYN forever! /三坑少女/可爱橘喵 互fo喵 小宠物猫 @Shion_Glad @A5Tr41 @dominnicchina tg：@hajvmi SRS记录：https://t.co/jVttn2XGM7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 45,
+                "username": "Shion_Glad"
+              },
+              {
+                "end": 64,
+                "start": 57,
+                "username": "A5Tr41"
+              },
+              {
+                "end": 79,
+                "start": 65,
+                "username": "dominnicchina"
+              },
+              {
+                "end": 90,
+                "start": 83,
+                "username": "hajvmi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/miaomiao202503…",
+                "end": 120,
+                "expanded_url": "https://t.me/miaomiao202503010",
+                "start": 97,
+                "url": "https://t.co/jVttn2XGM7"
+              }
+            ]
+          }
+        },
+        "id": "1479696561302999042",
+        "location": "你的心里",
+        "name": "枫糖小橘🍊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938519215071481856/RGyMr1ce_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9346,
+          "following_count": 2799,
+          "like_count": 29248,
+          "listed_count": 23,
+          "media_count": 655,
+          "tweet_count": 13168
+        },
+        "username": "quitee123",
+        "verified": false
+      }
+    ]
+  }
+}

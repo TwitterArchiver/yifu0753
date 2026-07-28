@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2055587300348932452",
+    "created_at": "2026-05-16T17:49:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T18:49:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055707243681919392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1901290700064333824",
+          "start": 0,
+          "username": "skysea220314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055707243681919392",
+    "in_reply_to_user_id": "1901290700064333824",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055673292292608344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skysea220314 😢😭😭😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2055587300348932452",
+        "created_at": "2026-05-16T17:49:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T18:49:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055707243681919392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1901290700064333824",
+              "start": 0,
+              "username": "skysea220314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055707243681919392",
+        "in_reply_to_user_id": "1901290700064333824",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055673292292608344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skysea220314 😢😭😭😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901290700064333824",
+        "conversation_id": "2055587300348932452",
+        "created_at": "2026-05-16T15:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T16:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055673292292608344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1668693781791784961",
+              "start": 0,
+              "username": "yifu0753"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055673292292608344",
+        "in_reply_to_user_id": "1668693781791784961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055587300348932452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yifu0753 有的人是这样的，既不懂感同身受，说话也不动脑子，确实讨厌\n稍微有些严重的精神疾病基本上就已经是器质化了，生理性的影响，不吃药怎么可能？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪麻痹 ICU 药物中毒 重度抑郁 | 二氧化碳好死喵 | 快死了",
+        "id": "1668693781791784961",
+        "location": "深圳市南山区",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 891,
+          "following_count": 1174,
+          "like_count": 6801,
+          "listed_count": 2,
+          "media_count": 138,
+          "tweet_count": 1731
+        },
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-16T15:14:04.000Z",
+        "description": "男，普通不普信，私信看见必回，想聊聊天想听听故事，",
+        "id": "1901290700064333824",
+        "location": "不知道",
+        "name": "九天星光（求fo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048846775453126656/a8G90IxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 27,
+          "like_count": 269,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 589
+        },
+        "username": "skysea220314",
+        "verified": false
+      }
+    ]
+  }
+}

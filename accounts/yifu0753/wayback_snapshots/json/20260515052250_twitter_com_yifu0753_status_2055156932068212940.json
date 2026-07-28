@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2055156932068212940",
+    "created_at": "2026-05-15T05:22:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T06:22:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055156932068212940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2036071254873276416",
+          "start": 3,
+          "username": "renyue105"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055156932068212940",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055087594204225537",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @renyue105: 今天是hrt第一天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2055156932068212940",
+        "created_at": "2026-05-15T05:22:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T06:22:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055156932068212940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2036071254873276416",
+              "start": 3,
+              "username": "renyue105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055156932068212940",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055087594204225537",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @renyue105: 今天是hrt第一天"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036071254873276416",
+        "conversation_id": "2055087594204225537",
+        "created_at": "2026-05-15T00:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T01:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055087594204225537"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055087594204225537",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 942,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是hrt第一天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪麻痹 ICU 药物中毒 重度抑郁 | 二氧化碳好死喵 | 快死了",
+        "id": "1668693781791784961",
+        "location": "深圳市南山区",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 876,
+          "following_count": 1168,
+          "like_count": 6653,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 1688
+        },
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-23T13:23:41.000Z",
+        "description": "一切皆无意义",
+        "id": "2036071254873276416",
+        "location": "中国 江西",
+        "name": "任成轩",
+        "pinned_tweet_id": "2046413472829731201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054822427612594176/bUfaF6wG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 1,
+          "like_count": 3118,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 2821
+        },
+        "username": "renyue105",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1815806134449758239",
+    "created_at": "2024-07-23T17:48:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-23T18:48:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1815806134449758239"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1815806134449758239",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "亚硝酸钠的致死时效是多少"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1815806134449758239",
+        "created_at": "2024-07-23T17:48:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-23T18:48:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1815806134449758239"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1815806134449758239",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "亚硝酸钠的致死时效是多少"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "",
+        "id": "1668693781791784961",
+        "location": "广州",
+        "name": "伊芙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764816409815896064/b8sUPDni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 160,
+          "like_count": 697,
+          "listed_count": 0,
+          "tweet_count": 263
+        },
+        "username": "yifu0753",
+        "verified": false
+      }
+    ]
+  }
+}

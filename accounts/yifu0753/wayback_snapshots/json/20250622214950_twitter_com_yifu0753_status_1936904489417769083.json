@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1936831637985403356",
+    "created_at": "2025-06-22T21:49:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T22:49:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936904489417769083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1690638204356214784",
+          "start": 0,
+          "username": "luo_12168735"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936904489417769083",
+    "in_reply_to_user_id": "1690638204356214784",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936831637985403356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luo_12168735 😵‍💫"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1936831608775921664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuECFh7WUAAWLWE.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1936831609120206848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuECFjNbsAA_GON.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1936831637985403356",
+        "created_at": "2025-06-22T21:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T22:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936904489417769083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1690638204356214784",
+              "start": 0,
+              "username": "luo_12168735"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936904489417769083",
+        "in_reply_to_user_id": "1690638204356214784",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936831637985403356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luo_12168735 😵‍💫"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936831608775921664",
+            "3_1936831609120206848"
+          ]
+        },
+        "author_id": "1690638204356214784",
+        "conversation_id": "1936831637985403356",
+        "created_at": "2025-06-22T17:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T18:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936831637985403356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VqclrYSfSR",
+              "end": 28,
+              "expanded_url": "https://x.com/luo_12168735/status/1936831637985403356/photo/1",
+              "media_key": "3_1936831608775921664",
+              "start": 5,
+              "url": "https://t.co/VqclrYSfSR"
+            },
+            {
+              "display_url": "pic.x.com/VqclrYSfSR",
+              "end": 28,
+              "expanded_url": "https://x.com/luo_12168735/status/1936831637985403356/photo/1",
+              "media_key": "3_1936831609120206848",
+              "start": 5,
+              "url": "https://t.co/VqclrYSfSR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936831637985403356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 194,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "速通失败 https://t.co/VqclrYSfSR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "🏳‍⚧ 抑郁焦虑状态",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 841,
+          "like_count": 3697,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 670
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T08:15:53.000Z",
+        "description": "华风夏韵，洛水天依/INFP/hrt25.5.14/是个超大只的xyn哦/🏳️‍⚧️",
+        "id": "1690638204356214784",
+        "location": "休伯利安",
+        "name": "雨天🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934447717104877568/Hzn3VmDH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 391,
+          "like_count": 1119,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 615
+        },
+        "username": "luo_12168735",
+        "verified": false
+      }
+    ]
+  }
+}

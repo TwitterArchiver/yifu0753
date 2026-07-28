@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2063242158338117982",
+    "created_at": "2026-06-06T13:16:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T14:16:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063248596305330501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1896923926112169984",
+          "start": 0,
+          "username": "FrostyStrings"
+        },
+        {
+          "end": 30,
+          "id": "2002873553792966658",
+          "start": 15,
+          "username": "Selenophile080"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063248596305330501",
+    "in_reply_to_user_id": "1896923926112169984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063242158338117982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FrostyStrings @Selenophile080 生快"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063242146820616192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIbzQ7bcAABVGt.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063242146661228544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIbzQVbYAA867y.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063242146669572096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIbzQXasAApb-I.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063242146665447424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIbzQWbwAA2MF4.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2063242158338117982",
+        "created_at": "2026-06-06T13:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T14:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063248596305330501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1896923926112169984",
+              "start": 0,
+              "username": "FrostyStrings"
+            },
+            {
+              "end": 30,
+              "id": "2002873553792966658",
+              "start": 15,
+              "username": "Selenophile080"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063248596305330501",
+        "in_reply_to_user_id": "1896923926112169984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063242158338117982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrostyStrings @Selenophile080 生快"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063242146820616192",
+            "3_2063242146661228544",
+            "3_2063242146669572096",
+            "3_2063242146665447424"
+          ]
+        },
+        "author_id": "1896923926112169984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2063242158338117982",
+        "created_at": "2026-06-06T12:50:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T13:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063242158338117982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 42,
+              "id": "2002873553792966658",
+              "start": 27,
+              "username": "Selenophile080"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GvOnfHsyFc",
+              "end": 116,
+              "expanded_url": "https://x.com/FrostyStrings/status/2063242158338117982/photo/1",
+              "media_key": "3_2063242146820616192",
+              "start": 93,
+              "url": "https://t.co/GvOnfHsyFc"
+            },
+            {
+              "display_url": "pic.x.com/GvOnfHsyFc",
+              "end": 116,
+              "expanded_url": "https://x.com/FrostyStrings/status/2063242158338117982/photo/1",
+              "media_key": "3_2063242146661228544",
+              "start": 93,
+              "url": "https://t.co/GvOnfHsyFc"
+            },
+            {
+              "display_url": "pic.x.com/GvOnfHsyFc",
+              "end": 116,
+              "expanded_url": "https://x.com/FrostyStrings/status/2063242158338117982/photo/1",
+              "media_key": "3_2063242146669572096",
+              "start": 93,
+              "url": "https://t.co/GvOnfHsyFc"
+            },
+            {
+              "display_url": "pic.x.com/GvOnfHsyFc",
+              "end": 116,
+              "expanded_url": "https://x.com/FrostyStrings/status/2063242158338117982/photo/1",
+              "media_key": "3_2063242146665447424",
+              "start": 93,
+              "url": "https://t.co/GvOnfHsyFc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063242158338117982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 23,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "生日啦～\n生理生日和hrt生日是同一天真是大胜利。\n和@Selenophile080 一起做芭菲吃（虽然热量爆炸）\n诶！？怎么混进了奇怪的东西！？\n\n欧弟圈迎来大变\n\n药药芭菲如何呢？ https://t.co/GvOnfHsyFc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪麻痹 ICU 药物中毒 重度抑郁 | 二氧化碳好死喵 | 死闺 @Sayuki_Inoue",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "Sayuki_Inoue"
+              }
+            ]
+          }
+        },
+        "id": "1668693781791784961",
+        "location": "深圳市南山区",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1039,
+          "following_count": 1240,
+          "like_count": 7621,
+          "listed_count": 2,
+          "media_count": 163,
+          "tweet_count": 1974
+        },
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-04T14:01:36.000Z",
+        "description": "Frostine/有证含糖/MtF/HRT+Birthday2025.06.06/ISFJ/炸柜/中焦重抑/OSDD-2a/老婆@Selenophile080",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 64,
+                "username": "Selenophile080"
+              }
+            ]
+          }
+        },
+        "id": "1896923926112169984",
+        "location": "Shanghai",
+        "name": "霜落雪琴🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017306020931112960/VNz_F_bT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 76,
+          "like_count": 715,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 339
+        },
+        "username": "FrostyStrings",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-21T22:47:50.000Z",
+        "description": "孤独症（ASD）/无性/cptsd/校园霸凌史/自杀史/超重力女子，最喜欢的人是：@FrostyStrings，没有之一",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 41,
+                "username": "FrostyStrings"
+              }
+            ]
+          }
+        },
+        "id": "2002873553792966658",
+        "name": "Cynthia🍥",
+        "pinned_tweet_id": "2063123799453954343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062940752691576832/3xJ6ajGt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 106,
+          "like_count": 36,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 45
+        },
+        "username": "Selenophile080",
+        "verified": false
+      }
+    ]
+  }
+}

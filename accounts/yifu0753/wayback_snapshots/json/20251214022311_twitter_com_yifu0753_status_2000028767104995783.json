@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999704227946631168"
+      ],
+      "media_source_tweet_id": [
+        "1999704245772353783"
+      ]
+    },
+    "author_id": "1668693781791784961",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2000028767104995783",
+    "created_at": "2025-12-14T02:23:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T03:23:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000028767104995783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1773379708635467776",
+          "start": 3,
+          "username": "HerbalSnow23528"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BYnzvYVtIt",
+          "end": 69,
+          "expanded_url": "https://x.com/HerbalSnow23528/status/1999704245772353783/photo/1",
+          "media_key": "3_1999704227946631168",
+          "start": 46,
+          "url": "https://t.co/BYnzvYVtIt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000028767104995783",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999704245772353783",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HerbalSnow23528: 书是人类进步的阶梯，雌二醇是xyn进步的阶梯（） https://t.co/BYnzvYVtIt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1999704227946631168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8BgZoKbEAA_i9B.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999704227946631168"
+          ],
+          "media_source_tweet_id": [
+            "1999704245772353783"
+          ]
+        },
+        "author_id": "1668693781791784961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2000028767104995783",
+        "created_at": "2025-12-14T02:23:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T03:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000028767104995783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1773379708635467776",
+              "start": 3,
+              "username": "HerbalSnow23528"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BYnzvYVtIt",
+              "end": 69,
+              "expanded_url": "https://x.com/HerbalSnow23528/status/1999704245772353783/photo/1",
+              "media_key": "3_1999704227946631168",
+              "start": 46,
+              "url": "https://t.co/BYnzvYVtIt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000028767104995783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999704245772353783",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HerbalSnow23528: 书是人类进步的阶梯，雌二醇是xyn进步的阶梯（） https://t.co/BYnzvYVtIt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999704227946631168"
+          ]
+        },
+        "author_id": "1773379708635467776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1999704245772353783",
+        "created_at": "2025-12-13T04:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T05:53:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999704245772353783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BYnzvYVtIt",
+              "end": 48,
+              "expanded_url": "https://x.com/HerbalSnow23528/status/1999704245772353783/photo/1",
+              "media_key": "3_1999704227946631168",
+              "start": 25,
+              "url": "https://t.co/BYnzvYVtIt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999704245772353783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5370,
+          "like_count": 96,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "书是人类进步的阶梯，雌二醇是xyn进步的阶梯（） https://t.co/BYnzvYVtIt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "「she her 她」 伊芙~ | 安息！ 在我坟前献上一束花",
+        "id": "1668693781791784961",
+        "name": "伊芙🍥",
+        "pinned_tweet_id": "1996080578920415409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 1003,
+          "like_count": 4676,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 972
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-28T16:01:13.000Z",
+        "description": "你好哦～叫咱小铃/铃酱就好呢，20岁mtf，无证含糖🍥xyn，hrt25.3.16，切蛋25.11.20，喜欢铁路、车万、术力口，tk圈小ee，173cm，58kg，欢迎来戳咱，交友可私聊加q，咱想要成为有趣的人，想要被喜欢（也好想被tickle……）希望每个人都要好好爱护自己的身体，活成自己想要的样子哦～",
+        "id": "1773379708635467776",
+        "location": "国铁济南局管内（时不时跨局）",
+        "name": "HerbalSnow小铃酱🍥",
+        "pinned_tweet_id": "1895889427693760630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773406031382745089/35YvhfIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1664,
+          "following_count": 3045,
+          "like_count": 14378,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 978
+        },
+        "username": "HerbalSnow23528",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1927387175001157632"
+      ],
+      "media_source_tweet_id": [
+        "1927387178398564698"
+      ]
+    },
+    "author_id": "1668693781791784961",
+    "conversation_id": "1936931172174717110",
+    "created_at": "2025-06-22T23:35:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T00:35:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936931172174717110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1677383468660191232",
+          "start": 3,
+          "username": "mtfmtx138248"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/paUwhvs3tc",
+          "end": 98,
+          "expanded_url": "https://x.com/mtfmtx138248/status/1927387178398564698/photo/1",
+          "media_key": "3_1927387175001157632",
+          "start": 75,
+          "url": "https://t.co/paUwhvs3tc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936931172174717110",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927387178398564698",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mtfmtx138248: 雌激素高了血栓的风险会大大增加，真心建议大家定期做激素检查，而且高雌激素水平还会抑制乳房发育，不要认为雌越高越好 https://t.co/paUwhvs3tc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1442,
+        "media_key": "3_1927387175001157632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr90bIaWcAAzS5V.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927387175001157632"
+          ],
+          "media_source_tweet_id": [
+            "1927387178398564698"
+          ]
+        },
+        "author_id": "1668693781791784961",
+        "conversation_id": "1936931172174717110",
+        "created_at": "2025-06-22T23:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T00:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936931172174717110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1677383468660191232",
+              "start": 3,
+              "username": "mtfmtx138248"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/paUwhvs3tc",
+              "end": 98,
+              "expanded_url": "https://x.com/mtfmtx138248/status/1927387178398564698/photo/1",
+              "media_key": "3_1927387175001157632",
+              "start": 75,
+              "url": "https://t.co/paUwhvs3tc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936931172174717110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927387178398564698",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mtfmtx138248: 雌激素高了血栓的风险会大大增加，真心建议大家定期做激素检查，而且高雌激素水平还会抑制乳房发育，不要认为雌越高越好 https://t.co/paUwhvs3tc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927387175001157632"
+          ]
+        },
+        "author_id": "1677383468660191232",
+        "conversation_id": "1927387178398564698",
+        "created_at": "2025-05-27T15:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T16:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927387178398564698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/paUwhvs3tc",
+              "end": 80,
+              "expanded_url": "https://x.com/mtfmtx138248/status/1927387178398564698/photo/1",
+              "media_key": "3_1927387175001157632",
+              "start": 57,
+              "url": "https://t.co/paUwhvs3tc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927387178398564698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 351351,
+          "like_count": 82,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雌激素高了血栓的风险会大大增加，真心建议大家定期做激素检查，而且高雌激素水平还会抑制乳房发育，不要认为雌越高越好 https://t.co/paUwhvs3tc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "🏳‍⚧ 抑郁焦虑状态",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 859,
+          "like_count": 3733,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 684
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-07T18:26:31.000Z",
+        "description": "我有易性症",
+        "id": "1677383468660191232",
+        "name": "神楽坂美緒",
+        "pinned_tweet_id": "1898984794467533189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763562734128607232/FH7wy4u__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 320,
+          "like_count": 101393,
+          "listed_count": 1,
+          "media_count": 258,
+          "tweet_count": 1501
+        },
+        "username": "mtfmtx138248",
+        "verified": false
+      }
+    ]
+  }
+}

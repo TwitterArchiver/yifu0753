@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1940691331891998866",
+    "created_at": "2025-07-03T08:37:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T09:37:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1940691331891998866"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/XiaoHuiHuiH/st…",
+          "end": 98,
+          "expanded_url": "https://twitter.com/XiaoHuiHuiH/status/1940631297522815374",
+          "start": 75,
+          "url": "https://t.co/dqG4B3tFya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940691331891998866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940631297522815374",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "呜呜呜好想要\n好想被大棒子塞满\n好想被灌满呜呜呜\n\n得不到，呜呜\n没人要我呜呜呜\n想要男朋友呜呜呜\n想被狠狠透\n\n被发情折磨得痛苦\n\n难受\n寄了算了 https://t.co/dqG4B3tFya"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1940691331891998866",
+        "created_at": "2025-07-03T08:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T09:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940691331891998866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/XiaoHuiHuiH/st…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/XiaoHuiHuiH/status/1940631297522815374",
+              "start": 75,
+              "url": "https://t.co/dqG4B3tFya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940691331891998866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940631297522815374",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呜呜呜好想要\n好想被大棒子塞满\n好想被灌满呜呜呜\n\n得不到，呜呜\n没人要我呜呜呜\n想要男朋友呜呜呜\n想被狠狠透\n\n被发情折磨得痛苦\n\n难受\n寄了算了 https://t.co/dqG4B3tFya"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587653801305153538",
+        "conversation_id": "1940631297522815374",
+        "created_at": "2025-07-03T04:38:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T05:38:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940631297522815374"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1940631297522815374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 681,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呜呜呜好想要\n好想被大棒子塞满\n好想被灌满呜呜呜\n\n得不到，呜呜\n没人要我呜呜呜\n想要男朋友呜呜呜\n想被狠狠透\n\n被发情折磨得痛苦\n\n难受\n寄了算了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "🏳‍⚧ 抑郁焦虑状态",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "pinned_tweet_id": "1936898802361020812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 897,
+          "like_count": 4008,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 726
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T03:52:34.000Z",
+        "description": "好东西都在咱主页的“亮点”里哦😈\n/日常+抽象+涩涩推🫣/\nmtx(f)🏳️‍⚧️但可以把我当男娘喵🩷💜/含糖🍥2023.12.7/泛性恋🏳️‍🌈/21岁/可1可0可S可M🥵/单身没人要😭/加拿大留学🇨🇦/\n\n免责避雷声明⚠️地狱笑话+抽象批/温柔+发癫集合体/淫趴头子+滥交药攻/地雷嗑学家💊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@XiaoHuiHuiH",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@XiaoHuiHuiH",
+                "start": 0,
+                "url": "https://t.co/LQg5S7YXOr"
+              }
+            ]
+          }
+        },
+        "id": "1587653801305153538",
+        "location": "Toronto, Ontario🇨🇦",
+        "name": "小咴咴喵(⁠≧⁠▽⁠≦⁠)/🍥喵喵艺术家~",
+        "pinned_tweet_id": "1913873631475622109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904236723636224000/W8Cl9P5f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10788,
+          "following_count": 1179,
+          "like_count": 116811,
+          "listed_count": 22,
+          "media_count": 3923,
+          "tweet_count": 55384
+        },
+        "url": "https://t.co/LQg5S7YXOr",
+        "username": "XiaoHuiHuiH",
+        "verified": true
+      }
+    ]
+  }
+}

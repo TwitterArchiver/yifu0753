@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1912185777016172822",
+    "created_at": "2025-04-15T17:09:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-15T18:09:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912191674752856150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1655093096710021120",
+          "start": 0,
+          "username": "yuzuchanqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912191674752856150",
+    "in_reply_to_user_id": "1655093096710021120",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912185777016172822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuzuchanqwq 🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1912185777016172822",
+        "created_at": "2025-04-15T17:09:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T18:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912191674752856150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1655093096710021120",
+              "start": 0,
+              "username": "yuzuchanqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912191674752856150",
+        "in_reply_to_user_id": "1655093096710021120",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912185777016172822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuzuchanqwq 🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1655093096710021120",
+        "conversation_id": "1912185777016172822",
+        "created_at": "2025-04-15T16:46:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T17:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912185777016172822"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1912185777016172822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "他媽的你們要是不喜歡我\n就應該當初做愛的時候戴套啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "01 MtF🏳‍⚧ 抑郁焦虑状态 ASD | 同类互fo",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 606,
+          "like_count": 3062,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 532
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-07T06:12:10.000Z",
+        "description": "我愛妳。 @mizuchanqwq 我愛妳我愛妳我愛妳我愛妳我愛妳我愛妳我愛妳我愛妳我愛妳我愛妳我愛妳我愛妳我愛妳我愛妳我愛妳我愛妳我愛妳我愛妳我愛妳我愛妳我愛妳我愛妳我愛妳我愛妳",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 5,
+                "username": "mizuchanqwq"
+              }
+            ]
+          }
+        },
+        "id": "1655093096710021120",
+        "location": "貓屬香港",
+        "name": "柚子醬♡ ̫ ×🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1910055307172249904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912170215690981377/ukto3Akz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1311,
+          "following_count": 1152,
+          "like_count": 29080,
+          "listed_count": 4,
+          "media_count": 863,
+          "tweet_count": 9522
+        },
+        "username": "yuzuchanqwq",
+        "verified": true
+      }
+    ]
+  }
+}

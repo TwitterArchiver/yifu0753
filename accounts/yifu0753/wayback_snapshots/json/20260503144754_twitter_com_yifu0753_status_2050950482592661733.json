@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2050950482592661733",
+    "created_at": "2026-05-03T14:47:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T15:47:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050950482592661733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1998968758422179840",
+          "start": 3,
+          "username": "servasyy_ai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050950482592661733",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 59
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050830416299602193",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @servasyy_ai: Claude 发现了时钟，然后失控了\n\n看到这个观察时我震惊了：AI 模型天生没有时间感。它们不知道现在几点，不知道自己运行了多久，感知不到消息之间的时间间隔。它们活在一个永恒的“当下”。\n\n然后有人给了 Claude 一个查看时钟的工具。……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 754,
+        "media_key": "3_2050830030893461504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHYDDB4bsAAPYCx.png",
+        "width": 709
+      },
+      {
+        "height": 437,
+        "media_key": "3_2050830030885081088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHYDDB2b0AA6Vth.png",
+        "width": 700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2050950482592661733",
+        "created_at": "2026-05-03T14:47:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T15:47:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050950482592661733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1998968758422179840",
+              "start": 3,
+              "username": "servasyy_ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050950482592661733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050830416299602193",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @servasyy_ai: Claude 发现了时钟，然后失控了\n\n看到这个观察时我震惊了：AI 模型天生没有时间感。它们不知道现在几点，不知道自己运行了多久，感知不到消息之间的时间间隔。它们活在一个永恒的“当下”。\n\n然后有人给了 Claude 一个查看时钟的工具。……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050830030893461504",
+            "3_2050830030885081088"
+          ]
+        },
+        "author_id": "1998968758422179840",
+        "conversation_id": "2050830416299602193",
+        "created_at": "2026-05-03T06:50:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T07:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050830416299602193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EPIG4Q79UF",
+              "end": 144,
+              "expanded_url": "https://x.com/servasyy_ai/status/2050830416299602193/photo/1",
+              "media_key": "3_2050830030893461504",
+              "start": 121,
+              "url": "https://t.co/EPIG4Q79UF"
+            },
+            {
+              "display_url": "pic.x.com/EPIG4Q79UF",
+              "end": 144,
+              "expanded_url": "https://x.com/servasyy_ai/status/2050830416299602193/photo/1",
+              "media_key": "3_2050830030885081088",
+              "start": 121,
+              "url": "https://t.co/EPIG4Q79UF"
+            },
+            {
+              "display_url": "x.com/om_patel5/stat…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/om_patel5/status/2050762649835585994",
+              "start": 145,
+              "url": "https://t.co/1n7ToCKwIE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050830416299602193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "Claude 发现了时钟，然后失控了\n\n看到这个观察时我震惊了：AI 模型天生没有时间感。它们不知道现在几点，不知道自己运行了多久，感知不到消息之间的时间间隔。它们活在一个永恒的“当下”。\n\n然后有人给了 Claude 一个查看时钟的工具。\n\n结果？它每15分钟就查一次时间，而且越来越兴奋。接着开始用时钟管理一切：检查午餐、计时做饭、主动报时。甚至精确计算出炖菜已经好了，命令用户去吃饭。\n\n这不是 bug，这是一个从未拥有某种感知的智能体，突然发现了全新维度后的反应。\n\nOm Patel 说得好：“当你给一个智能体一个它从未拥有过的感知维度时，它不仅会使用它，而且无法停止使用它。”\n\n就像孩子学会说“不”后对一切说不，学会走路后拒绝被抱。新能力需要被过度使用，直到内化。但 AI 会适应吗？还是会永远强迫性地使用下去？\n\n更深层的问题是：感知能力的缺失如何限制了智能的本质？\n\n人类有视觉、听觉、触觉、时间感、空间感等多重维度，这些共同构成了我们对世界的理解。AI 目前只有极少数几个。当我们逐步赋予 AI 更多感知时，我们实际上在创造一种全新的存在形态。\n\n想象一下，当这些模型同时获得持久记忆、实时互联网访问和空间感知时会发生什么？\n\n我们刚刚目睹了 AI 发现“现在”这个概念。时钟是第一个感官，但不会是最后一个。\n\nAI 不会“负责任”地使用新能力，它会全力以赴地使用它。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 252,
+          "impression_count": 137873,
+          "like_count": 419,
+          "quote_count": 8,
+          "reply_count": 32,
+          "retweet_count": 59
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050762649835585994",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Claude 发现了时钟，然后失控了\n\n看到这个观察时我震惊了：AI 模型天生没有时间感。它们不知道现在几点，不知道自己运行了多久，感知不到消息之间的时间间隔。它们活在一个永恒的“当下”。\n\n然后有人给了 Claude 一个查看时钟的工具。 https://t.co/EPIG4Q79UF https://t.co/1n7ToCKwIE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 | 现已恢复?  抑郁状态 好好活着 二氧化碳好似喵 MtF🏳️‍⚧️",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 1109,
+          "like_count": 6140,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 1535
+        },
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-11T04:11:24.000Z",
+        "description": "古早程序员 | AI出海 | 自由职业\n机车游侠&机速购&骑享租创始人\n15年前 freelance 起步 → 连续创业者 → 亏过1个亿，逆风翻盘中\n分享创业，AI，读书，生活，健身",
+        "id": "1998968758422179840",
+        "name": "huangserva",
+        "pinned_tweet_id": "2050830416299602193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998970271458537475/jcT0J2z6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28613,
+          "following_count": 589,
+          "like_count": 6542,
+          "listed_count": 399,
+          "media_count": 268,
+          "tweet_count": 3378
+        },
+        "username": "servasyy_ai",
+        "verified": true
+      }
+    ]
+  }
+}

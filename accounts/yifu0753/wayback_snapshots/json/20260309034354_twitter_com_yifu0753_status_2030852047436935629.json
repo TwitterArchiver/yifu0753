@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2030852047436935629",
+    "created_at": "2026-03-09T03:43:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T04:43:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030852047436935629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "168139512",
+          "start": 3,
+          "username": "geekbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030852047436935629",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030608679121420756",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @geekbb: 深圳上大分，我才知道有个 人工智能（机器人）署\n\n深圳龙岗拟首发“龙虾十条”，想用“补贴+算力+数据+办公+人才+基金+出海+赛事”一整套政策，把 OpenClaw/OPC 创业团队和应用项目集中吸引到本地落地。\n\n  - 免费部署：提供 OpenCla…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2730,
+        "media_key": "3_2030607554255196160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC4qz92bEAAG_1f.jpg",
+        "width": 2034
+      },
+      {
+        "height": 1768,
+        "media_key": "3_2030607563516243968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC4q0gWbcAAMsnM.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2030852047436935629",
+        "created_at": "2026-03-09T03:43:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T04:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030852047436935629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "168139512",
+              "start": 3,
+              "username": "geekbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030852047436935629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030608679121420756",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @geekbb: 深圳上大分，我才知道有个 人工智能（机器人）署\n\n深圳龙岗拟首发“龙虾十条”，想用“补贴+算力+数据+办公+人才+基金+出海+赛事”一整套政策，把 OpenClaw/OPC 创业团队和应用项目集中吸引到本地落地。\n\n  - 免费部署：提供 OpenCla…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030607554255196160",
+            "3_2030607563516243968"
+          ]
+        },
+        "author_id": "168139512",
+        "conversation_id": "2030608679121420756",
+        "created_at": "2026-03-08T11:36:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T12:36:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030608679121420756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qk727YbYGB",
+              "end": 163,
+              "expanded_url": "https://x.com/geekbb/status/2030608679121420756/photo/1",
+              "media_key": "3_2030607554255196160",
+              "start": 140,
+              "url": "https://t.co/qk727YbYGB"
+            },
+            {
+              "display_url": "pic.x.com/qk727YbYGB",
+              "end": 163,
+              "expanded_url": "https://x.com/geekbb/status/2030608679121420756/photo/1",
+              "media_key": "3_2030607563516243968",
+              "start": 140,
+              "url": "https://t.co/qk727YbYGB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030608679121420756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "深圳上大分，我才知道有个 人工智能（机器人）署\n\n深圳龙岗拟首发“龙虾十条”，想用“补贴+算力+数据+办公+人才+基金+出海+赛事”一整套政策，把 OpenClaw/OPC 创业团队和应用项目集中吸引到本地落地。\n\n  - 免费部署：提供 OpenClaw 免费部署服务\n  - 资金补贴：开发、采购、示范应用、模型调用、出海保险等都有补贴\n  - 数据优惠：开放脱敏公共数据，减免数据使用费，数据治理服务打折\n  - 设备补贴：买 AI NAS“龙虾盒子”给补贴\n  - 免费算力：新入驻企业可领最长 3 个月免费算力\n  - 人才补贴：博士/硕士/本科落户给入户补贴\n  - 住宿支持：新注册或新迁入企业可享最长 2 个月免费住宿\n  - 办公支持：最长 18 个月办公空间优惠\n  - 人才待遇：医疗、子女入学、人才住房等配套\n  - 社区运营支持：认定的 OPC 社区每年可拿运营经费\n  - 融资支持：符合条件项目可获基金投资\n  - 出海服务：给市场、物流、合规等一站式服务\n  - 奖金激励：黑客松、大赛、年度人物可拿奖励"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 255,
+          "impression_count": 68272,
+          "like_count": 322,
+          "quote_count": 12,
+          "reply_count": 28,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "深圳上大分，我才知道有个 人工智能（机器人）署\n\n深圳龙岗拟首发“龙虾十条”，想用“补贴+算力+数据+办公+人才+基金+出海+赛事”一整套政策，把 OpenClaw/OPC 创业团队和应用项目集中吸引到本地落地。\n\n  - 免费部署：提供 OpenClaw 免费部署服务\n  - https://t.co/qk727YbYGB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 呼吸堵塞 | 现已恢复?  抑郁状态 好好活着 二氧化碳好似喵 MtF🏳️‍⚧️",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 984,
+          "like_count": 5168,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 1215
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-18T14:10:39.000Z",
+        "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 88,
+                "username": "QingQ77"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "igeekbb.com",
+                "end": 23,
+                "expanded_url": "https://www.igeekbb.com",
+                "start": 0,
+                "url": "https://t.co/lNbogZ0jXq"
+              }
+            ]
+          }
+        },
+        "id": "168139512",
+        "location": "火星",
+        "name": "Geek",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108713,
+          "following_count": 485,
+          "like_count": 19873,
+          "listed_count": 1162,
+          "media_count": 6728,
+          "tweet_count": 26060
+        },
+        "url": "https://t.co/lNbogZ0jXq",
+        "username": "geekbb",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1795676590762008607",
+    "created_at": "2024-05-29T12:17:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-29T13:17:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1795791530961121312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1642609342800338944",
+          "start": 0,
+          "username": "gotouhitori2"
+        },
+        {
+          "end": 29,
+          "id": "1470943033365438470",
+          "start": 14,
+          "username": "CamanoDiana444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1795791530961121312",
+    "in_reply_to_user_id": "1642609342800338944",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1795677391819571235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gotouhitori2 @CamanoDiana444 富"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1795676590762008607",
+        "created_at": "2024-05-29T12:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-29T13:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1795791530961121312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1642609342800338944",
+              "start": 0,
+              "username": "gotouhitori2"
+            },
+            {
+              "end": 29,
+              "id": "1470943033365438470",
+              "start": 14,
+              "username": "CamanoDiana444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795791530961121312",
+        "in_reply_to_user_id": "1642609342800338944",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795677391819571235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gotouhitori2 @CamanoDiana444 富"
+      },
+      {
+        "attachments": {},
+        "author_id": "1642609342800338944",
+        "conversation_id": "1795676590762008607",
+        "created_at": "2024-05-29T04:43:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-29T05:43:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1795677391819571235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1470943033365438470",
+              "start": 0,
+              "username": "CamanoDiana444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795677391819571235",
+        "in_reply_to_user_id": "1470943033365438470",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 136,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795676590762008607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CamanoDiana444 资产500万在大城市不最多算中产吗🙂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "讨厌一切人类 友跨顺女 坐标广州  贴贴~ intp-t\n 讨厌一切的不美好",
+        "id": "1668693781791784961",
+        "name": "伊芙 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764816409815896064/b8sUPDni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 0,
+          "like_count": 466,
+          "listed_count": 0,
+          "tweet_count": 127
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-02T19:26:12.000Z",
+        "description": "",
+        "id": "1642609342800338944",
+        "location": "參宿四",
+        "name": "後藤一理",
+        "pinned_tweet_id": "1780416675009151282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736674719519453184/744CYmNE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2327,
+          "following_count": 2550,
+          "like_count": 47639,
+          "listed_count": 6,
+          "tweet_count": 9740
+        },
+        "username": "gotouhitori2",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-15T02:25:55.000Z",
+        "description": "queer🏳️‍⚧️ 灵境联邦最高领导人 灵境党党委书记 生态社会主义 联邦制 消灭家庭和婚姻制度 社会化抚养 世界上的另一个我@KawawaDiana8964 👊😡📕资本家，请享受无产阶级专政吧！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 64,
+                "username": "KawawaDiana8964"
+              }
+            ]
+          }
+        },
+        "id": "1470943033365438470",
+        "location": "灵境联邦",
+        "name": "👊😡📕 嘉然书记 🚩🏳️‍⚧️🍀",
+        "pinned_tweet_id": "1663076707853541376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794688839082180609/zAz5OBAh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2057,
+          "following_count": 847,
+          "like_count": 18096,
+          "listed_count": 16,
+          "tweet_count": 10461
+        },
+        "username": "CamanoDiana444",
+        "verified": false
+      }
+    ]
+  }
+}

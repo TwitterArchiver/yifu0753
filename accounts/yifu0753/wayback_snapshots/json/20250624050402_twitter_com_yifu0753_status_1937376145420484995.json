@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1936898802361020812",
+    "created_at": "2025-06-24T05:04:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T06:04:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937376145420484995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1860501553297125376",
+          "start": 0,
+          "username": "ogasawarafuko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937376145420484995",
+    "in_reply_to_user_id": "1860501553297125376",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937032075292647550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ogasawarafuko 🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1936898802361020812",
+        "created_at": "2025-06-24T05:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T06:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937376145420484995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1860501553297125376",
+              "start": 0,
+              "username": "ogasawarafuko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937376145420484995",
+        "in_reply_to_user_id": "1860501553297125376",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937032075292647550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ogasawarafuko 🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860501553297125376",
+        "conversation_id": "1936898802361020812",
+        "created_at": "2025-06-23T06:16:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T07:16:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937032075292647550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1668693781791784961",
+              "start": 0,
+              "username": "yifu0753"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937032075292647550",
+        "in_reply_to_user_id": "1668693781791784961",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936898802361020812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yifu0753 私も死にたいです。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "🏳‍⚧ 抑郁焦虑状态",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "pinned_tweet_id": "1936898802361020812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 873,
+          "like_count": 3851,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 708
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-24T01:52:03.000Z",
+        "description": "INFP☆天の川に行って、 小さな星を摘み取り、 小さな瓶に入れて一緒に寝てみたい☆砂糖を食べ 始めた日: 令和6年11月22日☆残りの人生が幸せでありますように☆サポートされている言語🇹🇼🇯🇵🇨🇳🇬🇧マシュマロリンク https://t.co/pLsY7D2zGA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/toraemonn",
+                "end": 133,
+                "expanded_url": "http://t.me/toraemonn",
+                "start": 110,
+                "url": "https://t.co/pLsY7D2zGA"
+              }
+            ]
+          }
+        },
+        "id": "1860501553297125376",
+        "location": "Hino-shi, Tokyo",
+        "name": "小笠原かえでこ",
+        "pinned_tweet_id": "1860511224854655423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860502863828393984/4UXjRpUn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 25,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 24
+        },
+        "username": "ogasawarafuko",
+        "verified": false
+      }
+    ]
+  }
+}

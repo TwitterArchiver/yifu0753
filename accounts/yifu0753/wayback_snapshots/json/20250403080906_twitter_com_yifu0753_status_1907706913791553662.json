@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1907706913791553662",
+    "created_at": "2025-04-03T08:09:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T09:09:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907706913791553662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1656308315021012994",
+          "start": 3,
+          "username": "fc1164283287992"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907706913791553662",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907503135704363381",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fc1164283287992: 这是哪位推友？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1907706913791553662",
+        "created_at": "2025-04-03T08:09:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T09:09:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907706913791553662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1656308315021012994",
+              "start": 3,
+              "username": "fc1164283287992"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907706913791553662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907503135704363381",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fc1164283287992: 这是哪位推友？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1656308315021012994",
+        "conversation_id": "1907503135704363381",
+        "created_at": "2025-04-02T18:39:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T19:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907503135704363381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Anohana_39/sta…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Anohana_39/status/1905572353226244144",
+              "start": 8,
+              "url": "https://t.co/BSiSMrs1ir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907503135704363381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905572353226244144",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是哪位推友？ https://t.co/BSiSMrs1ir"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "精神分裂 精障人士 重度抑郁 钡中毒 亚硝酸钠中毒 进过ICU ；随便发点自言自语，",
+        "id": "1668693781791784961",
+        "location": "重庆",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 435,
+          "like_count": 2459,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 493
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-10T14:41:03.000Z",
+        "description": "黑夜前终有光明老婆@cc_OvOzZZ，MTF，03，活着，活着，活着，然后变成可爱的女孩子",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "cc_OvOzZZ"
+              }
+            ]
+          }
+        },
+        "id": "1656308315021012994",
+        "location": "盛开玫瑰的天堂",
+        "name": "你是要气死星空吗？",
+        "pinned_tweet_id": "1888184063401615425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899298178270445568/X2ZntDAZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1105,
+          "following_count": 778,
+          "like_count": 293,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 964
+        },
+        "username": "fc1164283287992",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1804557375711699133",
+    "created_at": "2024-06-23T14:38:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-23T15:38:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804886772289253655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1761357247643594752",
+          "start": 0,
+          "username": "mugong5036"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804886772289253655",
+    "in_reply_to_user_id": "1761357247643594752",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804557375711699133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mugong5036 傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1804557375711699133",
+        "created_at": "2024-06-23T14:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T15:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804886772289253655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1761357247643594752",
+              "start": 0,
+              "username": "mugong5036"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804886772289253655",
+        "in_reply_to_user_id": "1761357247643594752",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804557375711699133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mugong5036 傻逼"
+      },
+      {
+        "attachments": {},
+        "author_id": "1761357247643594752",
+        "conversation_id": "1804557375711699133",
+        "created_at": "2024-06-22T16:49:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-22T17:49:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804557375711699133"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1804557375711699133",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看不惯我可以骂我，没必要忍着，对自己身体不好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "讨厌一切人类  infp-t\n 讨厌一切的不美好",
+        "id": "1668693781791784961",
+        "name": "伊芙 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764816409815896064/b8sUPDni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 120,
+          "like_count": 570,
+          "listed_count": 0,
+          "tweet_count": 192
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T11:47:58.000Z",
+        "description": "神棍发言掉落\n08cn/无证含糖/药批/抽象飞柱蝈蝻\n唯一telegram账号:@muziliiiiiiiii\n二代帐号:@mugong5037",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 40,
+                "username": "muziliiiiiiiii"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "mugong5037"
+              }
+            ]
+          }
+        },
+        "id": "1761357247643594752",
+        "name": "子归离🍥",
+        "pinned_tweet_id": "1802630569165275231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781521481496956928/qD0iRCq0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 388,
+          "like_count": 11533,
+          "listed_count": 1,
+          "tweet_count": 1590
+        },
+        "username": "mugong5036",
+        "verified": false
+      }
+    ]
+  }
+}

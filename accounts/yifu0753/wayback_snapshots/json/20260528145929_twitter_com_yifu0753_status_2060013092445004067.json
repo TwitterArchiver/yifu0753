@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2060012844926795859",
+    "created_at": "2026-05-28T14:59:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T15:59:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060013092445004067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1369516386939117568",
+          "start": 0,
+          "username": "Lunatic_Raver"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060013092445004067",
+    "in_reply_to_user_id": "1369516386939117568",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060012844926795859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lunatic_Raver 😢😭😭😭😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2060012844926795859",
+        "created_at": "2026-05-28T14:59:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T15:59:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060013092445004067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1369516386939117568",
+              "start": 0,
+              "username": "Lunatic_Raver"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060013092445004067",
+        "in_reply_to_user_id": "1369516386939117568",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060012844926795859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lunatic_Raver 😢😭😭😭😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1369516386939117568",
+        "conversation_id": "2060012844926795859",
+        "created_at": "2026-05-28T14:58:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T15:58:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060012844926795859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yifu0753/statu…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/yifu0753/status/2060009136419377231",
+              "start": 23,
+              "url": "https://t.co/dzhmM4KZmV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060012844926795859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060009136419377231",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妈的... \n补佳乐好甜 \n亚硝酸钠好苦好咸 https://t.co/dzhmM4KZmV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪麻痹 ICU 药物中毒 重度抑郁 | 二氧化碳好死喵 | 快死了",
+        "id": "1668693781791784961",
+        "location": "深圳市南山区",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1005,
+          "following_count": 1199,
+          "like_count": 7435,
+          "listed_count": 2,
+          "media_count": 160,
+          "tweet_count": 1922
+        },
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-10T05:12:22.000Z",
+        "description": "zh-Wikipedian｜社畜｜closeted MtX/TransFem｜lolicon｜incel (本义)｜AS-ADHD谱系｜Anti Animal Welfare｜反对立式极端女权\n\n把我的一切：欢乐、欲望、愤怒、恐惧……都呈献于你。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "w.wiki/7Bxz",
+                "end": 23,
+                "expanded_url": "https://w.wiki/7Bxz",
+                "start": 0,
+                "url": "https://t.co/nLXq2THync"
+              }
+            ]
+          }
+        },
+        "id": "1369516386939117568",
+        "location": "NEC(n)",
+        "name": "無名冰精@Hourai Labs",
+        "pinned_tweet_id": "2020120727068753998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986839926466641920/mzgkbvoc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 59,
+          "like_count": 2308,
+          "listed_count": 2,
+          "media_count": 1079,
+          "tweet_count": 3922
+        },
+        "url": "https://t.co/nLXq2THync",
+        "username": "Lunatic_Raver",
+        "verified": false
+      }
+    ]
+  }
+}

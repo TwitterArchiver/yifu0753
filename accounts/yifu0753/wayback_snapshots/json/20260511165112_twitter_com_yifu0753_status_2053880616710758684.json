@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2053880616710758684",
+    "created_at": "2026-05-11T16:51:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T17:51:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053880616710758684"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaomonuya/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/xiaomonuya/status/2053784506092634323",
+          "start": 9,
+          "url": "https://t.co/9XMBNJuzxO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053880616710758684",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053784506092634323",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😢😢😢😭😭😭😭😭 https://t.co/9XMBNJuzxO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2053784503152500736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HICCH8ubYAAgCke.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2053880616710758684",
+        "created_at": "2026-05-11T16:51:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T17:51:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053880616710758684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaomonuya/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/xiaomonuya/status/2053784506092634323",
+              "start": 9,
+              "url": "https://t.co/9XMBNJuzxO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053880616710758684",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053784506092634323",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😢😢😢😭😭😭😭😭 https://t.co/9XMBNJuzxO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053784503152500736"
+          ]
+        },
+        "author_id": "1858393719080366080",
+        "conversation_id": "2053784506092634323",
+        "created_at": "2026-05-11T10:29:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T11:29:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053784506092634323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1734929931325591552",
+              "start": 0,
+              "username": "JntmB81196"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o9pOzFhyRl",
+              "end": 85,
+              "expanded_url": "https://x.com/xiaomonuya/status/2053784506092634323/photo/1",
+              "media_key": "3_2053784503152500736",
+              "start": 62,
+              "url": "https://t.co/o9pOzFhyRl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053784506092634323",
+        "in_reply_to_user_id": "1734929931325591552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 20624,
+          "like_count": 34,
+          "quote_count": 3,
+          "reply_count": 35,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "@JntmB81196\n于5月11日16:23服用过量舍曲林，普瑞巴林，解郁除烦，割腕自杀\n於18:23饮下300g敌敌畏 https://t.co/o9pOzFhyRl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 | 现已恢复?  轻度抑郁 好好活着 二氧化碳好似喵",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 1155,
+          "like_count": 6472,
+          "listed_count": 2,
+          "media_count": 102,
+          "tweet_count": 1606
+        },
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-18T06:16:13.000Z",
+        "description": "可愛的小貓一隻，出生20101130\n優點：会点魔术～～～比赛拿过两年亚军，魔术爱好者内中低水平（毕竟我还小）\n缺點：缺愛，沒安全感（以及你能想到的任何可能存在的缺點）\n🚪52喵//\nles\n//29元包年千G流量VPN👉🏻https://t.co/zQZ5MJmWPl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 135,
+                "expanded_url": "https://www.tz86.vip/#/register?code=uaDa8hjx",
+                "start": 112,
+                "url": "https://t.co/zQZ5MJmWPl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.tz86.vip/#/register?code=uaDa8hjx",
+                "start": 0,
+                "url": "https://t.co/zQZ5MJmWPl"
+              }
+            ]
+          }
+        },
+        "id": "1858393719080366080",
+        "location": "29元包年千G流量VPN👉🏻",
+        "name": "Camellia",
+        "pinned_tweet_id": "2053807836082343940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050651147199975424/Q4r3IJl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1745,
+          "following_count": 196,
+          "like_count": 4762,
+          "listed_count": 3,
+          "media_count": 195,
+          "tweet_count": 5339
+        },
+        "url": "https://t.co/zQZ5MJmWPl",
+        "username": "xiaomonuya",
+        "verified": false
+      }
+    ]
+  }
+}

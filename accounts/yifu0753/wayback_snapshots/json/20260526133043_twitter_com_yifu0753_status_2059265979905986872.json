@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2059178421532667909",
+    "created_at": "2026-05-26T13:30:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T14:30:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059265979905986872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1583858559544332290",
+          "start": 0,
+          "username": "_sharkee1024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059265979905986872",
+    "in_reply_to_user_id": "1583858559544332290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059178421532667909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_sharkee1024 抑郁焦虑是可能被易性症等诱发的 但这不代表你的性别认同就是你想的那样\n在决定成为什么人之前 先排除干扰因素 把易性症治好了再考虑抑郁焦虑 不然就很容易出现手术后后悔的情况"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2059178421532667909",
+        "created_at": "2026-05-26T13:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T14:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059265979905986872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1583858559544332290",
+              "start": 0,
+              "username": "_sharkee1024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059265979905986872",
+        "in_reply_to_user_id": "1583858559544332290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059178421532667909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_sharkee1024 抑郁焦虑是可能被易性症等诱发的 但这不代表你的性别认同就是你想的那样\n在决定成为什么人之前 先排除干扰因素 把易性症治好了再考虑抑郁焦虑 不然就很容易出现手术后后悔的情况"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1583858559544332290",
+        "conversation_id": "2059178421532667909",
+        "created_at": "2026-05-26T07:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T08:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059178421532667909"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059178421532667909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1406,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "易性症是可能被抑郁焦虑等诱发的 但这不代表你的性别认同就是你想的那样\n在决定成为什么人之前 先排除干扰因素 把抑郁焦虑治好了再考虑变性 不然就很容易出现手术后后悔的情况"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪麻痹 ICU 药物中毒 重度抑郁 | 二氧化碳好死喵 | 快死了",
+        "id": "1668693781791784961",
+        "location": "深圳市南山区",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 989,
+          "following_count": 1193,
+          "like_count": 7299,
+          "listed_count": 2,
+          "media_count": 160,
+          "tweet_count": 1893
+        },
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-22T16:31:31.000Z",
+        "description": "是村雨哦/不爱说话但是很会说话/infj/喜欢晕乎乎喜欢逃避现实/技能点全点可爱和安慰人了/🚪25请使用支付宝口令红包",
+        "id": "1583858559544332290",
+        "location": "在荒诞可笑的现实里",
+        "name": "村雨🍤",
+        "pinned_tweet_id": "2035699069436473709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852520211595038720/AiBYkHsK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4554,
+          "following_count": 557,
+          "like_count": 3998,
+          "listed_count": 8,
+          "media_count": 346,
+          "tweet_count": 2114
+        },
+        "username": "_sharkee1024",
+        "verified": false
+      }
+    ]
+  }
+}

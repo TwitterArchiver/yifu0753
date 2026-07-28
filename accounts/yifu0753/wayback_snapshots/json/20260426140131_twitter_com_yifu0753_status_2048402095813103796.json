@@ -1,0 +1,113 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2048402095813103796",
+    "created_at": "2026-04-26T14:01:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T15:01:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048402095813103796"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2048402095813103796",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "有人说资深的医生和法官很容易失去人性。对当事人攸关的事情，医生和法官却摆出无关紧要的样子。很难克服冷漠的情感，没别的原因，见多了。“第一次是作为悲剧出现，第二次是作为笑剧出现”，如果让我天天看到悲剧，我也会麻木的。因为我如果能从悲剧中看出规律，我是能笑出来的。所以我很羡慕有些人质朴如初的情感。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有人说资深的医生和法官很容易失去人性。对当事人攸关的事情，医生和法官却摆出无关紧要的样子。很难克服冷漠的情感，没别的原因，见多了。“第一次是作为悲剧出现，第二次是作为笑剧出现”，如果让我天天看到悲剧，我也会麻木的。因为我如果能从悲剧中看出规律，我是能笑出来的。所以我很羡慕有些人质朴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2048402095813103796",
+        "created_at": "2026-04-26T14:01:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T15:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048402095813103796"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048402095813103796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "有人说资深的医生和法官很容易失去人性。对当事人攸关的事情，医生和法官却摆出无关紧要的样子。很难克服冷漠的情感，没别的原因，见多了。“第一次是作为悲剧出现，第二次是作为笑剧出现”，如果让我天天看到悲剧，我也会麻木的。因为我如果能从悲剧中看出规律，我是能笑出来的。所以我很羡慕有些人质朴如初的情感。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人说资深的医生和法官很容易失去人性。对当事人攸关的事情，医生和法官却摆出无关紧要的样子。很难克服冷漠的情感，没别的原因，见多了。“第一次是作为悲剧出现，第二次是作为笑剧出现”，如果让我天天看到悲剧，我也会麻木的。因为我如果能从悲剧中看出规律，我是能笑出来的。所以我很羡慕有些人质朴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 | 现已恢复?  抑郁状态 好好活着 二氧化碳好似喵 MtF🏳️‍⚧️",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 980,
+          "like_count": 5457,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 1342
+        },
+        "username": "yifu0753",
+        "verified": true
+      }
+    ]
+  }
+}

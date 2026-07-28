@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1858651399359230219",
+    "created_at": "2025-07-07T08:24:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T09:24:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942137557015498890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1520113370619256833",
+          "start": 0,
+          "username": "yulianNyanner"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942137557015498890",
+    "in_reply_to_user_id": "1520113370619256833",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858651399359230219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yulianNyanner 晚安，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1858651399359230219",
+        "created_at": "2025-07-07T08:24:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T09:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942137557015498890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1520113370619256833",
+              "start": 0,
+              "username": "yulianNyanner"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942137557015498890",
+        "in_reply_to_user_id": "1520113370619256833",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858651399359230219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yulianNyanner 晚安，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1520113370619256833",
+        "conversation_id": "1858651399359230219",
+        "created_at": "2024-11-18T23:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T00:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858651399359230219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "遗书 听的时候的歌单https://open.spotify.com/playlist/4Q4jgFnzjkpXYgytwuQ3xk?si=0149067a12fe4895&pt=79fe8ff376dd72f8fee2137f2a1f5967 活着又什么意义呢，工作到死，有什么幸福可以买到呢？幸福到20多岁已经体验完了吧，到30岁不就是一个死...",
+              "display_url": "docs.google.com/document/d/1RQ…",
+              "end": 34,
+              "expanded_url": "https://docs.google.com/document/d/1RQfoCnv4T1YFT8ii2KbTK3D_29O8i9VlSxgVX1L08l4/edit?usp=sharing",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1887525775454371840/TLTPWDrW?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1887525775454371840/TLTPWDrW?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 11,
+              "status": 200,
+              "title": "遗书",
+              "unwound_url": "https://docs.google.com/document/d/1RQfoCnv4T1YFT8ii2KbTK3D_29O8i9VlSxgVX1L08l4/edit?usp=sharing",
+              "url": "https://t.co/O52B11GUKO"
+            },
+            {
+              "display_url": "drive.google.com/drive/folders/…",
+              "end": 65,
+              "expanded_url": "https://drive.google.com/drive/folders/13OWmOFiVIFT17geRHuVKNRxYk5d7A7HH?usp=sharing",
+              "start": 42,
+              "status": 200,
+              "unwound_url": "https://drive.google.com/drive/folders/13OWmOFiVIFT17geRHuVKNRxYk5d7A7HH?usp=sharing",
+              "url": "https://t.co/shjSagwCuj"
+            },
+            {
+              "display_url": "open.spotify.com/playlist/4Q4jg…",
+              "end": 110,
+              "expanded_url": "https://open.spotify.com/playlist/4Q4jgFnzjkpXYgytwuQ3xk?si=25c71e7f4dfe412a",
+              "start": 87,
+              "status": 404,
+              "unwound_url": "https://open.spotify.com/playlist/4Q4jgFnzjkpXYgytwuQ3xk?si=25c71e7f4dfe412a",
+              "url": "https://t.co/7MmszwqIpu"
+            },
+            {
+              "display_url": "photos.app.goo.gl/8NnD38PSZDCEpW…",
+              "end": 134,
+              "expanded_url": "https://photos.app.goo.gl/8NnD38PSZDCEpWz6A",
+              "start": 111,
+              "status": 200,
+              "unwound_url": "https://photos.google.com/share/AF1QipMQZyZubW3RFQ-RH7hVqtBgfRHo2UZkv8ShW36Yf6JQbQxptuvwwRy9r401mOrFyw?key=bkd3bXA2ZmFxTTVUZnZSS0JXWXJWRElXMnJaX1Fn",
+              "url": "https://t.co/gHWWJKes4l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858651399359230219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8719,
+          "like_count": 54,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "这遗书封是给你们的：\nhttps://t.co/O52B11GUKO\n以前写的遗书：https://t.co/shjSagwCuj\n最后感谢陪着我的家里蹲们\n一起去二次元吧\nhttps://t.co/7MmszwqIpu\nhttps://t.co/gHWWJKes4l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "🏳‍⚧ 抑郁焦虑状态",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "pinned_tweet_id": "1936898802361020812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 912,
+          "like_count": 4079,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 761
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-29T18:51:05.000Z",
+        "description": "不会穿搭会gd的xyn/缺爱/同类贴贴\n想要变可爱…想要rle\nMTF/intp/169cm/53kg\n另类摇滚/radiohead fetish/galgame\n(是个念旧的人所以简介不改了\n咱的家里蹲小群：https://t.co/EvZIPOiYJk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/EmoyulianNyann…",
+                "end": 128,
+                "expanded_url": "https://t.me/EmoyulianNyanner",
+                "start": 105,
+                "url": "https://t.co/EvZIPOiYJk"
+              }
+            ]
+          }
+        },
+        "id": "1520113370619256833",
+        "name": "羽涟Nya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1709283238722891776/LIzz7oVP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 577,
+          "like_count": 3848,
+          "listed_count": 8,
+          "media_count": 185,
+          "tweet_count": 863
+        },
+        "username": "yulianNyanner",
+        "verified": false
+      }
+    ]
+  }
+}

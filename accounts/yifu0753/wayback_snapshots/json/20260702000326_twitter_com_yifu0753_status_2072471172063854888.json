@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2071887225777008835",
+    "created_at": "2026-07-02T00:03:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T01:03:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072471172063854888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1401538162036412422",
+          "start": 0,
+          "username": "ImKrisYan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072471172063854888",
+    "in_reply_to_user_id": "1401538162036412422",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071887225777008835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ImKrisYan 摸摸🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2071887225777008835",
+        "created_at": "2026-07-02T00:03:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T01:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072471172063854888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1401538162036412422",
+              "start": 0,
+              "username": "ImKrisYan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072471172063854888",
+        "in_reply_to_user_id": "1401538162036412422",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071887225777008835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ImKrisYan 摸摸🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1401538162036412422",
+        "conversation_id": "2071887225777008835",
+        "created_at": "2026-06-30T09:23:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T10:23:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071887225777008835"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071887225777008835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 39622,
+          "like_count": 233,
+          "quote_count": 7,
+          "reply_count": 55,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "被“自愿”放弃了预录取资格\n三年的努力全部都泡汤了\n​一切都没有任何意义\n​之后就是在一个破烂211浪费四年\n​然后浑浑噩噩地跟随着大部队\n​又去卷考研又去卷考公\n在一个破烂的地方越陷越深\n找不到人生的意义找不到自己的兴趣\n​最后把自己仅剩的一点青春全部磨灭\n​在时代的注脚下当个炮灰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "neow 友顺跨女 原简介被封了",
+        "id": "1668693781791784961",
+        "location": "深圳市南山区",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1219,
+          "following_count": 1286,
+          "like_count": 8165,
+          "listed_count": 2,
+          "media_count": 194,
+          "tweet_count": 2114
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-06T13:55:23.000Z",
+        "description": "Eng Alt: @KrisYan8964 | 418 I'm a teapot | student | OIer (formerly) | English/Mandarin | Engagement is not equal to endorsement.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "KrisYan8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "krisyan.dev",
+                "end": 23,
+                "expanded_url": "https://krisyan.dev/",
+                "start": 0,
+                "url": "https://t.co/bRSnK96C8F"
+              }
+            ]
+          }
+        },
+        "id": "1401538162036412422",
+        "location": "IP属地：192.168.0.1",
+        "name": "Kris Yan",
+        "pinned_tweet_id": "1913614721183633786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070215917313949696/-hIEWzE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 985,
+          "like_count": 218317,
+          "listed_count": 2,
+          "media_count": 694,
+          "tweet_count": 4092
+        },
+        "url": "https://t.co/bRSnK96C8F",
+        "username": "ImKrisYan",
+        "verified": false
+      }
+    ]
+  }
+}

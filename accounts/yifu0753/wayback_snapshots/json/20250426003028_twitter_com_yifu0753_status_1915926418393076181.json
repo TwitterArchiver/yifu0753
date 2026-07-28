@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1915764557404115217",
+    "created_at": "2025-04-26T00:30:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T01:30:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915926418393076181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1685784710285266944",
+          "start": 0,
+          "username": "mhtqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915926418393076181",
+    "in_reply_to_user_id": "1685784710285266944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915764557404115217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mhtqwq xm绿卡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2106,
+        "media_key": "3_1915764554430324736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpYptkwaoAAFOY0.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2174,
+        "media_key": "3_1915764553226559488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpYptgRaoAAe7Q6.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1915764557404115217",
+        "created_at": "2025-04-26T00:30:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T01:30:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915926418393076181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1685784710285266944",
+              "start": 0,
+              "username": "mhtqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915926418393076181",
+        "in_reply_to_user_id": "1685784710285266944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915764557404115217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mhtqwq xm绿卡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915764554430324736",
+            "3_1915764553226559488"
+          ]
+        },
+        "author_id": "1685784710285266944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "1915764557404115217",
+        "created_at": "2025-04-25T13:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T14:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915764557404115217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hhWXexwATc",
+              "end": 116,
+              "expanded_url": "https://x.com/mhtqwq/status/1915764557404115217/photo/1",
+              "media_key": "3_1915764554430324736",
+              "start": 93,
+              "url": "https://t.co/hhWXexwATc"
+            },
+            {
+              "display_url": "pic.x.com/hhWXexwATc",
+              "end": 116,
+              "expanded_url": "https://x.com/mhtqwq/status/1915764557404115217/photo/1",
+              "media_key": "3_1915764553226559488",
+              "start": 93,
+              "url": "https://t.co/hhWXexwATc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915764557404115217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 582,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天家里在提到参军的时候，突发奇想结合了实际情况去问AI\n我的个人情况暂不考虑其他额外因素是我本身参军意愿就很低\n再加上绿卡和留学这两个，政审就很难通过\n\n以下是两个国内知名AI的答案 https://t.co/hhWXexwATc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "01 MtF🏳‍⚧ 抑郁焦虑状态 ASD | 同类互fo",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 775,
+          "like_count": 3471,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 617
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-30T22:49:53.000Z",
+        "description": "mtf，infp｜友善对待所有人｜正式出柜前处理大量事务ing｜不建政｜Minecraft｜玩格雷的m｜p社战犯｜杂鱼😈@Alxiaz_ @Black_Millet @Andy1782010｜其余忘了...总该写点东西",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "Alxiaz_"
+              },
+              {
+                "end": 82,
+                "start": 69,
+                "username": "Black_Millet"
+              },
+              {
+                "end": 95,
+                "start": 83,
+                "username": "Andy1782010"
+              }
+            ]
+          }
+        },
+        "id": "1685784710285266944",
+        "location": "天津四,联合",
+        "name": "🍓草莓棉花糖🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895128785860665344/EGkQqjL8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 339,
+          "like_count": 3666,
+          "listed_count": 3,
+          "media_count": 310,
+          "tweet_count": 2915
+        },
+        "username": "mhtqwq",
+        "verified": true
+      }
+    ]
+  }
+}

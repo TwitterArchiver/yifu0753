@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1944747344588853257",
+    "created_at": "2025-07-15T10:11:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T11:11:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945063624608735433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1798684142722281473",
+          "start": 0,
+          "username": "shiguangji2019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945063624608735433",
+    "in_reply_to_user_id": "1798684142722281473",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944747344588853257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiguangji2019 ？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1944747332307927040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv0hZSAaQAAC0G0.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1944747344588853257",
+        "created_at": "2025-07-15T10:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T11:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945063624608735433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1798684142722281473",
+              "start": 0,
+              "username": "shiguangji2019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945063624608735433",
+        "in_reply_to_user_id": "1798684142722281473",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944747344588853257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiguangji2019 ？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944747332307927040"
+          ]
+        },
+        "author_id": "1798684142722281473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1944747344588853257",
+        "created_at": "2025-07-14T13:14:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T14:14:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944747344588853257"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dLmw6hdqaW",
+              "end": 44,
+              "expanded_url": "https://x.com/shiguangji2019/status/1944747344588853257/photo/1",
+              "media_key": "3_1944747332307927040",
+              "start": 21,
+              "url": "https://t.co/dLmw6hdqaW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944747344588853257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 773,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "劳拉瓶里面装的是金刚烷胺，会尽量吃完的😵 https://t.co/dLmw6hdqaW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "🏳‍⚧ 抑郁焦虑状态",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "pinned_tweet_id": "1936898802361020812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 928,
+          "like_count": 4162,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 792
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T11:51:39.000Z",
+        "description": "00年男娘，mtf，在\n。。。犯病中，脑子好乱。。不知道活下去了",
+        "id": "1798684142722281473",
+        "location": "香港",
+        "name": "时光鸡",
+        "pinned_tweet_id": "1819651891170553990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798685588549246977/mQkHNPoz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1078,
+          "following_count": 1904,
+          "like_count": 78948,
+          "listed_count": 0,
+          "media_count": 488,
+          "tweet_count": 3984
+        },
+        "username": "shiguangji2019",
+        "verified": false
+      }
+    ]
+  }
+}

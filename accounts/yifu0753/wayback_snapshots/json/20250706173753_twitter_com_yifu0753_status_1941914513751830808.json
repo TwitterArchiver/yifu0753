@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1941769431815753953",
+    "created_at": "2025-07-06T17:37:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T18:37:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941914513751830808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "872113640064786432",
+          "start": 0,
+          "username": "ChariseStever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941914513751830808",
+    "in_reply_to_user_id": "872113640064786432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941769431815753953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChariseStever 找一个容易害羞的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1941769431815753953",
+        "created_at": "2025-07-06T17:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T18:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941914513751830808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "872113640064786432",
+              "start": 0,
+              "username": "ChariseStever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941914513751830808",
+        "in_reply_to_user_id": "872113640064786432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941769431815753953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChariseStever 找一个容易害羞的人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "872113640064786432",
+        "conversation_id": "1941769431815753953",
+        "created_at": "2025-07-06T08:01:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T09:01:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941769431815753953"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1941769431815753953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 406,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想把别人弄害羞要怎么做呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "🏳‍⚧ 抑郁焦虑状态",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "pinned_tweet_id": "1936898802361020812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 913,
+          "like_count": 4080,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 758
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-06T15:31:09.000Z",
+        "description": "Goblin/Imp 感兴趣的领域: Information Retrieval (信息检索) & Recommender Systems (推荐系统）\nbluesky: https://t.co/p6CngYU70a",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "niox.lol",
+                "end": 109,
+                "expanded_url": "http://niox.lol",
+                "start": 86,
+                "url": "https://t.co/p6CngYU70a"
+              }
+            ]
+          }
+        },
+        "id": "872113640064786432",
+        "location": "Goblin Den",
+        "name": "nil",
+        "pinned_tweet_id": "1926855822467821726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1530459917060120576/MxIH3gkd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 89,
+          "like_count": 964,
+          "listed_count": 2,
+          "media_count": 181,
+          "tweet_count": 1392
+        },
+        "username": "ChariseStever",
+        "verified": false
+      }
+    ]
+  }
+}

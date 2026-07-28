@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2049666797830623312",
+    "created_at": "2026-04-30T01:47:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T02:47:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049666797830623312"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/psyofsouthwest…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/psyofsouthwest/status/2049511884018115026",
+          "start": 4,
+          "url": "https://t.co/VRxriGu94m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049666797830623312",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049511884018115026",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😥😥😥 https://t.co/VRxriGu94m"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2049666797830623312",
+        "created_at": "2026-04-30T01:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T02:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049666797830623312"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/psyofsouthwest…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/psyofsouthwest/status/2049511884018115026",
+              "start": 4,
+              "url": "https://t.co/VRxriGu94m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049666797830623312",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049511884018115026",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😥😥😥 https://t.co/VRxriGu94m"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2049511884018115026",
+        "created_at": "2026-04-29T15:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T16:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049511884018115026"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049511884018115026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 291,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "经验而言，在干预或报警的善后中，尝试对来访的应激源定期回访是非常重要的步骤，而不是在干预结束就退出关系。持续存在的第三方可以有效地改变毁灭弱者的旧有结构，让双方都感受到支持即可，避免发生过度的卷入"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 | 现已恢复?  抑郁状态 好好活着 二氧化碳好似喵 MtF🏳️‍⚧️",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 1102,
+          "like_count": 6038,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1490
+        },
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1650,
+          "following_count": 4794,
+          "like_count": 112555,
+          "listed_count": 2,
+          "media_count": 441,
+          "tweet_count": 14909
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      }
+    ]
+  }
+}

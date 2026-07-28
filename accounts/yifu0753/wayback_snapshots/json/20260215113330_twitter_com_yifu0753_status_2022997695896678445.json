@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2022363880132088098",
+    "created_at": "2026-02-15T11:33:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T12:33:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022997695896678445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1991445096013918208",
+          "start": 0,
+          "username": "SakurabaEma_ITN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022997695896678445",
+    "in_reply_to_user_id": "1991445096013918208",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022363880132088098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SakurabaEma_ITN 😢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 816,
+        "media_key": "3_2022363675655651328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBDhDE4bwAAcdbo.png",
+        "width": 576
+      },
+      {
+        "height": 834,
+        "media_key": "3_2022363688607584257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBDhD1IakAE2gKX.png",
+        "width": 601
+      },
+      {
+        "height": 832,
+        "media_key": "3_2022363700460683264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBDhEhSagAAjwzV.png",
+        "width": 739
+      },
+      {
+        "height": 701,
+        "media_key": "3_2022363713760825345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBDhFS1akAE-1MZ.png",
+        "width": 609
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2022363880132088098",
+        "created_at": "2026-02-15T11:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T12:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022997695896678445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1991445096013918208",
+              "start": 0,
+              "username": "SakurabaEma_ITN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022997695896678445",
+        "in_reply_to_user_id": "1991445096013918208",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022363880132088098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SakurabaEma_ITN 😢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022363675655651328",
+            "3_2022363688607584257",
+            "3_2022363700460683264",
+            "3_2022363713760825345"
+          ]
+        },
+        "author_id": "1991445096013918208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2022363880132088098",
+        "created_at": "2026-02-13T17:34:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T18:34:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022363880132088098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fPTW1ookbH",
+              "end": 150,
+              "expanded_url": "https://x.com/SakurabaEma_ITN/status/2022363880132088098/photo/1",
+              "media_key": "3_2022363675655651328",
+              "start": 127,
+              "url": "https://t.co/fPTW1ookbH"
+            },
+            {
+              "display_url": "pic.x.com/fPTW1ookbH",
+              "end": 150,
+              "expanded_url": "https://x.com/SakurabaEma_ITN/status/2022363880132088098/photo/1",
+              "media_key": "3_2022363688607584257",
+              "start": 127,
+              "url": "https://t.co/fPTW1ookbH"
+            },
+            {
+              "display_url": "pic.x.com/fPTW1ookbH",
+              "end": 150,
+              "expanded_url": "https://x.com/SakurabaEma_ITN/status/2022363880132088098/photo/1",
+              "media_key": "3_2022363700460683264",
+              "start": 127,
+              "url": "https://t.co/fPTW1ookbH"
+            },
+            {
+              "display_url": "pic.x.com/fPTW1ookbH",
+              "end": 150,
+              "expanded_url": "https://x.com/SakurabaEma_ITN/status/2022363880132088098/photo/1",
+              "media_key": "3_2022363713760825345",
+              "start": 127,
+              "url": "https://t.co/fPTW1ookbH"
+            },
+            {
+              "display_url": "x.com/SakurabaEma_IT…",
+              "end": 174,
+              "expanded_url": "https://twitter.com/SakurabaEma_ITN/status/2022298128855298184",
+              "start": 151,
+              "url": "https://t.co/jdf2Aga02R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022363880132088098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 131,
+          "impression_count": 93123,
+          "like_count": 539,
+          "quote_count": 8,
+          "reply_count": 64,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022298128855298184",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2023年，我考上老家重点高中，却走进了一辈子的噩梦\n8人寝室，16人共用洗浴间，双向窗，被全寝室霸凌，向老师求助反遭围堵霸凌\n凌晨两三点才能入睡，无数次站上天台\n但文科成绩还是年段第一，还遇到了第一个友好的人\n后来我逃出去了 但是给我留下了永久的伤害 https://t.co/fPTW1ookbH https://t.co/jdf2Aga02R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 呼吸堵塞 | 现已恢复?  抑郁状态 好好活着 二氧化碳好似喵 MtF🏳️‍⚧️",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 992,
+          "like_count": 5087,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 1122
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-20T09:54:50.000Z",
+        "description": "｜真理不靠雷霆落，破尽谎言路自开｜以是非定立场而不是以立场定是非｜主人老婆 @KOISHI_IV｜“我希望有一天，所有人都能站在自由民主平等的蓝天之下”｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "KOISHI_IV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakurabaema_itn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakurabaema_itn",
+                "start": 0,
+                "url": "https://t.co/nTmMgey0m1"
+              }
+            ]
+          }
+        },
+        "id": "1991445096013918208",
+        "location": "马斯克的祖坟头上",
+        "name": "英酱猫猫🍥",
+        "pinned_tweet_id": "2002053177261342847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991445156823003136/fQqmo6Tk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 69,
+          "like_count": 2031,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 312
+        },
+        "url": "https://t.co/nTmMgey0m1",
+        "username": "SakurabaEma_ITN",
+        "verified": false
+      }
+    ]
+  }
+}

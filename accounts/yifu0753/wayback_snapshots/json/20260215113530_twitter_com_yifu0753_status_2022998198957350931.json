@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2022841358101131282",
+    "created_at": "2026-02-15T11:35:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T12:35:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022998198957350931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1970857021588262912",
+          "start": 0,
+          "username": "mwdxj29477"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "mtf.wiki",
+          "end": 35,
+          "expanded_url": "http://mtf.wiki",
+          "start": 12,
+          "status": 200,
+          "title": "MtF.wiki",
+          "unwound_url": "https://mtf.wiki/",
+          "url": "https://t.co/cnoEmRakc8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022998198957350931",
+    "in_reply_to_user_id": "1970857021588262912",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022841358101131282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mwdxj29477 https://t.co/cnoEmRakc8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2022841358101131282",
+        "created_at": "2026-02-15T11:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T12:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022998198957350931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1970857021588262912",
+              "start": 0,
+              "username": "mwdxj29477"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "mtf.wiki",
+              "end": 35,
+              "expanded_url": "http://mtf.wiki",
+              "start": 12,
+              "status": 200,
+              "title": "MtF.wiki",
+              "unwound_url": "https://mtf.wiki/",
+              "url": "https://t.co/cnoEmRakc8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022998198957350931",
+        "in_reply_to_user_id": "1970857021588262912",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022841358101131282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mwdxj29477 https://t.co/cnoEmRakc8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970857021588262912",
+        "conversation_id": "2022841358101131282",
+        "created_at": "2026-02-15T01:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T02:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022841358101131282"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022841358101131282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2049,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人说我一天25mg色还是有点多🥹，让我降到12.5mg/d🥲，还有人说25mg容易双低？🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 呼吸堵塞 | 现已恢复?  抑郁状态 好好活着 二氧化碳好似喵 MtF🏳️‍⚧️",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 992,
+          "like_count": 5087,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 1129
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T14:25:11.000Z",
+        "description": "含糖友跨顺男/🍥Hrt🏳️‍⚧️01.28.2026/无证含糖/出厂日期:11.13.2011/喜欢xnn xyn mtf/INFP-T/社恐/性别认同探索中/初二牲/家长放养/161cm 51kg/坐标湖北/只玩Minecraft/民國派🇹🇼华独/简中&繁中🆗/欢迎互fo~/\nTG:「mwdxj」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mwdxj",
+                "end": 23,
+                "expanded_url": "http://t.me/mwdxj",
+                "start": 0,
+                "url": "https://t.co/fG6XzUT3Y3"
+              }
+            ]
+          }
+        },
+        "id": "1970857021588262912",
+        "location": "ROC淪陷區,東湖北「漢川城」",
+        "name": "MWdxj_🍥🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020559823713280001/yGg-DgRG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 535,
+          "like_count": 5122,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 543
+        },
+        "url": "https://t.co/fG6XzUT3Y3",
+        "username": "mwdxj29477",
+        "verified": false
+      }
+    ]
+  }
+}

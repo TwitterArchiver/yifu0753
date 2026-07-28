@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2075567396417626242",
+    "created_at": "2026-07-11T10:59:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T11:59:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075897850358292623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1801478230462877697",
+          "start": 0,
+          "username": "gush1361308"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075897850358292623",
+    "in_reply_to_user_id": "1801478230462877697",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075886147725898145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gush1361308 会"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2075567396417626242",
+        "created_at": "2026-07-11T10:59:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T11:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075897850358292623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1801478230462877697",
+              "start": 0,
+              "username": "gush1361308"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075897850358292623",
+        "in_reply_to_user_id": "1801478230462877697",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075886147725898145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gush1361308 会"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801478230462877697",
+        "conversation_id": "2075567396417626242",
+        "created_at": "2026-07-11T10:13:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T11:13:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075886147725898145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1668693781791784961",
+              "start": 0,
+              "username": "yifu0753"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075886147725898145",
+        "in_reply_to_user_id": "1668693781791784961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075567396417626242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yifu0753 对啊，有时候我会想，如果那天真的吊死了，会不会现在就没那么糟糕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "location": "深圳市南山区",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1279,
+          "following_count": 1323,
+          "like_count": 8435,
+          "listed_count": 2,
+          "media_count": 212,
+          "tweet_count": 2210
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-14T04:54:40.000Z",
+        "description": "青蛙/od/智力低下/健忘/改花刀",
+        "id": "1801478230462877697",
+        "name": "青蛙大王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802724008397250560/zT1WlqE2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 21,
+          "like_count": 600,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1029
+        },
+        "url": "",
+        "username": "gush1361308",
+        "verified": false
+      }
+    ]
+  }
+}

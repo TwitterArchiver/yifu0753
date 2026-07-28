@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057085138354499585"
+      ]
+    },
+    "author_id": "1668693781791784961",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2057085149234577462",
+    "created_at": "2026-05-20T13:04:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T14:04:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057085149234577462"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pwgD5dBeln",
+          "end": 23,
+          "expanded_url": "https://x.com/yifu0753/status/2057085149234577462/photo/1",
+          "media_key": "3_2057085138354499585",
+          "start": 0,
+          "url": "https://t.co/pwgD5dBeln"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057085149234577462",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/pwgD5dBeln"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1153,
+        "media_key": "3_2057085138354499585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIw8CNBa8AEJj7L.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057085138354499585"
+          ]
+        },
+        "author_id": "1668693781791784961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2057085149234577462",
+        "created_at": "2026-05-20T13:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T14:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057085149234577462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pwgD5dBeln",
+              "end": 23,
+              "expanded_url": "https://x.com/yifu0753/status/2057085149234577462/photo/1",
+              "media_key": "3_2057085138354499585",
+              "start": 0,
+              "url": "https://t.co/pwgD5dBeln"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057085149234577462",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/pwgD5dBeln"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪麻痹 ICU 药物中毒 重度抑郁 | 二氧化碳好死喵 | 快死了",
+        "id": "1668693781791784961",
+        "location": "深圳市南山区",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 1184,
+          "like_count": 6991,
+          "listed_count": 2,
+          "media_count": 152,
+          "tweet_count": 1792
+        },
+        "username": "yifu0753",
+        "verified": true
+      }
+    ]
+  }
+}

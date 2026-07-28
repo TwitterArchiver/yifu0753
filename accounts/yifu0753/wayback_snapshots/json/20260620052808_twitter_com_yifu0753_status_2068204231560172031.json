@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2068010218970349956",
+    "created_at": "2026-06-20T05:28:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T06:28:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068204231560172031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1803314964284985344",
+          "start": 0,
+          "username": "jinluomiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068204231560172031",
+    "in_reply_to_user_id": "1803314964284985344",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068010218970349956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jinluomiao 🥺🥺🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068010208413249540",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLMMU-hacAQP90a.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2068010218970349956",
+        "created_at": "2026-06-20T05:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T06:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068204231560172031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1803314964284985344",
+              "start": 0,
+              "username": "jinluomiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068204231560172031",
+        "in_reply_to_user_id": "1803314964284985344",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068010218970349956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jinluomiao 🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068010208413249540"
+          ]
+        },
+        "author_id": "1803314964284985344",
+        "conversation_id": "2068010218970349956",
+        "created_at": "2026-06-19T16:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T17:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068010218970349956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rYJZrZOqav",
+              "end": 124,
+              "expanded_url": "https://x.com/jinluomiao/status/2068010218970349956/photo/1",
+              "media_key": "3_2068010208413249540",
+              "start": 101,
+              "url": "https://t.co/rYJZrZOqav"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068010218970349956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 287,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "阿瑾的碎碎念\n我恨天恨地，恨这命运不公，可是我发现我最恨的人是我自己，所以我选择伤害自己，或许真的有一天我会长眠不醒，无论怎样，我真的累了，睡一觉是不会变好的，生活一样会把我碾的粉碎，所以该怎么办呢？ https://t.co/rYJZrZOqav"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "友顺跨女 大龄n的| hrt 24/11/14 | 亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪麻痹 ICU 药物中毒 重度抑郁 | 二氧化碳好死喵 | 死闺 @Sayuki_Inoue",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Sayuki_Inoue"
+              }
+            ]
+          }
+        },
+        "id": "1668693781791784961",
+        "location": "深圳市南山区",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1062,
+          "following_count": 1250,
+          "like_count": 7820,
+          "listed_count": 2,
+          "media_count": 172,
+          "tweet_count": 2020
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-19T06:32:58.000Z",
+        "description": "阿瑾：笨蛋阿瑾‖\nINFP‖\n双相‖\n有主人‖\n休学中‖\n希望你能好好的对自己‖\n互fo请私信我哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bing.com",
+                "end": 23,
+                "expanded_url": "http://bing.com",
+                "start": 0,
+                "url": "https://t.co/a7Mo2JWS27"
+              }
+            ]
+          }
+        },
+        "id": "1803314964284985344",
+        "location": "Kowloon City District",
+        "name": "小阿瑾🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2065342067023245316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038122196045045760/v8L3Bn_l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3859,
+          "following_count": 829,
+          "like_count": 23426,
+          "listed_count": 6,
+          "media_count": 354,
+          "tweet_count": 5414
+        },
+        "url": "https://t.co/a7Mo2JWS27",
+        "username": "jinluomiao",
+        "verified": false
+      }
+    ]
+  }
+}

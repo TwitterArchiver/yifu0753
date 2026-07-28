@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2075566805821935706",
+    "created_at": "2026-07-10T13:14:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T14:14:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075569282117992871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1721003883579748352",
+          "start": 0,
+          "username": "tushanhonghong9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075569282117992871",
+    "in_reply_to_user_id": "1721003883579748352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075568808467845503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tushanhonghong9 需要的（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2075566805821935706",
+        "created_at": "2026-07-10T13:14:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T14:14:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075569282117992871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1721003883579748352",
+              "start": 0,
+              "username": "tushanhonghong9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075569282117992871",
+        "in_reply_to_user_id": "1721003883579748352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075568808467845503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tushanhonghong9 需要的（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721003883579748352",
+        "conversation_id": "2075566805821935706",
+        "created_at": "2026-07-10T13:12:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T14:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075568808467845503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1668693781791784961",
+              "start": 0,
+              "username": "yifu0753"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075568808467845503",
+        "in_reply_to_user_id": "1668693781791784961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075566805821935706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yifu0753 每次看到这种我都觉得是否需要重开（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "location": "深圳市南山区",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1266,
+          "following_count": 1321,
+          "like_count": 8423,
+          "listed_count": 2,
+          "media_count": 207,
+          "tweet_count": 2196
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-05T03:18:25.000Z",
+        "description": "一场梦要多长，才生发希望？ 最苦相思，最远却是遗忘。/🍥250314/努力思考中...",
+        "id": "1721003883579748352",
+        "location": "涂山",
+        "name": "涂山红红",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721008174629527552/jPpZLMx0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 579,
+          "like_count": 72195,
+          "listed_count": 4,
+          "media_count": 190,
+          "tweet_count": 2754
+        },
+        "url": "",
+        "username": "tushanhonghong9",
+        "verified": true
+      }
+    ]
+  }
+}

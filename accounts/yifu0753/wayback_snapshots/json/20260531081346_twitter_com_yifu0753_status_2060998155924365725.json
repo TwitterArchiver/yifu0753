@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2060768755605455260",
+    "created_at": "2026-05-31T08:13:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T09:13:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060998155924365725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1848633089112805376",
+          "start": 0,
+          "username": "i0gwen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060998155924365725",
+    "in_reply_to_user_id": "1848633089112805376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060796623505199350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@i0gwen 你自恨可以，但不要攻击人。更不能以此来博取关注。你只会比你提到的人更恶劣 更可笑的是你还认识不到自己的错误"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2060768755605455260",
+        "created_at": "2026-05-31T08:13:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T09:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060998155924365725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1848633089112805376",
+              "start": 0,
+              "username": "i0gwen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060998155924365725",
+        "in_reply_to_user_id": "1848633089112805376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060796623505199350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@i0gwen 你自恨可以，但不要攻击人。更不能以此来博取关注。你只会比你提到的人更恶劣 更可笑的是你还认识不到自己的错误"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1848633089112805376",
+        "conversation_id": "2060768755605455260",
+        "created_at": "2026-05-30T18:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T19:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060796623505199350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1668693781791784961",
+              "start": 0,
+              "username": "yifu0753"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060796623505199350",
+        "in_reply_to_user_id": "1848633089112805376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060795102818365643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yifu0753 实在看不顺眼b了就好，反正我也是很厌恶自己（的精神问题）的，你对我的厌恶不会比我对自己的厌恶更多，之前自杀没死我只感到自己十足的失败，并且希望下一次做的更好，也不会到处宣扬，我不想其他病友看到负面内容内耗，我不知道整天吐苦水是啥心态，你乐意交流的话我倒是挺好奇的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪麻痹 ICU 药物中毒 重度抑郁 | 二氧化碳好死喵 | 快死了",
+        "id": "1668693781791784961",
+        "location": "深圳市南山区",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 1230,
+          "like_count": 7488,
+          "listed_count": 2,
+          "media_count": 164,
+          "tweet_count": 1937
+        },
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-22T07:51:04.000Z",
+        "description": "精神病日常发疯，健全人请绕道而行",
+        "id": "1848633089112805376",
+        "location": "China",
+        "name": "浅浅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059179031300571136/7ZeJjpjk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 27,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 62
+        },
+        "username": "i0gwen",
+        "verified": false
+      }
+    ]
+  }
+}

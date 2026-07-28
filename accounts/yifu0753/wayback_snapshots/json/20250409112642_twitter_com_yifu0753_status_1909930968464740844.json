@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1909930968464740844",
+    "created_at": "2025-04-09T11:26:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T12:26:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909930968464740844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1761357247643594752",
+          "start": 3,
+          "username": "mugong5036"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909930968464740844",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909816075837141385",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mugong5036: 你国合法打工年龄16，性同意年龄十四\n从两年前我就对这玩意儿有疑问了，被赶出去的人不去打工去卖吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1909930968464740844",
+        "created_at": "2025-04-09T11:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T12:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909930968464740844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1761357247643594752",
+              "start": 3,
+              "username": "mugong5036"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909930968464740844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909816075837141385",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mugong5036: 你国合法打工年龄16，性同意年龄十四\n从两年前我就对这玩意儿有疑问了，被赶出去的人不去打工去卖吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761357247643594752",
+        "conversation_id": "1909816075837141385",
+        "created_at": "2025-04-09T03:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T04:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909816075837141385"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1909816075837141385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你国合法打工年龄16，性同意年龄十四\n从两年前我就对这玩意儿有疑问了，被赶出去的人不去打工去卖吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "精神分裂 精障人士 重度抑郁 钡中毒 亚硝酸钠中毒 进过ICU ；随便发点自言自语，",
+        "id": "1668693781791784961",
+        "location": "重庆",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 459,
+          "like_count": 2657,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 507
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T11:47:58.000Z",
+        "description": "𝒲𝒾𝓁𝓁 𝒾𝓃 𝓇𝓊𝒾𝓃ℯ𝒹 𝒶ℊℯ 𝓁𝒶𝓈𝓉 𝒻ℴ𝓇ℯ𝓋ℯ𝓇\n 🚪88.88\ntelegram账号:@muziliiiiiiiii\n二代帐号:@mugong5037",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "muziliiiiiiiii"
+              },
+              {
+                "end": 83,
+                "start": 72,
+                "username": "mugong5037"
+              }
+            ]
+          }
+        },
+        "id": "1761357247643594752",
+        "name": "子归离🍥",
+        "pinned_tweet_id": "1848871237067673986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805646126517043204/oHmN8H3L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 470,
+          "like_count": 14294,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 2782
+        },
+        "username": "mugong5036",
+        "verified": false
+      }
+    ]
+  }
+}

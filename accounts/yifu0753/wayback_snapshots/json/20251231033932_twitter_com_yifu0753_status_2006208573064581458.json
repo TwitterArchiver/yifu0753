@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005641573993000962",
+        "3_2005641575335178240"
+      ],
+      "media_source_tweet_id": [
+        "2005641578560491963",
+        "2005641578560491963"
+      ]
+    },
+    "author_id": "1668693781791784961",
+    "conversation_id": "2006208573064581458",
+    "created_at": "2025-12-31T03:39:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T04:39:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006208573064581458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1368897611672018953",
+          "start": 3,
+          "username": "XUEQIUxka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nkJ3EMOseC",
+          "end": 65,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2005641578560491963/photo/1",
+          "media_key": "3_2005641573993000962",
+          "start": 42,
+          "url": "https://t.co/nkJ3EMOseC"
+        },
+        {
+          "display_url": "pic.x.com/nkJ3EMOseC",
+          "end": 65,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2005641578560491963/photo/1",
+          "media_key": "3_2005641575335178240",
+          "start": 42,
+          "url": "https://t.co/nkJ3EMOseC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006208573064581458",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005641578560491963",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XUEQIUxka: 被暨南做局了，手术完不给鉴定还要去中山医鉴定\n穷鼠了 https://t.co/nkJ3EMOseC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2005641573993000962",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9V4YpybsAIq7fr.jpg",
+        "width": 907
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2005641575335178240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9V4YuybsAAxN1M.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005641573993000962",
+            "3_2005641575335178240"
+          ],
+          "media_source_tweet_id": [
+            "2005641578560491963",
+            "2005641578560491963"
+          ]
+        },
+        "author_id": "1668693781791784961",
+        "conversation_id": "2006208573064581458",
+        "created_at": "2025-12-31T03:39:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T04:39:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006208573064581458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1368897611672018953",
+              "start": 3,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nkJ3EMOseC",
+              "end": 65,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2005641578560491963/photo/1",
+              "media_key": "3_2005641573993000962",
+              "start": 42,
+              "url": "https://t.co/nkJ3EMOseC"
+            },
+            {
+              "display_url": "pic.x.com/nkJ3EMOseC",
+              "end": 65,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2005641578560491963/photo/1",
+              "media_key": "3_2005641575335178240",
+              "start": 42,
+              "url": "https://t.co/nkJ3EMOseC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006208573064581458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005641578560491963",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XUEQIUxka: 被暨南做局了，手术完不给鉴定还要去中山医鉴定\n穷鼠了 https://t.co/nkJ3EMOseC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005641573993000962",
+            "3_2005641575335178240"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2005641578560491963",
+        "created_at": "2025-12-29T14:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T15:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005641578560491963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nkJ3EMOseC",
+              "end": 50,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2005641578560491963/photo/1",
+              "media_key": "3_2005641573993000962",
+              "start": 27,
+              "url": "https://t.co/nkJ3EMOseC"
+            },
+            {
+              "display_url": "pic.x.com/nkJ3EMOseC",
+              "end": 50,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2005641578560491963/photo/1",
+              "media_key": "3_2005641575335178240",
+              "start": 27,
+              "url": "https://t.co/nkJ3EMOseC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005641578560491963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 13629,
+          "like_count": 70,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被暨南做局了，手术完不给鉴定还要去中山医鉴定\n穷鼠了 https://t.co/nkJ3EMOseC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "",
+        "id": "1668693781791784961",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 996,
+          "like_count": 4847,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1006
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "淡圈&淡推 ，2025/11/12 SRS，感谢大家一直以来的陪伴\n曾经的爱人  @shi_yumiaoya\n老婆  @QianYue_XQ （和平分手）\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "家长党"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "MTF"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "HRT"
+              },
+              {
+                "end": 129,
+                "start": 125,
+                "tag": "Les"
+              },
+              {
+                "end": 133,
+                "start": 130,
+                "tag": "双相"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "tag": "ADHD"
+              },
+              {
+                "end": 146,
+                "start": 140,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "shi_yumiaoya"
+              },
+              {
+                "end": 70,
+                "start": 59,
+                "username": "QianYue_XQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4988,
+          "following_count": 1435,
+          "like_count": 18805,
+          "listed_count": 22,
+          "media_count": 309,
+          "tweet_count": 1690
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": false
+      }
+    ]
+  }
+}

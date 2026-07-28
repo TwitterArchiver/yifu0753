@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943618141919313920"
+      ],
+      "media_source_tweet_id": [
+        "1943618156909457434"
+      ]
+    },
+    "author_id": "1668693781791784961",
+    "conversation_id": "1943694621265293610",
+    "created_at": "2025-07-11T15:31:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T16:31:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943694621265293610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1891923925518647296",
+          "start": 3,
+          "username": "Nacreous_1969"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kAKv40gxK0",
+          "end": 48,
+          "expanded_url": "https://x.com/Nacreous_1969/status/1943618156909457434/photo/1",
+          "media_key": "3_1943618141919313920",
+          "start": 25,
+          "url": "https://t.co/kAKv40gxK0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943694621265293610",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943618156909457434",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nacreous_1969: 这是真药娘 https://t.co/kAKv40gxK0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1943618141919313920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvkeZwAbAAA1Oc8.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943618141919313920"
+          ],
+          "media_source_tweet_id": [
+            "1943618156909457434"
+          ]
+        },
+        "author_id": "1668693781791784961",
+        "conversation_id": "1943694621265293610",
+        "created_at": "2025-07-11T15:31:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T16:31:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943694621265293610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1891923925518647296",
+              "start": 3,
+              "username": "Nacreous_1969"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kAKv40gxK0",
+              "end": 48,
+              "expanded_url": "https://x.com/Nacreous_1969/status/1943618156909457434/photo/1",
+              "media_key": "3_1943618141919313920",
+              "start": 25,
+              "url": "https://t.co/kAKv40gxK0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943694621265293610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943618156909457434",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nacreous_1969: 这是真药娘 https://t.co/kAKv40gxK0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943618141919313920"
+          ]
+        },
+        "author_id": "1891923925518647296",
+        "conversation_id": "1943618156909457434",
+        "created_at": "2025-07-11T10:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T11:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943618156909457434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kAKv40gxK0",
+              "end": 29,
+              "expanded_url": "https://x.com/Nacreous_1969/status/1943618156909457434/photo/1",
+              "media_key": "3_1943618141919313920",
+              "start": 6,
+              "url": "https://t.co/kAKv40gxK0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943618156909457434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 398,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这是真药娘 https://t.co/kAKv40gxK0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "🏳‍⚧ 抑郁焦虑状态",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "pinned_tweet_id": "1936898802361020812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 926,
+          "like_count": 4126,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 782
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T18:53:14.000Z",
+        "description": "无性恋、愿望是变水仙｜想要有好多宝宝开幼儿园｜想做纯良小女孩｜小号@Narcissus_1969 可能偏阴暗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "Narcissus_1969"
+              }
+            ]
+          }
+        },
+        "id": "1891923925518647296",
+        "name": "ˊ ∇ ˋ",
+        "pinned_tweet_id": "1896286314410238362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891924024084619264/BMGMJAcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1352,
+          "following_count": 65,
+          "like_count": 1965,
+          "listed_count": 4,
+          "media_count": 333,
+          "tweet_count": 758
+        },
+        "username": "Nacreous_1969",
+        "verified": false
+      }
+    ]
+  }
+}

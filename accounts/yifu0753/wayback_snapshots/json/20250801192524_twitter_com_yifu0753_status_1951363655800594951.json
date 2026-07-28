@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1949507338496327898",
+    "created_at": "2025-08-01T19:25:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T20:25:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951363655800594951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1395031782014205953",
+          "start": 0,
+          "username": "komacyan_zZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951363655800594951",
+    "in_reply_to_user_id": "1395031782014205953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949507338496327898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@komacyan_zZ 什么东西"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 362,
+        "media_key": "3_1949507330179223552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw4Kln5aUAAqbWI.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1949507338496327898",
+        "created_at": "2025-08-01T19:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T20:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951363655800594951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1395031782014205953",
+              "start": 0,
+              "username": "komacyan_zZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951363655800594951",
+        "in_reply_to_user_id": "1395031782014205953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949507338496327898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@komacyan_zZ 什么东西"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949507330179223552"
+          ]
+        },
+        "author_id": "1395031782014205953",
+        "conversation_id": "1949507338496327898",
+        "created_at": "2025-07-27T16:29:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T17:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949507338496327898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b29N7EO5ZB",
+              "end": 34,
+              "expanded_url": "https://x.com/komacyan_zZ/status/1949507338496327898/photo/1",
+              "media_key": "3_1949507330179223552",
+              "start": 11,
+              "url": "https://t.co/b29N7EO5ZB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949507338496327898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1346,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有机会了，好开心.。 https://t.co/b29N7EO5ZB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "🏳‍⚧ 抑郁焦虑状态",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "pinned_tweet_id": "1936898802361020812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 931,
+          "like_count": 4242,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 845
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-19T15:01:25.000Z",
+        "description": "躁鬱病 / JLPT-N2 / 日常垢 / 絵垢 / フォロバをご希望の方はDMお願いします 🚪30",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kona.icu",
+                "end": 23,
+                "expanded_url": "https://kona.icu",
+                "start": 0,
+                "url": "https://t.co/71HeCHYqFm"
+              }
+            ]
+          }
+        },
+        "id": "1395031782014205953",
+        "location": "キミのとなり",
+        "name": "あめ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951336391323033601/95SPBcGl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2857,
+          "following_count": 764,
+          "like_count": 13187,
+          "listed_count": 10,
+          "media_count": 1391,
+          "tweet_count": 6354
+        },
+        "url": "https://t.co/71HeCHYqFm",
+        "username": "komacyan_zZ",
+        "verified": false
+      }
+    ]
+  }
+}

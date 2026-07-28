@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2028977804168339661",
+    "created_at": "2026-03-03T23:36:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T00:36:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028977804168339661"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AnranbuSleep/s…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/AnranbuSleep/status/2028581109160698003",
+          "start": 4,
+          "url": "https://t.co/tLhwc4Qgki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028977804168339661",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028581109160698003",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🎂🎂🎂 https://t.co/tLhwc4Qgki"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2028977804168339661",
+        "created_at": "2026-03-03T23:36:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T00:36:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028977804168339661"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AnranbuSleep/s…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/AnranbuSleep/status/2028581109160698003",
+              "start": 4,
+              "url": "https://t.co/tLhwc4Qgki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028977804168339661",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028581109160698003",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🎂🎂🎂 https://t.co/tLhwc4Qgki"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811011225058430982",
+        "conversation_id": "2028581109160698003",
+        "created_at": "2026-03-02T21:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T22:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028581109160698003"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028581109160698003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 24445,
+          "like_count": 196,
+          "quote_count": 6,
+          "reply_count": 46,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "对不起44，当你看到这条推文时，我已经吃盐自杀，我故意激怒，我只是想让你厌恶我，我想把这件事对你的影响降到最小，直到最后一刻我都想说，我无意逼迫你。是我自己杀死的自己，我很爱你。胜过一切一切的一切。愿意为你与世界为敌。我爱这个世界，但是这个世界是虚假的，你的后半生值得更好的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 呼吸堵塞 | 现已恢复?  抑郁状态 好好活着 二氧化碳好似喵 MtF🏳️‍⚧️",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 988,
+          "like_count": 5129,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 1200
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T12:15:13.000Z",
+        "description": "My Sunshine @mishamimihemumu My Luna @datadelete_4444",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 12,
+                "username": "mishamimihemumu"
+              },
+              {
+                "end": 53,
+                "start": 37,
+                "username": "datadelete_4444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+i6DdJbpVkcw1N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+i6DdJbpVkcw1NmJl",
+                "start": 0,
+                "url": "https://t.co/A4ANhCJyWJ"
+              }
+            ]
+          }
+        },
+        "id": "1811011225058430982",
+        "location": "远去的天堂，再也不见",
+        "name": "Luna_安然🏳️‍⚧️",
+        "pinned_tweet_id": "1986019257440964920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021846465417818112/79NWA4eF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2757,
+          "following_count": 80,
+          "like_count": 5396,
+          "listed_count": 8,
+          "media_count": 550,
+          "tweet_count": 2752
+        },
+        "url": "https://t.co/A4ANhCJyWJ",
+        "username": "AnranbuSleep",
+        "verified": false
+      }
+    ]
+  }
+}

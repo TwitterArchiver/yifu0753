@@ -1,0 +1,210 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1794274617965838544",
+    "created_at": "2024-05-25T10:56:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-25T11:56:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794321576684609627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1479696561302999042",
+          "start": 0,
+          "username": "quitee123"
+        },
+        {
+          "end": 20,
+          "id": "1630559830426656770",
+          "start": 11,
+          "username": "MPlanck3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794321576684609627",
+    "in_reply_to_user_id": "1479696561302999042",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794278200241258647",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quitee123 @MPlanck3 自杀的那一刻最痛苦😭😭😭但是熬过去之后就好了。我上次自杀之后害怕了😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1794274617965838544",
+        "created_at": "2024-05-25T10:56:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T11:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794321576684609627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1479696561302999042",
+              "start": 0,
+              "username": "quitee123"
+            },
+            {
+              "end": 20,
+              "id": "1630559830426656770",
+              "start": 11,
+              "username": "MPlanck3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794321576684609627",
+        "in_reply_to_user_id": "1479696561302999042",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794278200241258647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quitee123 @MPlanck3 自杀的那一刻最痛苦😭😭😭但是熬过去之后就好了。我上次自杀之后害怕了😭😭😭"
+      },
+      {
+        "attachments": {},
+        "author_id": "1479696561302999042",
+        "conversation_id": "1794274617965838544",
+        "created_at": "2024-05-25T08:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T09:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794278200241258647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1630559830426656770",
+              "start": 0,
+              "username": "MPlanck3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794278200241258647",
+        "in_reply_to_user_id": "1630559830426656770",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794274617965838544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MPlanck3 确实是这样的，紫砂并不是结束生命，而是结束痛苦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "讨厌一切人类 友跨顺女 坐标广州  贴贴~ intp-t\n 讨厌一切的不美好",
+        "id": "1668693781791784961",
+        "name": "伊芙 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764816409815896064/b8sUPDni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 89,
+          "like_count": 458,
+          "listed_count": 0,
+          "tweet_count": 119
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-08T06:09:08.000Z",
+        "description": "永远17岁的小傻瓜\n持证含糖郭楠🏳️‍⚧️/经济学/INFP/家长党/小镇做题家/读研老东西/互fo/双相情感障碍\n贴吧：静静只想要静静",
+        "id": "1479696561302999042",
+        "location": "你的心里",
+        "name": "静静只想要🍊🐱",
+        "pinned_tweet_id": "1750814411554701374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782057309960835072/PXFEz5We_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 930,
+          "following_count": 712,
+          "like_count": 8947,
+          "listed_count": 2,
+          "tweet_count": 2852
+        },
+        "username": "quitee123",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-28T13:25:48.000Z",
+        "description": "ENFJ-T//深夜emo人//双鱼星人",
+        "id": "1630559830426656770",
+        "location": "冥王星",
+        "name": "M . Planck",
+        "pinned_tweet_id": "1792506433382347165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1674457901245820928/o9vMib2N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 169,
+          "like_count": 23176,
+          "listed_count": 0,
+          "tweet_count": 2793
+        },
+        "username": "MPlanck3",
+        "verified": false
+      }
+    ]
+  }
+}

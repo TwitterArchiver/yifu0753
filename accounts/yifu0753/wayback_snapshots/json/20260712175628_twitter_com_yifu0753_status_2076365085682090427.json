@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2076365085682090427",
+    "created_at": "2026-07-12T17:56:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T18:56:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076365085682090427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1904873292366036992",
+          "start": 3,
+          "username": "Chiyuyu520"
+        }
+      ],
+      "urls": [
+        {
+          "description": "“我们已经没有什么不能失去的了。”",
+          "display_url": "chiyu.it/posts/end",
+          "end": 53,
+          "expanded_url": "https://chiyu.it/posts/end",
+          "images": [
+            {
+              "height": 512,
+              "url": "https://pbs.twimg.com/news_img/2045543786500206592/PngBQLK0?format=jpg&name=orig",
+              "width": 512
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2045543786500206592/PngBQLK0?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 30,
+          "status": 200,
+          "title": "遗书 | 池鱼小栈",
+          "unwound_url": "https://chiyu.it/posts/end",
+          "url": "https://t.co/JKZBAjKfMB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076365085682090427",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946909331183825253",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chiyuyu520: 在遗书里又写了一些东西：\n\nhttps://t.co/JKZBAjKfMB\n\n我抑郁的缘由是什么，或许是性别焦虑，或许是家庭、环境的压力，更或许是他人的偏见与恶意。\n\n我不敢想，也没办法继续想下去。\n\n因为这是所有跨性别现在所经历的，在他人看来只…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2076365085682090427",
+        "created_at": "2026-07-12T17:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T18:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076365085682090427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1904873292366036992",
+              "start": 3,
+              "username": "Chiyuyu520"
+            }
+          ],
+          "urls": [
+            {
+              "description": "“我们已经没有什么不能失去的了。”",
+              "display_url": "chiyu.it/posts/end",
+              "end": 53,
+              "expanded_url": "https://chiyu.it/posts/end",
+              "images": [
+                {
+                  "height": 512,
+                  "url": "https://pbs.twimg.com/news_img/2045543786500206592/PngBQLK0?format=jpg&name=orig",
+                  "width": 512
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2045543786500206592/PngBQLK0?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 30,
+              "status": 200,
+              "title": "遗书 | 池鱼小栈",
+              "unwound_url": "https://chiyu.it/posts/end",
+              "url": "https://t.co/JKZBAjKfMB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076365085682090427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946909331183825253",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chiyuyu520: 在遗书里又写了一些东西：\n\nhttps://t.co/JKZBAjKfMB\n\n我抑郁的缘由是什么，或许是性别焦虑，或许是家庭、环境的压力，更或许是他人的偏见与恶意。\n\n我不敢想，也没办法继续想下去。\n\n因为这是所有跨性别现在所经历的，在他人看来只…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1946909331183825253",
+        "created_at": "2025-07-20T12:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T13:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946909331183825253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "“我们已经没有什么不能失去的了。”",
+              "display_url": "chiyu.it/posts/end",
+              "end": 37,
+              "expanded_url": "https://chiyu.it/posts/end",
+              "images": [
+                {
+                  "height": 512,
+                  "url": "https://pbs.twimg.com/news_img/2045543786500206592/PngBQLK0?format=jpg&name=orig",
+                  "width": 512
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2045543786500206592/PngBQLK0?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 14,
+              "status": 200,
+              "title": "遗书 | 池鱼小栈",
+              "unwound_url": "https://chiyu.it/posts/end",
+              "url": "https://t.co/JKZBAjKfMB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946909331183825253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "chiyu.it/posts/end",
+                "end": 37,
+                "expanded_url": "https://chiyu.it/posts/end",
+                "start": 14,
+                "url": "https://t.co/00HERqQGsq"
+              }
+            ]
+          },
+          "text": "在遗书里又写了一些东西：\n\nhttps://t.co/00HERqQGsq\n\n我抑郁的缘由是什么，或许是性别焦虑，或许是家庭、环境的压力，更或许是他人的偏见与恶意。\n\n我不敢想，也没办法继续想下去。\n\n因为这是所有跨性别现在所经历的，在他人看来只是 【无病呻吟】 的现状。\n\n世界上从来没有感同身受这回事，针不扎在你身上，你就永远不知道有多痛。\n\n所以，那些人只会认为这些是庸人自扰，是无病呻吟，是和自己过不去，是与自然相悖的不可行。\n\n没有人希望这一切会发生在自己身上，可它就是自然而然的发生了，就好像它是从我们降生与世就种植在我们体内的，只在某年某月的某一天等待一把魔法将它唤醒。\n\n我知道这样的比喻有些可笑，可它就是这样猝不及防毫无来由的，无法阻挡如同洪流一样的，切切实实的发生在了自己身上。\n\n不指望所有人认同，但希望别人给予起码的尊重。当然永远有人披着表面中立不反对的旗帜，而背地里却早已高人一等地将他人斥为怪物，贴以种种妖魔化的标签。\n\n不过这些外界的误解和偏见，纷扰与嘈杂，都与今天我想说的没关系，这篇文章是给自己写的，应该远离那些蒙尘污垢的东西，我想现在的池鱼只需要安静。\n\n那句话是这样写的：“这世界只有一个地狱，就是你我现在生活的世界。你以为你的善良是因你是天堂掉落的天使，其实你只是众鬼里最弱的一个。”\n\n未来的一切都不可知，也许你也不知道今天的现在，会为一个陌生人而泪流满面。\n\n那些叫嚷着“变态”“怪物”“你们怎么不去死”肆意攻击的“人”，你们真的什么都不懂，你们不知道你的话语对他人意味着什么。\n\n别忘了，你们这些人手上是沾了血的，那让我告诉你们为什么我们不去死。\n\n- 因为我们他妈不是为了我们自己一个人而活啊。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 18271,
+          "like_count": 72,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "在遗书里又写了一些东西：\n\nhttps://t.co/JKZBAjKfMB\n\n我抑郁的缘由是什么，或许是性别焦虑，或许是家庭、环境的压力，更或许是他人的偏见与恶意。\n\n我不敢想，也没办法继续想下去。\n\n因为这是所有跨性别现在所经历的，在他人看来只是 【无病呻吟】 的现状。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "location": "深圳市南山区",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1282,
+          "following_count": 1323,
+          "like_count": 8481,
+          "listed_count": 2,
+          "media_count": 211,
+          "tweet_count": 2226
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜 | Cloudflare 八级钳工\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "遗书→",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4328,
+          "following_count": 1283,
+          "like_count": 7410,
+          "listed_count": 6,
+          "media_count": 607,
+          "tweet_count": 1770
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

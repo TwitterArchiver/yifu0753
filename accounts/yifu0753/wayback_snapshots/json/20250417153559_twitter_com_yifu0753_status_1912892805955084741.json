@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1912678067316879415",
+    "created_at": "2025-04-17T15:35:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T16:35:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912892805955084741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "961552358906802176",
+          "start": 0,
+          "username": "dfdtc7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912892805955084741",
+    "in_reply_to_user_id": "961552358906802176",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912678067316879415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dfdtc7 😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1912678067316879415",
+        "created_at": "2025-04-17T15:35:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T16:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912892805955084741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "961552358906802176",
+              "start": 0,
+              "username": "dfdtc7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912892805955084741",
+        "in_reply_to_user_id": "961552358906802176",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912678067316879415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dfdtc7 😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "961552358906802176",
+        "conversation_id": "1912678067316879415",
+        "created_at": "2025-04-17T01:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T02:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912678067316879415"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1912678067316879415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 852,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "［今日做梦］\n梦到思函的病已经走到终末期了...大概是什么其他的世界线。\n纠结了很多，带她去了很多地方，希望能有转机。\n然后突然就找不到她了...大概送抢救了？\n最后找到了，但决定不治了，带她回家了，希望最后的日子能两个人一起，在一个没有那么压抑的地方度过...\n于是拔针...\n（醒）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "01 MtF🏳‍⚧ 抑郁焦虑状态 ASD | 同类互fo",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 616,
+          "like_count": 3122,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 542
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-08T10:48:41.000Z",
+        "description": "大头菜有最爱的人，但她已经不在了...",
+        "id": "961552358906802176",
+        "name": "dfdtc",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887309919705325568/vm8zJROc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3836,
+          "following_count": 1781,
+          "like_count": 52395,
+          "listed_count": 10,
+          "media_count": 2301,
+          "tweet_count": 17622
+        },
+        "username": "dfdtc7",
+        "verified": false
+      }
+    ]
+  }
+}

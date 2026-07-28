@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1818251532762325319",
+    "created_at": "2024-07-30T22:16:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-30T23:16:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1818410429699457377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1559966903069601793",
+          "start": 0,
+          "username": "TeaMeowmee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1818410429699457377",
+    "in_reply_to_user_id": "1559966903069601793",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818251532762325319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TeaMeowmee 草"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1818251532762325319",
+        "created_at": "2024-07-30T22:16:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-30T23:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818410429699457377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1559966903069601793",
+              "start": 0,
+              "username": "TeaMeowmee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818410429699457377",
+        "in_reply_to_user_id": "1559966903069601793",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818251532762325319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TeaMeowmee 草"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1818251530262503424"
+          ]
+        },
+        "author_id": "1559966903069601793",
+        "conversation_id": "1818251532762325319",
+        "created_at": "2024-07-30T11:45:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-30T12:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1818251532762325319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/ubN8dWIYV1",
+              "end": 31,
+              "expanded_url": "https://twitter.com/TeaMeowmee/status/1818251532762325319/photo/1",
+              "media_key": "3_1818251530262503424",
+              "start": 8,
+              "url": "https://t.co/ubN8dWIYV1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818251532762325319",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 44284,
+          "like_count": 244,
+          "quote_count": 2,
+          "reply_count": 37,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "一切结束了。。 https://t.co/ubN8dWIYV1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "",
+        "id": "1668693781791784961",
+        "location": "广州",
+        "name": "伊芙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764816409815896064/b8sUPDni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 163,
+          "like_count": 778,
+          "listed_count": 0,
+          "tweet_count": 279
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-17T18:14:47.000Z",
+        "description": "馬力強勁五菱之光車主🎀女生⛲️廣深港常驻⛲️所有地方支付路費都可線下✈️‖内地支付寶口令🧧轉數快 PayPal或私信📧等額¥128過🚪可線下报价‖有事私信直说别让我再问节省大家时间‼️老公盐田 @SS3B_0016 和七翼式 @qiyishi SRS  11/5/2024🎉歡迎👇🏻購買♥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 97,
+                "username": "SS3B_0016"
+              },
+              {
+                "end": 121,
+                "start": 113,
+                "username": "qiyishi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/teameowmee",
+                "end": 23,
+                "expanded_url": "https://www.patreon.com/teameowmee",
+                "start": 0,
+                "url": "https://t.co/yANMLxNf7T"
+              }
+            ]
+          }
+        },
+        "id": "1559966903069601793",
+        "location": "水友群：628977650",
+        "name": "荞麦甜甜茶🎀爱盐可加糖",
+        "pinned_tweet_id": "1808073136619114938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796147964429361152/2AXvyXPt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4884,
+          "following_count": 987,
+          "like_count": 6845,
+          "listed_count": 24,
+          "tweet_count": 3411
+        },
+        "url": "https://t.co/yANMLxNf7T",
+        "username": "TeaMeowmee",
+        "verified": false
+      }
+    ]
+  }
+}

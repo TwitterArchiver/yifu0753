@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080706427279269888"
+      ]
+    },
+    "author_id": "1668693781791784961",
+    "conversation_id": "2080706436544557469",
+    "created_at": "2026-07-24T17:27:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T18:27:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080706436544557469"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Vcy5AfXzlt",
+          "end": 27,
+          "expanded_url": "https://x.com/yifu0753/status/2080706436544557469/photo/1",
+          "media_key": "3_2080706427279269888",
+          "start": 4,
+          "url": "https://t.co/Vcy5AfXzlt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080706436544557469",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "新头像 https://t.co/Vcy5AfXzlt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2080706427279269888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAneLfaYAAgQey.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080706427279269888"
+          ]
+        },
+        "author_id": "1668693781791784961",
+        "conversation_id": "2080706436544557469",
+        "created_at": "2026-07-24T17:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T18:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080706436544557469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vcy5AfXzlt",
+              "end": 27,
+              "expanded_url": "https://x.com/yifu0753/status/2080706436544557469/photo/1",
+              "media_key": "3_2080706427279269888",
+              "start": 4,
+              "url": "https://t.co/Vcy5AfXzlt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080706436544557469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新头像 https://t.co/Vcy5AfXzlt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "location": "广州市",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080706334484500480/jz4mL1lO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1416,
+          "following_count": 1350,
+          "like_count": 8769,
+          "listed_count": 2,
+          "media_count": 217,
+          "tweet_count": 2266
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": false
+      }
+    ]
+  }
+}

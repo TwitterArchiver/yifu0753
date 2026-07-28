@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1936806708136804352"
+      ],
+      "media_source_tweet_id": [
+        "1936806711869997400"
+      ]
+    },
+    "author_id": "1668693781791784961",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1936897222949679317",
+    "created_at": "2025-06-22T21:20:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T22:20:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936897222949679317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1693873810469199872",
+          "start": 3,
+          "username": "eve_city"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tNALLrIDh2",
+          "end": 84,
+          "expanded_url": "https://x.com/eve_city/status/1936806711869997400/photo/1",
+          "media_key": "3_1936806708136804352",
+          "start": 61,
+          "url": "https://t.co/tNALLrIDh2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936897222949679317",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936806711869997400",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eve_city: 为什么好多人活得那么幸福，我却如履薄冰、举步维艰……\n最近发病太严重了，感觉被世界抛弃了…… https://t.co/tNALLrIDh2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 405,
+        "media_key": "3_1936806708136804352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuDrcH0WgAAWTty.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936806708136804352"
+          ],
+          "media_source_tweet_id": [
+            "1936806711869997400"
+          ]
+        },
+        "author_id": "1668693781791784961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1936897222949679317",
+        "created_at": "2025-06-22T21:20:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T22:20:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936897222949679317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1693873810469199872",
+              "start": 3,
+              "username": "eve_city"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tNALLrIDh2",
+              "end": 84,
+              "expanded_url": "https://x.com/eve_city/status/1936806711869997400/photo/1",
+              "media_key": "3_1936806708136804352",
+              "start": 61,
+              "url": "https://t.co/tNALLrIDh2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936897222949679317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936806711869997400",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eve_city: 为什么好多人活得那么幸福，我却如履薄冰、举步维艰……\n最近发病太严重了，感觉被世界抛弃了…… https://t.co/tNALLrIDh2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936806708136804352"
+          ]
+        },
+        "author_id": "1693873810469199872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1936806711869997400",
+        "created_at": "2025-06-22T15:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T16:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936806711869997400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tNALLrIDh2",
+              "end": 70,
+              "expanded_url": "https://x.com/eve_city/status/1936806711869997400/photo/1",
+              "media_key": "3_1936806708136804352",
+              "start": 47,
+              "url": "https://t.co/tNALLrIDh2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936806711869997400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 178,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么好多人活得那么幸福，我却如履薄冰、举步维艰……\n最近发病太严重了，感觉被世界抛弃了…… https://t.co/tNALLrIDh2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "🏳‍⚧ 抑郁焦虑状态",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 836,
+          "like_count": 3672,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 658
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T06:32:52.000Z",
+        "description": "INFP / HRT 2024.3.4 / 07年 成都📖 / 愿意成为每个人的小太阳 / 同类互fo☀️ / 喜欢音游 MC 轨交🐱 /〔最可爱的猫猫🐈〕 @Jin_Ge233 /〔最可爱的月月🌕〕@Dymoons_tis /〔主人〕@shensheng657867 @Paranoia23334",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "Jin_Ge233"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "Dymoons_tis"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "shensheng657867"
+              },
+              {
+                "end": 149,
+                "start": 135,
+                "username": "Paranoia23334"
+              }
+            ]
+          }
+        },
+        "id": "1693873810469199872",
+        "name": "雨城EveningCity🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803692072035397632/jWnt6iWs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1595,
+          "following_count": 1073,
+          "like_count": 14547,
+          "listed_count": 2,
+          "media_count": 244,
+          "tweet_count": 4599
+        },
+        "username": "eve_city",
+        "verified": false
+      }
+    ]
+  }
+}

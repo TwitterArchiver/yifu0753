@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2038644632905454050",
+    "created_at": "2026-04-01T02:56:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T03:56:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039175136117698952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "828947309874417664",
+          "start": 0,
+          "username": "AsagiriMayumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039175136117698952",
+    "in_reply_to_user_id": "828947309874417664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038644632905454050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsagiriMayumi 不od也这样😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2038644632905454050",
+        "created_at": "2026-04-01T02:56:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T03:56:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039175136117698952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "828947309874417664",
+              "start": 0,
+              "username": "AsagiriMayumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039175136117698952",
+        "in_reply_to_user_id": "828947309874417664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038644632905454050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsagiriMayumi 不od也这样😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "828947309874417664",
+        "conversation_id": "2038644632905454050",
+        "created_at": "2026-03-30T15:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T16:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038644632905454050"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038644632905454050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 227,
+                "start": 222,
+                "tag": "心理健康"
+              },
+              {
+                "end": 235,
+                "start": 229,
+                "tag": "照顾好自己"
+              }
+            ]
+          },
+          "text": "我还想补充一个很多人可能忽略的点：\n在OD的时候，人的意识和判断是会被明显影响的。\n有时会出现一种“什么都无所谓了”“生死也不重要了”的感觉。\n但那种“看淡”，很多时候并不是真正的想法，\n而是状态本身带来的错觉。\n也正因为这样，有些人在那种状态里，\n会获得一种本不该有的“勇气”。\n如果你正处在这种状态里，\n请尽量不要在那一刻做任何决定。\n等自己清醒一点，再慢慢想。\n保护自己，是很重要的事。\n那一刻的你，不需要做决定，只需要先安全地待着。🤍\n#心理健康  #照顾好自己"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1780,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我还想补充一个很多人可能忽略的点：\n在OD的时候，人的意识和判断是会被明显影响的。\n有时会出现一种“什么都无所谓了”“生死也不重要了”的感觉。\n但那种“看淡”，很多时候并不是真正的想法，\n而是状态本身带来的错觉。\n也正因为这样，有些人在那种状态里，\n会获得一种本不该有的“勇气”。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 呼吸堵塞 | 现已恢复?  抑郁状态 好好活着 二氧化碳好似喵 MtF🏳️‍⚧️",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 971,
+          "like_count": 5254,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 1241
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-07T12:43:34.000Z",
+        "description": "我与你感同身受",
+        "id": "828947309874417664",
+        "location": " Deutschland",
+        "name": "NuclearCake",
+        "pinned_tweet_id": "2027752059110400312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945441303694647296/HjOatkbK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 610,
+          "like_count": 2334,
+          "listed_count": 2,
+          "media_count": 153,
+          "tweet_count": 2117
+        },
+        "username": "AsagiriMayumi",
+        "verified": true
+      }
+    ]
+  }
+}

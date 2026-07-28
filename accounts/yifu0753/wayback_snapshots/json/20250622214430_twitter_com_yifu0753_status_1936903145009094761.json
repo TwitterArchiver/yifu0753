@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1936221528527716417",
+    "created_at": "2025-06-22T21:44:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T22:44:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936903145009094761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1896175390005342208",
+          "start": 0,
+          "username": "Chufeinya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936903145009094761",
+    "in_reply_to_user_id": "1896175390005342208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936221528527716417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chufeinya 抱抱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1936221528527716417",
+        "created_at": "2025-06-22T21:44:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T22:44:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936903145009094761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1896175390005342208",
+              "start": 0,
+              "username": "Chufeinya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936903145009094761",
+        "in_reply_to_user_id": "1896175390005342208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936221528527716417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chufeinya 抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896175390005342208",
+        "conversation_id": "1936221528527716417",
+        "created_at": "2025-06-21T00:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T01:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936221528527716417"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1936221528527716417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 36360,
+          "like_count": 295,
+          "quote_count": 1,
+          "reply_count": 31,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "咱永远忘不掉那一天了，清晨发现不耐烦的浮木打算把我送去扭转，便迅速逃到了台东的一处公共座椅等待救助人员的到来，却误打误撞碰见了焦急的木琴。她一把抓住了我，我奋力挣扎，打着打着就打进了地铁站E出入口与站厅之间的走廊，这里人来人往，我原以为我将挣脱出来了，这时我的父亲却又来了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "🏳‍⚧ 抑郁焦虑状态",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 839,
+          "like_count": 3694,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 668
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T12:27:09.000Z",
+        "description": "#防虐待自救指南 #关注家暴受害者 #关注救助者健康 劫难没能改变我的信念~｜🥰小笨蛋们：@Haruhi_LAP，@Chiyuyu520｜OT:@Peoplenya",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "防虐待自救指南"
+              },
+              {
+                "end": 17,
+                "start": 9,
+                "tag": "关注家暴受害者"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "tag": "关注救助者健康"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 56,
+                "start": 45,
+                "username": "Haruhi_LAP"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "Chiyuyu520"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "Peoplenya"
+              }
+            ]
+          }
+        },
+        "id": "1896175390005342208",
+        "location": "青岛地铁13号线",
+        "name": "初菲喵~",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906278656726777856/-3MdD1iO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 1096,
+          "like_count": 9791,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 566
+        },
+        "username": "Chufeinya",
+        "verified": false
+      }
+    ]
+  }
+}

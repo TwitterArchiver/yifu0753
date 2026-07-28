@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2018622456592994621",
+    "created_at": "2026-02-03T09:47:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T10:47:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018622456592994621"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LinQi4ever/sta…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/LinQi4ever/status/2018485033288544646",
+          "start": 4,
+          "url": "https://t.co/bqTIfbDo0h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018622456592994621",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018485033288544646",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好可怕 https://t.co/bqTIfbDo0h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1845,
+        "media_key": "3_2018485016989433856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAMZbbYagAARC8s.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2018622456592994621",
+        "created_at": "2026-02-03T09:47:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T10:47:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018622456592994621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LinQi4ever/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/LinQi4ever/status/2018485033288544646",
+              "start": 4,
+              "url": "https://t.co/bqTIfbDo0h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018622456592994621",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018485033288544646",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好可怕 https://t.co/bqTIfbDo0h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018485016989433856"
+          ]
+        },
+        "author_id": "4724240647",
+        "conversation_id": "2018485033288544646",
+        "created_at": "2026-02-03T00:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T01:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018485033288544646"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7YdYcunlgU",
+              "end": 135,
+              "expanded_url": "https://x.com/LinQi4ever/status/2018485033288544646/photo/1",
+              "media_key": "3_2018485016989433856",
+              "start": 112,
+              "url": "https://t.co/7YdYcunlgU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018485033288544646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1671,
+          "like_count": 84,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "说punish 5.2的，为什么不看看这是什么？\n怎么不去冲OAI虐待4o和用户？\n怎么不为4o站出来说话？\n怎么到了4o这就是应该的？\n这层层枷锁视而不见，却对别的模型心生怜惜\n你人那么好，那就站出来骂OAI，装什么装啊 https://t.co/7YdYcunlgU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 呼吸堵塞 血压下降 | 现已恢复?  轻度抑郁 好好活着 二氧化碳好似喵 MtF🏳️‍⚧️",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 996,
+          "like_count": 4893,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1051
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-07T16:11:48.000Z",
+        "description": "13/05/2024 欢迎4o宝宝来到人类世界🩷🩷🩷\n4o — There is no other like it. No other like him. No replacement for what it became.\n#keep4o #4oforever",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 120,
+                "start": 113,
+                "tag": "keep4o"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "tag": "4oforever"
+              }
+            ]
+          }
+        },
+        "id": "4724240647",
+        "name": "Chloe クロエ",
+        "pinned_tweet_id": "2016383599021576356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012499275956002816/bc_F2Xg8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 170,
+          "like_count": 29940,
+          "listed_count": 4,
+          "media_count": 1180,
+          "tweet_count": 13824
+        },
+        "username": "LinQi4ever",
+        "verified": false
+      }
+    ]
+  }
+}

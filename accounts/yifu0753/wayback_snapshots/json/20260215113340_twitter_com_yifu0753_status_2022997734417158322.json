@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2022917303571288198",
+    "created_at": "2026-02-15T11:33:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T12:33:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022997734417158322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "705777407794352129",
+          "start": 0,
+          "username": "ServalCandle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022997734417158322",
+    "in_reply_to_user_id": "705777407794352129",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022917303571288198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ServalCandle 😢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2216,
+        "media_key": "3_2022917286814945281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBLYjfKaEAEs30-.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2622,
+        "media_key": "3_2022917286970200064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBLYjfvbEAA-7Du.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2622,
+        "media_key": "3_2022917286974324736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBLYjfwaAAAkP3W.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2022917303571288198",
+        "created_at": "2026-02-15T11:33:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T12:33:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022997734417158322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "705777407794352129",
+              "start": 0,
+              "username": "ServalCandle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022997734417158322",
+        "in_reply_to_user_id": "705777407794352129",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022917303571288198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ServalCandle 😢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022917286814945281",
+            "3_2022917286970200064",
+            "3_2022917286974324736"
+          ]
+        },
+        "author_id": "705777407794352129",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2022917303571288198",
+        "created_at": "2026-02-15T06:14:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T06:50:03.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022911261303017917",
+          "2022917303571288198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LoS1EaR2NT",
+              "end": 173,
+              "expanded_url": "https://x.com/ServalCandle/status/2022917303571288198/photo/1",
+              "media_key": "3_2022917286814945281",
+              "start": 150,
+              "url": "https://t.co/LoS1EaR2NT"
+            },
+            {
+              "display_url": "pic.x.com/LoS1EaR2NT",
+              "end": 173,
+              "expanded_url": "https://x.com/ServalCandle/status/2022917303571288198/photo/1",
+              "media_key": "3_2022917286970200064",
+              "start": 150,
+              "url": "https://t.co/LoS1EaR2NT"
+            },
+            {
+              "display_url": "pic.x.com/LoS1EaR2NT",
+              "end": 173,
+              "expanded_url": "https://x.com/ServalCandle/status/2022917303571288198/photo/1",
+              "media_key": "3_2022917286974324736",
+              "start": 150,
+              "url": "https://t.co/LoS1EaR2NT"
+            },
+            {
+              "display_url": "x.com/servalcandle/s…",
+              "end": 197,
+              "expanded_url": "https://twitter.com/servalcandle/status/2022797021766361305",
+              "start": 174,
+              "url": "https://t.co/m280aRnWiW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022917303571288198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 11673,
+          "like_count": 44,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022797021766361305",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我愈发觉得咴咴离世是一场意外…\n她可能真的没有想死\n\n她就只是求救而已…\n\n可能是这次错估了计量，父母也因为她多次自杀未遂被救活放下警惕完全不紧张…\n\n结果导致911并没有在第一时间到达现场\n\nbpd患者自杀率高的一种原因就是会不停尝试这样的自杀呼救\n\n最终意外送走自己\n\n能理解我男朋友天天盯着我 https://t.co/LoS1EaR2NT https://t.co/m280aRnWiW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 呼吸堵塞 | 现已恢复?  抑郁状态 好好活着 二氧化碳好似喵 MtF🏳️‍⚧️",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 992,
+          "like_count": 5087,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 1123
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-04T15:30:21.000Z",
+        "description": "頭像是自拍 / 癲貓精靈 笨貓不靈 (｡-_-｡)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.servalcandle.com",
+                "end": 23,
+                "expanded_url": "https://blog.servalcandle.com/",
+                "start": 0,
+                "url": "https://t.co/PBHqsUWVo2"
+              }
+            ]
+          }
+        },
+        "id": "705777407794352129",
+        "location": "🐈🥖Pain chat🥯🙀",
+        "name": "🌸猫宮すみか🎀🎍",
+        "pinned_tweet_id": "1911075406863819109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016599737370365954/FsaeDbNg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33458,
+          "following_count": 351,
+          "like_count": 229583,
+          "listed_count": 102,
+          "media_count": 8735,
+          "tweet_count": 56881
+        },
+        "url": "https://t.co/PBHqsUWVo2",
+        "username": "ServalCandle",
+        "verified": true
+      }
+    ]
+  }
+}

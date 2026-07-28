@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1936898802361020812",
+    "created_at": "2025-06-24T05:04:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T06:04:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937376188282146885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1703066493519626240",
+          "start": 0,
+          "username": "kirifuji00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937376188282146885",
+    "in_reply_to_user_id": "1703066493519626240",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937129575278162411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kirifuji00 😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1936898802361020812",
+        "created_at": "2025-06-24T05:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T06:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937376188282146885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1703066493519626240",
+              "start": 0,
+              "username": "kirifuji00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937376188282146885",
+        "in_reply_to_user_id": "1703066493519626240",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937129575278162411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kirifuji00 😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1703066493519626240",
+        "conversation_id": "1936898802361020812",
+        "created_at": "2025-06-23T12:44:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T13:44:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937129575278162411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1668693781791784961",
+              "start": 0,
+              "username": "yifu0753"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937129575278162411",
+        "in_reply_to_user_id": "1668693781791784961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936898802361020812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yifu0753 会好的呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "🏳‍⚧ 抑郁焦虑状态",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "pinned_tweet_id": "1936898802361020812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 873,
+          "like_count": 3851,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 709
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-16T15:21:18.000Z",
+        "description": "被世界抛弃的baka 双相休学ing 17了喵，坐标福建，欢迎同类贴贴、是含糖mtx喵，性冷淡｜想要变可爱~ 可以用雾酱称呼呢 ｜寻找对象ing…..",
+        "id": "1703066493519626240",
+        "name": "キリ",
+        "pinned_tweet_id": "1901657744274280720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901648216204124160/BrZK-8s4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 147,
+          "like_count": 148,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 196
+        },
+        "username": "kirifuji00",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2018888059601949105",
+    "created_at": "2026-02-04T03:23:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T04:23:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018888059601949105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1903701047589343232",
+          "start": 3,
+          "username": "ceobrus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018888059601949105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018526241184419845",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ceobrus: 嗑药的活不过30，双低的宦官却能活到100，所以性激素是坏东西。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2018888059601949105",
+        "created_at": "2026-02-04T03:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T04:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018888059601949105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1903701047589343232",
+              "start": 3,
+              "username": "ceobrus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018888059601949105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018526241184419845",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ceobrus: 嗑药的活不过30，双低的宦官却能活到100，所以性激素是坏东西。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903701047589343232",
+        "conversation_id": "2018526241184419845",
+        "created_at": "2026-02-03T03:25:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T04:25:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018526241184419845"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018526241184419845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 20551,
+          "like_count": 105,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "嗑药的活不过30，双低的宦官却能活到100，所以性激素是坏东西。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 呼吸堵塞 | 现已恢复?  抑郁状态 好好活着 二氧化碳好似喵 MtF🏳️‍⚧️",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 995,
+          "like_count": 4910,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 1060
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-23T06:51:21.000Z",
+        "description": "愿所有人都找到属于自己的永恒站🥨",
+        "id": "1903701047589343232",
+        "name": "小方🥨",
+        "pinned_tweet_id": "2017413888686600518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010350007103483904/YZzbcGg-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4193,
+          "following_count": 1634,
+          "like_count": 9680,
+          "listed_count": 15,
+          "media_count": 73,
+          "tweet_count": 1109
+        },
+        "username": "ceobrus",
+        "verified": false
+      }
+    ]
+  }
+}

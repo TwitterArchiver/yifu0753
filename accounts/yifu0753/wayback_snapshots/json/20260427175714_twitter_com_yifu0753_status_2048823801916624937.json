@@ -1,0 +1,113 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2048823801916624937",
+    "created_at": "2026-04-27T17:57:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T18:57:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048823801916624937"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2048823801916624937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我希望有保险业（特别是香港）的相关信息并且熟悉跨性别群体的朋友告诉我一些关于这方面的情况。简单来说现在的问题是：\n在香港最高诚信原则下，跨性别者投保人寿或医疗保险时，如未充分披露相关医疗或过渡情况，是否可能导致日后保单被判无效？\n\n那么，在披露的情况下，考虑到跨性别常被视为非标准风险、存在拒保或加费的情况，在主要通过经纪/代理销售的环境中，实际应如何与保险公司沟通和披露？\n\n跨性别者在香港购买人寿、医保，要怎么样能尽可能降低法律风险?\n\n在以上前提情况下，什么样的产品对非香港居民也可以购买？"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我希望有保险业（特别是香港）的相关信息并且熟悉跨性别群体的朋友告诉我一些关于这方面的情况。简单来说现在的问题是：\n在香港最高诚信原则下，跨性别者投保人寿或医疗保险时，如未充分披露相关医疗或过渡情况，是否可能导致日后保单被判无效？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2048823801916624937",
+        "created_at": "2026-04-27T17:57:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T18:57:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048823801916624937"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048823801916624937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我希望有保险业（特别是香港）的相关信息并且熟悉跨性别群体的朋友告诉我一些关于这方面的情况。简单来说现在的问题是：\n在香港最高诚信原则下，跨性别者投保人寿或医疗保险时，如未充分披露相关医疗或过渡情况，是否可能导致日后保单被判无效？\n\n那么，在披露的情况下，考虑到跨性别常被视为非标准风险、存在拒保或加费的情况，在主要通过经纪/代理销售的环境中，实际应如何与保险公司沟通和披露？\n\n跨性别者在香港购买人寿、医保，要怎么样能尽可能降低法律风险?\n\n在以上前提情况下，什么样的产品对非香港居民也可以购买？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我希望有保险业（特别是香港）的相关信息并且熟悉跨性别群体的朋友告诉我一些关于这方面的情况。简单来说现在的问题是：\n在香港最高诚信原则下，跨性别者投保人寿或医疗保险时，如未充分披露相关医疗或过渡情况，是否可能导致日后保单被判无效？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 | 现已恢复?  抑郁状态 好好活着 二氧化碳好似喵 MtF🏳️‍⚧️",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 989,
+          "like_count": 5775,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 1404
+        },
+        "username": "yifu0753",
+        "verified": true
+      }
+    ]
+  }
+}

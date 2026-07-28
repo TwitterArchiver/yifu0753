@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038882875224010752"
+      ],
+      "media_source_tweet_id": [
+        "2038882902151454962"
+      ]
+    },
+    "author_id": "1668693781791784961",
+    "conversation_id": "2039176124434166061",
+    "created_at": "2026-04-01T03:00:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T04:00:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039176124434166061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "340107534",
+          "start": 3,
+          "username": "duanhjlt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SYknpAWKLU",
+          "end": 56,
+          "expanded_url": "https://x.com/duanhjlt/status/2038882902151454962/photo/1",
+          "media_key": "3_2038882875224010752",
+          "start": 33,
+          "url": "https://t.co/SYknpAWKLU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039176124434166061",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 76
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038882902151454962",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @duanhjlt: 为什么很多年轻人不愿意听过来人的建议 https://t.co/SYknpAWKLU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1725,
+        "media_key": "3_2038882875224010752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEuRLCxasAAoWCM.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038882875224010752"
+          ],
+          "media_source_tweet_id": [
+            "2038882902151454962"
+          ]
+        },
+        "author_id": "1668693781791784961",
+        "conversation_id": "2039176124434166061",
+        "created_at": "2026-04-01T03:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T04:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039176124434166061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "340107534",
+              "start": 3,
+              "username": "duanhjlt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SYknpAWKLU",
+              "end": 56,
+              "expanded_url": "https://x.com/duanhjlt/status/2038882902151454962/photo/1",
+              "media_key": "3_2038882875224010752",
+              "start": 33,
+              "url": "https://t.co/SYknpAWKLU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039176124434166061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 76
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038882902151454962",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @duanhjlt: 为什么很多年轻人不愿意听过来人的建议 https://t.co/SYknpAWKLU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038882875224010752"
+          ]
+        },
+        "author_id": "340107534",
+        "conversation_id": "2038882902151454962",
+        "created_at": "2026-03-31T07:35:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T08:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038882902151454962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SYknpAWKLU",
+              "end": 42,
+              "expanded_url": "https://x.com/duanhjlt/status/2038882902151454962/photo/1",
+              "media_key": "3_2038882875224010752",
+              "start": 19,
+              "url": "https://t.co/SYknpAWKLU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038882902151454962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 157,
+          "impression_count": 120753,
+          "like_count": 937,
+          "quote_count": 3,
+          "reply_count": 37,
+          "retweet_count": 76
+        },
+        "reply_settings": "everyone",
+        "text": "为什么很多年轻人不愿意听过来人的建议 https://t.co/SYknpAWKLU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 呼吸堵塞 | 现已恢复?  抑郁状态 好好活着 二氧化碳好似喵 MtF🏳️‍⚧️",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 971,
+          "like_count": 5256,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 1246
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-22T04:31:23.000Z",
+        "description": "让好奇心永远在线",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "domer.io",
+                "end": 23,
+                "expanded_url": "https://domer.io",
+                "start": 0,
+                "url": "https://t.co/4pSyFxbP36"
+              }
+            ]
+          }
+        },
+        "id": "340107534",
+        "location": "Beijing👉",
+        "name": "Alexander",
+        "pinned_tweet_id": "2037692552212865226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972814827749011456/IuCjwNAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23242,
+          "following_count": 840,
+          "like_count": 600,
+          "listed_count": 87,
+          "media_count": 5189,
+          "tweet_count": 8897
+        },
+        "url": "https://t.co/4pSyFxbP36",
+        "username": "duanhjlt",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1833285251101266377",
+    "created_at": "2024-09-10T05:14:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-10T06:14:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833373340654047275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1407034837953748995",
+          "start": 0,
+          "username": "Kinaiyurun0128"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833373340654047275",
+    "in_reply_to_user_id": "1407034837953748995",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833285251101266377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kinaiyurun0128 抱抱🤗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1833285251101266377",
+        "created_at": "2024-09-10T05:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-10T06:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833373340654047275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1407034837953748995",
+              "start": 0,
+              "username": "Kinaiyurun0128"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833373340654047275",
+        "in_reply_to_user_id": "1407034837953748995",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833285251101266377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kinaiyurun0128 抱抱🤗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1407034837953748995",
+        "conversation_id": "1833285251101266377",
+        "created_at": "2024-09-09T23:23:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-10T00:23:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833285251101266377"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1833285251101266377",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "岐奈好想自殺 這份感情還要折磨岐奈多久"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "精神分裂 精障人士 重度抑郁 氯化钡中毒 亚硝酸盐中毒 进过ICU",
+        "id": "1668693781791784961",
+        "location": "广州",
+        "name": "伊芙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 219,
+          "like_count": 999,
+          "listed_count": 0,
+          "tweet_count": 351
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-21T17:57:16.000Z",
+        "description": "DOES/GAD/SAD/PD/PTSD",
+        "id": "1407034837953748995",
+        "location": "ナイトコード",
+        "name": "岐奈ゆるん🍥",
+        "pinned_tweet_id": "1810643240733032908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826930572754620416/lWG-a777_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 438,
+          "like_count": 88703,
+          "listed_count": 1,
+          "tweet_count": 18822
+        },
+        "username": "Kinaiyurun0128",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003029987885256704"
+      ],
+      "media_source_tweet_id": [
+        "2003029996793937937"
+      ]
+    },
+    "author_id": "1668693781791784961",
+    "conversation_id": "2003136475114917931",
+    "created_at": "2025-12-22T16:12:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T17:12:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003136475114917931"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 74,
+          "start": 71,
+          "tag": "药娘"
+        },
+        {
+          "end": 79,
+          "start": 75,
+          "tag": "小药娘"
+        },
+        {
+          "end": 84,
+          "start": 80,
+          "tag": "跨性别"
+        },
+        {
+          "end": 89,
+          "start": 85,
+          "tag": "MTF"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1990869239574736896",
+          "start": 3,
+          "username": "MaoZhua520"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6ZgHWSGNtL",
+          "end": 113,
+          "expanded_url": "https://x.com/MaoZhua520/status/2003029996793937937/photo/1",
+          "media_key": "3_2003029987885256704",
+          "start": 90,
+          "url": "https://t.co/6ZgHWSGNtL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003136475114917931",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003029996793937937",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MaoZhua520: 我的做变性的大证下来啦一天就两个都开下来啦好开心！呜呜呜QWQ这辈子终于能不用被性别焦虑伤害自己了呜呜呜呜呜 #药娘 #小药娘 #跨性别 #MTF https://t.co/6ZgHWSGNtL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2003029987885256704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8wxKVZbEAAY_ab.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003029987885256704"
+          ],
+          "media_source_tweet_id": [
+            "2003029996793937937"
+          ]
+        },
+        "author_id": "1668693781791784961",
+        "conversation_id": "2003136475114917931",
+        "created_at": "2025-12-22T16:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T17:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003136475114917931"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 74,
+              "start": 71,
+              "tag": "药娘"
+            },
+            {
+              "end": 79,
+              "start": 75,
+              "tag": "小药娘"
+            },
+            {
+              "end": 84,
+              "start": 80,
+              "tag": "跨性别"
+            },
+            {
+              "end": 89,
+              "start": 85,
+              "tag": "MTF"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1990869239574736896",
+              "start": 3,
+              "username": "MaoZhua520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6ZgHWSGNtL",
+              "end": 113,
+              "expanded_url": "https://x.com/MaoZhua520/status/2003029996793937937/photo/1",
+              "media_key": "3_2003029987885256704",
+              "start": 90,
+              "url": "https://t.co/6ZgHWSGNtL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003136475114917931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003029996793937937",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MaoZhua520: 我的做变性的大证下来啦一天就两个都开下来啦好开心！呜呜呜QWQ这辈子终于能不用被性别焦虑伤害自己了呜呜呜呜呜 #药娘 #小药娘 #跨性别 #MTF https://t.co/6ZgHWSGNtL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003029987885256704"
+          ]
+        },
+        "author_id": "1990869239574736896",
+        "conversation_id": "2003029996793937937",
+        "created_at": "2025-12-22T09:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T10:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003029996793937937"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "药娘"
+            },
+            {
+              "end": 63,
+              "start": 59,
+              "tag": "小药娘"
+            },
+            {
+              "end": 68,
+              "start": 64,
+              "tag": "跨性别"
+            },
+            {
+              "end": 73,
+              "start": 69,
+              "tag": "MTF"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6ZgHWSGNtL",
+              "end": 97,
+              "expanded_url": "https://x.com/MaoZhua520/status/2003029996793937937/photo/1",
+              "media_key": "3_2003029987885256704",
+              "start": 74,
+              "url": "https://t.co/6ZgHWSGNtL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003029996793937937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1092,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的做变性的大证下来啦一天就两个都开下来啦好开心！呜呜呜QWQ这辈子终于能不用被性别焦虑伤害自己了呜呜呜呜呜 #药娘 #小药娘 #跨性别 #MTF https://t.co/6ZgHWSGNtL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "「she her 她」 伊芙~ | 安息！ 在我坟前献上一束花",
+        "id": "1668693781791784961",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 985,
+          "like_count": 4762,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 995
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-18T19:46:43.000Z",
+        "description": "一只MTF（跨性别），男孩/跨/女孩我是雌坠小可爱！本人有严重抑郁，但是抑郁症的时候喜欢用雌性激素扎自己才舒服才有安全感！pwq~🏳️‍⚧️pwqQWQ有很多生命中无法接受的痛苦！只想真心被爱一辈子！也希望有同类愿意现实中和我在一起走过我生命中最后的时间！对象：@yu_kirins",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 131,
+                "username": "yu_kirins"
+              }
+            ]
+          }
+        },
+        "id": "1990869239574736896",
+        "location": "520km",
+        "name": "🏳️‍⚧️猫の爪呸雌呸角🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991942147986321408/gwvUQZmm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 130,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 44
+        },
+        "username": "MaoZhua520",
+        "verified": false
+      }
+    ]
+  }
+}

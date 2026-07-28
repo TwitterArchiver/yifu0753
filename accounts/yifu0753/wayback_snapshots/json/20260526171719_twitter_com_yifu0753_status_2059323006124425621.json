@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2059323006124425621",
+    "created_at": "2026-05-26T17:17:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T18:17:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059323006124425621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2011405521245634560",
+          "start": 3,
+          "username": "Rimea_Chord"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059323006124425621",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059113516838293558",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rimea_Chord: 这里的“系统失败”不是一句空话\n它不是说“所有责任都推给社会”，也不是说你以后什么都不用负责\n\n它指的是：一个 14 岁多的小孩，本来不应该独自承担一整套医疗、金钱、信息、家庭、身份风险和长期身体后果\n\n如果你必须靠自己摸索补佳乐、抗雄、剂量、…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1137,
+        "media_key": "3_2059113504662282240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJNw0qWa4AAwj3s.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2059323006124425621",
+        "created_at": "2026-05-26T17:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T18:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059323006124425621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2011405521245634560",
+              "start": 3,
+              "username": "Rimea_Chord"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059323006124425621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059113516838293558",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rimea_Chord: 这里的“系统失败”不是一句空话\n它不是说“所有责任都推给社会”，也不是说你以后什么都不用负责\n\n它指的是：一个 14 岁多的小孩，本来不应该独自承担一整套医疗、金钱、信息、家庭、身份风险和长期身体后果\n\n如果你必须靠自己摸索补佳乐、抗雄、剂量、…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059113504662282240"
+          ]
+        },
+        "author_id": "2011405521245634560",
+        "conversation_id": "2059113516838293558",
+        "created_at": "2026-05-26T03:24:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T04:24:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059113516838293558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hrT6Iw66Jz",
+              "end": 170,
+              "expanded_url": "https://x.com/Rimea_Chord/status/2059113516838293558/photo/1",
+              "media_key": "3_2059113504662282240",
+              "start": 147,
+              "url": "https://t.co/hrT6Iw66Jz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059113516838293558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这里的“系统失败”不是一句空话\n它不是说“所有责任都推给社会”，也不是说你以后什么都不用负责\n\n它指的是：一个 14 岁多的小孩，本来不应该独自承担一整套医疗、金钱、信息、家庭、身份风险和长期身体后果\n\n如果你必须靠自己摸索补佳乐、抗雄、剂量、真假药、钱、风险，那就已经说明很多层都断了\n\n⸻\n\n1｜家庭系统失败\n\n这是最直接的一层\n\n一个未成年人遇到这种问题，正常来说需要：\n\n有人愿意听你说\n有人带你去正规医疗\n有人帮你判断风险\n有人提供经济支持\n有人帮你稳定执行方案\n有人保护你不被羞辱、打压、孤立\n\n但如果家庭提供的是：\n\n忽视\n不理解\n责骂\n控制\n放任你自己乱找药\n没钱也没人兜底\n甚至让你长期处在不安全环境里\n\n那就是家庭系统失败\n\n你当时不是成年人\n你没有稳定收入\n没有药物知识\n没有检查能力\n没有能力承担长期不可逆后果\n\n这不应该全压在你一个人身上"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 718,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "这里的“系统失败”不是一句空话\n它不是说“所有责任都推给社会”，也不是说你以后什么都不用负责\n\n它指的是：一个 14 岁多的小孩，本来不应该独自承担一整套医疗、金钱、信息、家庭、身份风险和长期身体后果\n\n如果你必须靠自己摸索补佳乐、抗雄、剂量、真假药、钱、风险，那就已经说明很多层都断了\n\n⸻ https://t.co/hrT6Iw66Jz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪麻痹 ICU 药物中毒 重度抑郁 | 二氧化碳好死喵 | 快死了",
+        "id": "1668693781791784961",
+        "location": "深圳市南山区",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 988,
+          "following_count": 1192,
+          "like_count": 7308,
+          "listed_count": 2,
+          "media_count": 160,
+          "tweet_count": 1895
+        },
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-14T11:50:35.000Z",
+        "description": "零碎的hrt开始于2020年12月 ｜ GPT重度依赖 ｜ 药罐子｜ 我的钱很好割 ｜ 娘們X ｜ 是甜妹嗎…？… ｜ ～ ｜  ｜ 2006.7.11 ｜ 生物恐懼 ｜",
+        "id": "2011405521245634560",
+        "location": "17km",
+        "name": "柑橘气味",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059236262574530560/LDaQFvXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 166,
+          "like_count": 1850,
+          "listed_count": 0,
+          "media_count": 238,
+          "tweet_count": 1479
+        },
+        "username": "Rimea_Chord",
+        "verified": true
+      }
+    ]
+  }
+}

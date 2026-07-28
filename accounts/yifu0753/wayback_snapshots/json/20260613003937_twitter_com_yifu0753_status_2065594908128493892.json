@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065594903665795072",
+        "3_2065594905511223296",
+        "3_2065594903946735616"
+      ]
+    },
+    "author_id": "1668693781791784961",
+    "conversation_id": "2065594908128493892",
+    "created_at": "2026-06-13T00:39:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T01:39:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065594908128493892"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "通过趣味测试，发掘你的深层欲望，呈现专属内心剖析报告。",
+          "display_url": "app-c0pekkbtb6rl.appmiaoda.com/result/2",
+          "end": 49,
+          "expanded_url": "https://app-c0pekkbtb6rl.appmiaoda.com/result/2",
+          "start": 26,
+          "status": 200,
+          "title": "欲望心理测试网站",
+          "unwound_url": "https://app-c0pekkbtb6rl.appmiaoda.com/result/2",
+          "url": "https://t.co/qVnddmQLtC"
+        },
+        {
+          "display_url": "pic.x.com/hCIPB89ger",
+          "end": 73,
+          "expanded_url": "https://x.com/yifu0753/status/2065594908128493892/photo/1",
+          "media_key": "3_2065594903665795072",
+          "start": 50,
+          "url": "https://t.co/hCIPB89ger"
+        },
+        {
+          "display_url": "pic.x.com/hCIPB89ger",
+          "end": 73,
+          "expanded_url": "https://x.com/yifu0753/status/2065594908128493892/photo/1",
+          "media_key": "3_2065594905511223296",
+          "start": 50,
+          "url": "https://t.co/hCIPB89ger"
+        },
+        {
+          "display_url": "pic.x.com/hCIPB89ger",
+          "end": 73,
+          "expanded_url": "https://x.com/yifu0753/status/2065594908128493892/photo/1",
+          "media_key": "3_2065594903946735616",
+          "start": 50,
+          "url": "https://t.co/hCIPB89ger"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065594908128493892",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“你的爱不是随便说说，是一旦开始就很难全身而退。”\nhttps://t.co/qVnddmQLtC https://t.co/hCIPB89ger"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2113,
+        "media_key": "3_2065594903665795072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKp3nvLbYAA1eB6.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2113,
+        "media_key": "3_2065594905511223296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKp3n2DaYAAtYN2.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2113,
+        "media_key": "3_2065594903946735616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKp3nwOaMAAO5d8.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065594903665795072",
+            "3_2065594905511223296",
+            "3_2065594903946735616"
+          ]
+        },
+        "author_id": "1668693781791784961",
+        "conversation_id": "2065594908128493892",
+        "created_at": "2026-06-13T00:39:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T01:39:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065594908128493892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "通过趣味测试，发掘你的深层欲望，呈现专属内心剖析报告。",
+              "display_url": "app-c0pekkbtb6rl.appmiaoda.com/result/2",
+              "end": 49,
+              "expanded_url": "https://app-c0pekkbtb6rl.appmiaoda.com/result/2",
+              "start": 26,
+              "status": 200,
+              "title": "欲望心理测试网站",
+              "unwound_url": "https://app-c0pekkbtb6rl.appmiaoda.com/result/2",
+              "url": "https://t.co/qVnddmQLtC"
+            },
+            {
+              "display_url": "pic.x.com/hCIPB89ger",
+              "end": 73,
+              "expanded_url": "https://x.com/yifu0753/status/2065594908128493892/photo/1",
+              "media_key": "3_2065594903665795072",
+              "start": 50,
+              "url": "https://t.co/hCIPB89ger"
+            },
+            {
+              "display_url": "pic.x.com/hCIPB89ger",
+              "end": 73,
+              "expanded_url": "https://x.com/yifu0753/status/2065594908128493892/photo/1",
+              "media_key": "3_2065594905511223296",
+              "start": 50,
+              "url": "https://t.co/hCIPB89ger"
+            },
+            {
+              "display_url": "pic.x.com/hCIPB89ger",
+              "end": 73,
+              "expanded_url": "https://x.com/yifu0753/status/2065594908128493892/photo/1",
+              "media_key": "3_2065594903946735616",
+              "start": 50,
+              "url": "https://t.co/hCIPB89ger"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065594908128493892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“你的爱不是随便说说，是一旦开始就很难全身而退。”\nhttps://t.co/qVnddmQLtC https://t.co/hCIPB89ger"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "友顺跨女 大龄n的| hrt 24/11/14 | 亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪麻痹 ICU 药物中毒 重度抑郁 | 二氧化碳好死喵 | 死闺 @Sayuki_Inoue",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Sayuki_Inoue"
+              }
+            ]
+          }
+        },
+        "id": "1668693781791784961",
+        "location": "深圳市南山区",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1045,
+          "following_count": 1238,
+          "like_count": 7743,
+          "listed_count": 2,
+          "media_count": 170,
+          "tweet_count": 1996
+        },
+        "username": "yifu0753",
+        "verified": true
+      }
+    ]
+  }
+}

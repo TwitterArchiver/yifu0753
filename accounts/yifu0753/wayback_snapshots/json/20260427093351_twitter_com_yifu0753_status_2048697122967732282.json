@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048378008868937728",
+        "3_2048378008889868288"
+      ],
+      "media_source_tweet_id": [
+        "2048378013746708695",
+        "2048378013746708695"
+      ]
+    },
+    "author_id": "1668693781791784961",
+    "conversation_id": "2048697122967732282",
+    "created_at": "2026-04-27T09:33:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T10:33:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048697122967732282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1924212425332813824",
+          "start": 3,
+          "username": "Phoenixyin13"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Qlvg7TvhPz",
+          "end": 139,
+          "expanded_url": "https://x.com/Phoenixyin13/status/2048378013746708695/photo/1",
+          "media_key": "3_2048378008868937728",
+          "start": 116,
+          "url": "https://t.co/Qlvg7TvhPz"
+        },
+        {
+          "display_url": "pic.x.com/Qlvg7TvhPz",
+          "end": 139,
+          "expanded_url": "https://x.com/Phoenixyin13/status/2048378013746708695/photo/1",
+          "media_key": "3_2048378008889868288",
+          "start": 116,
+          "url": "https://t.co/Qlvg7TvhPz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048697122967732282",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 192
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048378013746708695",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Phoenixyin13: 🚨 震撼！2026年4月Science重磅：斯坦福团队（中国博士后一作）发现蛋白质能直接指导合成DNA。\n\n近70年的中心法则被彻底改写了！\n\n以前的情况是，DNA→RNA→蛋白质（信息单向）… https://t.co/Qlvg7TvhPz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 658,
+        "media_key": "3_2048378008868937728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1M8kBa4AAZ9nD.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1802,
+        "media_key": "3_2048378008889868288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1M8kGaQAAxaJf.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048378008868937728",
+            "3_2048378008889868288"
+          ],
+          "media_source_tweet_id": [
+            "2048378013746708695",
+            "2048378013746708695"
+          ]
+        },
+        "author_id": "1668693781791784961",
+        "conversation_id": "2048697122967732282",
+        "created_at": "2026-04-27T09:33:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T10:33:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048697122967732282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1924212425332813824",
+              "start": 3,
+              "username": "Phoenixyin13"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qlvg7TvhPz",
+              "end": 139,
+              "expanded_url": "https://x.com/Phoenixyin13/status/2048378013746708695/photo/1",
+              "media_key": "3_2048378008868937728",
+              "start": 116,
+              "url": "https://t.co/Qlvg7TvhPz"
+            },
+            {
+              "display_url": "pic.x.com/Qlvg7TvhPz",
+              "end": 139,
+              "expanded_url": "https://x.com/Phoenixyin13/status/2048378013746708695/photo/1",
+              "media_key": "3_2048378008889868288",
+              "start": 116,
+              "url": "https://t.co/Qlvg7TvhPz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048697122967732282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 192
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048378013746708695",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Phoenixyin13: 🚨 震撼！2026年4月Science重磅：斯坦福团队（中国博士后一作）发现蛋白质能直接指导合成DNA。\n\n近70年的中心法则被彻底改写了！\n\n以前的情况是，DNA→RNA→蛋白质（信息单向）… https://t.co/Qlvg7TvhPz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048378008868937728",
+            "3_2048378008889868288"
+          ]
+        },
+        "author_id": "1924212425332813824",
+        "conversation_id": "2048378013746708695",
+        "created_at": "2026-04-26T12:25:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T13:25:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048378013746708695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qlvg7TvhPz",
+              "end": 120,
+              "expanded_url": "https://x.com/Phoenixyin13/status/2048378013746708695/photo/1",
+              "media_key": "3_2048378008868937728",
+              "start": 97,
+              "url": "https://t.co/Qlvg7TvhPz"
+            },
+            {
+              "display_url": "pic.x.com/Qlvg7TvhPz",
+              "end": 120,
+              "expanded_url": "https://x.com/Phoenixyin13/status/2048378013746708695/photo/1",
+              "media_key": "3_2048378008889868288",
+              "start": 97,
+              "url": "https://t.co/Qlvg7TvhPz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048378013746708695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 506,
+                "start": 501,
+                "tag": "中心法则"
+              },
+              {
+                "end": 514,
+                "start": 507,
+                "tag": "蛋白质DNA"
+              },
+              {
+                "end": 523,
+                "start": 515,
+                "tag": "Science"
+              },
+              {
+                "end": 530,
+                "start": 524,
+                "tag": "生物学突破"
+              },
+              {
+                "end": 535,
+                "start": 531,
+                "tag": "斯坦福"
+              }
+            ]
+          },
+          "text": "🚨 震撼！2026年4月Science重磅：斯坦福团队（中国博士后一作）发现蛋白质能直接指导合成DNA。\n\n近70年的中心法则被彻底改写了！\n\n以前的情况是，DNA→RNA→蛋白质（信息单向）\n\n现在，斯坦福团队发现，蛋白质也能反向→DNA！完全不需要DNA/RNA模板，就靠蛋白质自己的氨基酸结构当模具，精准造出AC重复DNA序列。\n\n这是克里克提出中心法则以来最大改写！蛋白质第一次被证实能直接携带并传递遗传信息。\n细菌用它对抗病毒，我们人类可能即将迎来基因工程新纪元。\n\n最令我感到喜悦的两件事：\n1.论文里提到用 AlphaFold3 辅助建模Drt3b的结构，这是生物学研究的常规操作，但我仍然感受到AI与生物的有机结合。\n2. 蛋白质直接当模板造DNA的机制，打开了蛋白质指导遗传信息的新玩法。如果未来能工程化改造Drt3b，让它按照AI设计的蛋白结构，精准合成任意DNA序列，那基因合成、基因编辑、合成生物学可能会迎来大跃进，不再完全依赖传统模板依赖的聚合酶，这将是伟大的未来。\n\n总之，2026年的4月，人类创造了一场生命科学基础理论的震撼。请大家记住此刻，记住这神奇而美妙的四月。\n\n#中心法则 #蛋白质DNA #Science #生物学突破 #斯坦福"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 618,
+          "impression_count": 192663,
+          "like_count": 892,
+          "quote_count": 24,
+          "reply_count": 171,
+          "retweet_count": 192
+        },
+        "reply_settings": "everyone",
+        "text": "🚨 震撼！2026年4月Science重磅：斯坦福团队（中国博士后一作）发现蛋白质能直接指导合成DNA。\n\n近70年的中心法则被彻底改写了！\n\n以前的情况是，DNA→RNA→蛋白质（信息单向） https://t.co/Qlvg7TvhPz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 | 现已恢复?  抑郁状态 好好活着 二氧化碳好似喵 MtF🏳️‍⚧️",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 985,
+          "like_count": 5551,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 1401
+        },
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-18T21:16:21.000Z",
+        "description": "🇺🇸 04美本 | 计算机科学&认知科学\n⚙️AI, cognition, crypto, and the future of intelligence.\n✨相信好奇心驱动。相信人永远可塑。",
+        "id": "1924212425332813824",
+        "location": "Beverly Hills, CA",
+        "name": "Phoenix Yin",
+        "pinned_tweet_id": "2048378013746708695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028337523773038592/1kSOtKBU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2075,
+          "following_count": 1316,
+          "like_count": 3553,
+          "listed_count": 8,
+          "media_count": 98,
+          "tweet_count": 1839
+        },
+        "username": "Phoenixyin13",
+        "verified": true
+      }
+    ]
+  }
+}

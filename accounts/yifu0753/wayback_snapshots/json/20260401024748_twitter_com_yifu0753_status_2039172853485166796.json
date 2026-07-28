@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038736631478542337"
+      ],
+      "media_source_tweet_id": [
+        "2038736753138561354"
+      ]
+    },
+    "author_id": "1668693781791784961",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2039172853485166796",
+    "created_at": "2026-04-01T02:47:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T03:47:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039172853485166796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1165044876297134080",
+          "start": 3,
+          "username": "realNyarime"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/D9dVF6sOpO",
+          "end": 55,
+          "expanded_url": "https://x.com/realNyarime/status/2038736753138561354/photo/1",
+          "media_key": "3_2038736631478542337",
+          "start": 32,
+          "url": "https://t.co/D9dVF6sOpO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039172853485166796",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038736753138561354",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @realNyarime: 你的同事可能是AI的受害者🤣 https://t.co/D9dVF6sOpO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2038736631478542337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEsMKiXa4AEcGt1.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038736631478542337"
+          ],
+          "media_source_tweet_id": [
+            "2038736753138561354"
+          ]
+        },
+        "author_id": "1668693781791784961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2039172853485166796",
+        "created_at": "2026-04-01T02:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T03:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039172853485166796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1165044876297134080",
+              "start": 3,
+              "username": "realNyarime"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D9dVF6sOpO",
+              "end": 55,
+              "expanded_url": "https://x.com/realNyarime/status/2038736753138561354/photo/1",
+              "media_key": "3_2038736631478542337",
+              "start": 32,
+              "url": "https://t.co/D9dVF6sOpO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039172853485166796",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038736753138561354",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @realNyarime: 你的同事可能是AI的受害者🤣 https://t.co/D9dVF6sOpO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038736631478542337"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2038736753138561354",
+        "created_at": "2026-03-30T21:54:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T22:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038736753138561354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D9dVF6sOpO",
+              "end": 38,
+              "expanded_url": "https://x.com/realNyarime/status/2038736753138561354/photo/1",
+              "media_key": "3_2038736631478542337",
+              "start": 15,
+              "url": "https://t.co/D9dVF6sOpO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038736753138561354",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 228,
+          "impression_count": 92535,
+          "like_count": 885,
+          "quote_count": 10,
+          "reply_count": 14,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "你的同事可能是AI的受害者🤣 https://t.co/D9dVF6sOpO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 呼吸堵塞 | 现已恢复?  抑郁状态 好好活着 二氧化碳好似喵 MtF🏳️‍⚧️",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 971,
+          "like_count": 5244,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 1227
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2038526352199242012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24994,
+          "following_count": 499,
+          "like_count": 11592,
+          "listed_count": 112,
+          "media_count": 1331,
+          "tweet_count": 9101
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

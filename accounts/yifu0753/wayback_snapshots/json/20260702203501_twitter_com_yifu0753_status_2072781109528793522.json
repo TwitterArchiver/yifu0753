@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2072781109528793522",
+    "created_at": "2026-07-02T20:35:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T21:35:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072781109528793522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1468298719447887872",
+          "start": 3,
+          "username": "dviolettchan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072781109528793522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072658503626375213",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dviolettchan: 写在「我爹不让我上 NYUSH，并且打算离婚」事件之后：关于自主选择、家庭经济支持与家庭暴力\n\n1. 成年人的自主选择\n成年以后，首先要摆脱的，就是一切以「为你好」为名的精神和人身控制。作为成年人，你应该为自己的人生选择负责：收获成功，或者承…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2072781109528793522",
+        "created_at": "2026-07-02T20:35:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T21:35:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072781109528793522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1468298719447887872",
+              "start": 3,
+              "username": "dviolettchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072781109528793522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072658503626375213",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dviolettchan: 写在「我爹不让我上 NYUSH，并且打算离婚」事件之后：关于自主选择、家庭经济支持与家庭暴力\n\n1. 成年人的自主选择\n成年以后，首先要摆脱的，就是一切以「为你好」为名的精神和人身控制。作为成年人，你应该为自己的人生选择负责：收获成功，或者承…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468298719447887872",
+        "conversation_id": "2072658503626375213",
+        "created_at": "2026-07-02T12:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T13:10:46.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072654209967649148",
+          "2072658503626375213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ImKrisYan/stat…",
+              "end": 149,
+              "expanded_url": "https://twitter.com/ImKrisYan/status/2072374301387632851",
+              "start": 126,
+              "url": "https://t.co/z7njp3i9rL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072658503626375213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "写在「我爹不让我上 NYUSH，并且打算离婚」事件之后：关于自主选择、家庭经济支持与家庭暴力\n\n1. 成年人的自主选择\n成年以后，首先要摆脱的，就是一切以「为你好」为名的精神和人身控制。作为成年人，你应该为自己的人生选择负责：收获成功，或者承担后果。\n\n无论成功还是失败，这都是你自己的选择，其他人无权置喙。\n\n即使失败了，也不代表任何人有权控制你。你只是需要吸取教训，变得更强而已。\n\n2. 家庭经济支持\n当然，小孩读不读海本 / 中外合办，已经不只是一个单纯的「建议」问题了，更多是一个「家长愿不愿意at will赠予小孩提供大量资金来提升学历」的问题。\n\n从家长的角度出发，一分钱不给，或者拒绝支付超出某个数额的钱，都是非常合理的选择。\n\n从小孩的角度出发，这是你作为成年人第一次真正面对利益，理解父母的支持从来都不是无条件的给予。我觉得，做出对自己有利、问心无愧的选择就好。\n\n你已经是成年人了。没有人会无条件地爱你，也没有人会把自己的一切都给你。\n\n家长擅自篡改你的志愿，你可以直接报警。但如果家里断供、交不起学费，你也需要自己管理好风险。\n\n恭喜成年。\n\n3. 家庭暴力\n在任何人选择对你实施家庭暴力，并且用离婚威胁来干涉配偶的经济选择时，我认为，从今天起，这个人与你之间就只剩下血缘关系和法律上的赡养义务。在情感上，这个人已经永久地死去了。\n\n在中国大陆的现实环境下，打小孩、干涉配偶经济选择这种事情，即使报警，也大概率很难得到充分的官方支持。但你仍然可以选择，在内心让一些人永远地死去。\n\n另外，在国内的环境下，也要小心生物爹 / 妈花钱找杨永信来拷打你。做好自我保护，敢于斗争，善于斗争。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 13189,
+          "like_count": 70,
+          "quote_count": 2,
+          "reply_count": 27,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072374301387632851",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "写在「我爹不让我上 NYUSH，并且打算离婚」事件之后：关于自主选择、家庭经济支持与家庭暴力\n\n1. 成年人的自主选择\n成年以后，首先要摆脱的，就是一切以「为你好」为名的精神和人身控制。作为成年人，你应该为自己的人生选择负责：收获成功，或者承担后果。 https://t.co/z7njp3i9rL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "neow 友顺跨女 原简介被封了",
+        "id": "1668693781791784961",
+        "location": "深圳市南山区",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1232,
+          "following_count": 1296,
+          "like_count": 8222,
+          "listed_count": 2,
+          "media_count": 194,
+          "tweet_count": 2128
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-07T19:18:15.000Z",
+        "description": "制服爱好者 | 想要变得幸福 | 北美菜校ECE PhD Candidate | 魏晋名士 | 与欣宝一起期待更温柔的世界 | 🍻: @sheriyuo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "sheriyuo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "thesecatsdonotexist.com",
+                "end": 23,
+                "expanded_url": "https://thesecatsdonotexist.com/",
+                "start": 0,
+                "url": "https://t.co/XxMPM0e5ee"
+              }
+            ]
+          }
+        },
+        "id": "1468298719447887872",
+        "location": "Ontario, Canada",
+        "name": "紫云",
+        "pinned_tweet_id": "1999916217818333233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999225008120340481/KS3I1fWx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5465,
+          "following_count": 581,
+          "like_count": 13163,
+          "listed_count": 15,
+          "media_count": 65,
+          "tweet_count": 5693
+        },
+        "url": "https://t.co/XxMPM0e5ee",
+        "username": "dviolettchan",
+        "verified": true
+      }
+    ]
+  }
+}

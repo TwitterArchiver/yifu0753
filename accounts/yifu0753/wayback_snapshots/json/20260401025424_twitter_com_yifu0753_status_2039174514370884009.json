@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039140278754504704"
+      ],
+      "media_source_tweet_id": [
+        "2039140334244974712"
+      ]
+    },
+    "author_id": "1668693781791784961",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1237004504219828224",
+          "name": "Computer hardware"
+        }
+      }
+    ],
+    "conversation_id": "2039174514370884009",
+    "created_at": "2026-04-01T02:54:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T03:54:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039174514370884009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "100399047",
+          "start": 3,
+          "username": "Tz_2022"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WiY6VtnVFf",
+          "end": 133,
+          "expanded_url": "https://x.com/Tz_2022/status/2039140334244974712/photo/1",
+          "media_key": "3_2039140278754504704",
+          "start": 110,
+          "url": "https://t.co/WiY6VtnVFf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039174514370884009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039140334244974712",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tz_2022: 字节跳动宣布正式更名为“词元跳动”（TokenDance）\n重塑人类与AI交互新纪元\n\n发布时间：2026年4月1日\n发布地点：中国，北京\n发布机构：路边社\n\n北京，2026年4月1日 ——… https://t.co/WiY6VtnVFf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 559,
+        "media_key": "3_2039140278754504704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEx7R5pacAA5s9Y.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039140278754504704"
+          ],
+          "media_source_tweet_id": [
+            "2039140334244974712"
+          ]
+        },
+        "author_id": "1668693781791784961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237004504219828224",
+              "name": "Computer hardware"
+            }
+          }
+        ],
+        "conversation_id": "2039174514370884009",
+        "created_at": "2026-04-01T02:54:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T03:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039174514370884009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "100399047",
+              "start": 3,
+              "username": "Tz_2022"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WiY6VtnVFf",
+              "end": 133,
+              "expanded_url": "https://x.com/Tz_2022/status/2039140334244974712/photo/1",
+              "media_key": "3_2039140278754504704",
+              "start": 110,
+              "url": "https://t.co/WiY6VtnVFf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039174514370884009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039140334244974712",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tz_2022: 字节跳动宣布正式更名为“词元跳动”（TokenDance）\n重塑人类与AI交互新纪元\n\n发布时间：2026年4月1日\n发布地点：中国，北京\n发布机构：路边社\n\n北京，2026年4月1日 ——… https://t.co/WiY6VtnVFf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039140278754504704"
+          ]
+        },
+        "author_id": "100399047",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237004504219828224",
+              "name": "Computer hardware"
+            }
+          }
+        ],
+        "conversation_id": "2039140334244974712",
+        "created_at": "2026-04-01T00:38:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T01:38:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039140334244974712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WiY6VtnVFf",
+              "end": 119,
+              "expanded_url": "https://x.com/Tz_2022/status/2039140334244974712/photo/1",
+              "media_key": "3_2039140278754504704",
+              "start": 96,
+              "url": "https://t.co/WiY6VtnVFf"
+            },
+            {
+              "display_url": "x.com/oran_ge/status…",
+              "end": 143,
+              "expanded_url": "https://twitter.com/oran_ge/status/2039128633995034954",
+              "start": 120,
+              "url": "https://t.co/MSenxTR6n2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039140334244974712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "字节跳动宣布正式更名为“词元跳动”（TokenDance）\n重塑人类与AI交互新纪元\n\n发布时间：2026年4月1日\n发布地点：中国，北京\n发布机构：路边社\n\n北京，2026年4月1日 —— 全球领先的信息与科技公司字节跳动（ByteDance）今日正式宣布，公司将进行全面的品牌战略升级，即日起将公司名称正式更改为“词元跳动”（TokenDance）。此次更名旨在准确反映真实世界中人类与人工智能（AI）之间日益深刻的共生关系，并标志着公司核心战略向通用人工智能（AGI）时代的全面迈进。\n\n在过去的十余年中，“字节”（Byte）作为计算机信息存储与传输的基础单位，见证了公司在移动互联网时代的崛起，也代表了信息分发技术的黄金岁月。然而，随着大语言模型（LLM）和多模态生成式AI的爆发，人类计算的基石已经发生了根本性的范式转移。\n\n“词元”（Token）是现代人工智能模型理解、处理和生成人类语言与思想的最小意义单位。从“字节”到“词元”的跨越，不仅是技术底层逻辑的迭代，更是公司哲学观的升华。\n\n词元跳动首席执行官在致全体员工的内部信中表示：“我们正处在一个人类认知与机器智能高度融合的历史节点。过去，我们通过处理‘字节’来连接人与信息；未来，我们将通过激发‘词元’来理解人类意图、扩展人类创造力，并重塑人机关系。‘词元跳动’代表着我们不再仅仅是信息的搬运工，而是人类与AI共同编织数字世界的舞蹈伙伴。”\n\n配合此次更名，词元跳动（TokenDance）宣布了未来三大核心战略方向：\n\n从“信息分发”向“意图共创”转型：\n\n 旗下的核心产品矩阵将全面引入深度重构的AI底层架构。未来的内容生态将不再单向依赖算法推荐，而是通过实时的“词元”交互，让用户与AI共同生成、演化和消费内容。\n\n构建“人机价值对齐”的计算平台： \n\n设立全新的“词元伦理与安全实验室”，确保在海量Token的生成与跳动中，AI的产出始终符合人类社会的道德直觉与真实世界的物理规律。\n\n赋能全行业的“词元化”升级： \n\n推出针对企业级的Token引擎，帮助各行各业在研发、生产、营销等环节实现从数字化向认知化的跨越。\n\n公司的新版Logo也于今日同步揭晓：原有的音符图形被解构为无数个代表Token的动态粒子，这些粒子在三维空间中不断聚合、重组，象征着语言大模型中信息的无尽生成与创意涌现。\n\n自2026年4月1日起，公司在全球范围内的官方网站、应用商店开发者名称、以及企业实体标识将陆续启动替换工作。公司财务状况、股权结构及现有用户的服务协议均不受此次更名影响。\n\n关于词元跳动（TokenDance）：\n\n词元跳动（原字节跳动）是一家致力于通过人工智能技术激发创造、丰富生活的全球科技公司。在AGI时代，我们以“Token”为基石，探索人类智能与机器智能的和谐共生，旗下拥有多款深受全球用户喜爱的现象级认知与内容互动平台。\n\n媒体联系人：\n词元跳动 公共关系部\npr@tokendance.com"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9462,
+          "like_count": 18,
+          "quote_count": 6,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039128633995034954",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "字节跳动宣布正式更名为“词元跳动”（TokenDance）\n重塑人类与AI交互新纪元\n\n发布时间：2026年4月1日\n发布地点：中国，北京\n发布机构：路边社\n\n北京，2026年4月1日 —— https://t.co/WiY6VtnVFf https://t.co/MSenxTR6n2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 呼吸堵塞 | 现已恢复?  抑郁状态 好好活着 二氧化碳好似喵 MtF🏳️‍⚧️",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 971,
+          "like_count": 5252,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 1237
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-30T04:06:23.000Z",
+        "description": "品味是一种异常值。→ tastes.md\nAI is the steam engine of the mind. \nAI 是心灵的蒸汽机。科幻是现实的有效坍塌。加速正在被加速。看，那千尺海啸正扑面而来，而我们还在海滩上捡垃圾。\n念念不忘，必有回响。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tastes.md",
+                "end": 23,
+                "expanded_url": "https://tastes.md",
+                "start": 0,
+                "url": "https://t.co/vbxodrKnzl"
+              }
+            ]
+          }
+        },
+        "id": "100399047",
+        "location": "Scotland, United Kingdom",
+        "name": "Tz",
+        "pinned_tweet_id": "1989145573434474625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1579478276287905794/7-2NGiY3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16996,
+          "following_count": 1515,
+          "like_count": 10788,
+          "listed_count": 232,
+          "media_count": 1605,
+          "tweet_count": 8103
+        },
+        "url": "https://t.co/vbxodrKnzl",
+        "username": "Tz_2022",
+        "verified": true
+      }
+    ]
+  }
+}

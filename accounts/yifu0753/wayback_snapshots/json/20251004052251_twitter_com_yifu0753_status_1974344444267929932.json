@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1974179219572994474",
+    "created_at": "2025-10-04T05:22:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T06:22:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974344444267929932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1508447967987961857",
+          "start": 0,
+          "username": "Reshia233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974344444267929932",
+    "in_reply_to_user_id": "1508447967987961857",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974325518096048277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Reshia233 😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1974179219572994474",
+        "created_at": "2025-10-04T05:22:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T06:22:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974344444267929932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1508447967987961857",
+              "start": 0,
+              "username": "Reshia233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974344444267929932",
+        "in_reply_to_user_id": "1508447967987961857",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974325518096048277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reshia233 😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447967987961857",
+        "conversation_id": "1974179219572994474",
+        "created_at": "2025-10-04T04:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T05:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974325518096048277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1668693781791784961",
+              "start": 0,
+              "username": "yifu0753"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974325518096048277",
+        "in_reply_to_user_id": "1668693781791784961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974179219572994474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yifu0753 抱抱...没事的...（*/∇＼*）\n有事一定要说出来啦（*/∇＼*）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "🏳‍⚧ 抑郁焦虑状态",
+        "id": "1668693781791784961",
+        "name": "伊芙🍥",
+        "pinned_tweet_id": "1936898802361020812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 936,
+          "like_count": 4263,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 914
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-28T14:17:00.000Z",
+        "description": "(*σ´∀`)σ|MtX|💛🤍💜🖤|间歇性HRT2025.6.14|天赋极残完全不PASS党|还有咱其实是双|Gal&rhythm game player|大変に気分がいい~｜咱会互fo的\n（｡ò ∀ ó｡）｜叫我令诗亚/令纱也可以...(Deepseek起的名)或者——瑞希洛尼雅(？)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/restsilosen2333",
+                "end": 23,
+                "expanded_url": "https://t.me/restsilosen2333",
+                "start": 0,
+                "url": "https://t.co/BIVqPDqAp9"
+              }
+            ]
+          }
+        },
+        "id": "1508447967987961857",
+        "location": "羽丘不旁边神山高校附属滹沱河女子职业技术学院北365km处",
+        "name": "令纱◇𝑹𝒆𝒔𝒉𝒊𝒂~",
+        "pinned_tweet_id": "1950016867676148209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1542869212221276161/xOvn3lo9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 107,
+          "like_count": 365,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 305
+        },
+        "url": "https://t.co/BIVqPDqAp9",
+        "username": "Reshia233",
+        "verified": false
+      }
+    ]
+  }
+}

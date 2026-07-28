@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1950147149452476744",
+    "created_at": "2025-07-29T11:10:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T12:10:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950151927431352652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1690706941134397440",
+          "start": 0,
+          "username": "ITNSatori8964"
+        },
+        {
+          "end": 31,
+          "id": "1856322437144817667",
+          "start": 15,
+          "username": "ChosekiNoraneko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950151927431352652",
+    "in_reply_to_user_id": "1690706941134397440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950147149452476744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ITNSatori8964 @ChosekiNoraneko 有日雌吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1950147141726588931",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxBQfjpbUAMtXiV.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1950147149452476744",
+        "created_at": "2025-07-29T11:10:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T12:10:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950151927431352652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1690706941134397440",
+              "start": 0,
+              "username": "ITNSatori8964"
+            },
+            {
+              "end": 31,
+              "id": "1856322437144817667",
+              "start": 15,
+              "username": "ChosekiNoraneko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950151927431352652",
+        "in_reply_to_user_id": "1690706941134397440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950147149452476744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ITNSatori8964 @ChosekiNoraneko 有日雌吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950147141726588931"
+          ]
+        },
+        "author_id": "1690706941134397440",
+        "conversation_id": "1950147149452476744",
+        "created_at": "2025-07-29T10:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T11:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950147149452476744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1856322437144817667",
+              "start": 2,
+              "username": "ChosekiNoraneko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KHwosCeVWF",
+              "end": 60,
+              "expanded_url": "https://x.com/ITNSatori8964/status/1950147149452476744/photo/1",
+              "media_key": "3_1950147141726588931",
+              "start": 37,
+              "url": "https://t.co/KHwosCeVWF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950147149452476744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "收到@ChosekiNoraneko 的补佳乐和色啦\n药很便宜，猫很喜欢 https://t.co/KHwosCeVWF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "🏳‍⚧ 抑郁焦虑状态",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "pinned_tweet_id": "1936898802361020812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 931,
+          "like_count": 4240,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 843
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T12:48:48.000Z",
+        "description": "08/1/5 164/52 🏳‍⚧️HRT:2023.12.16🍥 持证含糖 主人 @KOISHI_IV 姐妹们 @shuixian120886 @Misako_25ji Sub/brat 拒绝键政 双相/ASD｜前进，前进，不择手段的前进",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 42,
+                "username": "KOISHI_IV"
+              },
+              {
+                "end": 72,
+                "start": 57,
+                "username": "shuixian120886"
+              },
+              {
+                "end": 85,
+                "start": 73,
+                "username": "Misako_25ji"
+              }
+            ]
+          }
+        },
+        "id": "1690706941134397440",
+        "location": "恋恋的笼子里",
+        "name": "小英酱喵🍥🏳‍⚧️",
+        "pinned_tweet_id": "1944384147835019311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866231302997098496/mnl2_0mk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3249,
+          "following_count": 384,
+          "like_count": 14664,
+          "listed_count": 6,
+          "media_count": 197,
+          "tweet_count": 1078
+        },
+        "username": "ITNSatori8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-12T13:05:46.000Z",
+        "description": "潮汐工作室的官方賬號，正规代购进口药品，此店铺由@Minokakay 担保并提供客服服务，欢迎https://t.co/Re1C3wHxMr或推特私信下单！ 工作时间12AM-26PM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "Minokakay"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/chosekinoraneko",
+                "end": 70,
+                "expanded_url": "http://t.me/chosekinoraneko",
+                "start": 47,
+                "url": "https://t.co/Re1C3wHxMr"
+              }
+            ]
+          }
+        },
+        "id": "1856322437144817667",
+        "location": "Macau",
+        "name": "Choseki Pharmacy",
+        "pinned_tweet_id": "1948370766137094636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856322922924912640/-kfTtOYd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2299,
+          "following_count": 27,
+          "like_count": 121,
+          "listed_count": 5,
+          "media_count": 6,
+          "tweet_count": 96
+        },
+        "username": "ChosekiNoraneko",
+        "verified": false
+      }
+    ]
+  }
+}

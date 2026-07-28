@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2047870461506379884",
+    "created_at": "2026-04-25T11:06:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T12:06:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047995560934916506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1880140645454725120",
+          "start": 0,
+          "username": "DianJ71828"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047995560934916506",
+    "in_reply_to_user_id": "1880140645454725120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047870461506379884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DianJ71828 逆天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2047870461506379884",
+        "created_at": "2026-04-25T11:06:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T12:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047995560934916506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880140645454725120",
+              "start": 0,
+              "username": "DianJ71828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047995560934916506",
+        "in_reply_to_user_id": "1880140645454725120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047870461506379884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianJ71828 逆天"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2047870461506379884",
+        "created_at": "2026-04-25T02:49:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T03:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047870461506379884"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047870461506379884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2283,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃糖前先要吃上一段时间避孕药，这样才正宗，吃糖之后还要下海，这样别人才能知道你是药娘。\n还要穿劣质白丝，穿劣质jk，穿水色，这样才有味道，这就是匠心\n(刻板印象这一块)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 | 现已恢复?  抑郁状态 好好活着 二氧化碳好似喵 MtF🏳️‍⚧️",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 978,
+          "like_count": 5382,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 1288
+        },
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋/爱保(万一呢😇😈/🚪52\\128\\256/转载置顶互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "pinned_tweet_id": "2035588536318271664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1562,
+          "following_count": 536,
+          "like_count": 12935,
+          "listed_count": 2,
+          "media_count": 363,
+          "tweet_count": 2503
+        },
+        "username": "DianJ71828",
+        "verified": false
+      }
+    ]
+  }
+}

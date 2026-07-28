@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2047991194425450992",
+    "created_at": "2026-04-25T10:48:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T11:48:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047991194425450992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1976995735532138496",
+          "start": 3,
+          "username": "JanboMikan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047991194425450992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047269263069646912",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JanboMikan: 大清早被宿管阿姨叫进办公室。\n阿姨怒发冲冠：「监控都拍到了！凌晨三点你招呼了个穿黑丝女仆装的姑娘溜进你宿舍，你不知道带异性要记过吗？」\n阿姨指着画面里那个双膝跪地、脖子上还拴着狗链的「姑娘」。\n我一时间不知道该怎么解释，\n难道我要告诉她那就是我本…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2046192731920441344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGWJctAaoAAGiaY.jpg",
+        "width": 891
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2047991194425450992",
+        "created_at": "2026-04-25T10:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T11:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047991194425450992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976995735532138496",
+              "start": 3,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047991194425450992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047269263069646912",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JanboMikan: 大清早被宿管阿姨叫进办公室。\n阿姨怒发冲冠：「监控都拍到了！凌晨三点你招呼了个穿黑丝女仆装的姑娘溜进你宿舍，你不知道带异性要记过吗？」\n阿姨指着画面里那个双膝跪地、脖子上还拴着狗链的「姑娘」。\n我一时间不知道该怎么解释，\n难道我要告诉她那就是我本…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046192731920441344"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "2047269263069646912",
+        "created_at": "2026-04-23T11:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T12:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047269263069646912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GhIlTeMhTa",
+              "end": 150,
+              "expanded_url": "https://x.com/JanboMikan/status/2047269263069646912/photo/1",
+              "media_key": "3_2046192731920441344",
+              "start": 127,
+              "url": "https://t.co/GhIlTeMhTa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047269263069646912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 16367,
+          "like_count": 456,
+          "quote_count": 0,
+          "reply_count": 36,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "大清早被宿管阿姨叫进办公室。\n阿姨怒发冲冠：「监控都拍到了！凌晨三点你招呼了个穿黑丝女仆装的姑娘溜进你宿舍，你不知道带异性要记过吗？」\n阿姨指着画面里那个双膝跪地、脖子上还拴着狗链的「姑娘」。\n我一时间不知道该怎么解释，\n难道我要告诉她那就是我本人吗？ https://t.co/GhIlTeMhTa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 | 现已恢复?  抑郁状态 好好活着 二氧化碳好似喵 MtF🏳️‍⚧️",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 976,
+          "like_count": 5371,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 1287
+        },
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11861,
+          "following_count": 472,
+          "like_count": 16342,
+          "listed_count": 42,
+          "media_count": 237,
+          "tweet_count": 8277
+        },
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

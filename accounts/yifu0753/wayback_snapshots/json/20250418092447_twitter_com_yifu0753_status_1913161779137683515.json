@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1912850458689101896",
+    "created_at": "2025-04-18T09:24:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T10:24:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913161779137683515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1884959792390938624",
+          "start": 0,
+          "username": "mengqing8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913161779137683515",
+    "in_reply_to_user_id": "1884959792390938624",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912850458689101896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mengqing8964 😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1912850458689101896",
+        "created_at": "2025-04-18T09:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T10:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913161779137683515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1884959792390938624",
+              "start": 0,
+              "username": "mengqing8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913161779137683515",
+        "in_reply_to_user_id": "1884959792390938624",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912850458689101896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengqing8964 😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884959792390938624",
+        "conversation_id": "1912850458689101896",
+        "created_at": "2025-04-17T12:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T13:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912850458689101896"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1912850458689101896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1176,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的好难受😖😖😖凭什么我不是真正的女孩子🥺为什么为什么为什么为什么啊……\n我真的好难过呜呜呜……我是女孩子是女孩子是女孩子🥺为什么我要有这么恶心的身体😖为什么为什么为什么为什么为什么😖😖😖我明明是女孩子的……😖😖呜呜呜……😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "01 MtF🏳‍⚧ 抑郁焦虑状态 ASD | 同类互fo",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 673,
+          "like_count": 3221,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 572
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-30T13:40:24.000Z",
+        "description": "太好啦！太好啦！听妈妈说，我手机里的推特自动关注了梦情，我不知所云地欢呼起来。梦情这个恶俗玩意儿到底是什么呢？爸爸告诉我，她就像一个遍布网络的巨大屎壳郎，把抽象乐子和魔怔烂梗搬运得到处都是。有了梦情，咱们的推特就变成了一个小垃圾堆，五洲四海的浪蛆们可以随时进行别样的炒作大战。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lisa8964",
+                "end": 23,
+                "expanded_url": "https://t.me/lisa8964",
+                "start": 0,
+                "url": "https://t.co/81dSoqE8pB"
+              }
+            ]
+          }
+        },
+        "id": "1884959792390938624",
+        "location": "Taiwan",
+        "name": "梦情🏳️‍⚧️",
+        "pinned_tweet_id": "1912378887516176458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908326418850996228/qdg_d-52_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1131,
+          "following_count": 826,
+          "like_count": 9633,
+          "listed_count": 3,
+          "media_count": 232,
+          "tweet_count": 4126
+        },
+        "url": "https://t.co/81dSoqE8pB",
+        "username": "mengqing8964",
+        "verified": true
+      }
+    ]
+  }
+}
