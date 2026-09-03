@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090400935709384704"
+      ],
+      "media_source_tweet_id": [
+        "2090400946673299845"
+      ]
+    },
+    "author_id": "1668693781791784961",
+    "conversation_id": "2090497794264190993",
+    "created_at": "2026-08-20T17:54:48.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T18:54:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090497794264190993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1999059927650930688",
+          "start": 3,
+          "username": "LightSTAR_qwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0rvPL79JlD",
+          "end": 52,
+          "expanded_url": "https://x.com/LightSTAR_qwq/status/2090400946673299845/photo/1",
+          "media_key": "3_2090400935709384704",
+          "start": 29,
+          "url": "https://t.co/0rvPL79JlD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090497794264190993",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090400935709384704"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090400946673299845",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LightSTAR_qwq: 好咸好苦的黄色溶液 https://t.co/0rvPL79JlD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2090400935709384704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQKYk1saIAAog7t.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090400935709384704"
+          ],
+          "media_source_tweet_id": [
+            "2090400946673299845"
+          ]
+        },
+        "author_id": "1668693781791784961",
+        "conversation_id": "2090497794264190993",
+        "created_at": "2026-08-20T17:54:48.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T18:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090497794264190993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1999059927650930688",
+              "start": 3,
+              "username": "LightSTAR_qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0rvPL79JlD",
+              "end": 52,
+              "expanded_url": "https://x.com/LightSTAR_qwq/status/2090400946673299845/photo/1",
+              "media_key": "3_2090400935709384704",
+              "start": 29,
+              "url": "https://t.co/0rvPL79JlD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090497794264190993",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090400935709384704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090400946673299845",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LightSTAR_qwq: 好咸好苦的黄色溶液 https://t.co/0rvPL79JlD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090400935709384704"
+          ]
+        },
+        "author_id": "1999059927650930688",
+        "conversation_id": "2090400946673299845",
+        "created_at": "2026-08-20T11:29:58.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T12:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090400946673299845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0rvPL79JlD",
+              "end": 33,
+              "expanded_url": "https://x.com/LightSTAR_qwq/status/2090400946673299845/photo/1",
+              "media_key": "3_2090400935709384704",
+              "start": 10,
+              "url": "https://t.co/0rvPL79JlD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090400946673299845",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090400935709384704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 9305,
+          "like_count": 59,
+          "quote_count": 5,
+          "reply_count": 54,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "好咸好苦的黄色溶液 https://t.co/0rvPL79JlD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "is_identity_verified": false,
+        "location": "廣東省",
+        "most_recent_tweet_id": "2090497794264190993",
+        "name": "伊芙🍥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080706334484500480/jz4mL1lO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1558,
+          "following_count": 1439,
+          "like_count": 9643,
+          "listed_count": 2,
+          "media_count": 222,
+          "tweet_count": 2513
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-11T10:13:45.000Z",
+        "description": "音游人 | mtf🏳️‍⚧️ | 165cm | 57kg | 重焦重抑 | 无证含糖 | 生日2008.11.28 | B站up | VRchat重度依赖 | 不od | 不见证 | 不抽烟喝酒 | 有时会割手 |  对象@520maodou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 112,
+                "username": "520maodou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/bzfR3fN",
+                "end": 23,
+                "expanded_url": "https://b23.tv/bzfR3fN",
+                "start": 0,
+                "url": "https://t.co/ghmbUs7tgx"
+              }
+            ]
+          }
+        },
+        "id": "1999059927650930688",
+        "is_identity_verified": false,
+        "location": "广东",
+        "most_recent_tweet_id": "2090400946673299845",
+        "name": "苍星哒哒哒🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1999059927650930688/1777743465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051718115445354496/zw7XNEkf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 286,
+          "like_count": 1007,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 117
+        },
+        "url": "https://t.co/ghmbUs7tgx",
+        "username": "LightSTAR_qwq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

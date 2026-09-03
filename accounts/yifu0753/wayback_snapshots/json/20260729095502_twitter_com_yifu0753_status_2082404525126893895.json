@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082404493657034752",
+        "3_2082404501760434176",
+        "3_2082404509591236608",
+        "3_2082404518847971328"
+      ]
+    },
+    "author_id": "1668693781791784961",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2082404525126893895",
+    "created_at": "2026-07-29T09:55:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T10:55:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082404525126893895"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fZZJ2ElgUT",
+          "end": 93,
+          "expanded_url": "https://x.com/yifu0753/status/2082404525126893895/photo/1",
+          "media_key": "3_2082404493657034752",
+          "start": 70,
+          "url": "https://t.co/fZZJ2ElgUT"
+        },
+        {
+          "display_url": "pic.x.com/fZZJ2ElgUT",
+          "end": 93,
+          "expanded_url": "https://x.com/yifu0753/status/2082404525126893895/photo/1",
+          "media_key": "3_2082404501760434176",
+          "start": 70,
+          "url": "https://t.co/fZZJ2ElgUT"
+        },
+        {
+          "display_url": "pic.x.com/fZZJ2ElgUT",
+          "end": 93,
+          "expanded_url": "https://x.com/yifu0753/status/2082404525126893895/photo/1",
+          "media_key": "3_2082404509591236608",
+          "start": 70,
+          "url": "https://t.co/fZZJ2ElgUT"
+        },
+        {
+          "display_url": "pic.x.com/fZZJ2ElgUT",
+          "end": 93,
+          "expanded_url": "https://x.com/yifu0753/status/2082404525126893895/photo/1",
+          "media_key": "3_2082404518847971328",
+          "start": 70,
+          "url": "https://t.co/fZZJ2ElgUT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082404525126893895",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "帮别人挂一下，一边可惜把别人气跑了影响了救助资源，一边继续政治作秀。怎么把人气跑的自己也不知道。\n\n因为bys你就是个道德败坏的混蛋！！！ https://t.co/fZZJ2ElgUT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2340,
+        "media_key": "3_2082404493657034752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYv2psa0AAT1wY.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2340,
+        "media_key": "3_2082404501760434176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYv3H4a4AArrDB.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2340,
+        "media_key": "3_2082404509591236608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYv3lDbcAAZkhH.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2340,
+        "media_key": "3_2082404518847971328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYv4HiaAAAkKfD.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082404493657034752",
+            "3_2082404501760434176",
+            "3_2082404509591236608",
+            "3_2082404518847971328"
+          ]
+        },
+        "author_id": "1668693781791784961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082404525126893895",
+        "created_at": "2026-07-29T09:55:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T10:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082404525126893895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fZZJ2ElgUT",
+              "end": 93,
+              "expanded_url": "https://x.com/yifu0753/status/2082404525126893895/photo/1",
+              "media_key": "3_2082404493657034752",
+              "start": 70,
+              "url": "https://t.co/fZZJ2ElgUT"
+            },
+            {
+              "display_url": "pic.x.com/fZZJ2ElgUT",
+              "end": 93,
+              "expanded_url": "https://x.com/yifu0753/status/2082404525126893895/photo/1",
+              "media_key": "3_2082404501760434176",
+              "start": 70,
+              "url": "https://t.co/fZZJ2ElgUT"
+            },
+            {
+              "display_url": "pic.x.com/fZZJ2ElgUT",
+              "end": 93,
+              "expanded_url": "https://x.com/yifu0753/status/2082404525126893895/photo/1",
+              "media_key": "3_2082404509591236608",
+              "start": 70,
+              "url": "https://t.co/fZZJ2ElgUT"
+            },
+            {
+              "display_url": "pic.x.com/fZZJ2ElgUT",
+              "end": 93,
+              "expanded_url": "https://x.com/yifu0753/status/2082404525126893895/photo/1",
+              "media_key": "3_2082404518847971328",
+              "start": 70,
+              "url": "https://t.co/fZZJ2ElgUT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082404525126893895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "帮别人挂一下，一边可惜把别人气跑了影响了救助资源，一边继续政治作秀。怎么把人气跑的自己也不知道。\n\n因为bys你就是个道德败坏的混蛋！！！ https://t.co/fZZJ2ElgUT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Guangzhou, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.25,
+                  23.11667
+                ],
+                "type": "Point"
+              },
+              "locality": "Guangzhou",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "location": "广州市",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080706334484500480/jz4mL1lO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1450,
+          "following_count": 1395,
+          "like_count": 9010,
+          "listed_count": 2,
+          "media_count": 216,
+          "tweet_count": 2289
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true
+      }
+    ]
+  }
+}

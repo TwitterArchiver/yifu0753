@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2088095570250670170",
+    "created_at": "2026-08-14T22:40:43.000Z",
+    "display_text_range": [
+      15,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T23:40:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088395421035249985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2066487415678918657",
+          "start": 0,
+          "username": "danshuishuimu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088395421035249985",
+    "in_reply_to_user_id": "2066487415678918657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088095570250670170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@danshuishuimu 呜呜呜不要死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2088095570250670170",
+        "created_at": "2026-08-14T22:40:43.000Z",
+        "display_text_range": [
+          15,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T23:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088395421035249985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2066487415678918657",
+              "start": 0,
+              "username": "danshuishuimu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088395421035249985",
+        "in_reply_to_user_id": "2066487415678918657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088095570250670170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@danshuishuimu 呜呜呜不要死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066487415678918657",
+        "conversation_id": "2088095570250670170",
+        "created_at": "2026-08-14T02:49:13.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T03:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088095570250670170"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088095570250670170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 494,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "失去是相互的，可痛是不对等的。\n小17死掉的话…就说明x17永远失去了大家，大家也永远失去了x17.\n对于x17来说很痛，但是对于大家来说更痛吧？\n世界好残酷呢"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "is_identity_verified": false,
+        "location": "广州市",
+        "most_recent_tweet_id": "2088395421035249985",
+        "name": "伊芙🍥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080706334484500480/jz4mL1lO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1546,
+          "following_count": 1452,
+          "like_count": 9523,
+          "listed_count": 2,
+          "media_count": 220,
+          "tweet_count": 2458
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-15T11:49:41.000Z",
+        "description": "不再是心理委员，但是依然爱着你/此账号为个人账号\n离世日期已定\nmtf(x)/ 年龄?? / 双相 /BPD/ INFP / 💊overdose/🚪52¥/♡永远爱着你/大号@17nuun\n频道链接https://t.co/fH6wssz2c5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 87,
+                "username": "17nuun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 122,
+                "expanded_url": "https://t.me/dnshu135734Aureliax17",
+                "start": 99,
+                "url": "https://t.co/fH6wssz2c5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 0,
+                "url": "https://t.co/3JPf2UoHaa"
+              }
+            ]
+          }
+        },
+        "id": "2066487415678918657",
+        "is_identity_verified": false,
+        "location": "正在抱住你",
+        "most_recent_tweet_id": "2088243643346026832",
+        "name": "海月淡水水母x17🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2066487415678918657/1782388254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116790475296768/Qu3Pj1bB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 374,
+          "like_count": 466,
+          "listed_count": 2,
+          "media_count": 20,
+          "tweet_count": 315
+        },
+        "url": "https://t.co/3JPf2UoHaa",
+        "username": "danshuishuimu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2092379584880853182",
+    "created_at": "2026-08-25T22:32:22.000Z",
+    "display_text_range": [
+      0,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T23:32:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092379584880853182"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2092379584880853182",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "去江城武汉了。但不是去找寒涟漪。以及各位以后也别@涟漪干预了……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2092379584880853182",
+        "created_at": "2026-08-25T22:32:22.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T23:32:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092379584880853182"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092379584880853182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去江城武汉了。但不是去找寒涟漪。以及各位以后也别@涟漪干预了……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "is_identity_verified": false,
+        "location": "廣東省",
+        "most_recent_tweet_id": "2092379584880853182",
+        "name": "伊芙🍥",
+        "pinned_tweet_id": "2091038266661507372",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080706334484500480/jz4mL1lO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1589,
+          "following_count": 1443,
+          "like_count": 9781,
+          "listed_count": 3,
+          "media_count": 225,
+          "tweet_count": 2576
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

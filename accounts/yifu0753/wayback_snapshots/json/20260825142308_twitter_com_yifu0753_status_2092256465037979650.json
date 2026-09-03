@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2092200868292821256",
+    "created_at": "2026-08-25T14:23:08.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T15:23:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092256465037979650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1479696561302999042",
+          "start": 0,
+          "username": "quite8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092256465037979650",
+    "in_reply_to_user_id": "1479696561302999042",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092200868292821256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quite8964 羡慕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2092200868292821256",
+        "created_at": "2026-08-25T14:23:08.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T15:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092256465037979650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1479696561302999042",
+              "start": 0,
+              "username": "quite8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092256465037979650",
+        "in_reply_to_user_id": "1479696561302999042",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092200868292821256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quite8964 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479696561302999042",
+        "conversation_id": "2092200868292821256",
+        "created_at": "2026-08-25T10:42:12.000Z",
+        "display_text_range": [
+          0,
+          118
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T11:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092200868292821256"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092200868292821256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 499,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跨圈四皇中，冰棍拥有最高的政治影响力，其信众规模在四皇之中最大，影响力最强\n\n四皇之首唐毓文，拥有最强的经济实力，同时由于其天龙人的身份，使其受到世界政府的庇护，可以在全世界随意通行，干涉跨圈局势，在目前四皇当中综合实力最强。（1/2）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "is_identity_verified": false,
+        "location": "廣東省",
+        "most_recent_tweet_id": "2092256465037979650",
+        "name": "伊芙🍥",
+        "pinned_tweet_id": "2091038266661507372",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080706334484500480/jz4mL1lO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1576,
+          "following_count": 1444,
+          "like_count": 9775,
+          "listed_count": 2,
+          "media_count": 224,
+          "tweet_count": 2570
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-08T06:09:08.000Z",
+        "description": "永远17岁的小傻瓜 想要得到更多的喜欢和爱 可爱橘喵 互fo喵 小宠物猫 @Shion_Glad @A5Tr41 @dominnicchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "Shion_Glad"
+              },
+              {
+                "end": 56,
+                "start": 49,
+                "username": "A5Tr41"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "dominnicchina"
+              }
+            ]
+          }
+        },
+        "id": "1479696561302999042",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2092210160194437284",
+        "name": "枫糖小橘🍊",
+        "pinned_tweet_id": "2085000009490243749",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1479696561302999042/1718372140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938519215071481856/RGyMr1ce_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10971,
+          "following_count": 3159,
+          "like_count": 33165,
+          "listed_count": 30,
+          "media_count": 667,
+          "tweet_count": 14949
+        },
+        "url": "",
+        "username": "quite8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

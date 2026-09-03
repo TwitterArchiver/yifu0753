@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2090893600754430324",
+    "created_at": "2026-08-21T20:07:36.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T21:07:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090893600754430324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1639816523190763521",
+          "start": 3,
+          "username": "ggdxfulan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090893600754430324",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090752726082662573",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ggdxfulan: 目前世界上支持性少数平权的政党\n\n亚洲\n• 日本共产党\n• 日本立宪民主党\n• 印度共产党(马列)\n• 印度共产党(毛主义)\n• 菲律宾共产党\n• 土耳其共产党\n欧洲\n• 阿尔巴尼亚社会党\n• 爱尔兰共产党\n• 奥地利共产党\n• 荷兰六六民主党\n•…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2090893600754430324",
+        "created_at": "2026-08-21T20:07:36.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T21:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090893600754430324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1639816523190763521",
+              "start": 3,
+              "username": "ggdxfulan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090893600754430324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090752726082662573",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ggdxfulan: 目前世界上支持性少数平权的政党\n\n亚洲\n• 日本共产党\n• 日本立宪民主党\n• 印度共产党(马列)\n• 印度共产党(毛主义)\n• 菲律宾共产党\n• 土耳其共产党\n欧洲\n• 阿尔巴尼亚社会党\n• 爱尔兰共产党\n• 奥地利共产党\n• 荷兰六六民主党\n•…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639816523190763521",
+        "conversation_id": "2090752726082662573",
+        "created_at": "2026-08-21T10:47:48.000Z",
+        "display_text_range": [
+          0,
+          158
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T11:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090752726082662573"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090752726082662573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "目前世界上支持性少数平权的政党\n\n亚洲\n• 日本共产党\n• 日本立宪民主党\n• 印度共产党(马列)\n• 印度共产党(毛主义)\n• 菲律宾共产党\n• 土耳其共产党\n欧洲\n• 阿尔巴尼亚社会党\n• 爱尔兰共产党\n• 奥地利共产党\n• 荷兰六六民主党\n• 挪威共产党\n• 挪威工党\n• 葡萄牙社会党\n• 瑞典社会民主党\n• 西班牙工人社会党\n• 希腊激进左翼联盟\n• 英国工党\n• 英国自由民主党\n• 德国社会民主党\n• 德国左翼党\n• 法国共产党\n美洲\n• 加拿大共产党\n• 加拿大新民主党\n• 加拿大自由党\n• 美国共产党\n• 美国民主党\n• 智利共产党\n• 乌拉圭共产党\n• 哥伦比亚共产党\n• 巴西共产党\n• 巴西劳工党\n大洋洲\n• 澳大利亚共产党\n• 澳大利亚工党\n• 新西兰工党\n非洲\n• 南非共产党"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 8922,
+          "like_count": 84,
+          "quote_count": 2,
+          "reply_count": 28,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "目前世界上支持性少数平权的政党\n\n亚洲\n• 日本共产党\n• 日本立宪民主党\n• 印度共产党(马列)\n• 印度共产党(毛主义)\n• 菲律宾共产党\n• 土耳其共产党\n欧洲\n• 阿尔巴尼亚社会党\n• 爱尔兰共产党\n• 奥地利共产党\n• 荷兰六六民主党\n• 挪威共产党\n• 挪威工党\n• 葡萄牙社会党\n• 瑞典社会民主党\n•"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "is_identity_verified": false,
+        "location": "廣東省",
+        "most_recent_tweet_id": "2090893600754430324",
+        "name": "伊芙🍥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080706334484500480/jz4mL1lO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1564,
+          "following_count": 1443,
+          "like_count": 9696,
+          "listed_count": 2,
+          "media_count": 222,
+          "tweet_count": 2520
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-26T02:28:25.000Z",
+        "description": "一个看书的人\n星火系统",
+        "id": "1639816523190763521",
+        "is_identity_verified": false,
+        "location": "距离你2km",
+        "most_recent_tweet_id": "2090844680493666562",
+        "name": "乖乖哒二小姐",
+        "pinned_tweet_id": "2090668604144734460",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1639816523190763521/1706021227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090504060596367360/8Fy0O0CT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17940,
+          "following_count": 531,
+          "like_count": 37751,
+          "listed_count": 31,
+          "media_count": 3891,
+          "tweet_count": 12027
+        },
+        "url": "",
+        "username": "ggdxfulan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

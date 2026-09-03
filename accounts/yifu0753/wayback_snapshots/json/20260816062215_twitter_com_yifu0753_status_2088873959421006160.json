@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088873952148094977"
+      ]
+    },
+    "author_id": "1668693781791784961",
+    "conversation_id": "2088848673979650243",
+    "created_at": "2026-08-16T06:22:15.000Z",
+    "display_text_range": [
+      14,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T07:22:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088873959421006160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2024210421373444096",
+          "start": 0,
+          "username": "blingbling712"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MGH0YoWnSK",
+          "end": 38,
+          "expanded_url": "https://x.com/yifu0753/status/2088873959421006160/photo/1",
+          "media_key": "3_2088873952148094977",
+          "start": 15,
+          "url": "https://t.co/MGH0YoWnSK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088873959421006160",
+    "in_reply_to_user_id": "2024210421373444096",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2088873952148094977"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088848673979650243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@blingbling712 https://t.co/MGH0YoWnSK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2113,
+        "media_key": "3_2088873952148094977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP0ryspagAE6og2.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088848670850756608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP0UzIebMAAmUNh.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088873952148094977"
+          ]
+        },
+        "author_id": "1668693781791784961",
+        "conversation_id": "2088848673979650243",
+        "created_at": "2026-08-16T06:22:15.000Z",
+        "display_text_range": [
+          14,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T07:22:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088873959421006160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2024210421373444096",
+              "start": 0,
+              "username": "blingbling712"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MGH0YoWnSK",
+              "end": 38,
+              "expanded_url": "https://x.com/yifu0753/status/2088873959421006160/photo/1",
+              "media_key": "3_2088873952148094977",
+              "start": 15,
+              "url": "https://t.co/MGH0YoWnSK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088873959421006160",
+        "in_reply_to_user_id": "2024210421373444096",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2088873952148094977"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088848673979650243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blingbling712 https://t.co/MGH0YoWnSK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088848670850756608"
+          ]
+        },
+        "author_id": "2024210421373444096",
+        "conversation_id": "2088848673979650243",
+        "created_at": "2026-08-16T04:41:47.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T05:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088848673979650243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PLWiFUsdFU",
+              "end": 33,
+              "expanded_url": "https://x.com/blingbling712/status/2088848673979650243/photo/1",
+              "media_key": "3_2088848670850756608",
+              "start": 10,
+              "url": "https://t.co/PLWiFUsdFU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088848673979650243",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088848670850756608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是不是没救了（） https://t.co/PLWiFUsdFU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "is_identity_verified": false,
+        "location": "廣東省",
+        "most_recent_tweet_id": "2088873959421006160",
+        "name": "伊芙🍥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080706334484500480/jz4mL1lO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1553,
+          "following_count": 1452,
+          "like_count": 9523,
+          "listed_count": 2,
+          "media_count": 221,
+          "tweet_count": 2467
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥🏳️‍⚧️｜hrt26.02.07｜超大只不可爱｜负面情绪｜锦依卫｜she/her \n永远且唯一的爱人 @YeChuan1123\n姐姐！@rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "YeChuan1123"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "rainchngshainn"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "is_identity_verified": false,
+        "location": "叶川的身边",
+        "most_recent_tweet_id": "2088848673979650243",
+        "name": "布林布林🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2024210421373444096/1772925354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1028,
+          "following_count": 501,
+          "like_count": 14998,
+          "listed_count": 4,
+          "media_count": 53,
+          "tweet_count": 1937
+        },
+        "url": "",
+        "username": "blingbling712",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

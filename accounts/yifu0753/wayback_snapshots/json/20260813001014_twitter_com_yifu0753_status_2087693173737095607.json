@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2087549992450105604",
+    "created_at": "2026-08-13T00:10:14.000Z",
+    "display_text_range": [
+      12,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T01:10:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087693173737095607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2033116026410598400",
+          "start": 0,
+          "username": "Irosas_xyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087693173737095607",
+    "in_reply_to_user_id": "2033116026410598400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087549992450105604",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Irosas_xyn 妳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2087549992450105604",
+        "created_at": "2026-08-13T00:10:14.000Z",
+        "display_text_range": [
+          12,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T01:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087693173737095607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033116026410598400",
+              "start": 0,
+              "username": "Irosas_xyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087693173737095607",
+        "in_reply_to_user_id": "2033116026410598400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087549992450105604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Irosas_xyn 妳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033116026410598400",
+        "conversation_id": "2087549992450105604",
+        "created_at": "2026-08-12T14:41:17.000Z",
+        "display_text_range": [
+          0,
+          133
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T15:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087549992450105604"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087549992450105604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1223,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我相信我是一个彻彻底底的女性，我觉得这没有什么不妥的，和有什么器官没有任何关系，我HRT是为了缓解自己的痛苦和成为完整的自己，我不是人妖、男娘或者有问题的顺男，也绝不能接受别人用这些称呼称呼我，还请大家对我用女性代称和人称代词she/her/她/妳\n我不会反向翻车的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Guangzhou, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.25,
+                  23.11667
+                ],
+                "type": "Point"
+              },
+              "locality": "Guangzhou",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "is_identity_verified": false,
+        "location": "广州市",
+        "most_recent_tweet_id": "2087693173737095607",
+        "name": "伊芙🍥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080706334484500480/jz4mL1lO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1535,
+          "following_count": 1456,
+          "like_count": 9493,
+          "listed_count": 2,
+          "media_count": 218,
+          "tweet_count": 2441
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-15T09:40:49.000Z",
+        "description": "MtF｜双｜出厂日期11.05.12｜🍥26.04.30｜无证｜不键政不OD｜休学ing｜182cm BMI 27+😭\n生在白旗下，长在阴沟里 \n里推：@Irosas_sub\nhttps://t.co/qIlOM00IQY\nhttps://t.co/gIYkKuBCiS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 76,
+                "username": "Irosas_sub"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "telegram.me/irosas_xyn",
+                "end": 111,
+                "expanded_url": "http://telegram.me/irosas_xyn",
+                "start": 88,
+                "url": "https://t.co/qIlOM00IQY"
+              },
+              {
+                "display_url": "ngl.link/irosas_xyn",
+                "end": 135,
+                "expanded_url": "http://ngl.link/irosas_xyn",
+                "start": 112,
+                "url": "https://t.co/gIYkKuBCiS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/irosas…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/irosas.bsky.social",
+                "start": 0,
+                "url": "https://t.co/atwlxRSHUE"
+              }
+            ]
+          }
+        },
+        "id": "2033116026410598400",
+        "is_identity_verified": false,
+        "location": "Jinan",
+        "most_recent_tweet_id": "2087655015368552713",
+        "name": "Irosas🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2087544286766309696",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2033116026410598400/1782080137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068820111767842816/CyiUvjMF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1178,
+          "following_count": 403,
+          "like_count": 1778,
+          "listed_count": 6,
+          "media_count": 71,
+          "tweet_count": 1584
+        },
+        "url": "https://t.co/atwlxRSHUE",
+        "username": "Irosas_xyn",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

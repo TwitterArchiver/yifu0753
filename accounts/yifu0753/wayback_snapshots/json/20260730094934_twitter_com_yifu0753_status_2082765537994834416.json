@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082765163657392128"
+      ]
+    },
+    "author_id": "1668693781791784961",
+    "conversation_id": "2082765537994834416",
+    "created_at": "2026-07-30T09:49:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T10:49:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082765537994834416"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Upk0PU2D5d",
+          "end": 27,
+          "expanded_url": "https://x.com/yifu0753/status/2082765537994834416/photo/1",
+          "media_key": "3_2082765163657392128",
+          "start": 4,
+          "url": "https://t.co/Upk0PU2D5d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082765537994834416",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "😭😭😭 https://t.co/Upk0PU2D5d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 787,
+        "media_key": "3_2082765163657392128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOd34aJbcAAfTnH.png",
+        "width": 569
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082765163657392128"
+          ]
+        },
+        "author_id": "1668693781791784961",
+        "conversation_id": "2082765537994834416",
+        "created_at": "2026-07-30T09:49:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T10:49:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082765537994834416"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Upk0PU2D5d",
+              "end": 27,
+              "expanded_url": "https://x.com/yifu0753/status/2082765537994834416/photo/1",
+              "media_key": "3_2082765163657392128",
+              "start": 4,
+              "url": "https://t.co/Upk0PU2D5d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082765537994834416",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😭😭😭 https://t.co/Upk0PU2D5d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Guangzhou, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.25,
+                  23.11667
+                ],
+                "type": "Point"
+              },
+              "locality": "Guangzhou",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "location": "广州市",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080706334484500480/jz4mL1lO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1459,
+          "following_count": 1428,
+          "like_count": 9170,
+          "listed_count": 2,
+          "media_count": 219,
+          "tweet_count": 2334
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true
+      }
+    ]
+  }
+}

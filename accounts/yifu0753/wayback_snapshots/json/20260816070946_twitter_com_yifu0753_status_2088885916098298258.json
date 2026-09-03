@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2088885512346206292",
+    "created_at": "2026-08-16T07:09:46.000Z",
+    "display_text_range": [
+      13,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T08:09:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088885916098298258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1801478230462877697",
+          "start": 0,
+          "username": "gush1361308"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088885916098298258",
+    "in_reply_to_user_id": "1801478230462877697",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088885512346206292",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gush1361308 好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2088885512346206292",
+        "created_at": "2026-08-16T07:09:46.000Z",
+        "display_text_range": [
+          13,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T08:09:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088885916098298258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1801478230462877697",
+              "start": 0,
+              "username": "gush1361308"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088885916098298258",
+        "in_reply_to_user_id": "1801478230462877697",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088885512346206292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gush1361308 好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801478230462877697",
+        "conversation_id": "2088885512346206292",
+        "created_at": "2026-08-16T07:08:10.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T08:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088885512346206292"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088885512346206292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去死吧，恶心"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "is_identity_verified": false,
+        "location": "廣東省",
+        "most_recent_tweet_id": "2088885916098298258",
+        "name": "伊芙🍥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080706334484500480/jz4mL1lO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1553,
+          "following_count": 1453,
+          "like_count": 9538,
+          "listed_count": 2,
+          "media_count": 221,
+          "tweet_count": 2474
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-14T04:54:40.000Z",
+        "description": "青蛙/od/智力低下/健忘/改花刀",
+        "id": "1801478230462877697",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088885512346206292",
+        "name": "青蛙大王",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1801478230462877697/1718341482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802724008397250560/zT1WlqE2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 24,
+          "like_count": 683,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 1204
+        },
+        "url": "",
+        "username": "gush1361308",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

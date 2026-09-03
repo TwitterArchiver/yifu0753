@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2082443377296183416",
+    "created_at": "2026-07-30T09:27:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T10:27:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082760073059909652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1744316513291747328",
+          "start": 0,
+          "username": "shuifenziya"
+        },
+        {
+          "end": 20,
+          "id": "2063266311254552576",
+          "start": 13,
+          "username": "17nuun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082760073059909652",
+    "in_reply_to_user_id": "1744316513291747328",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082756029788373060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuifenziya @17nuun 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2082443377296183416",
+        "created_at": "2026-07-30T09:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T10:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082760073059909652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744316513291747328",
+              "start": 0,
+              "username": "shuifenziya"
+            },
+            {
+              "end": 20,
+              "id": "2063266311254552576",
+              "start": 13,
+              "username": "17nuun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082760073059909652",
+        "in_reply_to_user_id": "1744316513291747328",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082756029788373060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuifenziya @17nuun 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744316513291747328",
+        "conversation_id": "2082443377296183416",
+        "created_at": "2026-07-30T09:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T10:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082756029788373060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1668693781791784961",
+              "start": 0,
+              "username": "yifu0753"
+            },
+            {
+              "end": 17,
+              "id": "2063266311254552576",
+              "start": 10,
+              "username": "17nuun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082756029788373060",
+        "in_reply_to_user_id": "1668693781791784961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082750201757159652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yifu0753 @17nuun 哭也不许似"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Guangzhou, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.25,
+                  23.11667
+                ],
+                "type": "Point"
+              },
+              "locality": "Guangzhou",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "location": "广州市",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080706334484500480/jz4mL1lO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1458,
+          "following_count": 1411,
+          "like_count": 9136,
+          "listed_count": 2,
+          "media_count": 218,
+          "tweet_count": 2326
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-08T11:14:12.000Z",
+        "description": "167cm60kg/负能/不鉴证/小鸟游六花单推\n/ISFP\n永远的好闺蜜：@VGesKsn\n姐姐：@WeiHan58673",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 38,
+                "username": "VGesKsn"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "WeiHan58673"
+              }
+            ]
+          }
+        },
+        "id": "1744316513291747328",
+        "location": "二次元",
+        "name": "忧郁の水分子🍥［😈版］",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990791671798509572/InGBy1sr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1680,
+          "following_count": 997,
+          "like_count": 41405,
+          "listed_count": 5,
+          "media_count": 398,
+          "tweet_count": 2747
+        },
+        "url": "",
+        "username": "shuifenziya",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "依然爱着大家/需要倾诉,水母永远都在\n剩余存活日期？？？天\nmtf(x)/ 年龄?? / 双相 /BPD/ INFP / 💊od/♡永远爱着你/小号@danshuishuimu\n永远的爱人@dnshu135734\n频道链接https://t.co/vAwYIwo3nv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "danshuishuimu"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 134,
+                "expanded_url": "https://t.me/dnshu135734Aureliax17",
+                "start": 111,
+                "url": "https://t.co/vAwYIwo3nv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 0,
+                "url": "https://t.co/WDIrUwiXtj"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "location": "正在拥抱你",
+        "name": "海月水母x17",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116349503053824/Kkv2q4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2571,
+          "following_count": 225,
+          "like_count": 1121,
+          "listed_count": 5,
+          "media_count": 49,
+          "tweet_count": 1022
+        },
+        "url": "https://t.co/WDIrUwiXtj",
+        "username": "17nuun",
+        "verified": true
+      }
+    ]
+  }
+}

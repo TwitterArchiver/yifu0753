@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2088075987938607373",
+    "created_at": "2026-08-14T01:31:24.000Z",
+    "display_text_range": [
+      0,
+      95
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T02:31:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088075987938607373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1929798380240465921",
+          "start": 3,
+          "username": "AacerF59616"
+        },
+        {
+          "end": 35,
+          "id": "2057816167025160194",
+          "start": 25,
+          "username": "yutr72467"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088075987938607373",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087948248954896590",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AacerF59616: 其实我是最先发现@yutr72467，也就是炭炭可能出事的，因为她在昨天的16:52，毫无征兆的退出了我主领的三个群聊，并在X上发了一个「嗯……人走债空」…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2088075987938607373",
+        "created_at": "2026-08-14T01:31:24.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T02:31:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088075987938607373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1929798380240465921",
+              "start": 3,
+              "username": "AacerF59616"
+            },
+            {
+              "end": 35,
+              "id": "2057816167025160194",
+              "start": 25,
+              "username": "yutr72467"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088075987938607373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087948248954896590",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AacerF59616: 其实我是最先发现@yutr72467，也就是炭炭可能出事的，因为她在昨天的16:52，毫无征兆的退出了我主领的三个群聊，并在X上发了一个「嗯……人走债空」…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2087948248954896590",
+        "created_at": "2026-08-13T17:03:49.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T18:03:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087948248954896590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2057816167025160194",
+              "start": 8,
+              "username": "yutr72467"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087948248954896590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 18,
+                "id": "2057816167025160194",
+                "start": 8,
+                "username": "yutr72467"
+              }
+            ]
+          },
+          "text": "其实我是最先发现@yutr72467，也就是炭炭可能出事的，因为她在昨天的16:52，毫无征兆的退出了我主领的三个群聊，并在X上发了一个「嗯……人走债空」 。而她是我群里最积极负责进行群聊管理工作的绿牌（群管），我在最开始就发现了蹊跷，但是我并没有选择进行任何干涉，只是说了一句「哦对了炭炭走了」。\n\n不是因为我没有情感，不想麻烦自己，而是我觉得对自身生命的放弃也在个人自由的范围里，如果她真的要走，那我没有什么强留的理由。好消息是她刚刚重新加了我群并且说自己没事，这自然是好消息了，负责干预的姐妹们也辛苦了。\n\n但是说真的，如果她真的出事情了，我不会发讣告，也不会在主领的群里自发进行任何追悼行为，这些不过是生者一厢情愿强加的东西罢了。对不起，请不要责怪我自私自利……"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 912,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "其实我是最先发现@yutr72467，也就是炭炭可能出事的，因为她在昨天的16:52，毫无征兆的退出了我主领的三个群聊，并在X上发了一个「嗯……人走债空」"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "is_identity_verified": false,
+        "location": "广州市",
+        "most_recent_tweet_id": "2088075987938607373",
+        "name": "伊芙🍥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080706334484500480/jz4mL1lO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1546,
+          "following_count": 1454,
+          "like_count": 9508,
+          "listed_count": 2,
+          "media_count": 220,
+          "tweet_count": 2453
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜指派男性 经验女性｜GAHT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od 戒自伤 极少见证｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2087993662487830785",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2084992339425345670",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1751873067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1110,
+          "following_count": 788,
+          "like_count": 5692,
+          "listed_count": 2,
+          "media_count": 319,
+          "tweet_count": 1951
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T13:30:11.000Z",
+        "description": "喜欢交朋友可以叫我炭炭/笨蛋心理委员/中立/无证/双向/随机礼物/糖糖好甜/喜欢猫猫/互关/\n初次见面喵喵！请多多关照喵喵！\n知道有些事不对，但也是要尊重他人的选择呀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zlicnce",
+                "end": 23,
+                "expanded_url": "http://t.me/Zlicnce",
+                "start": 0,
+                "url": "https://t.co/Qn0oFmL3hm"
+              }
+            ]
+          }
+        },
+        "id": "2057816167025160194",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2081763781961728030",
+        "name": "Slicnce ⁧ ~喵⁧🍥",
+        "pinned_tweet_id": "2081763781961728030",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057816167025160194/1784370549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063858388182949888/mG8gyKy2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 412,
+          "like_count": 1830,
+          "listed_count": 3,
+          "media_count": 12,
+          "tweet_count": 616
+        },
+        "url": "https://t.co/Qn0oFmL3hm",
+        "username": "yutr72467",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

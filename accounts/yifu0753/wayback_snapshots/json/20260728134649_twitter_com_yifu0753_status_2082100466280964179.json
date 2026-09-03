@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082100448492998656"
+      ]
+    },
+    "author_id": "1668693781791784961",
+    "conversation_id": "2082100466280964179",
+    "created_at": "2026-07-28T13:46:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T14:46:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082100466280964179"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Bdm3m2gmCE",
+          "end": 109,
+          "expanded_url": "https://x.com/yifu0753/status/2082100466280964179/photo/1",
+          "media_key": "3_2082100448492998656",
+          "start": 86,
+          "url": "https://t.co/Bdm3m2gmCE"
+        },
+        {
+          "display_url": "x.com/CicadaSeventee…",
+          "end": 133,
+          "expanded_url": "https://twitter.com/CicadaSeventeen/status/2082057559285149728",
+          "start": 110,
+          "url": "https://t.co/yMYGlMJKVI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082100466280964179",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082057559285149728",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "关于一些个人所称我的精神状态导致我可能对事件和事实进行编造，现在在此进行说明：我确实患有会影响情绪的精神障碍，但经医疗机构诊断不具有精神病性症状，不会影响我的认知或感知。 https://t.co/Bdm3m2gmCE https://t.co/yMYGlMJKVI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2252,
+        "media_key": "3_2082100448492998656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUbU5MbUAAA9ed.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082100448492998656"
+          ]
+        },
+        "author_id": "1668693781791784961",
+        "conversation_id": "2082100466280964179",
+        "created_at": "2026-07-28T13:46:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T14:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082100466280964179"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bdm3m2gmCE",
+              "end": 109,
+              "expanded_url": "https://x.com/yifu0753/status/2082100466280964179/photo/1",
+              "media_key": "3_2082100448492998656",
+              "start": 86,
+              "url": "https://t.co/Bdm3m2gmCE"
+            },
+            {
+              "display_url": "x.com/CicadaSeventee…",
+              "end": 133,
+              "expanded_url": "https://twitter.com/CicadaSeventeen/status/2082057559285149728",
+              "start": 110,
+              "url": "https://t.co/yMYGlMJKVI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082100466280964179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082057559285149728",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "关于一些个人所称我的精神状态导致我可能对事件和事实进行编造，现在在此进行说明：我确实患有会影响情绪的精神障碍，但经医疗机构诊断不具有精神病性症状，不会影响我的认知或感知。 https://t.co/Bdm3m2gmCE https://t.co/yMYGlMJKVI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692511487531909120",
+        "conversation_id": "2082057559285149728",
+        "created_at": "2026-07-28T10:56:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T11:56:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082057559285149728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yifu0753/statu…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/yifu0753/status/2082019894640709685",
+              "start": 143,
+              "url": "https://t.co/I8jtdegeoz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082057559285149728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 163,
+          "like_count": 3,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082019894640709685",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是伊芙的前对象，在事发后当天只有oau和明觉（由于bys群的关系）介入，当事人被拘留与此有一定关系，但与晨曦、牧鸢基本无关。她说的威胁基本属子虚乌有\n尽管由于我不在场无证据，但猥亵非常可能属实。然而伊芙对事情，尤其对事后介入的各方进行了很多编造。她的精神状态有目共睹。请大家谨慎判断 https://t.co/I8jtdegeoz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Guangzhou, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.25,
+                  23.11667
+                ],
+                "type": "Point"
+              },
+              "locality": "Guangzhou",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "location": "广州市",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080706334484500480/jz4mL1lO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1442,
+          "following_count": 1396,
+          "like_count": 8979,
+          "listed_count": 2,
+          "media_count": 215,
+          "tweet_count": 2284
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-18T12:19:29.000Z",
+        "description": "名誉mtf，tg已复活。\n最近抑郁，不怎么上线",
+        "id": "1692511487531909120",
+        "location": "北京",
+        "name": "🌈 Cic17",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027023455598899200/imFQgBaO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 182,
+          "like_count": 983,
+          "listed_count": 0,
+          "media_count": 355,
+          "tweet_count": 2670
+        },
+        "url": "",
+        "username": "CicadaSeventeen",
+        "verified": false
+      }
+    ]
+  }
+}

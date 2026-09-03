@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2088544669643002356",
+    "created_at": "2026-08-30T13:37:54.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T14:37:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094057022316753205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1860552199585300482",
+          "start": 0,
+          "username": "Seven_Eraya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094057022316753205",
+    "in_reply_to_user_id": "1860552199585300482",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088544669643002356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Seven_Eraya 啊？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2088544669643002356",
+        "created_at": "2026-08-30T13:37:54.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T14:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094057022316753205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1860552199585300482",
+              "start": 0,
+              "username": "Seven_Eraya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094057022316753205",
+        "in_reply_to_user_id": "1860552199585300482",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088544669643002356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Seven_Eraya 啊？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860552199585300482",
+        "conversation_id": "2088544669643002356",
+        "created_at": "2026-08-15T08:33:47.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T09:33:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088544669643002356"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088544669643002356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1195,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "[我已离开跨出圈 加入无糖跨女这个更加庞大的圈子]\n本人一切安好  现已离开康宁大酒店\n感谢各位的关心\n可是我想好了我要开始新的生活了\n我以后或许还会追寻我的梦想\n但不是现在\n勿念\n\n*请评价跨出好似喵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "is_identity_verified": false,
+        "location": "廣東省",
+        "most_recent_tweet_id": "2094057022316753205",
+        "name": "伊芙🍥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080706334484500480/jz4mL1lO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1600,
+          "following_count": 1437,
+          "like_count": 9799,
+          "listed_count": 4,
+          "media_count": 225,
+          "tweet_count": 2583
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-24T05:15:08.000Z",
+        "description": "|无糖跨女| |C++|\n|生产日期2012.1.7|\n|18岁以后我会重拾起我的梦想|",
+        "id": "1860552199585300482",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093569301609697683",
+        "name": "Eraya_",
+        "pinned_tweet_id": "2088544669643002356",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1860552199585300482/1764860170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000119531575095296/-lELMvd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 259,
+          "like_count": 863,
+          "listed_count": 3,
+          "media_count": 95,
+          "tweet_count": 590
+        },
+        "url": "",
+        "username": "Seven_Eraya",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

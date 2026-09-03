@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2082760605908471985",
+    "created_at": "2026-07-30T09:51:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T10:51:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082765926248988892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "918593759121690625",
+          "start": 0,
+          "username": "hu_qin_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082765926248988892",
+    "in_reply_to_user_id": "918593759121690625",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082765368326561869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hu_qin_ 😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2082760605908471985",
+        "created_at": "2026-07-30T09:51:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T10:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082765926248988892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "918593759121690625",
+              "start": 0,
+              "username": "hu_qin_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082765926248988892",
+        "in_reply_to_user_id": "918593759121690625",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082765368326561869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hu_qin_ 😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "918593759121690625",
+        "conversation_id": "2082760605908471985",
+        "created_at": "2026-07-30T09:48:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T10:48:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082765368326561869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1668693781791784961",
+              "start": 0,
+              "username": "yifu0753"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082765368326561869",
+        "in_reply_to_user_id": "1668693781791784961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082760605908471985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yifu0753 没人能替你活呀。你得自己好好活下去…\n希望之后回国的时候还可以见到你…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Guangzhou, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.25,
+                  23.11667
+                ],
+                "type": "Point"
+              },
+              "locality": "Guangzhou",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "location": "广州市",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080706334484500480/jz4mL1lO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1459,
+          "following_count": 1428,
+          "like_count": 9172,
+          "listed_count": 2,
+          "media_count": 219,
+          "tweet_count": 2336
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2017-10-12T21:46:33.000Z",
+        "description": "Left, queer, feminist. 反对资本、国家、婚姻、家庭、殖民秩序等一切压迫性的现代制度。没有人比别人更劣等，也没有地方比别地更劣等。 Transphobes are anti-feminists. 反跨的政治是一种厌女的仇恨政治，是反女权的保守势力对女性及酷儿解放斗争的恶意挪用。",
+        "id": "918593759121690625",
+        "location": "PRC／UK／nonbinary transfem🏳️‍⚧",
+        "name": "胡琴",
+        "pinned_tweet_id": "2058665016270655497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1291948610540711936/EjkiBmto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1360,
+          "following_count": 1843,
+          "like_count": 22422,
+          "listed_count": 4,
+          "media_count": 279,
+          "tweet_count": 5648
+        },
+        "url": "",
+        "username": "hu_qin_",
+        "verified": true
+      }
+    ]
+  }
+}

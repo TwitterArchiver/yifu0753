@@ -1,0 +1,416 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2086842094727864523",
+    "created_at": "2026-08-10T20:02:39.000Z",
+    "display_text_range": [
+      37,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T21:02:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086906088650379471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1928687976281944068",
+          "start": 0,
+          "username": "kaguya_yachiyo"
+        },
+        {
+          "end": 25,
+          "id": "1763577841588056064",
+          "start": 16,
+          "username": "yxrchina"
+        },
+        {
+          "end": 36,
+          "id": "1608637128132685825",
+          "start": 26,
+          "username": "nyaepheia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086906088650379471",
+    "in_reply_to_user_id": "1928687976281944068",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086842094727864523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kaguya_yachiyo @yxrchina @nyaepheia 有些人觉得死一个还不够🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2086842094727864523",
+        "created_at": "2026-08-10T20:02:39.000Z",
+        "display_text_range": [
+          37,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T21:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086906088650379471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1928687976281944068",
+              "start": 0,
+              "username": "kaguya_yachiyo"
+            },
+            {
+              "end": 25,
+              "id": "1763577841588056064",
+              "start": 16,
+              "username": "yxrchina"
+            },
+            {
+              "end": 36,
+              "id": "1608637128132685825",
+              "start": 26,
+              "username": "nyaepheia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086906088650379471",
+        "in_reply_to_user_id": "1928687976281944068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086842094727864523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kaguya_yachiyo @yxrchina @nyaepheia 有些人觉得死一个还不够🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928687976281944068",
+        "conversation_id": "2086842094727864523",
+        "created_at": "2026-08-10T15:48:21.000Z",
+        "display_text_range": [
+          0,
+          117
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T16:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086842094727864523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 68,
+              "id": "1763577841588056064",
+              "start": 59,
+              "username": "yxrchina"
+            },
+            {
+              "end": 82,
+              "id": "1608637128132685825",
+              "start": 72,
+              "username": "nyaepheia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/kaguya_yachiyo…",
+              "end": 141,
+              "expanded_url": "https://twitter.com/kaguya_yachiyo/status/2086691666640228710",
+              "start": 118,
+              "url": "https://t.co/0DqbTIV6ro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086842094727864523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 375,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086691666640228710",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一个人\n来到世上是为了贡献\n如果用自己莫名其妙的思想去自杀\n甚至叫上他人\n那么“杀人犯”这顶帽子\n必须被扣上\n就比如 @yxrchina 杀了 @nyaepheia \n因为这是应得的\n不是吗\n\n不怕网暴\n私信向所有人开放\n反对的\n来啊 https://t.co/0DqbTIV6ro"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Guangzhou, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.25,
+                  23.11667
+                ],
+                "type": "Point"
+              },
+              "locality": "Guangzhou",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "is_identity_verified": false,
+        "location": "广州市",
+        "most_recent_tweet_id": "2086906088650379471",
+        "name": "伊芙🍥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080706334484500480/jz4mL1lO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1522,
+          "following_count": 1442,
+          "like_count": 9333,
+          "listed_count": 2,
+          "media_count": 218,
+          "tweet_count": 2399
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-31T05:40:34.000Z",
+        "description": "快九年级的初中生｜中度抑郁症｜pepoyo粉丝｜想含又不敢含糖（?）｜成分正常可互fo｜友跨（除了跨畜）｜邮箱：front.jackal.qtox@mask.me",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/juhuhi…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/juhuhiulzy448.bsky.social",
+                "start": 0,
+                "url": "https://t.co/taFju9hkgt"
+              }
+            ]
+          }
+        },
+        "id": "1928687976281944068",
+        "is_identity_verified": false,
+        "location": "仮想空間＜ツクヨミ＞",
+        "most_recent_tweet_id": "2086843918142800377",
+        "name": "Yachiyo_八千代",
+        "pinned_tweet_id": "2085578360084910528",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1928687976281944068/1784289740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078087890769203200/346TfuLL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 560,
+          "like_count": 11098,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1655
+        },
+        "url": "https://t.co/taFju9hkgt",
+        "username": "kaguya_yachiyo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-01T14:52:04.000Z",
+        "description": "🏳️‍⚧️「重构时间线，再次重逢」\nINFP | MtFtX | oler转oder | 🎂08.15 | Vite | Cpp | HRT 25.08.11~25.11.30 26.04.17~ 26.05.19 | 已炸柜 | 碎碎念or日常 @syyann2026 | ❌ NSFW | 家长反对党 Ultra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 124,
+                "username": "syyann2026"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "syyann.vercel.app",
+                "end": 23,
+                "expanded_url": "https://syyann.vercel.app/",
+                "start": 0,
+                "url": "https://t.co/0k3EylxPZD"
+              }
+            ]
+          }
+        },
+        "id": "1763577841588056064",
+        "is_identity_verified": false,
+        "location": "lover @nyaepheia",
+        "most_recent_tweet_id": "2080510779741307312",
+        "name": "𝚂𝚢 𝚈𝚊𝚗𝚗",
+        "pinned_tweet_id": "2065655723187740857",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1763577841588056064/1774876065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986480358486122496/VZfOMdaB_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1254,
+          "following_count": 1871,
+          "like_count": 27240,
+          "listed_count": 4,
+          "media_count": 380,
+          "tweet_count": 8847
+        },
+        "url": "https://t.co/0k3EylxPZD",
+        "username": "yxrchina",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️ https://t.co/7pvajR9Q0p \n/ɪˈfiːə/ she/they\n评论账号@epheiamoe\n存档https://t.co/l9TdYP6fRz\n\nhrt since26.4.1\n可访问此账号的委派者：@yxrchina @0502railgun1949 @lckmtfdesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 57,
+                "username": "epheiamoe"
+              },
+              {
+                "end": 131,
+                "start": 122,
+                "username": "yxrchina"
+              },
+              {
+                "end": 148,
+                "start": 132,
+                "username": "0502railgun1949"
+              },
+              {
+                "end": 160,
+                "start": 149,
+                "username": "lckmtfdesu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 33,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 10,
+                "url": "https://t.co/7pvajR9Q0p"
+              },
+              {
+                "display_url": "nyaepheia.pages.dev",
+                "end": 93,
+                "expanded_url": "http://nyaepheia.pages.dev",
+                "start": 70,
+                "url": "https://t.co/l9TdYP6fRz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nyaepheia.pages.dev",
+                "end": 23,
+                "expanded_url": "https://nyaepheia.pages.dev/",
+                "start": 0,
+                "url": "https://t.co/JPmDqezgWc"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "is_identity_verified": false,
+        "location": "❤️@yxrchina",
+        "most_recent_tweet_id": "2080511066983837976",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️(she/they)",
+        "pinned_tweet_id": "2078997463525142566",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1608637128132685825/1779711471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 950,
+          "like_count": 36942,
+          "listed_count": 10,
+          "media_count": 888,
+          "tweet_count": 7178
+        },
+        "url": "https://t.co/JPmDqezgWc",
+        "username": "nyaepheia",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

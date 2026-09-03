@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2088888987700404538",
+    "created_at": "2026-08-16T07:21:59.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T08:21:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088888987700404538"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/QueerLawWatchC…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/QueerLawWatchCN/status/2088647358842118500",
+          "start": 7,
+          "url": "https://t.co/xzLlSq7XsR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088888987700404538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088647358842118500",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "跨人繼續互害 https://t.co/xzLlSq7XsR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1139,
+        "media_key": "3_2088645325003108352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPxb22KXMAA3_ag.jpg",
+        "width": 1116
+      },
+      {
+        "height": 1858,
+        "media_key": "3_2088645343676157952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPxb37uXUAAJuXI.jpg",
+        "width": 943
+      },
+      {
+        "height": 1900,
+        "media_key": "3_2088646996341006336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPxdYIYXoAA_wz7.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2088888987700404538",
+        "created_at": "2026-08-16T07:21:59.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T08:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088888987700404538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/QueerLawWatchC…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/QueerLawWatchCN/status/2088647358842118500",
+              "start": 7,
+              "url": "https://t.co/xzLlSq7XsR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088888987700404538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088647358842118500",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "跨人繼續互害 https://t.co/xzLlSq7XsR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088645325003108352",
+            "3_2088645343676157952",
+            "3_2088646996341006336"
+          ]
+        },
+        "author_id": "2037909112055300096",
+        "conversation_id": "2088647358842118500",
+        "created_at": "2026-08-15T15:21:50.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T16:21:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088647358842118500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eE9Kq5mDD3",
+              "end": 163,
+              "expanded_url": "https://x.com/QueerLawWatchCN/status/2088647358842118500/photo/1",
+              "media_key": "3_2088645325003108352",
+              "start": 140,
+              "url": "https://t.co/eE9Kq5mDD3"
+            },
+            {
+              "display_url": "pic.x.com/eE9Kq5mDD3",
+              "end": 163,
+              "expanded_url": "https://x.com/QueerLawWatchCN/status/2088647358842118500/photo/1",
+              "media_key": "3_2088645343676157952",
+              "start": 140,
+              "url": "https://t.co/eE9Kq5mDD3"
+            },
+            {
+              "display_url": "pic.x.com/eE9Kq5mDD3",
+              "end": 163,
+              "expanded_url": "https://x.com/QueerLawWatchCN/status/2088647358842118500/photo/1",
+              "media_key": "3_2088646996341006336",
+              "start": 140,
+              "url": "https://t.co/eE9Kq5mDD3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088647358842118500",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088645325003108352"
+          },
+          {
+            "media_key": "3_2088645343676157952"
+          },
+          {
+            "media_key": "3_2088646996341006336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "中国视频平台四天内批量锁定跨性别创作者视频🇨🇳🏳️‍⚧️\n\n近日，2026年8月12日至15日的四天里，至少四到五名与跨性别相关的哔哩哔哩（Bilibili）创作者报告，其账号内合计不少于三十条视频被平台退回并锁定。稿件处于锁定状态时无法编辑，视频对外不可访问，也无法录屏保存。\n\n被处置的内容包括求职经验分享、日常生活记录、激素治疗进度与血检结果、节日穿搭。其中最早的一批发布于2024年11月，说明处置溯及存量内容，并非只针对新发布的稿件。\n\n据当事人归纳与平台通知，触发处置的词汇集中在几个社群用语。药娘，指经由激素治疗女性化的人；xyn，是小药娘的拼音缩写；吃糖，社群对激素替代治疗（HRT）的说法。这些词本身是社群在长期审查环境下发展出的替代表述，如今替代表述本身成为处置对象。据当事人在评论中补充，具体的药品名称同样会触发处置。医学诊断用语\"易性症\"也未获豁免，有使用该词的视频同样被锁定。\n\n至少三个互不相干的账号收到的系统通知措辞高度一致，多数为“该视频争议性较大”，个别写作“您的视频中内容争议性较大”。其中一人提出申诉，主张视频内容是求职经历、不涉及性别冲突，并要求平台出示具体证据。申诉被驳回，平台在结果页给出的建议是“规避易关联性别冲突、宣传非主流婚恋观、价值观导向争议、种族矛盾、战争冲突等话题”。另有一份通知使用了不同的事由，一条记录本人开始激素治疗的视频被认定“涉及危害未成年人内容”，处置方式是维持流量受限而非直接锁定。\n\n关于原因，目前没有可靠结论。受影响的创作者本人并列了两种可能：一是存在针对特定词汇的集中举报，二是平台自行更新了审核机制。社群中流传的其他归因说法，均无文件或独立信源支持。记录这件事的困难在于，这类处置几乎不留公开痕迹：视频锁定后无法访问、无法保存，申诉记录只存在于创作者本人的后台，如果当事人不主动开口，它在任何公开数据库里都不存在。\n\n如果你或你认识的人在中文平台上遇到过类似情况，内容因涉及跨性别或性少数相关表述被下架、锁定、限流或要求整改，欢迎向我投稿。请尽量提供平台名称、处理时间和官方通知原文截图。所有材料都会做匿名化处理，不会公开账号名、昵称、视频标题或任何可定位到个人的信息，仅作为现象记录纳入统计。\n\n本条内容基于社群成员的公开分享与投稿截图，为保护当事人安全，不附具体账号链接。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 14349,
+          "like_count": 172,
+          "quote_count": 6,
+          "reply_count": 19,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "中国视频平台四天内批量锁定跨性别创作者视频🇨🇳🏳️‍⚧️\n\n近日，2026年8月12日至15日的四天里，至少四到五名与跨性别相关的哔哩哔哩（Bilibili）创作者报告，其账号内合计不少于三十条视频被平台退回并锁定。稿件处于锁定状态时无法编辑，视频对外不可访问，也无法录屏保存。 https://t.co/eE9Kq5mDD3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "is_identity_verified": false,
+        "location": "廣東省",
+        "most_recent_tweet_id": "2088888987700404538",
+        "name": "伊芙🍥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080706334484500480/jz4mL1lO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1553,
+          "following_count": 1454,
+          "like_count": 9541,
+          "listed_count": 2,
+          "media_count": 221,
+          "tweet_count": 2479
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-28T15:08:39.000Z",
+        "description": "这里是阿冬。\n联系/投稿请私信或邮箱📮queerlawwatchcn@gmail.com\n关注全球LGBTQ运动经验和法律实践🏳️‍🌈🏳️‍⚧️，为关注中国的LGBTQ行动者提供他山之石。\ntracking queer law & policy globally | personal",
+        "id": "2037909112055300096",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088887861017731455",
+        "name": "阿冬的酷儿法律观察",
+        "pinned_tweet_id": "2068670204628910335",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2037909112055300096/1774712007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047360437906182144/TuWas3GX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2128,
+          "following_count": 1382,
+          "like_count": 1240,
+          "listed_count": 5,
+          "media_count": 39,
+          "tweet_count": 397
+        },
+        "url": "",
+        "username": "QueerLawWatchCN",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

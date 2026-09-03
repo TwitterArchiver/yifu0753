@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2091785454735761562",
+    "created_at": "2026-08-24T16:28:17.000Z",
+    "display_text_range": [
+      20,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T17:28:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091925574612922401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2040798583440527360",
+          "start": 0,
+          "username": "longyvling"
+        },
+        {
+          "end": 19,
+          "id": "1561262672888434688",
+          "start": 12,
+          "username": "cai436"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091925574612922401",
+    "in_reply_to_user_id": "2040798583440527360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091819984968437838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@longyvling @cai436 想死，想死啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2091785454735761562",
+        "created_at": "2026-08-24T16:28:17.000Z",
+        "display_text_range": [
+          20,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T17:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091925574612922401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040798583440527360",
+              "start": 0,
+              "username": "longyvling"
+            },
+            {
+              "end": 19,
+              "id": "1561262672888434688",
+              "start": 12,
+              "username": "cai436"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091925574612922401",
+        "in_reply_to_user_id": "2040798583440527360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091819984968437838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@longyvling @cai436 想死，想死啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040798583440527360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2091785454735761562",
+        "created_at": "2026-08-24T09:28:43.000Z",
+        "display_text_range": [
+          8,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T10:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091819984968437838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1561262672888434688",
+              "start": 0,
+              "username": "cai436"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091819984968437838",
+        "in_reply_to_user_id": "1561262672888434688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 220,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091792729722511485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cai436 这和MtF社群里存在对有精神疾病的药娘心理健康不利的负面情绪这件事情毫无关联。你如果非要追根溯源，那么一切都可以怪到晚期资本主义和更早的社会形态的残留身上，可是这有什么用？我们现在唯一能做的就只有劝她们离开氛围不好的社群，改善社群的状态。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "is_identity_verified": false,
+        "location": "廣東省",
+        "most_recent_tweet_id": "2091925574612922401",
+        "name": "伊芙🍥",
+        "pinned_tweet_id": "2091038266661507372",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080706334484500480/jz4mL1lO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1560,
+          "following_count": 1443,
+          "like_count": 9756,
+          "listed_count": 2,
+          "media_count": 224,
+          "tweet_count": 2557
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-05T14:28:34.000Z",
+        "description": "MtF | AuDHD | 🎂2010.1.3 | 🍥2026.5.18 | CPhO现役 | 中国西南某山城北部 | 悟往者之不谏，知来者之可追，实迷途之未远 | 再见了上帝，我要去独自旅行",
+        "id": "2040798583440527360",
+        "is_identity_verified": false,
+        "location": "长夜孤灯",
+        "most_recent_tweet_id": "2091907222557372827",
+        "name": "龙雨绫🍥",
+        "pinned_tweet_id": "2090816381012877501",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040798583440527360/1775400213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040798876291215360/4qSE1Jh7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 311,
+          "like_count": 4602,
+          "listed_count": 2,
+          "media_count": 15,
+          "tweet_count": 1008
+        },
+        "url": "",
+        "username": "longyvling",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-21T08:04:19.000Z",
+        "description": "这个人很懒，什么都没有写。",
+        "id": "1561262672888434688",
+        "is_identity_verified": false,
+        "location": "广东省茂名市",
+        "most_recent_tweet_id": "2091910100684525908",
+        "name": "蔡清晏",
+        "pinned_tweet_id": "2044830395179667923",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561262672888434688/1771230908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046910166008999937/JMrFE9pB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 1505,
+          "like_count": 31801,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 5400
+        },
+        "url": "",
+        "username": "cai436",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

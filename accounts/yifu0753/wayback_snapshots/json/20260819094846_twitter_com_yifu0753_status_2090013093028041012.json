@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2089753197418295488",
+    "created_at": "2026-08-19T09:48:46.000Z",
+    "display_text_range": [
+      15,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T10:48:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090013093028041012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2069160672672546816",
+          "start": 0,
+          "username": "BlackCrow1966"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090013093028041012",
+    "in_reply_to_user_id": "2069160672672546816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089753197418295488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BlackCrow1966 不要……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2089753197418295488",
+        "created_at": "2026-08-19T09:48:46.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T10:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090013093028041012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2069160672672546816",
+              "start": 0,
+              "username": "BlackCrow1966"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090013093028041012",
+        "in_reply_to_user_id": "2069160672672546816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089753197418295488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BlackCrow1966 不要……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2069160672672546816",
+        "conversation_id": "2089753197418295488",
+        "created_at": "2026-08-18T16:36:02.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T17:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089753197418295488"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089753197418295488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 449,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打算，确切地说决定停止hrt了\n洗了个澡，大概是作为补偿似的，用尽可能的女性声线唱了一些歌，出来后对着镜子看着这具一样女性不到哪去的躯体\n短短几个月的hrt经历，与其说是跨越到更像是回归到什么安宁的地方…然而这个地方却事实上给我带来了动荡…\n而今真的又要从头越了…去到荒凉灼眼的焦虑的现实"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "is_identity_verified": false,
+        "location": "廣東省",
+        "most_recent_tweet_id": "2090013093028041012",
+        "name": "伊芙🍥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080706334484500480/jz4mL1lO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1552,
+          "following_count": 1438,
+          "like_count": 9594,
+          "listed_count": 2,
+          "media_count": 221,
+          "tweet_count": 2499
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-22T20:50:56.000Z",
+        "description": "寒冬过了就是春天 我用一生来等你的展颜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/blackcrow1917",
+                "end": 23,
+                "expanded_url": "http://t.me/blackcrow1917",
+                "start": 0,
+                "url": "https://t.co/vMj4wbILEU"
+              }
+            ]
+          }
+        },
+        "id": "2069160672672546816",
+        "is_identity_verified": false,
+        "location": "沙坪坝",
+        "most_recent_tweet_id": "2090013084123545846",
+        "name": "原乡人",
+        "pinned_tweet_id": "2083234627708506262",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2069160672672546816/1786630487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087905660696686592/_A6f0rb3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 820,
+          "like_count": 6623,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 1283
+        },
+        "url": "https://t.co/vMj4wbILEU",
+        "username": "BlackCrow1966",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

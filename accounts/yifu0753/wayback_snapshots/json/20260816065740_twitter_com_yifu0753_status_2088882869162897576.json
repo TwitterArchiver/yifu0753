@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2088878583246713104",
+    "created_at": "2026-08-16T06:57:40.000Z",
+    "display_text_range": [
+      17,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T07:57:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088882869162897576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1843201902550634496",
+          "start": 0,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088882869162897576",
+    "in_reply_to_user_id": "1843201902550634496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088878583246713104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LwrDHYyuxR22499 真的只是因为清真不是自己家开的宣传喇叭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2088878583246713104",
+        "created_at": "2026-08-16T06:57:40.000Z",
+        "display_text_range": [
+          17,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T07:57:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088882869162897576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088882869162897576",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088878583246713104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 真的只是因为清真不是自己家开的宣传喇叭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2088878583246713104",
+        "created_at": "2026-08-16T06:40:38.000Z",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T07:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088878583246713104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bghtnya/status…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/bghtnya/status/2088569009335923168",
+              "start": 132,
+              "url": "https://t.co/GWnKZSy5Y0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088878583246713104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "知道清真为什么建立吗？\n就是因为你现在所述的这个原因。\n最后演变成跨人互害，互相挂。\n这么痛恨清真，真的只是因为清真不是自己家开的宣传喇叭？\n \n我倒也不意外了。\n看了五六年了…\n偷偷告诉你们，\n一大堆看着对清真恨得咬牙切齿的意见领袖，\n其实都偷偷给清真投过稿。\n\n 最后“清真”又变成她们的猎巫工具而已"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088569009335923168",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "知道清真为什么建立吗？\n就是因为你现在所述的这个原因。\n最后演变成跨人互害，互相挂。\n这么痛恨清真，真的只是因为清真不是自己家开的宣传喇叭？\n \n我倒也不意外了。\n看了五六年了…\n偷偷告诉你们，\n一大堆看着对清真恨得咬牙切齿的意见领袖，\n其实都偷偷给清真投过稿。 https://t.co/GWnKZSy5Y0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "is_identity_verified": false,
+        "location": "廣東省",
+        "most_recent_tweet_id": "2088882869162897576",
+        "name": "伊芙🍥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080706334484500480/jz4mL1lO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1553,
+          "following_count": 1452,
+          "like_count": 9533,
+          "listed_count": 2,
+          "media_count": 221,
+          "tweet_count": 2471
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088882668771656113",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843201902550634496/1728288725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7021,
+          "following_count": 3398,
+          "like_count": 4454,
+          "listed_count": 21,
+          "media_count": 563,
+          "tweet_count": 3845
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

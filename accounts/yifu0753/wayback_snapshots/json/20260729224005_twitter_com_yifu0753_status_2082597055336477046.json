@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2082322665260691768",
+    "created_at": "2026-07-29T22:40:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T23:40:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082597055336477046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1486893272622505984",
+          "start": 0,
+          "username": "Kuriyona"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082597055336477046",
+    "in_reply_to_user_id": "1486893272622505984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082322665260691768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kuriyona 想跳"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2082322640870756352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXlaMTa0AAGnrj.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2082322654544142336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXla_PaIAAuPv6.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2082322665260691768",
+        "created_at": "2026-07-29T22:40:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T23:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082597055336477046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1486893272622505984",
+              "start": 0,
+              "username": "Kuriyona"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082597055336477046",
+        "in_reply_to_user_id": "1486893272622505984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082322665260691768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kuriyona 想跳"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082322640870756352",
+            "3_2082322654544142336"
+          ]
+        },
+        "author_id": "1486893272622505984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "2082322665260691768",
+        "created_at": "2026-07-29T04:29:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T05:29:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082322665260691768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vHGxDzQ8py",
+              "end": 60,
+              "expanded_url": "https://x.com/Kuriyona/status/2082322665260691768/photo/1",
+              "media_key": "3_2082322640870756352",
+              "start": 37,
+              "url": "https://t.co/vHGxDzQ8py"
+            },
+            {
+              "display_url": "pic.x.com/vHGxDzQ8py",
+              "end": 60,
+              "expanded_url": "https://x.com/Kuriyona/status/2082322665260691768/photo/1",
+              "media_key": "3_2082322654544142336",
+              "start": 37,
+              "url": "https://t.co/vHGxDzQ8py"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082322665260691768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 282,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "翻到了之前真的想自杀的有一天（26/3/29）拍的照片，KFC 和钱塘江 https://t.co/vHGxDzQ8py"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Guangzhou, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.25,
+                  23.11667
+                ],
+                "type": "Point"
+              },
+              "locality": "Guangzhou",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "location": "广州市",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080706334484500480/jz4mL1lO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1453,
+          "following_count": 1397,
+          "like_count": 9064,
+          "listed_count": 2,
+          "media_count": 218,
+          "tweet_count": 2302
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-28T02:46:07.000Z",
+        "description": "18 (08.6.28) | 称呼我为「未晞」吧 | 杭州 | 准大学生 | 兴趣使然的开发者 前端为主 | 小证含糖🍥 | 双性恋？\n重要的人: @bluse50\n最可爱的妹妹: @xFurina_ / @lfcypo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 74,
+                "username": "bluse50"
+              },
+              {
+                "end": 100,
+                "start": 91,
+                "username": "xFurina_"
+              },
+              {
+                "end": 110,
+                "start": 103,
+                "username": "lfcypo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuriyona.com",
+                "end": 23,
+                "expanded_url": "https://kuriyona.com/",
+                "start": 0,
+                "url": "https://t.co/PIToyCAWAz"
+              }
+            ]
+          }
+        },
+        "id": "1486893272622505984",
+        "location": "杭州 Hangzhou",
+        "name": "Kuriyona 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079289637819105280/r0Azk0r8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 394,
+          "like_count": 2017,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 364
+        },
+        "url": "https://t.co/PIToyCAWAz",
+        "username": "Kuriyona",
+        "verified": true
+      }
+    ]
+  }
+}

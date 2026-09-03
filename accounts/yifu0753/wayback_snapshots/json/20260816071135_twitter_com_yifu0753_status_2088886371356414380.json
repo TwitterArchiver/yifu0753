@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2088587753764307055",
+    "created_at": "2026-08-16T07:11:35.000Z",
+    "display_text_range": [
+      10,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T08:11:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088886371356414380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1734992918312800257",
+          "start": 0,
+          "username": "xs_sanso"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088886371356414380",
+    "in_reply_to_user_id": "1734992918312800257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088587753764307055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xs_sanso 唉……自殺沒有好方法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2088587753764307055",
+        "created_at": "2026-08-16T07:11:35.000Z",
+        "display_text_range": [
+          10,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T08:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088886371356414380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1734992918312800257",
+              "start": 0,
+              "username": "xs_sanso"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088886371356414380",
+        "in_reply_to_user_id": "1734992918312800257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088587753764307055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xs_sanso 唉……自殺沒有好方法"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1734992918312800257",
+        "conversation_id": "2088587753764307055",
+        "created_at": "2026-08-15T11:24:59.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T12:24:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088587753764307055"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088587753764307055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1082,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在等死。\n在割手。\n在想自杀的方法。\n在考虑死前的准备。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "is_identity_verified": false,
+        "location": "廣東省",
+        "most_recent_tweet_id": "2088886371356414380",
+        "name": "伊芙🍥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080706334484500480/jz4mL1lO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1553,
+          "following_count": 1454,
+          "like_count": 9540,
+          "listed_count": 2,
+          "media_count": 221,
+          "tweet_count": 2475
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-13T17:45:28.000Z",
+        "description": "只有纯绿门 无标价 我有精神病 负能量很多 介意的人不要靠近我 不入门的不闲聊 匿名提问箱:https://t.co/IQtQodTr01",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xs_sanso",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xs_sanso",
+                "start": 46,
+                "url": "https://t.co/IQtQodTr01"
+              }
+            ]
+          }
+        },
+        "id": "1734992918312800257",
+        "is_identity_verified": false,
+        "location": "离你1.14km",
+        "most_recent_tweet_id": "2088589081727107234",
+        "name": "かがみ_鏡",
+        "pinned_tweet_id": "2056801038179647753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1734992918312800257/1764882602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076320963172651008/VYm1cPit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 43,
+          "like_count": 1674,
+          "listed_count": 2,
+          "media_count": 109,
+          "tweet_count": 1967
+        },
+        "url": "",
+        "username": "xs_sanso",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

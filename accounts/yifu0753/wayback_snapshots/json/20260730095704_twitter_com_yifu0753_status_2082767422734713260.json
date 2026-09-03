@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2082765537994834416",
+    "created_at": "2026-07-30T09:57:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T10:57:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082767422734713260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2004456046295973888",
+          "start": 0,
+          "username": "kohoshitsumu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082767422734713260",
+    "in_reply_to_user_id": "2004456046295973888",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082767205780079079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kohoshitsumu 抱抱…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 813,
+        "media_key": "3_2082767198414835712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOd5u2NaEAAPzfR.jpg",
+        "width": 1089
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2082765537994834416",
+        "created_at": "2026-07-30T09:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T10:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082767422734713260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2004456046295973888",
+              "start": 0,
+              "username": "kohoshitsumu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082767422734713260",
+        "in_reply_to_user_id": "2004456046295973888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082767205780079079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kohoshitsumu 抱抱…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082767198414835712"
+          ]
+        },
+        "author_id": "2004456046295973888",
+        "conversation_id": "2082765537994834416",
+        "created_at": "2026-07-30T09:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T10:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082767205780079079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1668693781791784961",
+              "start": 0,
+              "username": "yifu0753"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/absPLm67zz",
+              "end": 36,
+              "expanded_url": "https://x.com/kohoshitsumu/status/2082767205780079079/photo/1",
+              "media_key": "3_2082767198414835712",
+              "start": 13,
+              "url": "https://t.co/absPLm67zz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082767205780079079",
+        "in_reply_to_user_id": "1668693781791784961",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082765537994834416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yifu0753 抱抱 https://t.co/absPLm67zz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Guangzhou, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.25,
+                  23.11667
+                ],
+                "type": "Point"
+              },
+              "locality": "Guangzhou",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "location": "广州市",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080706334484500480/jz4mL1lO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1462,
+          "following_count": 1429,
+          "like_count": 9176,
+          "listed_count": 2,
+          "media_count": 219,
+          "tweet_count": 2338
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-26T07:35:49.000Z",
+        "description": "｜女｜生产日期：𝟚𝟘𝟙𝟙/𝟘𝟜/𝟚𝟘｜猫🐈｜🚫🏫休学🎒🚫｜❤️💻𝙄𝙉𝙏𝙀𝙍𝙉𝙀𝙏重度依赖💻❤️｜社恐｜自闭｜抑郁｜焦虑｜双相｜画渣｜学渣｜人生目标达成度：-𝟒𝟎𝟒%/𝟏𝟎𝟎%｜查成分回𝚏𝚘｜\n\n小星紡是百亿光年外早已逝去的双星，虽散发着光芒，但已然成为了尸体",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kohoshitsumu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kohoshitsumu",
+                "start": 0,
+                "url": "https://t.co/Qk6Y5IZ8ni"
+              }
+            ]
+          }
+        },
+        "id": "2004456046295973888",
+        "location": "只想永居于梦",
+        "name": "小星紡ーこほしつむ",
+        "pinned_tweet_id": "2081921570172461422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078476911836086272/XWUEOnTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 384,
+          "like_count": 10610,
+          "listed_count": 0,
+          "media_count": 250,
+          "tweet_count": 815
+        },
+        "url": "https://t.co/Qk6Y5IZ8ni",
+        "username": "kohoshitsumu",
+        "verified": true
+      }
+    ]
+  }
+}

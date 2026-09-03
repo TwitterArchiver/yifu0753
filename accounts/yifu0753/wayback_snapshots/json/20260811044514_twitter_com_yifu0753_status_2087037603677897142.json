@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2087028334928752678",
+    "created_at": "2026-08-11T04:45:14.000Z",
+    "display_text_range": [
+      15,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T05:45:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087037603677897142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1799834736350957569",
+          "start": 0,
+          "username": "kebuluo_jiobi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087037603677897142",
+    "in_reply_to_user_id": "1799834736350957569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087028334928752678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kebuluo_jiobi 什麼困難？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2087028334928752678",
+        "created_at": "2026-08-11T04:45:14.000Z",
+        "display_text_range": [
+          15,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T05:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087037603677897142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1799834736350957569",
+              "start": 0,
+              "username": "kebuluo_jiobi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087037603677897142",
+        "in_reply_to_user_id": "1799834736350957569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087028334928752678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kebuluo_jiobi 什麼困難？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799834736350957569",
+        "conversation_id": "2087028334928752678",
+        "created_at": "2026-08-11T04:08:24.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T05:08:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087028334928752678"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087028334928752678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不想死😭我想活着，不要在逼我了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Guangzhou, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.25,
+                  23.11667
+                ],
+                "type": "Point"
+              },
+              "locality": "Guangzhou",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "is_identity_verified": false,
+        "location": "广州市",
+        "most_recent_tweet_id": "2087037603677897142",
+        "name": "伊芙🍥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080706334484500480/jz4mL1lO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1523,
+          "following_count": 1445,
+          "like_count": 9362,
+          "listed_count": 2,
+          "media_count": 218,
+          "tweet_count": 2412
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-09T16:03:52.000Z",
+        "description": "生产日期2008.6.21|无证🏳️‍⚧️含糖|普通的福建🍥MTF🍥|奋斗青年|蜜雪代言人|宝宝@Wlicoss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 48,
+                "username": "Wlicoss"
+              }
+            ]
+          }
+        },
+        "id": "1799834736350957569",
+        "is_identity_verified": false,
+        "location": "海的那边",
+        "most_recent_tweet_id": "2087034248247320878",
+        "name": "Tebulo🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2070511771451060590",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1799834736350957569/1769882693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064744204342108163/p5HhckCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 27,
+          "like_count": 213,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 126
+        },
+        "url": "",
+        "username": "kebuluo_jiobi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

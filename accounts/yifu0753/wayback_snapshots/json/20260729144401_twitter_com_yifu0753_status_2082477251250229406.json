@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2082477251250229406",
+    "created_at": "2026-07-29T14:44:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T15:44:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082477251250229406"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AsdQWD358224/s…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/AsdQWD358224/status/2082303059674435607",
+          "start": 3,
+          "url": "https://t.co/2HaeDGCqED"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082477251250229406",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082303059674435607",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "支持 https://t.co/2HaeDGCqED"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2082477251250229406",
+        "created_at": "2026-07-29T14:44:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T15:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082477251250229406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AsdQWD358224/s…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/AsdQWD358224/status/2082303059674435607",
+              "start": 3,
+              "url": "https://t.co/2HaeDGCqED"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082477251250229406",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082303059674435607",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "支持 https://t.co/2HaeDGCqED"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "2082303059674435607",
+        "created_at": "2026-07-29T03:11:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T04:11:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082303059674435607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sharkie_4005/s…",
+              "end": 132,
+              "expanded_url": "https://twitter.com/Sharkie_4005/status/2082259044559929381",
+              "start": 109,
+              "url": "https://t.co/ziAIotIrTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082303059674435607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082259044559929381",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "北燕书其实说实在的，只是想拿着国内跨性别救助的这个大旗来争权夺利，批判一切他看不惯的人，随意的给他人扣帽子\n反正这左逼在加拿大过着优越的生活\n国内的跨性别的苦难他才不管呢，无论是想要炒作炒作，炒作，获得更多的流量罢了 https://t.co/ziAIotIrTF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Guangzhou, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.25,
+                  23.11667
+                ],
+                "type": "Point"
+              },
+              "locality": "Guangzhou",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "location": "广州市",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080706334484500480/jz4mL1lO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1451,
+          "following_count": 1396,
+          "like_count": 9027,
+          "listed_count": 2,
+          "media_count": 218,
+          "tweet_count": 2293
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n/中立反战反仇恨/蛋挞单推/❤️    \n   @calsys456 ❤️@xiao_wen0510   ❤️@Nahida_miao❤️ @fe_ions❤️@happyhejsday ❤️@wanan071020\n  @QieZhiyuan ❤️@Roseline_7890\n/秋分在线中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "calsys456"
+              },
+              {
+                "end": 59,
+                "start": 46,
+                "username": "xiao_wen0510"
+              },
+              {
+                "end": 76,
+                "start": 64,
+                "username": "Nahida_miao"
+              },
+              {
+                "end": 87,
+                "start": 79,
+                "username": "fe_ions"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "happyhejsday"
+              },
+              {
+                "end": 117,
+                "start": 105,
+                "username": "wanan071020"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "QieZhiyuan"
+              },
+              {
+                "end": 148,
+                "start": 134,
+                "username": "Roseline_7890"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraft.com",
+                "end": 23,
+                "expanded_url": "http://minecraft.com",
+                "start": 0,
+                "url": "https://t.co/3Lyg5SU2Hf"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "秋分与猫🍔 鲜虾🦐鱼板🍥面🍜",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039448991516278784/Y9ga9C97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2552,
+          "following_count": 3004,
+          "like_count": 102885,
+          "listed_count": 13,
+          "media_count": 2335,
+          "tweet_count": 18279
+        },
+        "url": "https://t.co/3Lyg5SU2Hf",
+        "username": "AsdQWD358224",
+        "verified": false
+      }
+    ]
+  }
+}

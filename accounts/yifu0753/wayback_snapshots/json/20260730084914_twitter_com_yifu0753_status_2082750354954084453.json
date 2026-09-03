@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2082583200950583606",
+    "created_at": "2026-07-30T08:49:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T09:49:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082750354954084453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1530843155855052802",
+          "start": 0,
+          "username": "mcpezht"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082750354954084453",
+    "in_reply_to_user_id": "1530843155855052802",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082719213094109387",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mcpezht 好咸好苦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2082583200950583606",
+        "created_at": "2026-07-30T08:49:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T09:49:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082750354954084453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1530843155855052802",
+              "start": 0,
+              "username": "mcpezht"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082750354954084453",
+        "in_reply_to_user_id": "1530843155855052802",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082719213094109387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mcpezht 好咸好苦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530843155855052802",
+        "conversation_id": "2082583200950583606",
+        "created_at": "2026-07-30T06:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T07:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082719213094109387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1668693781791784961",
+              "start": 0,
+              "username": "yifu0753"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082719213094109387",
+        "in_reply_to_user_id": "1668693781791784961",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082583200950583606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yifu0753 很痛苦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Guangzhou, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.25,
+                  23.11667
+                ],
+                "type": "Point"
+              },
+              "locality": "Guangzhou",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "location": "广州市",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080706334484500480/jz4mL1lO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1455,
+          "following_count": 1397,
+          "like_count": 9076,
+          "listed_count": 2,
+          "media_count": 218,
+          "tweet_count": 2305
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-29T09:27:20.000Z",
+        "description": "一枚ISFJ泛性恋，Minecraft/RPG游戏厨。\n生理性别男\n#精神疾病 #IT #摄影",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 34,
+                "tag": "精神疾病"
+              },
+              {
+                "end": 43,
+                "start": 40,
+                "tag": "IT"
+              },
+              {
+                "end": 47,
+                "start": 44,
+                "tag": "摄影"
+              }
+            ]
+          }
+        },
+        "id": "1530843155855052802",
+        "name": "Rainin",
+        "pinned_tweet_id": "1958442488449921487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964619384053211136/PDTKA-z-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 46,
+          "like_count": 864,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 60
+        },
+        "url": "",
+        "username": "mcpezht",
+        "verified": false
+      }
+    ]
+  }
+}

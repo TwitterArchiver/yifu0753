@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2090567442322120779",
+    "created_at": "2026-08-20T22:31:33.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T23:31:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090567442322120779"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/seaskyfor/stat…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/seaskyfor/status/2090228053733777908",
+          "start": 38,
+          "url": "https://t.co/ehk8E4m4SD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090567442322120779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090228053733777908",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我听说过那跨圈是无尽深渊  非死难渡    可我去不了终点  也回不了岸边 https://t.co/ehk8E4m4SD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3577,
+        "media_key": "3_2090228040366514176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQH7VAWbYAAdiej.jpg",
+        "width": 3701
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2090567442322120779",
+        "created_at": "2026-08-20T22:31:33.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T23:31:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090567442322120779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/seaskyfor/stat…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/seaskyfor/status/2090228053733777908",
+              "start": 38,
+              "url": "https://t.co/ehk8E4m4SD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090567442322120779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090228053733777908",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我听说过那跨圈是无尽深渊  非死难渡    可我去不了终点  也回不了岸边 https://t.co/ehk8E4m4SD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090228040366514176"
+          ]
+        },
+        "author_id": "2075187156268773376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090228053733777908",
+        "created_at": "2026-08-20T00:02:57.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T01:02:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090228053733777908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LxZQUfcjl4",
+              "end": 61,
+              "expanded_url": "https://x.com/seaskyfor/status/2090228053733777908/photo/1",
+              "media_key": "3_2090228040366514176",
+              "start": 38,
+              "url": "https://t.co/LxZQUfcjl4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090228053733777908",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090228040366514176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2025,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我听说过那跨圈是无尽深渊  非死难渡   \n可我去不了终点  也回不了岸边 https://t.co/LxZQUfcjl4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "is_identity_verified": false,
+        "location": "廣東省",
+        "most_recent_tweet_id": "2090567442322120779",
+        "name": "伊芙🍥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080706334484500480/jz4mL1lO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1558,
+          "following_count": 1441,
+          "like_count": 9687,
+          "listed_count": 2,
+          "media_count": 222,
+          "tweet_count": 2519
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-09T11:57:07.000Z",
+        "description": "原号又被封禁了 /永远的南京城 /永远的illusion /许你岁岁平安/ 不像男生不是女生/ 故里蓝鸢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 23,
+                "expanded_url": "https://t.me/lanyuan",
+                "start": 0,
+                "url": "https://t.co/gXd2q9b752"
+              }
+            ]
+          }
+        },
+        "id": "2075187156268773376",
+        "is_identity_verified": false,
+        "location": "南京医科大学江宁校区",
+        "most_recent_tweet_id": "2090543427108970878",
+        "name": "ill",
+        "pinned_tweet_id": "2090228053733777908",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089971410626347008/CBvV8wvE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 86,
+          "like_count": 19,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 21
+        },
+        "url": "https://t.co/gXd2q9b752",
+        "username": "seaskyfor",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2088606850652721564",
+    "created_at": "2026-08-16T03:21:16.000Z",
+    "display_text_range": [
+      17,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T04:21:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088828409703272584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1757449984901894144",
+          "start": 0,
+          "username": "Willie088047972"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088828409703272584",
+    "in_reply_to_user_id": "1757449984901894144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088753040283078973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Willie088047972 生命是我爹我媽交配出來的，不要了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2088606850652721564",
+        "created_at": "2026-08-16T03:21:16.000Z",
+        "display_text_range": [
+          17,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T04:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088828409703272584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757449984901894144",
+              "start": 0,
+              "username": "Willie088047972"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088828409703272584",
+        "in_reply_to_user_id": "1757449984901894144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088753040283078973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Willie088047972 生命是我爹我媽交配出來的，不要了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757449984901894144",
+        "conversation_id": "2088606850652721564",
+        "created_at": "2026-08-15T22:21:46.000Z",
+        "display_text_range": [
+          10,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T23:21:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088753040283078973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1668693781791784961",
+              "start": 0,
+              "username": "yifu0753"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088753040283078973",
+        "in_reply_to_user_id": "1668693781791784961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088606850652721564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yifu0753 trans 不該死，你也不該自殺。他們不尊重你，你不尊重生命"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "is_identity_verified": false,
+        "location": "廣東省",
+        "most_recent_tweet_id": "2088828409703272584",
+        "name": "伊芙🍥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080706334484500480/jz4mL1lO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1554,
+          "following_count": 1454,
+          "like_count": 9516,
+          "listed_count": 2,
+          "media_count": 220,
+          "tweet_count": 2464
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-13T17:01:54.000Z",
+        "description": "中國人|愛爾蘭留學生|友跨|Looking forward to make friend|♂| INFP | 15",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "playdeltaforce.com",
+                "end": 23,
+                "expanded_url": "http://playdeltaforce.com",
+                "start": 0,
+                "url": "https://t.co/2zqrFDY10G"
+              }
+            ]
+          }
+        },
+        "id": "1757449984901894144",
+        "is_identity_verified": false,
+        "location": "Dublin City, Ireland",
+        "most_recent_tweet_id": "2088753040283078973",
+        "name": "在真理之後🇮🇪",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1757449984901894144/1783331864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073050249418133504/aQG9yHGj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 62,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "url": "https://t.co/2zqrFDY10G",
+        "username": "Willie088047972",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

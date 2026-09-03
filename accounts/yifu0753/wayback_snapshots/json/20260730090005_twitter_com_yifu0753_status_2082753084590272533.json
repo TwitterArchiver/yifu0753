@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2080693281672089751",
+    "created_at": "2026-07-30T09:00:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T10:00:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082753084590272533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2035668415231492096",
+          "start": 0,
+          "username": "4rulq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082753084590272533",
+    "in_reply_to_user_id": "2035668415231492096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081297054186569799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4rulq @Gyoko404 不好🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2080693281672089751",
+        "created_at": "2026-07-30T09:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T10:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082753084590272533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2035668415231492096",
+              "start": 0,
+              "username": "4rulq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082753084590272533",
+        "in_reply_to_user_id": "2035668415231492096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081297054186569799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4rulq @Gyoko404 不好🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035668415231492096",
+        "conversation_id": "2080693281672089751",
+        "created_at": "2026-07-26T08:34:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T09:34:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081297054186569799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "886641021588611072",
+              "start": 0,
+              "username": "Gyoko404"
+            },
+            {
+              "end": 19,
+              "id": "1668693781791784961",
+              "start": 10,
+              "username": "yifu0753"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081297054186569799",
+        "in_reply_to_user_id": "886641021588611072",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081293328465928494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gyoko404 @yifu0753 😿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Guangzhou, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.25,
+                  23.11667
+                ],
+                "type": "Point"
+              },
+              "locality": "Guangzhou",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "location": "广州市",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080706334484500480/jz4mL1lO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1456,
+          "following_count": 1405,
+          "like_count": 9116,
+          "listed_count": 2,
+          "media_count": 218,
+          "tweet_count": 2320
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-22T10:42:53.000Z",
+        "description": "一隻路過且無人愛的一醬喵😭🥹\n情感碎碎念\n無助\n需要被愛\n黃推一醬（？）\n接圓角喵\n負面情緒注意⚠️\n中焦重抑\n隨時亖亡（？）\n雌二醇重度依賴\n最愛的姐姐@mapo_q\n最愛的妹妹和對象：@bpmiea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 77,
+                "username": "mapo_q"
+              },
+              {
+                "end": 101,
+                "start": 94,
+                "username": "bpmiea"
+              }
+            ]
+          }
+        },
+        "id": "2035668415231492096",
+        "location": "精神衛生中心的封閉病房/醫院ICU/太平間（？）",
+        "name": "不會打Maimai DX每天哭的いいちゃん（小葉重度依賴）😾😿",
+        "pinned_tweet_id": "2080030592926892493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055329903961366529/9MXwtaFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 705,
+          "following_count": 989,
+          "like_count": 4334,
+          "listed_count": 5,
+          "media_count": 180,
+          "tweet_count": 4130
+        },
+        "url": "",
+        "username": "4rulq",
+        "verified": false
+      }
+    ]
+  }
+}
