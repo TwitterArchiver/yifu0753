@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096144572959334400",
+        "3_2096144580915896320"
+      ]
+    },
+    "author_id": "1668693781791784961",
+    "conversation_id": "2096144587769397478",
+    "created_at": "2026-09-05T07:53:08.000Z",
+    "display_text_range": [
+      0,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T08:53:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096144587769397478"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/00oKbwwfUd",
+          "end": 51,
+          "expanded_url": "https://x.com/yifu0753/status/2096144587769397478/photo/1",
+          "media_key": "3_2096144572959334400",
+          "start": 28,
+          "url": "https://t.co/00oKbwwfUd"
+        },
+        {
+          "display_url": "pic.x.com/00oKbwwfUd",
+          "end": 51,
+          "expanded_url": "https://x.com/yifu0753/status/2096144587769397478/photo/1",
+          "media_key": "3_2096144580915896320",
+          "start": 28,
+          "url": "https://t.co/00oKbwwfUd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096144587769397478",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096144572959334400"
+      },
+      {
+        "media_key": "3_2096144580915896320"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "泌乳素过高怎么办？ \n\n妇科只能开激素五项，加一个睾酮 https://t.co/00oKbwwfUd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 353,
+        "media_key": "3_2096144572959334400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRcAYh0aoAA0nsU.jpg",
+        "width": 1080
+      },
+      {
+        "height": 222,
+        "media_key": "3_2096144580915896320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRcAY_daIAAkqny.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096144572959334400",
+            "3_2096144580915896320"
+          ]
+        },
+        "author_id": "1668693781791784961",
+        "conversation_id": "2096144587769397478",
+        "created_at": "2026-09-05T07:53:08.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T08:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096144587769397478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/00oKbwwfUd",
+              "end": 51,
+              "expanded_url": "https://x.com/yifu0753/status/2096144587769397478/photo/1",
+              "media_key": "3_2096144572959334400",
+              "start": 28,
+              "url": "https://t.co/00oKbwwfUd"
+            },
+            {
+              "display_url": "pic.x.com/00oKbwwfUd",
+              "end": 51,
+              "expanded_url": "https://x.com/yifu0753/status/2096144587769397478/photo/1",
+              "media_key": "3_2096144580915896320",
+              "start": 28,
+              "url": "https://t.co/00oKbwwfUd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096144587769397478",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096144572959334400"
+          },
+          {
+            "media_key": "3_2096144580915896320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "泌乳素过高怎么办？ \n\n妇科只能开激素五项，加一个睾酮 https://t.co/00oKbwwfUd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "is_identity_verified": false,
+        "location": "廣東省",
+        "most_recent_tweet_id": "2096144587769397478",
+        "name": "伊芙🍥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080706334484500480/jz4mL1lO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1611,
+          "following_count": 1450,
+          "like_count": 9877,
+          "listed_count": 4,
+          "media_count": 228,
+          "tweet_count": 2597
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

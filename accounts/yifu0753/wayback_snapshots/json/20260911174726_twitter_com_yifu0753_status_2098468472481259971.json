@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2098462842643165297",
+    "created_at": "2026-09-11T17:47:26.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T18:47:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098468472481259971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1766644305660420096",
+          "start": 0,
+          "username": "umehara02A01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098468472481259971",
+    "in_reply_to_user_id": "1766644305660420096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098462842643165297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@umehara02A01 「抱抱」"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2098462826256060416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR880oVa0AAJWWD.jpg",
+        "width": 1408
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2098462842643165297",
+        "created_at": "2026-09-11T17:47:26.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T18:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098468472481259971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1766644305660420096",
+              "start": 0,
+              "username": "umehara02A01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098468472481259971",
+        "in_reply_to_user_id": "1766644305660420096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098462842643165297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@umehara02A01 「抱抱」"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098462826256060416"
+          ]
+        },
+        "author_id": "1766644305660420096",
+        "conversation_id": "2098462842643165297",
+        "created_at": "2026-09-11T17:25:03.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T18:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098462842643165297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QpLkmHMP3y",
+              "end": 62,
+              "expanded_url": "https://x.com/umehara02A01/status/2098462842643165297/photo/1",
+              "media_key": "3_2098462826256060416",
+              "start": 39,
+              "url": "https://t.co/QpLkmHMP3y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098462842643165297",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098462826256060416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有時候心情差了真好想被抱緊緊貼貼…\n只要被回覆一個「抱抱」被關心真能開心好久 https://t.co/QpLkmHMP3y"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "is_identity_verified": false,
+        "location": "廣東省",
+        "most_recent_tweet_id": "2098468472481259971",
+        "name": "伊芙🍥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080706334484500480/jz4mL1lO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1610,
+          "following_count": 1448,
+          "like_count": 9895,
+          "listed_count": 4,
+          "media_count": 228,
+          "tweet_count": 2606
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-10T01:56:57.000Z",
+        "description": "akaすいか/高校2年生/mtf🏳️‍⚧️🍥/地雷女/リスカ🔪🩸とお酒🍷大好き/ASD/プログラマー👩‍💻/うつ/撮り鉄🚞/子猫🐱/ネコ民国の小統領/zh-tw/ja/en/@happysugarlifeA 推し/暗黒面垢@sakurazakiAC02/大好きな姉💕@rafaeru54035903",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "happysugarlifeA"
+              },
+              {
+                "end": 126,
+                "start": 111,
+                "username": "sakurazakiAC02"
+              },
+              {
+                "end": 149,
+                "start": 133,
+                "username": "rafaeru54035903"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "republicofneko.site",
+                "end": 23,
+                "expanded_url": "http://republicofneko.site",
+                "start": 0,
+                "url": "https://t.co/BjCzmF2uTU"
+              }
+            ]
+          }
+        },
+        "id": "1766644305660420096",
+        "is_identity_verified": false,
+        "location": "Republic of Neko/ネコ民国 下海市 ",
+        "most_recent_tweet_id": "2098467699034841124",
+        "name": "梅原寒咲🐱🏳️‍⚧️",
+        "pinned_tweet_id": "2088255840302358771",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1766644305660420096/1788050298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084055985422061568/b3nnME5j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2131,
+          "following_count": 2511,
+          "like_count": 22028,
+          "listed_count": 7,
+          "media_count": 666,
+          "tweet_count": 11034
+        },
+        "url": "https://t.co/BjCzmF2uTU",
+        "username": "umehara02A01",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

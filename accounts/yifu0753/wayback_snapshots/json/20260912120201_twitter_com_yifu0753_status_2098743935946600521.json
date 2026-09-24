@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098743926899560452"
+      ]
+    },
+    "author_id": "1668693781791784961",
+    "conversation_id": "2098469710778290667",
+    "created_at": "2026-09-12T12:02:01.000Z",
+    "display_text_range": [
+      22,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T13:02:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098743935946600521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2040798583440527360",
+          "start": 0,
+          "username": "longyvling"
+        },
+        {
+          "end": 22,
+          "id": "1608637128132685825",
+          "start": 12,
+          "username": "nyaepheia"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/h70O157MWS",
+          "end": 46,
+          "expanded_url": "https://x.com/yifu0753/status/2098743935946600521/photo/1",
+          "media_key": "3_2098743926899560452",
+          "start": 23,
+          "url": "https://t.co/h70O157MWS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098743935946600521",
+    "in_reply_to_user_id": "2040798583440527360",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2098743926899560452"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098583868354044172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@longyvling @nyaepheia https://t.co/h70O157MWS"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2098583868354044172].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2098583868354044172",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2098583868354044172"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_2098743926899560452",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSA8e11bUAQ6sWl.jpg",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098743926899560452"
+          ]
+        },
+        "author_id": "1668693781791784961",
+        "conversation_id": "2098469710778290667",
+        "created_at": "2026-09-12T12:02:01.000Z",
+        "display_text_range": [
+          22,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T13:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098743935946600521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040798583440527360",
+              "start": 0,
+              "username": "longyvling"
+            },
+            {
+              "end": 22,
+              "id": "1608637128132685825",
+              "start": 12,
+              "username": "nyaepheia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h70O157MWS",
+              "end": 46,
+              "expanded_url": "https://x.com/yifu0753/status/2098743935946600521/photo/1",
+              "media_key": "3_2098743926899560452",
+              "start": 23,
+              "url": "https://t.co/h70O157MWS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098743935946600521",
+        "in_reply_to_user_id": "2040798583440527360",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2098743926899560452"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098583868354044172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@longyvling @nyaepheia https://t.co/h70O157MWS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "is_identity_verified": false,
+        "location": "廣東省",
+        "most_recent_tweet_id": "2098743935946600521",
+        "name": "伊芙🍥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080706334484500480/jz4mL1lO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1612,
+          "following_count": 1450,
+          "like_count": 9931,
+          "listed_count": 3,
+          "media_count": 239,
+          "tweet_count": 2623
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-05T14:28:34.000Z",
+        "description": "“再怎么找也没有啦”“不行，还是忘不掉你们呀”",
+        "id": "2040798583440527360",
+        "is_identity_verified": false,
+        "location": "长夜无灯",
+        "most_recent_tweet_id": "2092158896647360844",
+        "name": "龙雨绫🍥",
+        "pinned_tweet_id": "2090816381012877501",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040798583440527360/1775400213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040798876291215360/4qSE1Jh7_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 327,
+          "like_count": 6448,
+          "listed_count": 2,
+          "media_count": 18,
+          "tweet_count": 1176
+        },
+        "url": "",
+        "username": "longyvling",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️ https://t.co/7pvajR9Q0p \n/ɪˈfiːə/ she/they\n评论账号@epheiamoe\n存档https://t.co/l9TdYP6fRz\n\nhrt since26.4.1\n可访问此账号的委派者：@yxrchina @0502railgun1949 @lckmtfdesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 57,
+                "username": "epheiamoe"
+              },
+              {
+                "end": 131,
+                "start": 122,
+                "username": "yxrchina"
+              },
+              {
+                "end": 148,
+                "start": 132,
+                "username": "0502railgun1949"
+              },
+              {
+                "end": 160,
+                "start": 149,
+                "username": "lckmtfdesu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 33,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 10,
+                "url": "https://t.co/7pvajR9Q0p"
+              },
+              {
+                "display_url": "nyaepheia.pages.dev",
+                "end": 93,
+                "expanded_url": "http://nyaepheia.pages.dev",
+                "start": 70,
+                "url": "https://t.co/l9TdYP6fRz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nyaepheia.pages.dev",
+                "end": 23,
+                "expanded_url": "https://nyaepheia.pages.dev/",
+                "start": 0,
+                "url": "https://t.co/JPmDqezgWc"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "is_identity_verified": false,
+        "location": "❤️@yxrchina",
+        "most_recent_tweet_id": "2080511066983837976",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️(she/they)",
+        "pinned_tweet_id": "2078997463525142566",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1608637128132685825/1779711471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 924,
+          "like_count": 36364,
+          "listed_count": 10,
+          "media_count": 888,
+          "tweet_count": 7150
+        },
+        "url": "https://t.co/JPmDqezgWc",
+        "username": "nyaepheia",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2098438494398148995",
+    "created_at": "2026-09-11T15:48:18.000Z",
+    "display_text_range": [
+      0,
+      84
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T16:48:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098438494398148995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1594297311836143616",
+          "start": 3,
+          "username": "xiwu0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098438494398148995",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098096762489815451",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiwu0721: 😭😭😭没有家人支持，没有对象，去泰国的的术钱也没攒够，即使我术了人生依旧一片黑暗，长期吃精品神药脑子也已经废了。。。为什么这个世界要这样对我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2098438494398148995",
+        "created_at": "2026-09-11T15:48:18.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T16:48:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098438494398148995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1594297311836143616",
+              "start": 3,
+              "username": "xiwu0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098438494398148995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098096762489815451",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiwu0721: 😭😭😭没有家人支持，没有对象，去泰国的的术钱也没攒够，即使我术了人生依旧一片黑暗，长期吃精品神药脑子也已经废了。。。为什么这个世界要这样对我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594297311836143616",
+        "conversation_id": "2098096762489815451",
+        "created_at": "2026-09-10T17:10:23.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T18:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098096762489815451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xijiu_/status/…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/xijiu_/status/2098068917247955126",
+              "start": 71,
+              "url": "https://t.co/l6StBLDXO3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098096762489815451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2026,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098068917247955126",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😭😭😭没有家人支持，没有对象，去泰国的的术钱也没攒够，即使我术了人生依旧一片黑暗，长期吃精品神药脑子也已经废了。。。为什么这个世界要这样对我 https://t.co/l6StBLDXO3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "is_identity_verified": false,
+        "location": "廣東省",
+        "most_recent_tweet_id": "2098438494398148995",
+        "name": "伊芙🍥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080706334484500480/jz4mL1lO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1610,
+          "following_count": 1445,
+          "like_count": 9878,
+          "listed_count": 4,
+          "media_count": 228,
+          "tweet_count": 2602
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-20T11:51:36.000Z",
+        "description": "小证含糖🍥MtF🏳️‍⚧️/HRT Since 2026.3.12🍬/SRS in 27 summer 术不了就重开/SJTU EE本硕 AIGC Multimodal/接线上和上海家教攒术钱/同类互fo（没看到请私信我）🥺/家长反对党😭/喜欢可爱的事物🥰想要很多朋友/永远活在16岁✨",
+        "id": "1594297311836143616",
+        "is_identity_verified": false,
+        "location": "风信子号",
+        "most_recent_tweet_id": "2098423299869163791",
+        "name": "夕雾🏳️‍⚧🍥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040815765197316096/KCGQMePy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1289,
+          "following_count": 539,
+          "like_count": 682,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 310
+        },
+        "url": "",
+        "username": "xiwu0721",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
