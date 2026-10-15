@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2108491215096438790",
+    "created_at": "2026-10-09T12:08:30.000Z",
+    "display_text_range": [
+      17,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T13:08:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108530036726726902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1692511487531909120",
+          "start": 0,
+          "username": "CicadaSeventeen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108530036726726902",
+    "in_reply_to_user_id": "1692511487531909120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108491215096438790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CicadaSeventeen 屑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2108491215096438790",
+        "created_at": "2026-10-09T12:08:30.000Z",
+        "display_text_range": [
+          17,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T13:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108530036726726902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1692511487531909120",
+              "start": 0,
+              "username": "CicadaSeventeen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108530036726726902",
+        "in_reply_to_user_id": "1692511487531909120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108491215096438790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CicadaSeventeen 屑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692511487531909120",
+        "conversation_id": "2108491215096438790",
+        "created_at": "2026-10-09T09:34:14.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T10:34:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108491215096438790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CicadaSeventee…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/CicadaSeventeen/status/2108491030198947990",
+              "start": 33,
+              "url": "https://t.co/fcwyxTorNG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108491215096438790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 60,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108491030198947990",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最后，致所有喜欢吵架的人：你们去和异性吵架吧，我去和朋友贴贴了！ https://t.co/fcwyxTorNG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "is_identity_verified": false,
+        "location": "廣東省",
+        "most_recent_tweet_id": "2108530036726726902",
+        "name": "伊芙🍥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080706334484500480/jz4mL1lO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1626,
+          "following_count": 1439,
+          "like_count": 10367,
+          "listed_count": 2,
+          "media_count": 245,
+          "tweet_count": 2667
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-18T12:19:29.000Z",
+        "description": "不做「第一性」，tg已复活\n|人不仅创造自己的历史，关键的，是创造自己的存在和自由",
+        "id": "1692511487531909120",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2108499592400765415",
+        "name": "🌈 Cic17",
+        "pinned_tweet_id": "2108491215096438790",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692511487531909120/1772115029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027023455598899200/imFQgBaO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 211,
+          "like_count": 1042,
+          "listed_count": 0,
+          "media_count": 373,
+          "tweet_count": 2956
+        },
+        "url": "",
+        "username": "CicadaSeventeen",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2108529384609243247",
+    "created_at": "2026-10-09T12:05:54.000Z",
+    "display_text_range": [
+      0,
+      99
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T13:05:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108529384609243247"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Chiyuyu520/sta…",
+          "end": 123,
+          "expanded_url": "https://twitter.com/Chiyuyu520/status/2108515929474908168",
+          "start": 100,
+          "url": "https://t.co/crO74HlqYo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108529384609243247",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108515929474908168",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果你从别人口中听到了我的坏话，并且在不求证的情况下完全信了的话就把我删了吧\n我不需要从别人口中来了解并且虚构我的人假装什么都没发生地呆在我的列表\n\n我是来和你做朋友的，不是等着被泼脏水和指指点点的 https://t.co/crO74HlqYo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2108529384609243247",
+        "created_at": "2026-10-09T12:05:54.000Z",
+        "display_text_range": [
+          0,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T13:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108529384609243247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Chiyuyu520/sta…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/Chiyuyu520/status/2108515929474908168",
+              "start": 100,
+              "url": "https://t.co/crO74HlqYo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108529384609243247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108515929474908168",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果你从别人口中听到了我的坏话，并且在不求证的情况下完全信了的话就把我删了吧\n我不需要从别人口中来了解并且虚构我的人假装什么都没发生地呆在我的列表\n\n我是来和你做朋友的，不是等着被泼脏水和指指点点的 https://t.co/crO74HlqYo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "2108515929474908168",
+        "created_at": "2026-10-09T11:12:26.000Z",
+        "display_text_range": [
+          0,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T12:12:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108515929474908168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aoim33/status/…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/aoim33/status/2067301620720030139",
+              "start": 100,
+              "url": "https://t.co/lPes86CxFC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108515929474908168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 220,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067301620720030139",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果你从别人口中听到了我的坏话，并且在不求证的情况下完全信了的话就把我删了吧\n我不需要从别人口中来了解并且虚构我的人假装什么都没发生地呆在我的列表\n\n我是来和你做朋友的，不是等着被泼脏水和指指点点的 https://t.co/lPes86CxFC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "is_identity_verified": false,
+        "location": "廣東省",
+        "most_recent_tweet_id": "2108529384609243247",
+        "name": "伊芙🍥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080706334484500480/jz4mL1lO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1626,
+          "following_count": 1439,
+          "like_count": 10364,
+          "listed_count": 2,
+          "media_count": 245,
+          "tweet_count": 2665
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜 | Cloudflare 八级钳工\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "is_identity_verified": true,
+        "location": "遗书→",
+        "most_recent_tweet_id": "2108521786518409375",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904873292366036992/1758340055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5009,
+          "following_count": 1306,
+          "like_count": 8891,
+          "listed_count": 6,
+          "media_count": 859,
+          "tweet_count": 2124
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2106136041614954560",
+    "created_at": "2026-10-03T08:42:12.000Z",
+    "display_text_range": [
+      32,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T09:42:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106303796074656084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2035882965671215104",
+          "start": 0,
+          "username": "amber_medusozoa"
+        },
+        {
+          "end": 31,
+          "id": "1087657375257944064",
+          "start": 17,
+          "username": "ShizukiMinori"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106303796074656084",
+    "in_reply_to_user_id": "2035882965671215104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106159041953030532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_medusozoa @ShizukiMinori 『 我不了解事情经过』"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2106136041614954560",
+        "created_at": "2026-10-03T08:42:12.000Z",
+        "display_text_range": [
+          32,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T09:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106303796074656084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            },
+            {
+              "end": 31,
+              "id": "1087657375257944064",
+              "start": 17,
+              "username": "ShizukiMinori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106303796074656084",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106159041953030532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa @ShizukiMinori 『 我不了解事情经过』"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2106136041614954560",
+        "created_at": "2026-10-02T23:07:00.000Z",
+        "display_text_range": [
+          15,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T00:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106159041953030532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1087657375257944064",
+              "start": 0,
+              "username": "ShizukiMinori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106159041953030532",
+        "in_reply_to_user_id": "1087657375257944064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3564,
+          "like_count": 18,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106136041614954560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShizukiMinori 我不了解事情经过，也没有评价你们的决策是否妥善；我批评的只是你（或你的几位伙伴）选择将关涉人性命和性侵害指控的严肃事件投稿清蒸的行为。清蒸这个组织是什么性质我相信你很清楚，你一边批判别人玩网，一边主动参与恶俗网络平台的内容生产，你自己觉得自洽吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "is_identity_verified": false,
+        "location": "廣東省",
+        "most_recent_tweet_id": "2106303796074656084",
+        "name": "伊芙🍥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080706334484500480/jz4mL1lO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1626,
+          "following_count": 1440,
+          "like_count": 10220,
+          "listed_count": 2,
+          "media_count": 242,
+          "tweet_count": 2655
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2106300193968721989",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11618,
+          "following_count": 1413,
+          "like_count": 11688,
+          "listed_count": 20,
+          "media_count": 533,
+          "tweet_count": 7154
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-01-22T10:25:00.000Z",
+        "description": "「人よ、幸福たれ！」\n| #eb695d\n| lenient and saucy “优雅而愉悦”\n| 谏言者人格：@zoya_genrikh\n| 生活在树上是妳的避难所、也是我的避难所",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 13,
+                "tag": "eb695d"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 70,
+                "start": 57,
+                "username": "zoya_genrikh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "labmikazu.dscf.one",
+                "end": 23,
+                "expanded_url": "http://labmikazu.dscf.one",
+                "start": 0,
+                "url": "https://t.co/j443RDrPzv"
+              }
+            ]
+          }
+        },
+        "id": "1087657375257944064",
+        "is_identity_verified": false,
+        "location": "opengl106.oikawa.moe",
+        "most_recent_tweet_id": "2106292806709051605",
+        "name": "梓月 Z. Λ. Shizuki",
+        "pinned_tweet_id": "1735317515297816948",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1087657375257944064/1747811767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925088190991593472/GtVAoOWu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4094,
+          "following_count": 1570,
+          "like_count": 82635,
+          "listed_count": 22,
+          "media_count": 699,
+          "tweet_count": 5866
+        },
+        "url": "https://t.co/j443RDrPzv",
+        "username": "ShizukiMinori",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

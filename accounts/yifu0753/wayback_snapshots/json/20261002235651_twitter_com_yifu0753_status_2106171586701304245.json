@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2106076753970311270",
+    "created_at": "2026-10-02T23:56:51.000Z",
+    "display_text_range": [
+      11,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T00:56:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106171586701304245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2075187156268773376",
+          "start": 0,
+          "username": "seaskyfor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106171586701304245",
+    "in_reply_to_user_id": "2075187156268773376",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106076753970311270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seaskyfor 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2106076753970311270",
+        "created_at": "2026-10-02T23:56:51.000Z",
+        "display_text_range": [
+          11,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T00:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106171586701304245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2075187156268773376",
+              "start": 0,
+              "username": "seaskyfor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106171586701304245",
+        "in_reply_to_user_id": "2075187156268773376",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106076753970311270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seaskyfor 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075187156268773376",
+        "conversation_id": "2106076753970311270",
+        "created_at": "2026-10-02T17:40:01.000Z",
+        "display_text_range": [
+          0,
+          155
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T18:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106076753970311270"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106076753970311270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 681,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我把所有借贷软件额度套了出来 我关闭所有的二级验证 我把所有绑定QQ邮箱的账号换绑成了Gmail  我把所有绑定手机号的解绑 我10几个小时码了几千字的文章  包含了0基础也能提走资金的教程  \n\n然后设置了定时发送 \n\n我为了留给喜欢的人  我几乎放弃了一切  可是结局......我好绝望我已经没有回头路了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "is_identity_verified": false,
+        "location": "廣東省",
+        "most_recent_tweet_id": "2106171586701304245",
+        "name": "伊芙🍥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080706334484500480/jz4mL1lO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1626,
+          "following_count": 1438,
+          "like_count": 10210,
+          "listed_count": 2,
+          "media_count": 242,
+          "tweet_count": 2652
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-09T11:57:07.000Z",
+        "description": "永远的南京城 / illusion  / 08 高三 /  crypto trader / 许你岁岁平安 / 不像女生 不是男生 / 终将成为你 / 永不失联的tg逃生仓  https://t.co/qP2RTqn4g8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/illusion5201314",
+                "end": 110,
+                "expanded_url": "http://t.me/illusion5201314",
+                "start": 87,
+                "url": "https://t.co/qP2RTqn4g8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 23,
+                "expanded_url": "https://t.me/lanyuan",
+                "start": 0,
+                "url": "https://t.co/gXd2q9b752"
+              }
+            ]
+          }
+        },
+        "id": "2075187156268773376",
+        "is_identity_verified": false,
+        "location": "南京医科大学江宁校区",
+        "most_recent_tweet_id": "2106076753970311270",
+        "name": "ill",
+        "pinned_tweet_id": "2101563683998749090",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089971410626347008/CBvV8wvE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1447,
+          "following_count": 303,
+          "like_count": 607,
+          "listed_count": 3,
+          "media_count": 211,
+          "tweet_count": 519
+        },
+        "url": "https://t.co/gXd2q9b752",
+        "username": "seaskyfor",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

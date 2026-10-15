@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2104620320766427360",
+    "created_at": "2026-09-28T17:12:41.000Z",
+    "display_text_range": [
+      0,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T18:12:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104620320766427360"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Ayano_Nya_/sta…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/Ayano_Nya_/status/2104290477017370682",
+          "start": 20,
+          "url": "https://t.co/9unY3wuxjn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104620320766427360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104290477017370682",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想了好多东西，最后发现好像就两个字想死 https://t.co/9unY3wuxjn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2104620320766427360",
+        "created_at": "2026-09-28T17:12:41.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T18:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104620320766427360"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ayano_Nya_/sta…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/Ayano_Nya_/status/2104290477017370682",
+              "start": 20,
+              "url": "https://t.co/9unY3wuxjn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104620320766427360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104290477017370682",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想了好多东西，最后发现好像就两个字想死 https://t.co/9unY3wuxjn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1693935285577670656",
+        "conversation_id": "2104290477017370682",
+        "created_at": "2026-09-27T19:22:00.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T20:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104290477017370682"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104290477017370682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 447,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想了好多东西，最后发现好像就两个字想死"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "is_identity_verified": false,
+        "location": "廣東省",
+        "most_recent_tweet_id": "2104620320766427360",
+        "name": "伊芙🍥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080706334484500480/jz4mL1lO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1628,
+          "following_count": 1440,
+          "like_count": 10062,
+          "listed_count": 2,
+          "media_count": 242,
+          "tweet_count": 2642
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-08-22T10:37:12.000Z",
+        "description": "🏳️‍⚧️| 2010.5 | 跨圈老资历😇 | 欢迎互fo! | 粘人 | xp是如月桃枝😋 | @Kisaragi_Momoe 的乖小狗 要爱主人老婆大人一辈子喵❤️ | 负能里推@Yumo_1314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "Kisaragi_Momoe"
+              },
+              {
+                "end": 102,
+                "start": 92,
+                "username": "Yumo_1314"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nyac.cl",
+                "end": 23,
+                "expanded_url": "http://nyac.cl",
+                "start": 0,
+                "url": "https://t.co/1HZl5Yz769"
+              }
+            ]
+          }
+        },
+        "id": "1693935285577670656",
+        "is_identity_verified": false,
+        "location": "姐姐腿上",
+        "most_recent_tweet_id": "2104618471271321736",
+        "name": "想去参宿四的绫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1693935285577670656/1785082481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085817931502698496/I8EWzB1l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2525,
+          "following_count": 2421,
+          "like_count": 8860,
+          "listed_count": 6,
+          "media_count": 805,
+          "tweet_count": 9125
+        },
+        "url": "https://t.co/1HZl5Yz769",
+        "username": "Ayano_Nya_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

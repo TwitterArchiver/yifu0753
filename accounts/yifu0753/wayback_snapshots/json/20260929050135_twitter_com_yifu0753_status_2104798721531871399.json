@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "1879265587433816458",
+    "created_at": "2026-09-29T05:01:35.000Z",
+    "display_text_range": [
+      13,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T06:01:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104798721531871399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1585145286598483968",
+          "start": 0,
+          "username": "lianyiganyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104798721531871399",
+    "in_reply_to_user_id": "1585145286598483968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879265587433816458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lianyiganyu 做救助的人这么少吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "1879265587433816458",
+        "created_at": "2026-09-29T05:01:35.000Z",
+        "display_text_range": [
+          13,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T06:01:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104798721531871399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1585145286598483968",
+              "start": 0,
+              "username": "lianyiganyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104798721531871399",
+        "in_reply_to_user_id": "1585145286598483968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879265587433816458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lianyiganyu 做救助的人这么少吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1585145286598483968",
+        "conversation_id": "1879265587433816458",
+        "created_at": "2025-01-14T20:33:25.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2025-01-14T21:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879265587433816458"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1879265587433816458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "五年工作简报：\n\n2020年1月1日至2025年1月1日，寒涟漪（包括涟漪危机干预小组，成立于2023年12月）共计在助人工作中投入了约1907539元。\n\n其中包括了约126万元的房租，电，水，燃气，网络，物业费用，家具家电，搬家搬运等成本，约31万元的医药成本，约17万元的人员工资，志愿者津贴及人员交通，食宿等成本（工作人员存在大量义务劳动，所有工作人员的实际劳动力价值按市场价计算约85万元人民币），约16万元的出于救助目的而出借资金的借贷成本。\n\n以下是各年份的累计支出：\n\n2020年：约271253元，2021年：约348240元，2022年：约380461元，2023年：约320859元，2024年：约586726元\n\n收入方面\n\n2020年1月1日至2025年1月1日期间，我（包括涟漪危机干预小组）共计收到赞赏约611656元，其中491400元来自于四位跨性别女性，其中两位是寒涟漪的亲密关系，第三位是一个透支了自己75％以上工作收入用于救助，将自己生存质量压缩到极限的工薪阶层的跨性别女性，第四位是寒涟漪的一位挚交故友。\n\n共计收到救助返还（如庇护所住户分摊的房租，对对方进行救助后其本人或家属返还医疗费用，偿还的借贷，受助者因为救助而拥有了独立工作的能力后将自己的工资返还给救助者等各种情况）共计约194257元。\n\n寒涟漪本人支出救助费用共计约1101626元（不包含寒涟漪本人的劳动力成本），其中寒涟漪的社交圈和人脉关系网络向寒涟漪本人进行的借贷款项共计416000元。\n\n共计收到热心人士所提供的房屋，工作岗位，法律援助，医疗援助，物资等各种以非现金形式赞赏，但是最终又实际投入到救助中的各种物质或非物质救助资源，折合市场价大约在30万元（估算价格），其中不包括一笔出于为跨性别女性提供就业岗位为目的的7位数投资。\n\n共计得到工作人员，志愿者，友善律师，友善医师，友善心理咨询师等各个为救助活动付出劳动力的人员的劳动力价值，按市场价估算约85万元（不包含我本人）。\n\n工作成果：\n\n共计为2116人提供各种形式的救助（只计算直接性的救助，不包含间接性的救助），并向其中1738人提供了心理咨询，信息咨询，资源链接和陪聊服务，向其中1563人提供了危机干预和自杀干预服务（其中550人包含线下干预），向其中714人提供了2天以上的住宿和线下帮助，为其中577人提供了工作岗位或收入来源，向其中497人提供了家庭暴力干预和家庭工作，向其中462人提供，带看和帮助介绍了医疗资源服务，其中330人在救助下成功从休学或辍学状态成功回归到了高等教育学历的修读状态或完成了高等教育学历，向其中170人提供了法律相关服务或介绍了相关法律资源，向其中51人提供了非法暴力监禁机构的救援。\n\n截止2025年1月1日，在自杀干预的案例中，包含线下干预的550个干预对象有546人确认存活，4人确认死亡，其中包含1个工作人员。仅线上干预的1013个干预对象，确认死亡的案例共有37人，其中包含2个工作人员和志愿者。\n\n与之相对，根据工作人员和社群经验估算，中国跨性别女性社群在完全未经专业危机干预的情况下，当事人的首次尝试自杀行为发生后，其接下来三年的存活率约为55％，远低于各个研究数据中同等条件下一般人群的存活率，且中国跨性别女性群体整体的存活率也仍然大幅度低于一般人群。\n同时寒涟漪（包括涟漪危机干预小组）共计展开了41次学术合作，包含个人，机构和高校。共计为105位志愿者和工作人员提供了危机干预和心理咨询的督导，撰写了大量社群工作经验相关的文献，统计和手册。\n\n庇护所项目曾在广东，福建，浙江，江苏，上海，湖北，四川，江西，山东，北京，沈阳等地开展，共计租赁房屋34次，向714人提供了2天以上的住宿和线下帮助。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 106,
+          "impression_count": 279345,
+          "like_count": 551,
+          "quote_count": 35,
+          "reply_count": 64,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "五年工作简报：\n\n2020年1月1日至2025年1月1日，寒涟漪（包括涟漪危机干预小组，成立于2023年12月）共计在助人工作中投入了约1907539元。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "is_identity_verified": false,
+        "location": "廣東省",
+        "most_recent_tweet_id": "2104798721531871399",
+        "name": "伊芙🍥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080706334484500480/jz4mL1lO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1629,
+          "following_count": 1439,
+          "like_count": 10127,
+          "listed_count": 2,
+          "media_count": 242,
+          "tweet_count": 2650
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-26T05:44:48.000Z",
+        "description": "本号为多人操作账号｜自杀报警求助、救助合作、提供资源（如工作岗位、住处)，申请成为危机干预志愿者（需要相关专业或经历，若无，可先看《助人技术》等书籍），可直接私信本号，或私信小组telegram账号https://t.co/qgwRSeN56m｜小组telegram频道https://t.co/BKQPZ0tsSi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/lianyiganyu",
+                "end": 122,
+                "expanded_url": "http://t.me/lianyiganyu",
+                "start": 99,
+                "url": "https://t.co/qgwRSeN56m"
+              },
+              {
+                "display_url": "t.me/lianyixiaozu",
+                "end": 158,
+                "expanded_url": "https://t.me/lianyixiaozu",
+                "start": 135,
+                "url": "https://t.co/BKQPZ0tsSi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/12543045359?…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/12543045359?utm_psn=1855828674772881408",
+                "start": 0,
+                "url": "https://t.co/zkUVQf7Yqi"
+              }
+            ]
+          }
+        },
+        "id": "1585145286598483968",
+        "is_identity_verified": true,
+        "location": "武汉",
+        "most_recent_tweet_id": "2098504319335338387",
+        "name": "涟漪危机干预小组",
+        "pinned_tweet_id": "1883892557207470495",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732688890908307456/9XC7jh08_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4294,
+          "following_count": 6,
+          "like_count": 74,
+          "listed_count": 6,
+          "media_count": 38,
+          "tweet_count": 316
+        },
+        "url": "https://t.co/zkUVQf7Yqi",
+        "username": "lianyiganyu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

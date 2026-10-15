@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104231629166190593",
+        "3_2104231639211528192"
+      ]
+    },
+    "author_id": "1668693781791784961",
+    "conversation_id": "2104231649793704419",
+    "created_at": "2026-09-27T15:28:14.000Z",
+    "display_text_range": [
+      0,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T16:16:54.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104228798153490869",
+      "2104231649793704419"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fWSeh3DNcS",
+          "end": 46,
+          "expanded_url": "https://x.com/yifu0753/status/2104231649793704419/photo/1",
+          "media_key": "3_2104231629166190593",
+          "start": 23,
+          "url": "https://t.co/fWSeh3DNcS"
+        },
+        {
+          "display_url": "pic.x.com/fWSeh3DNcS",
+          "end": 46,
+          "expanded_url": "https://x.com/yifu0753/status/2104231649793704419/photo/1",
+          "media_key": "3_2104231639211528192",
+          "start": 23,
+          "url": "https://t.co/fWSeh3DNcS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104231649793704419",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2104231629166190593"
+      },
+      {
+        "media_key": "3_2104231639211528192"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没粮了，求支援。帮助我活下去……\n\n谢谢大家 https://t.co/fWSeh3DNcS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1037,
+        "media_key": "3_2104228779732217856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTO47S4XsAArUe_.jpg",
+        "width": 1037
+      },
+      {
+        "height": 1619,
+        "media_key": "3_2104228789072896000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTO471rXIAA2hLy.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1037,
+        "media_key": "3_2104231629166190593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTO7hJ2XoAELM4u.jpg",
+        "width": 1037
+      },
+      {
+        "height": 1619,
+        "media_key": "3_2104231639211528192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTO7hvRXUAA9zxs.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104228779732217856",
+            "3_2104228789072896000"
+          ]
+        },
+        "author_id": "1668693781791784961",
+        "conversation_id": "2104228798153490869",
+        "created_at": "2026-09-27T15:16:54.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T16:16:54.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104228798153490869",
+          "2104231649793704419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xV6M3wj3C9",
+              "end": 48,
+              "expanded_url": "https://x.com/yifu0753/status/2104228798153490869/photo/1",
+              "media_key": "3_2104228779732217856",
+              "start": 25,
+              "url": "https://t.co/xV6M3wj3C9"
+            },
+            {
+              "display_url": "pic.x.com/xV6M3wj3C9",
+              "end": 48,
+              "expanded_url": "https://x.com/yifu0753/status/2104228798153490869/photo/1",
+              "media_key": "3_2104228789072896000",
+              "start": 25,
+              "url": "https://t.co/xV6M3wj3C9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104228798153490869",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104228779732217856"
+          },
+          {
+            "media_key": "3_2104228789072896000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没粮了，求支援。帮助我活下去……\n\n❤️❤️❤️ https://t.co/xV6M3wj3C9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104231629166190593",
+            "3_2104231639211528192"
+          ]
+        },
+        "author_id": "1668693781791784961",
+        "conversation_id": "2104231649793704419",
+        "created_at": "2026-09-27T15:28:14.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T16:16:54.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104228798153490869",
+          "2104231649793704419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fWSeh3DNcS",
+              "end": 46,
+              "expanded_url": "https://x.com/yifu0753/status/2104231649793704419/photo/1",
+              "media_key": "3_2104231629166190593",
+              "start": 23,
+              "url": "https://t.co/fWSeh3DNcS"
+            },
+            {
+              "display_url": "pic.x.com/fWSeh3DNcS",
+              "end": 46,
+              "expanded_url": "https://x.com/yifu0753/status/2104231649793704419/photo/1",
+              "media_key": "3_2104231639211528192",
+              "start": 23,
+              "url": "https://t.co/fWSeh3DNcS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104231649793704419",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104231629166190593"
+          },
+          {
+            "media_key": "3_2104231639211528192"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没粮了，求支援。帮助我活下去……\n\n谢谢大家 https://t.co/fWSeh3DNcS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "is_identity_verified": false,
+        "location": "廣東省",
+        "most_recent_tweet_id": "2104231649793704419",
+        "name": "伊芙🍥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080706334484500480/jz4mL1lO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1620,
+          "following_count": 1441,
+          "like_count": 10013,
+          "listed_count": 3,
+          "media_count": 241,
+          "tweet_count": 2635
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

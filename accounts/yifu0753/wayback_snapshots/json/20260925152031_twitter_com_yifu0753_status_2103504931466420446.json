@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2091872933153255481",
+    "created_at": "2026-09-25T15:20:31.000Z",
+    "display_text_range": [
+      13,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T16:20:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103504931466420446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1801478230462877697",
+          "start": 0,
+          "username": "gush1361308"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103504931466420446",
+    "in_reply_to_user_id": "1801478230462877697",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091873226691395605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gush1361308 😭😭😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2091872933153255481",
+        "created_at": "2026-09-25T15:20:31.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T16:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103504931466420446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1801478230462877697",
+              "start": 0,
+              "username": "gush1361308"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103504931466420446",
+        "in_reply_to_user_id": "1801478230462877697",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091873226691395605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gush1361308 😭😭😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801478230462877697",
+        "conversation_id": "2091872933153255481",
+        "created_at": "2026-08-24T13:00:17.000Z",
+        "display_text_range": [
+          10,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T14:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091873226691395605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1668693781791784961",
+              "start": 0,
+              "username": "yifu0753"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091873226691395605",
+        "in_reply_to_user_id": "1668693781791784961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091872933153255481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yifu0753 我之前想买，但是没有买，因为我发现上吊比这个好受"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "is_identity_verified": false,
+        "location": "廣東省",
+        "most_recent_tweet_id": "2103504931466420446",
+        "name": "伊芙🍥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080706334484500480/jz4mL1lO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1612,
+          "following_count": 1440,
+          "like_count": 10009,
+          "listed_count": 3,
+          "media_count": 239,
+          "tweet_count": 2628
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-14T04:54:40.000Z",
+        "description": "青蛙/od/智力低下/健忘/改花刀",
+        "id": "1801478230462877697",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097706541097119863",
+        "name": "青蛙大王",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1801478230462877697/1718341482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802724008397250560/zT1WlqE2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 25,
+          "like_count": 736,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 1315
+        },
+        "url": "",
+        "username": "gush1361308",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

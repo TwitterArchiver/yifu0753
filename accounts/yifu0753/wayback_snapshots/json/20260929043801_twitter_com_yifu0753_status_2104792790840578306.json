@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2104781745145221594",
+    "created_at": "2026-09-29T04:38:01.000Z",
+    "display_text_range": [
+      14,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T05:38:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104792790840578306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1300828282061877249",
+          "start": 0,
+          "username": "HANLIANYI331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104792790840578306",
+    "in_reply_to_user_id": "1300828282061877249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104781745145221594",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HANLIANYI331 我也觉得是一场游戏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2104781745145221594",
+        "created_at": "2026-09-29T04:38:01.000Z",
+        "display_text_range": [
+          14,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T05:38:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104792790840578306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104792790840578306",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104781745145221594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 我也觉得是一场游戏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2104781745145221594",
+        "created_at": "2026-09-29T03:54:07.000Z",
+        "display_text_range": [
+          0,
+          121
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T04:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104781745145221594"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104781745145221594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "跨性别者面对“觉得生错性别就重开”这种言论该如何回应？\n\n这种言论显然属于不怀好意的言论\n\n“重开”的本义是游戏中的“重新开始”，延伸意思是把人生当做游戏，死亡后就可以重新开始人生，标准释义就是“自杀”，这个无可争议\n\n“觉得生错性别就自杀”\n\n我可没添油加醋，我只是换了一个意思相同的词语，看来“重开”这种淡化性的词语确实没有“自杀”有冲击力\n\n而且在实际效果上，这句话比“觉得生错性别就自杀”危害更大，因为它在拿未知的期望去故意引诱你走向深渊，效果比引诱别人吸毒还要更加恶劣\n\n目的是引导你去自杀，引诱你放弃，同时对你抱有了深深的恶意\n\n首先，人有没有下辈子，这个问题从唯物主义来讲，人死了就是死了，不存在下辈子，也不存在重开\n\n即使真的有下辈子，这种引诱他人自杀的行为也是极端恶劣的，而且对方在说这句话之前就不会想到你有下辈子，而是喜欢对你幸灾乐祸\n\n人生必定会遇到很多很多的困难，家庭矛盾，学业压力，人际纠纷，感情挫折，而性别焦虑只能算是其中比较严重的一种，这个世界上还有很多双目失明，双耳失聪，肢体残疾的人\n\n次次都重开，弱势者就不应该在这个世界上活着？\n\n如果有人因为这段言论而死亡，并且有足够证据证明这人是因为被这段言论引诱自杀而死亡，甚至可以构成故意杀人罪\n\n下次遇到这种言论，直接把对方往死里骂，不要犹豫"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 633,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "跨性别者面对“觉得生错性别就重开”这种言论该如何回应？\n\n这种言论显然属于不怀好意的言论\n\n“重开”的本义是游戏中的“重新开始”，延伸意思是把人生当做游戏，死亡后就可以重新开始人生，标准释义就是“自杀”，这个无可争议\n\n“觉得生错性别就自杀”"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "is_identity_verified": false,
+        "location": "廣東省",
+        "most_recent_tweet_id": "2104792790840578306",
+        "name": "伊芙🍥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080706334484500480/jz4mL1lO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1629,
+          "following_count": 1439,
+          "like_count": 10110,
+          "listed_count": 2,
+          "media_count": 242,
+          "tweet_count": 2646
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女性｜01年｜艺术学本科毕业、法学在读｜约十年危机干预和救助经历，曾为此散尽了个人的所有青春和财富\n\n我会写下十多年来中国的跨性别女性群体是如何生存的，她们又是如何燃尽自己的生命帮助其他人的。还有我自己的见闻和救助经历，如果想了解，可以查看我的很多早期的历史推文\n\n如果想了解我的详细情况，可以查看我的置顶推文",
+        "id": "1300828282061877249",
+        "is_identity_verified": true,
+        "location": "涟漪危机干预小组",
+        "most_recent_tweet_id": "2104789710459810201",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1300828282061877249/1683794048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42796,
+          "following_count": 4164,
+          "like_count": 2343,
+          "listed_count": 3,
+          "media_count": 415,
+          "tweet_count": 3186
+        },
+        "url": "",
+        "username": "HANLIANYI331",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

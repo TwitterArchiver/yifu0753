@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668693781791784961",
+    "conversation_id": "2077099169412743376",
+    "created_at": "2026-09-29T04:52:47.000Z",
+    "display_text_range": [
+      14,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T05:52:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104796506700296625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1300828282061877249",
+          "start": 0,
+          "username": "HANLIANYI331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104796506700296625",
+    "in_reply_to_user_id": "1300828282061877249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077099169412743376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HANLIANYI331 怎么做到的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2077099169412743376",
+        "created_at": "2026-09-29T04:52:47.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T05:52:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104796506700296625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104796506700296625",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077099169412743376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 怎么做到的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2077099169412743376",
+        "created_at": "2026-07-14T18:33:27.000Z",
+        "display_text_range": [
+          0,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-14T19:29:54.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077098275983982594",
+          "2077098877300379757",
+          "2077099169412743376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20770…",
+              "end": 151,
+              "expanded_url": "https://x.com/i/status/2077017631757091091",
+              "start": 128,
+              "url": "https://t.co/I9Xb5IVS75"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077099169412743376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "x.com/i/status/20770…",
+                "end": 381,
+                "expanded_url": "https://x.com/i/status/2077015888986063038",
+                "start": 358,
+                "url": "https://t.co/sYE4S95j55"
+              },
+              {
+                "display_url": "x.com/i/status/16564…",
+                "end": 405,
+                "expanded_url": "https://x.com/i/status/1656456180913537026",
+                "start": 382,
+                "url": "https://t.co/UNFptKf9F3"
+              },
+              {
+                "display_url": "x.com/i/status/20770…",
+                "end": 429,
+                "expanded_url": "https://x.com/i/status/2077017631757091091",
+                "start": 406,
+                "url": "https://t.co/I9Xb5IVS75"
+              }
+            ]
+          },
+          "text": "只要谈及阻止自杀，总会有人跳出来说“你这样只是延长当事人的痛苦，你要尊重对方自杀的自由”\n\n但是当我真的和这些人讨论“如何减少这些人的痛苦”，真的要他们以牺牲自己的生活质量，牺牲自己的奶茶，化妆品，包包来为那些濒死的苦难者换取权益的时候，却全都故意装死。\n\n为了“减少更多自杀者的痛苦”，十年来我们真金白银的花了近三百万元人民币，给数千个人提供住处，医疗资源，就业岗位，反家暴，反校园霸凌，反诈骗，反扭转……等各种救助\n\n这些声称“要尊重自杀的人自由”的人，好像从来没出过钱，出过力，在有人遇到苦难的时候却从来没见过这些人的踪影。\n\n可能唯独在“未成年跨性别者服用激素类药物”的话题下突然跳出来“未成年人心智还不成熟，要等到成年后才能服用激素类药物”，然后又在阻止自杀的话题下面跳出来说“你要尊重对方自杀的自由”\n\nhttps://t.co/sYE4S95j55\nhttps://t.co/UNFptKf9F3\nhttps://t.co/I9Xb5IVS75"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 22882,
+          "like_count": 108,
+          "quote_count": 3,
+          "reply_count": 8,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077017631757091091",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只要谈及阻止自杀，总会有人跳出来说“你这样只是延长当事人的痛苦，你要尊重对方自杀的自由”\n\n但是当我真的和这些人讨论“如何减少这些人的痛苦”，真的要他们以牺牲自己的生活质量，牺牲自己的奶茶，化妆品，包包来为那些濒死的苦难者换取权益的时候，却全都故意装死。 https://t.co/I9Xb5IVS75"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "is_identity_verified": false,
+        "location": "廣東省",
+        "most_recent_tweet_id": "2104796506700296625",
+        "name": "伊芙🍥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080706334484500480/jz4mL1lO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1629,
+          "following_count": 1439,
+          "like_count": 10122,
+          "listed_count": 2,
+          "media_count": 242,
+          "tweet_count": 2649
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女性｜01年｜艺术学本科毕业、法学在读｜约十年危机干预和救助经历，曾为此散尽了个人的所有青春和财富\n\n我会写下十多年来中国的跨性别女性群体是如何生存的，她们又是如何燃尽自己的生命帮助其他人的。还有我自己的见闻和救助经历，如果想了解，可以查看我的很多早期的历史推文\n\n如果想了解我的详细情况，可以查看我的置顶推文",
+        "id": "1300828282061877249",
+        "is_identity_verified": true,
+        "location": "涟漪危机干预小组",
+        "most_recent_tweet_id": "2104789710459810201",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1300828282061877249/1683794048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42796,
+          "following_count": 4164,
+          "like_count": 2343,
+          "listed_count": 3,
+          "media_count": 415,
+          "tweet_count": 3186
+        },
+        "url": "",
+        "username": "HANLIANYI331",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
